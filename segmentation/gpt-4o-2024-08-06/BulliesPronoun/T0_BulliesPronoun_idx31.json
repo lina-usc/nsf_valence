@@ -1,0 +1,27 @@
+{
+    "id": "chatcmpl-A7SiJ76HMjG2mJniyyAJIDUL1DAc9",
+    "choices": [
+        {
+            "finish_reason": "stop",
+            "index": 0,
+            "logprobs": null,
+            "message": {
+                "content": "1: it had asked (independent clause)  \n2: taking her by surprise (participial clause)",
+                "role": "assistant",
+                "refusal": null
+            }
+        }
+    ],
+    "created": 1726342035,
+    "model": "gpt-4o-2024-08-06",
+    "object": "chat.completion",
+    "system_fingerprint": "fp_8080548e81",
+    "usage": {
+        "completion_tokens": 22,
+        "prompt_tokens": 96,
+        "total_tokens": 118,
+        "completion_tokens_details": {
+            "reasoning_tokens": 0
+        }
+    }
+}

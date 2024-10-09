@@ -1,0 +1,27 @@
+{
+    "id": "chatcmpl-A7ShwR9gI74gPtlVXtm7vZl1082la",
+    "choices": [
+        {
+            "finish_reason": "stop",
+            "index": 0,
+            "logprobs": null,
+            "message": {
+                "content": "1: She only wished (main clause)  \n2: it was as easy to tap her heart (noun clause)  \n3: and erase the trace (coordinating clause)  \n4: the message had left there (relative clause)",
+                "role": "assistant",
+                "refusal": null
+            }
+        }
+    ],
+    "created": 1726342012,
+    "model": "gpt-4o-2024-08-06",
+    "object": "chat.completion",
+    "system_fingerprint": "fp_8e1177b306",
+    "usage": {
+        "completion_tokens": 49,
+        "prompt_tokens": 108,
+        "total_tokens": 157,
+        "completion_tokens_details": {
+            "reasoning_tokens": 0
+        }
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "id": "chatcmpl-A7Sg3xQgQlSOE6GAqYNwMNaIWcpxS",
+    "choices": [
+        {
+            "finish_reason": "stop",
+            "index": 0,
+            "logprobs": null,
+            "message": {
+                "content": "1: There the son hid his mother (independent clause)  \n2: supplying her with everything she needed (participial clause)  \n3: continually watching and fearing (participial clause)  \n4: she would be discovered (dependent clause)",
+                "role": "assistant",
+                "refusal": null
+            }
+        }
+    ],
+    "created": 1726341895,
+    "model": "gpt-4o-2024-08-06",
+    "object": "chat.completion",
+    "system_fingerprint": "fp_8080548e81",
+    "usage": {
+        "completion_tokens": 50,
+        "prompt_tokens": 110,
+        "total_tokens": 160,
+        "completion_tokens_details": {
+            "reasoning_tokens": 0
+        }
+    }
+}

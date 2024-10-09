@@ -1,0 +1,27 @@
+{
+    "id": "chatcmpl-A7SiL9vDviVQZMi87rjubykvRBZLY",
+    "choices": [
+        {
+            "finish_reason": "stop",
+            "index": 0,
+            "logprobs": null,
+            "message": {
+                "content": "1: Now, however, she had no choice but to make her way towards the stage (Independent clause)  \n2: where Jill was beckoning encouragingly to her (Relative clause)",
+                "role": "assistant",
+                "refusal": null
+            }
+        }
+    ],
+    "created": 1726342037,
+    "model": "gpt-4o-2024-08-06",
+    "object": "chat.completion",
+    "system_fingerprint": "fp_143bb8492c",
+    "usage": {
+        "completion_tokens": 38,
+        "prompt_tokens": 113,
+        "total_tokens": 151,
+        "completion_tokens_details": {
+            "reasoning_tokens": 0
+        }
+    }
+}

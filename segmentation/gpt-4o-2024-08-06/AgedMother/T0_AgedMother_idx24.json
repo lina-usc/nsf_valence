@@ -1,0 +1,27 @@
+{
+    "id": "chatcmpl-A7SfycCb8KpNadWXKUTlq2gdPf35X",
+    "choices": [
+        {
+            "finish_reason": "stop",
+            "index": 0,
+            "logprobs": null,
+            "message": {
+                "content": "1: The son\u2019s surprised eyes looked back over the path (main clause)  \n2: then at the poor old, shriveled hands (main clause)  \n3: all scratched and soiled by their work of love (participial clause)",
+                "role": "assistant",
+                "refusal": null
+            }
+        }
+    ],
+    "created": 1726341890,
+    "model": "gpt-4o-2024-08-06",
+    "object": "chat.completion",
+    "system_fingerprint": "fp_143bb8492c",
+    "usage": {
+        "completion_tokens": 51,
+        "prompt_tokens": 119,
+        "total_tokens": 170,
+        "completion_tokens_details": {
+            "reasoning_tokens": 0
+        }
+    }
+}

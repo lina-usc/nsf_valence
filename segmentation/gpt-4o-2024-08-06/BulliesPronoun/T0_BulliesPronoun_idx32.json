@@ -1,0 +1,27 @@
+{
+    "id": "chatcmpl-A7SiJhJxqnsEb1OaE6UFtNvKsg6mO",
+    "choices": [
+        {
+            "finish_reason": "stop",
+            "index": 0,
+            "logprobs": null,
+            "message": {
+                "content": "1: One of the popular girls (appositive)  \n2: she had always known she wasn't (independent)  \n3: but before the messages began (subordinate)  \n4: she had always been quite proud of being a little different (independent)",
+                "role": "assistant",
+                "refusal": null
+            }
+        }
+    ],
+    "created": 1726342035,
+    "model": "gpt-4o-2024-08-06",
+    "object": "chat.completion",
+    "system_fingerprint": "fp_8e1177b306",
+    "usage": {
+        "completion_tokens": 55,
+        "prompt_tokens": 118,
+        "total_tokens": 173,
+        "completion_tokens_details": {
+            "reasoning_tokens": 0
+        }
+    }
+}

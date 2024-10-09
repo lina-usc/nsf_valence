@@ -1,0 +1,27 @@
+{
+    "id": "chatcmpl-A7ShsvgfqYLaxJOhqop4CdnaRMmAA",
+    "choices": [
+        {
+            "finish_reason": "stop",
+            "index": 0,
+            "logprobs": null,
+            "message": {
+                "content": "1: It said that (Independent clause)  \n2: and a whole lot more (Coordinating clause)  \n3: that she was struggling to understand (Relative clause)",
+                "role": "assistant",
+                "refusal": null
+            }
+        }
+    ],
+    "created": 1726342008,
+    "model": "gpt-4o-2024-08-06",
+    "object": "chat.completion",
+    "system_fingerprint": "fp_8e1177b306",
+    "usage": {
+        "completion_tokens": 36,
+        "prompt_tokens": 102,
+        "total_tokens": 138,
+        "completion_tokens_details": {
+            "reasoning_tokens": 0
+        }
+    }
+}

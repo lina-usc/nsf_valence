@@ -1,0 +1,27 @@
+{
+    "id": "chatcmpl-A7SfoHspONUAJnSCn9E6isf7VelJ9",
+    "choices": [
+        {
+            "finish_reason": "stop",
+            "index": 0,
+            "logprobs": null,
+            "message": {
+                "content": "1: On he went (main clause)  \n2: climbing blindly upward (participial clause)  \n3: ever upward towards the high bare summit of what is known as Obatsuyama (participial clause)  \n4: the mountain of the \u201cabandoning of the aged\u201d (appositive clause)  \n\n5: The eyes of the old mother were not so dim (main clause)  \n6: but that they noted the reckless hastening from one path to another (dependent clause)  \n7: and her loving heart grew anxious (main clause)",
+                "role": "assistant",
+                "refusal": null
+            }
+        }
+    ],
+    "created": 1726341880,
+    "model": "gpt-4o-2024-08-06",
+    "object": "chat.completion",
+    "system_fingerprint": "fp_8080548e81",
+    "usage": {
+        "completion_tokens": 115,
+        "prompt_tokens": 155,
+        "total_tokens": 270,
+        "completion_tokens_details": {
+            "reasoning_tokens": 0
+        }
+    }
+}

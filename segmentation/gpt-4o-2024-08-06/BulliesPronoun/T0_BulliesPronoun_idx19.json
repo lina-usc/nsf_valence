@@ -1,0 +1,27 @@
+{
+    "id": "chatcmpl-A7Si79wv7jvpBzFQ1K6S2qNNrdAmP",
+    "choices": [
+        {
+            "finish_reason": "stop",
+            "index": 0,
+            "logprobs": null,
+            "message": {
+                "content": "1: She did not know (Independent clause)  \n2: who it was (Dependent clause - noun clause)  \n3: that was sending her the messages (Dependent clause - relative clause)  \n4: and she did not know (Independent clause)  \n5: how they had got her number (Dependent clause - noun clause)  \n6: but whoever it was (Dependent clause - noun clause)  \n7: he or she had slowly taken over her life (Independent clause)",
+                "role": "assistant",
+                "refusal": null
+            }
+        }
+    ],
+    "created": 1726342023,
+    "model": "gpt-4o-2024-08-06",
+    "object": "chat.completion",
+    "system_fingerprint": "fp_143bb8492c",
+    "usage": {
+        "completion_tokens": 97,
+        "prompt_tokens": 128,
+        "total_tokens": 225,
+        "completion_tokens_details": {
+            "reasoning_tokens": 0
+        }
+    }
+}

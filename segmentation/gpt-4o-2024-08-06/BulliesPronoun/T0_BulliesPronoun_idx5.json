@@ -1,0 +1,27 @@
+{
+    "id": "chatcmpl-A7ShvBiSD7CEIUinN24CUntEzNU6m",
+    "choices": [
+        {
+            "finish_reason": "stop",
+            "index": 0,
+            "logprobs": null,
+            "message": {
+                "content": "1: Lucy tapped the mobile screen to make the message disappear from view. (Independent clause)  \n2: who had started receiving these messages a few weeks ago (Relative clause)",
+                "role": "assistant",
+                "refusal": null
+            }
+        }
+    ],
+    "created": 1726342011,
+    "model": "gpt-4o-2024-08-06",
+    "object": "chat.completion",
+    "system_fingerprint": "fp_2a322c9ffc",
+    "usage": {
+        "completion_tokens": 36,
+        "prompt_tokens": 112,
+        "total_tokens": 148,
+        "completion_tokens_details": {
+            "reasoning_tokens": 0
+        }
+    }
+}

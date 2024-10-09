@@ -1,0 +1,27 @@
+{
+    "id": "chatcmpl-A7SfrbCto3PT9o04I5dSVQJXMz2w3",
+    "choices": [
+        {
+            "finish_reason": "stop",
+            "index": 0,
+            "logprobs": null,
+            "message": {
+                "content": "1: Weary and heart sick (participial)  \n2: the youth gently released his burden (independent)  \n3: and silently prepared a place of comfort (independent)  \n4: as his last duty to the loved one (adverbial)",
+                "role": "assistant",
+                "refusal": null
+            }
+        }
+    ],
+    "created": 1726341883,
+    "model": "gpt-4o-2024-08-06",
+    "object": "chat.completion",
+    "system_fingerprint": "fp_8080548e81",
+    "usage": {
+        "completion_tokens": 54,
+        "prompt_tokens": 115,
+        "total_tokens": 169,
+        "completion_tokens_details": {
+            "reasoning_tokens": 0
+        }
+    }
+}

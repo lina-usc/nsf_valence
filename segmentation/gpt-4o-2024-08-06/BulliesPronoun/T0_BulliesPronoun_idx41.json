@@ -1,0 +1,27 @@
+{
+    "id": "chatcmpl-A7SiSBwHTQAzlzrwSBhFs8QcZmbcm",
+    "choices": [
+        {
+            "finish_reason": "stop",
+            "index": 0,
+            "logprobs": null,
+            "message": {
+                "content": "1: She closed her eyes (independent clause)  \n2: and shut everything out (independent clause)  \n3: including the audience (participial clause)  \n4: the nerves that threatened to take over (relative clause)  \n5: the text messages (appositive clause)  \n6: and the way they made her feel (relative clause)",
+                "role": "assistant",
+                "refusal": null
+            }
+        }
+    ],
+    "created": 1726342044,
+    "model": "gpt-4o-2024-08-06",
+    "object": "chat.completion",
+    "system_fingerprint": "fp_143bb8492c",
+    "usage": {
+        "completion_tokens": 74,
+        "prompt_tokens": 120,
+        "total_tokens": 194,
+        "completion_tokens_details": {
+            "reasoning_tokens": 0
+        }
+    }
+}

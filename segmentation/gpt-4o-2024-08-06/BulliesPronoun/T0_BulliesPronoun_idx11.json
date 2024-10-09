@@ -1,0 +1,27 @@
+{
+    "id": "chatcmpl-A7Si0pSS8SElIYrudCZRDywWqHLDE",
+    "choices": [
+        {
+            "finish_reason": "stop",
+            "index": 0,
+            "logprobs": null,
+            "message": {
+                "content": "1: asked Jill (main clause)  \n2: her older sister (appositive clause)  \n3: who was sitting in the passenger seat (relative clause)",
+                "role": "assistant",
+                "refusal": null
+            }
+        }
+    ],
+    "created": 1726342016,
+    "model": "gpt-4o-2024-08-06",
+    "object": "chat.completion",
+    "system_fingerprint": "fp_8080548e81",
+    "usage": {
+        "completion_tokens": 34,
+        "prompt_tokens": 101,
+        "total_tokens": 135,
+        "completion_tokens_details": {
+            "reasoning_tokens": 0
+        }
+    }
+}

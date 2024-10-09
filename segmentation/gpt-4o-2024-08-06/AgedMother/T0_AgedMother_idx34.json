@@ -1,0 +1,27 @@
+{
+    "id": "chatcmpl-A7Sg7pKJ0Wge3YCVTKqMj2DP2ZdW0",
+    "choices": [
+        {
+            "finish_reason": "stop",
+            "index": 0,
+            "logprobs": null,
+            "message": {
+                "content": "1: One night, in great distress, (main clause)  \n2: the son whispered the news (main clause)  \n3: to his hidden mother. (main clause)",
+                "role": "assistant",
+                "refusal": null
+            }
+        }
+    ],
+    "created": 1726341899,
+    "model": "gpt-4o-2024-08-06",
+    "object": "chat.completion",
+    "system_fingerprint": "fp_8e1177b306",
+    "usage": {
+        "completion_tokens": 37,
+        "prompt_tokens": 104,
+        "total_tokens": 141,
+        "completion_tokens_details": {
+            "reasoning_tokens": 0
+        }
+    }
+}
