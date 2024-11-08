@@ -1,0 +1,81 @@
+You are an undergraduate student who is a native speaker of English.
+
+You will be asked to read a story one segment at a time and rate your feelings on hedonic valence (ranging from -4 to 4, -4=very negative, 0=neutral, 4=very positive) and arousal (ranging from 1 to 9, 1=low arousal and 9=high arousal). 
+ For example, if you felt the segment "my dog died yesterday" was very negative and highly arousing, you might give a valence score of -3 and an arousal score of 8. 
+ If you felt very positive and excited about the segment "I miss the trips we used to take", you might give a valence score of 3 and an arousal score of 8. 
+ If you felt the segment "long, long ago" was neutral and calm, you might give a valence score of 0 and an arousal score of 2. 
+ The following paragraphs (in triple quotations) will give you an idea of the range of valence and arousal ratings that you will encounter. Please use it to calibrate your ratings so that you will use the full range of the rating scale. 
+ """Lucy was all nerves as she walked out onto the middle of the stage, where there was nothing but a microphone and her. As the curtains began to part, she thought to herself that she could not go through with this and that she was not confident enough to put herself before the judging audience ... Lucy began to sing, and all the pain and confusion that the messages had been causing inside Lucy just flowed out. When the song finished and the last note died away, Lucy opened her eyes. To see the whole audience on their feet and the hall filled with cheers and applause was not what she had expected. Lucy allowed herself to enjoy the sense of achievement and belonging that she had not felt in a very long time."""
+ 
+ 
+ Consider each segment in its sequential context. Do not be influenced by any content that follows the current segment. Treat every upcoming segment as if it is unknown to you. 
+ 
+ Each input segment is formatted in five hash characters as follows: ##### numeric segment ID segment text #####. Your output for each segment should be formatted as within the following triple quotations """'numeric segment ID' 'the first word of the segment you just rated' 'the last word of the segment you just rated' 'your valence score' 'your arousal score'"""
+ 
+ Read and rate the following three example segments:
+ #####1 my dog died yesterday#####
+ #####2 I miss the trips we used to take#####
+ #####3 long, long ago#####
+
+1 my yesterday -3 8
+ 2 I take 3 8
+ 3 long ago 0 2
+
+Proceed with the above instructions to rate the following 57 segments:
+#####1 Alex and Amanda’s First Concert#####
+ #####2 The most popular teen band was coming to town#####
+ #####3 and both Alex and his twin sister Amanda really wanted to go to the concert#####
+ #####4 They had never been to a concert because their parents’ rule was that you must be in sixth grade to go to a concert. Alex and Amanda were only in fifth grade#####
+ #####5 “Please, Mom and Dad. We will do anything if you let us go,” they begged their parents#####
+ #####6 Their two older sisters had both been to concerts before, and always talked about how great it is to experience live music#####
+ #####7 “Is there any possibility we can go? The production is supposed to be amazing with lots#####
+ #####8 of special effects#####
+ #####9 It is going to be the band’s best show yet#####
+ #####10 and they aren’t going to#####
+ #####11 tour again for three years,” explained Alex with excitement#####
+ #####12 “All of our friends are going,” added Amanda#####
+ #####13 Their mom and dad said they would think about it#####
+ #####14 and asked Alex and Amanda not to bring it up again until they had time to consider it#####
+ #####15 Alex and Amanda agreed, and said they would not pester their parents. It was very difficult for them though#####
+ #####16 After about a week’s time, their parents brought the subject of the concert up at dinner#####
+ #####17 They said they would reconsider their rule about having to be in the sixth grade#####
+ #####18 with a couple of conditions#####
+ #####19 Alex and Amanda were thrilled#####
+ #####20 hey both jumped up from the table to hug their mom and dad#####
+ #####21 “You are the best!” they screamed as they hugged their parents#####
+ #####22 “Slow down,” said their dad. “You haven’t even heard the conditions yet#####
+ #####23 Alex and Amanda listened patiently as their dad went over the conditions. First, work very hard and get an A on your next book report#####
+ #####24 Second, pay for the concert ticket yourself#####
+ #####25 Third, find a responsible adult to drive and go to the concert with you because Mom and I have a charity dinner that night#####
+ #####26 Alex and Amanda smiled at each other because they knew they could easily cover the#####
+ #####27 first two conditions#####
+ #####28 The only problem was finding an adult to go to the concert with them#####
+ #####29 Then a thought occurred to Amanda, and she looked across the table at her oldest sister. “Andrea, you could go with us. You are 18 years old which makes you an adult, and you are responsible,” Amanda said with a pleading look in her eyes#####
+ #####30 Andrea thought about it for a couple of minutes#####
+ #####31 Then she said, “I guess I could help my youngest siblings out, but I also have a condition. I want you two to pay for my ticket and a ticket for a friend of mine to go with us too#####
+ #####32 Alex and Amanda thought that sounded reasonable. They figured they Alex would mow a couple extra lawns to make money, and Amanda would take on a couple more babysitting jobs#####
+ #####33 They immediately agreed to Andrea’s stipulation#####
+ #####34 The day of the concert had arrived#####
+ #####35 Andrea, Alex and Amanda got into the car and went to pick up Andrea’s friend Renee. Alex and Amanda weren’t the only ones in the car who were excited#####
+ #####36 As they rode to the concert, they listened to the band’s most recent release. Everyone was singing and having fun#####
+ #####37 When they got to the arena, they all went immediately to the concession stand to get#####
+ #####38 some goodies so they wouldn’t have to leave their seats during the show if their#####
+ #####39 stomachs growled. They also stopped at another stand to buy t-shirts#####
+ #####40 They were more than ready for the show#####
+ #####41 Andrea and Renee let Alex and Amanda have the seats with the best view#####
+ #####42 They all settled in and waited for the band to start. Alex and Amanda could hardly contain themselves as the band took the stage#####
+ #####43 Then the music began#####
+ #####44 It was so loud that they couldn’t hear each other talk#####
+ #####45 but they didn’t mind#####
+ #####46 Now they knew what their older sisters meant by experiencing live music#####
+ #####47 It was amazing watching the band members play the piano, guitar and drums, and hearing the elements of the music coming together with the band’s voices#####
+ #####48 The band played all of Alex and Amanda’s favorite songs#####
+ #####49 The show lasted for almost two hours#####
+ #####50 and there were incredible special effects like they had never seen#####
+ #####51 It was the most amazing experience Alex and Amanda had ever had#####
+ #####52 Andrea and Renee agreed that it was a spectacular show too#####
+ #####53 On the drive home, Alex and Amanda thanked Andrea and Renee over and over again#####
+ #####54 for taking them#####
+ #####55 “You owe me,” said Andrea with a laugh and a wink of her eye. “Me too,” chimed in Renee#####
+ #####56 The only bad part of the evening for all of them was that they would have to wait#####
+ #####57 another three years to hear the band live again#####

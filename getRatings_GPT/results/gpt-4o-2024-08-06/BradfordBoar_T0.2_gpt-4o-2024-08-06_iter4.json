@@ -1,0 +1,30 @@
+{
+    "id": "chatcmpl-AOTXH9jBonAYEP8ignVCtyZ7LyVey",
+    "choices": [
+        {
+            "finish_reason": "stop",
+            "index": 0,
+            "logprobs": null,
+            "message": {
+                "content": "\"\"\"1 The Boar 1 3\"\"\"\n\"\"\"2 If mountains 0 3\"\"\"\n\"\"\"3 It Bradford 0 2\"\"\"\n\"\"\"4 where clattered 0 2\"\"\"\n\"\"\"5 spun owners 0 2\"\"\"\n\"\"\"6 That beavers 0 2\"\"\"\n\"\"\"7 and themselves 1 2\"\"\"\n\"\"\"8 for off 1 2\"\"\"\n\"\"\"9 was achievements 0 3\"\"\"\n\"\"\"10 It head -2 4\"\"\"\n\"\"\"11 sitting legend 0 3\"\"\"\n\"\"\"12 There boar -2 4\"\"\"\n\"\"\"13 which Bradford -1 3\"\"\"\n\"\"\"14 A was -2 4\"\"\"\n\"\"\"15 bringing flocks -3 5\"\"\"\n\"\"\"16 and around -3 5\"\"\"\n\"\"\"17 Even water -2 4\"\"\"\n\"\"\"18 so well -2 4\"\"\"\n\"\"\"19 That ferocity -2 4\"\"\"\n\"\"\"20 was region -1 3\"\"\"\n\"\"\"21 Eventually Manor 1 3\"\"\"\n\"\"\"22 who help 1 3\"\"\"\n\"\"\"23 The faced 1 3\"\"\"\n\"\"\"24 and problem 1 3\"\"\"\n\"\"\"25 He boar 1 4\"\"\"\n\"\"\"26 and fame 2 4\"\"\"\n\"\"\"27 It proclamation 2 4\"\"\"\n\"\"\"28 but boar -1 4\"\"\"\n\"\"\"29 By tempted 1 3\"\"\"\n\"\"\"30 but tusks -2 4\"\"\"\n\"\"\"31 and thunder -2 4\"\"\"\n\"\"\"32 soon ambitions -1 3\"\"\"\n\"\"\"33 However huntsman 1 3\"\"\"\n\"\"\"34 who ears 0 3\"\"\"\n\"\"\"35 who shot 1 4\"\"\"\n\"\"\"36 in reputation 0 3\"\"\"\n\"\"\"37 The time 1 4\"\"\"\n\"\"\"38 Around out -1 4\"\"\"\n\"\"\"39 as snail 0 3\"\"\"\n\"\"\"40 from predicted 1 3\"\"\"\n\"\"\"41 The place 1 4\"\"\"\n\"\"\"42 and boar 2 5\"\"\"\n\"\"\"43 Now boar 1 4\"\"\"\n\"\"\"44 It back 0 3\"\"\"\n\"\"\"45 The House -1 3\"\"\"\n\"\"\"46 but ever 1 3\"\"\"\n\"\"\"47 asked boar 1 3\"\"\"\n\"\"\"48 The Lord 1 4\"\"\"\n\"\"\"49 He minutes 1 3\"\"\"\n\"\"\"50 when first 0 3\"\"\"\n\"\"\"51 but scene 0 3\"\"\"\n\"\"\"52 Seeing boar 1 3\"\"\"\n\"\"\"53 the fortune 1 3\"\"\"\n\"\"\"54 The pond 1 3\"\"\"\n\"\"\"55 and woods 1 3\"\"\"\n\"\"\"56 towards him 1 3\"\"\"\n\"\"\"57 The line 1 3\"\"\"\n\"\"\"58 'The ended 2 4\"\"\"\n\"\"\"59 'With boar 2 4\"\"\"\n\"\"\"60 And head 2 4\"\"\"\n\"\"\"61 'Then promised 1 3\"\"\"\n\"\"\"62 'But Manor 1 3\"\"\"\n\"\"\"63 To huntsman -1 3\"\"\"\n\"\"\"64 Right missing -2 4\"\"\"\n\"\"\"65 and tongue -2 4\"\"\"\n\"\"\"66 He dubiously -1 3\"\"\"\n\"\"\"67 'How tongue -2 4\"\"\"\n\"\"\"68 All huntsman 0 3\"\"\"\n\"\"\"69 The Lord -1 3\"\"\"\n\"\"\"70 He him -1 3\"\"\"\n\"\"\"71 Through burst 1 4\"\"\"\n\"\"\"72 'The ended 2 4\"\"\"\n\"\"\"73 'I dreaded 2 4\"\"\"\n\"\"\"74 All doorway 1 3\"\"\"\n\"\"\"75 'The Manor -1 3\"\"\"\n\"\"\"76 'The head -1 3\"\"\"\n\"\"\"77 'Then replied 1 3\"\"\"\n\"\"\"78 And pouch 1 3\"\"\"\n\"\"\"79 and wood 1 3\"\"\"\n\"\"\"80 and victory 1 3\"\"\"\n\"\"\"81 Listening truth 0 3\"\"\"\n\"\"\"82 and decision 0 3\"\"\"\n\"\"\"83 Almost lies -1 3\"\"\"\n\"\"\"84 and Bradford 1 3\"\"\"\n\"\"\"85 The prize -1 3\"\"\"\n\"\"\"86 and victor 1 3\"\"\"\n\"\"\"87 The interactions -1 3\"\"\"\n\"\"\"88 The reward 2 4\"\"\"\n\"\"\"89 a Hunt 2 4\"\"\"\n\"\"\"90 His assured 2 4\"\"\"\n\"\"\"91 but Boar 1 3\"\"\"",
+                "role": "assistant",
+                "refusal": null
+            }
+        }
+    ],
+    "created": 1730396771,
+    "model": "gpt-4o-2024-08-06",
+    "object": "chat.completion",
+    "system_fingerprint": "fp_159d8341cc",
+    "usage": {
+        "completion_tokens": 848,
+        "prompt_tokens": 2205,
+        "total_tokens": 3053,
+        "prompt_tokens_details": {
+            "cached_tokens": 2048
+        },
+        "completion_tokens_details": {
+            "reasoning_tokens": 0
+        }
+    }
+}

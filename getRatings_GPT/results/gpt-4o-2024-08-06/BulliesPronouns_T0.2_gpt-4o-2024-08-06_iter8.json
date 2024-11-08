@@ -1,0 +1,30 @@
+{
+    "id": "chatcmpl-AOTbH1hfkd08dPbCyB7sRxThxt8cs",
+    "choices": [
+        {
+            "finish_reason": "stop",
+            "index": 0,
+            "logprobs": null,
+            "message": {
+                "content": "\"\"\"1 Bullies Bullies -3 5\"\"\"\n\"\"\"2 The failure -4 6\"\"\"\n\"\"\"3 It ugly -4 6\"\"\"\n\"\"\"4 had style -3 5\"\"\"\n\"\"\"5 and her -4 6\"\"\"\n\"\"\"6 At her -3 4\"\"\"\n\"\"\"7 It understand -3 5\"\"\"\n\"\"\"8 The tonight -3 5\"\"\"\n\"\"\"9 because already -3 4\"\"\"\n\"\"\"10 Lucy disappear -3 4\"\"\"\n\"\"\"11 She heart -3 4\"\"\"\n\"\"\"12 and there -3 4\"\"\"\n\"\"\"13 'Was car -2 3\"\"\"\n\"\"\"14 She was -2 3\"\"\"\n\"\"\"15 'Haven't yet?' -2 3\"\"\"\n\"\"\"16 'Yes,' replied -1 2\"\"\"\n\"\"\"17 lying teeth -2 3\"\"\"\n\"\"\"18 That her -2 3\"\"\"\n\"\"\"19 and daughter -1 3\"\"\"\n\"\"\"20 Her ago -2 3\"\"\"\n\"\"\"21 She loud -2 3\"\"\"\n\"\"\"22 as Lucy.' -2 3\"\"\"\n\"\"\"23 'No, it,' -1 3\"\"\"\n\"\"\"24 knowing mother -1 3\"\"\"\n\"\"\"25 It though -3 4\"\"\"\n\"\"\"26 She messages -3 4\"\"\"\n\"\"\"27 and number -3 4\"\"\"\n\"\"\"28 but life -3 5\"\"\"\n\"\"\"29 She now -3 5\"\"\"\n\"\"\"30 all hurtful -4 6\"\"\"\n\"\"\"31 She messages -3 5\"\"\"\n\"\"\"32 As evening -2 3\"\"\"\n\"\"\"33 she spine -2 4\"\"\"\n\"\"\"34 Hastened school -2 4\"\"\"\n\"\"\"35 It seriously -1 3\"\"\"\n\"\"\"36 She them -1 3\"\"\"\n\"\"\"37 As excitement -1 3\"\"\"\n\"\"\"38 while show -2 3\"\"\"\n\"\"\"39 To shame -1 3\"\"\"\n\"\"\"40 for voice,' -1 3\"\"\"\n\"\"\"41 her announced -1 3\"\"\"\n\"\"\"42 She sing -1 3\"\"\"\n\"\"\"43 That through -3 4\"\"\"\n\"\"\"44 'How surprise -3 5\"\"\"\n\"\"\"45 One wasn't -2 3\"\"\"\n\"\"\"46 but different -2 3\"\"\"\n\"\"\"47 But deflated -3 5\"\"\"\n\"\"\"48 and show -2 3\"\"\"\n\"\"\"49 Now, choice -2 3\"\"\"\n\"\"\"50 but stage -2 3\"\"\"\n\"\"\"51 where her -1 3\"\"\"\n\"\"\"52 She performer -1 3\"\"\"\n\"\"\"53 Announced stage -2 4\"\"\"\n\"\"\"54 where her -1 3\"\"\"\n\"\"\"55 She applaud -1 3\"\"\"\n\"\"\"56 and curtain -1 3\"\"\"\n\"\"\"57 As wings -2 4\"\"\"\n\"\"\"58 who up -1 3\"\"\"\n\"\"\"59 She this -2 4\"\"\"\n\"\"\"60 and enough -2 4\"\"\"\n\"\"\"61 to audience -2 4\"\"\"\n\"\"\"62 The run -3 5\"\"\"\n\"\"\"63 when her -1 3\"\"\"\n\"\"\"64 She audience -1 3\"\"\"\n\"\"\"65 the feel -2 4\"\"\"\n\"\"\"66 It music -1 3\"\"\"\n\"\"\"67 and life -1 3\"\"\"\n\"\"\"68 She sing -1 3\"\"\"\n\"\"\"69 and out -2 4\"\"\"\n\"\"\"70 The onto -1 3\"\"\"\n\"\"\"71 She song -1 3\"\"\"\n\"\"\"72 with away -1 3\"\"\"\n\"\"\"73 When eyes -1 3\"\"\"\n\"\"\"74 To feet 3 6\"\"\"\n\"\"\"75 and expected 3 6\"\"\"\n\"\"\"76 She time 3 5\"\"\"\n\"\"\"77 Then crowd 3 5\"\"\"\n\"\"\"78 and wings 3 5\"\"\"\n\"\"\"79 She was 3 5\"\"\"\n\"\"\"80 The belonged 3 5\"\"\"",
+                "role": "assistant",
+                "refusal": null
+            }
+        }
+    ],
+    "created": 1730397019,
+    "model": "gpt-4o-2024-08-06",
+    "object": "chat.completion",
+    "system_fingerprint": "fp_159d8341cc",
+    "usage": {
+        "completion_tokens": 740,
+        "prompt_tokens": 2015,
+        "total_tokens": 2755,
+        "prompt_tokens_details": {
+            "cached_tokens": 1792
+        },
+        "completion_tokens_details": {
+            "reasoning_tokens": 0
+        }
+    }
+}

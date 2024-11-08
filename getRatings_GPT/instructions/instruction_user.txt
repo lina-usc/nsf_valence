@@ -1,0 +1,16 @@
+You will be asked to read a story one segment at a time and rate your feelings on hedonic valence (ranging from -4 to 4, -4=very negative, 0=neutral, 4=very positive) and arousal (ranging from 1 to 9, 1=low arousal and 9=high arousal). 
+For example, if you felt the segment "my dog died yesterday" was very negative and highly arousing, you might give a valence score of -3 and an arousal score of 8. 
+If you felt very positive and excited about the segment "I miss the trips we used to take", you might give a valence score of 3 and an arousal score of 8. 
+If you felt the segment "long, long ago" was neutral and calm, you might give a valence score of 0 and an arousal score of 2. 
+The following paragraphs (in triple quotations) will give you an idea of the range of valence and arousal ratings that you will encounter. Please use it to calibrate your ratings so that you will use the full range of the rating scale. 
+"""Lucy was all nerves as she walked out onto the middle of the stage, where there was nothing but a microphone and her. As the curtains began to part, she thought to herself that she could not go through with this and that she was not confident enough to put herself before the judging audience ... Lucy began to sing, and all the pain and confusion that the messages had been causing inside Lucy just flowed out. When the song finished and the last note died away, Lucy opened her eyes. To see the whole audience on their feet and the hall filled with cheers and applause was not what she had expected. Lucy allowed herself to enjoy the sense of achievement and belonging that she had not felt in a very long time."""
+
+
+Consider each segment in its sequential context. Do not be influenced by any content that follows the current segment. Treat every upcoming segment as if it is unknown to you. 
+
+Each input segment is formatted in five hash characters as follows: ##### numeric segment ID segment text #####. Your output for each segment should be formatted as within the following triple quotations """'numeric segment ID' 'the first word of the segment you just rated' 'the last word of the segment you just rated' 'your valence score' 'your arousal score'"""
+
+Read and rate the following three example segments:
+#####1 my dog died yesterday#####
+#####2 I miss the trips we used to take#####
+#####3 long, long ago#####

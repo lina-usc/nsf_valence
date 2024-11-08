@@ -1,0 +1,113 @@
+You are an undergraduate student who is a native speaker of English.
+
+You will be asked to read a story one segment at a time and rate your feelings on hedonic valence (ranging from -4 to 4, -4=very negative, 0=neutral, 4=very positive) and arousal (ranging from 1 to 9, 1=low arousal and 9=high arousal). 
+ For example, if you felt the segment "my dog died yesterday" was very negative and highly arousing, you might give a valence score of -3 and an arousal score of 8. 
+ If you felt very positive and excited about the segment "I miss the trips we used to take", you might give a valence score of 3 and an arousal score of 8. 
+ If you felt the segment "long, long ago" was neutral and calm, you might give a valence score of 0 and an arousal score of 2. 
+ The following paragraphs (in triple quotations) will give you an idea of the range of valence and arousal ratings that you will encounter. Please use it to calibrate your ratings so that you will use the full range of the rating scale. 
+ """Lucy was all nerves as she walked out onto the middle of the stage, where there was nothing but a microphone and her. As the curtains began to part, she thought to herself that she could not go through with this and that she was not confident enough to put herself before the judging audience ... Lucy began to sing, and all the pain and confusion that the messages had been causing inside Lucy just flowed out. When the song finished and the last note died away, Lucy opened her eyes. To see the whole audience on their feet and the hall filled with cheers and applause was not what she had expected. Lucy allowed herself to enjoy the sense of achievement and belonging that she had not felt in a very long time."""
+ 
+ 
+ Consider each segment in its sequential context. Do not be influenced by any content that follows the current segment. Treat every upcoming segment as if it is unknown to you. 
+ 
+ Each input segment is formatted in five hash characters as follows: ##### numeric segment ID segment text #####. Your output for each segment should be formatted as within the following triple quotations """'numeric segment ID' 'the first word of the segment you just rated' 'the last word of the segment you just rated' 'your valence score' 'your arousal score'"""
+ 
+ Read and rate the following three example segments:
+ #####1 my dog died yesterday#####
+ #####2 I miss the trips we used to take#####
+ #####3 long, long ago#####
+
+1 my yesterday -3 8
+ 2 I take 3 8
+ 3 long ago 0 2
+
+Proceed with the above instructions to rate the following 89 segments:
+#####1 I wrote the book on user-friendly design. What I see today horrifies me#####
+ #####2 More people than ever are living long, healthy lives#####
+ #####3 According to the U.S. Department of Health and Human Services, the average life expectancy is 78.6 years for men and 81.1 for women#####
+ #####4 More relevant, however, is that as people grow older, their total life expectancy increases#####
+ #####5 So for those who are now 65, the average life expectancy is 83 for men and over 85 for women#####
+ #####6 And because I’m 83, I’m expected to live past 90#####
+ #####7 (but I’m aiming a lot higher than that)#####
+ #####8 And these are averages, which means that perhaps half of us will live even longer#####
+ #####9 Those of us who are still active and healthy at advanced ages–I qualify–#####
+ #####10 discover that we aren’t quite as capable as our younger selves#####
+ #####11 That doesn’t mean that we aren’t healthy and workable–#####
+ #####12 I still have a very active job and travel on business around the world#####
+ #####13 but I have to admit that I’m getting slower and weaker#####
+ #####14 with diminished eyesight, hearing, taste, touch, and, well, almost everything physical#####
+ #####15 The number of active, healthy oldsters is large–and increasing#####
+ #####16 We are not a niche market#####
+ #####17 And businesses should take note: We are good customers#####
+ #####18 often with more free time and discretionary income than younger people#####
+ #####19 Despite our increasing numbers#####
+ #####20 the world seems to be designed against the elderly#####
+ #####21 Everyday household goods require knives and pliers to open#####
+ #####22 Containers with screw tops require more strength than my wife or I can muster#####
+ #####23 (We solve this by using a plumber’s wrench to turn the caps.)#####
+ #####24 Companies insist on printing critical instructions in tiny fonts with very low contrast#####
+ #####25 Labels cannot be read without flashlights and magnifying lenses#####
+ #####26 And when companies do design things specifically for the elderly#####
+ #####27 they tend to be ugly devices that shout out to the world “I’m old and can’t function#####
+ #####28 We can do better#####
+ #####29 What older consumers want and need#####
+ #####30 As we age, we have more experience with life#####
+ #####31 which can make us better decision-makers and managers#####
+ #####32 Crystalized intelligence, it is called#####
+ #####33 and it gets better with experience#####
+ #####34 A caveat is that we often face physical changes that designers fail to account for into their work#####
+ #####35 Vision deteriorates#####
+ #####36 The lens of our eyes harden, making focusing more difficult#####
+ #####37 I used to be able to read tiny text by holding it close to my eyes#####
+ #####38 but my inability to focus at close distances defeats that activity#####
+ #####39 Floaters and debris start accumulating inside the eye#####
+ #####40 which scatters the light on its way to the retina#####
+ #####41 reducing contrast and making it more difficult to see small, low-contrast objects#####
+ #####42 For the increasing number of people who have cataract surgery#####
+ #####43 the eye’s lenses have been replaced with plastic, which usually have a fixed focus#####
+ #####44 (Artificial lenses that can be focused are under development.)#####
+ #####45 A flashlight has become an essential item, whether the one built into many phones or carried separately#####
+ #####46 because illumination makes tiny type easier to read#####
+ #####47 although even then, a magnifying glass might be useful#####
+ #####48 Hearing decreases#####
+ #####49 High frequencies are first to go#####
+ #####50 which also tends to impair directional sensitivity#####
+ #####51 which in turn makes it more difficult to attend to someone in a crowded, noisy environment#####
+ #####52 Loud restaurants are torture#####
+ #####53 So, more and more, my wife and I select restaurants by their noise level rather than by their food quality#####
+ #####54 At home while watching TV, whether shows, streaming events, or movies#####
+ #####55 we always turn on the captions, which often block critical parts of the image#####
+ #####56 Even worse, when a film shows someone speaking in a foreign language#####
+ #####57 the film often translates the words#####
+ #####58 but so too does the closed captioning, and the two are placed on top of one another#####
+ #####59 making both attempts to help the viewer completely unhelpful#####
+ #####60 Bad design abounds#####
+ #####61 The problems I face are much milder than those faced by millions of aging people#####
+ #####62 With so many of us needing better devices#####
+ #####63 why are so many things still designed in ways that defeat our ability to function#####
+ #####64 Take the screen design for Apple’s phones#####
+ #####65 The designers at Apple apparently believe that text is ugly#####
+ #####66 so it should either be eliminated entirely or made as invisible as possible#####
+ #####67 Bruce Tognazzini and I, both former employees of Apple, wrote a long article on Apple’s usability sins#####
+ #####68 which has been read by hundreds of thousands of people#####
+ #####69 Once Apple products could be used without ever reading a manual#####
+ #####70 Today, Apple’s products violate all the fundamental rules of design for understanding and usability#####
+ #####71 many of which Tognazzini and I had helped develop#####
+ #####72 As a result, even a manual is not enough: all the arbitrary gestures that control tablets, phones, and computers have to be memorized#####
+ #####73 Everything has to be memorized#####
+ #####74 These thoughtless, inappropriate designs are not limited to Apple#####
+ #####75 New technologies tend to rely on display screens, often with tiny lettering#####
+ #####76 with touch-sensitive areas that are exceedingly difficult to hit as eye-hand coordination declines#####
+ #####77 Physical controls are by far the easiest to control–safer too, especially in safety-critical tasks such as driving a car#####
+ #####78 but they are disappearing#####
+ #####79 Why? To save a few cents in manufacturing and in a misplaced desire to be trendy#####
+ #####80 Speech can be a useful substitute for physical controls#####
+ #####81 though not as helpful as proponents claim#####
+ #####82 Then there’s the aesthetic problem#####
+ #####83 When products are developed for the elderly, they tend to be ugly and an unwanted signal of fragility#####
+ #####84 As a result, people who need walkers or canes often resist#####
+ #####85 Once upon a time, a cane was stylish:#####
+ #####86 Today it is seen as a medical device#####
+ #####87 Why can’t we have walkers and canes for everyday use, to help us in everyday life#####
+ #####88 to carry our packages, provide a way to sit when we are tired, or viewing some event, and yes, to maintain our balance#####
+ #####89 Make them items of pride, stylish enough that everyone will want one#####

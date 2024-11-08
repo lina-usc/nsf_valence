@@ -1,0 +1,120 @@
+segment,reason,story,idx
+"and sure, those shortcuts add up.",conjunction; >maximal segment,BiggestWastes,0
+"But when I look back,",relative clause,BiggestWastes,1
+my biggest time regrets aren't spending too much time on Twitter or mismanaging my daily tasks.,>maximal segment,BiggestWastes,2
+"Those are bad habits,",-,BiggestWastes,3
+"but there are bigger, more systematic time wasters",conjunction,BiggestWastes,4
+that have really gotten in the way.,relative clause; >maximal segment,BiggestWastes,5
+Fixing these will free up a massive amount of time and energy.,>maximal segment,BiggestWastes,6
+Not Asking for Help,>maximal segment,BiggestWastes,7
+"My first week on my first job out of university,",positioning element,BiggestWastes,8
+my boss handed me a huge spreadsheet.,>maximal segment,BiggestWastes,9
+He told me,-,BiggestWastes,10
+to organize it in a way that made zero sense to me.,infinitival clause; >maximal segment,BiggestWastes,11
+"Being a quiet, timid person,",nonrestrictive clause,BiggestWastes,12
+"I simply nodded, walked back to my desk and stared at that spreadsheet for like an hour,",-,BiggestWastes,13
+hoping to make some sense of it.,nonfinite clause; >maximal segment,BiggestWastes,14
+"Finally, my coworker came in,",[and I confessed I had no idea what to do].; conjunction; >maximal segment,BiggestWastes,15
+"He broke it down for me,",-,BiggestWastes,16
+then dropped some advice that's stuck with me ever since:,conjunction; >maximal segment,BiggestWastes,17
+"""You might feel dumb asking questions,",-,BiggestWastes,18
+but you look dumber when you don't get it,conjunction,BiggestWastes,19
+"because you failed to ask.""",conjunction; >maximal segment,BiggestWastes,20
+"It was harsh, but true.",>maximal segment,BiggestWastes,21
+"And not only did I look like an arse,",-,BiggestWastes,22
+I could've also saved a fair amount of time that day by simply,conjunction [but…],BiggestWastes,23
+asking my boss what he meant.,nonfinite clause; >maximal segment,BiggestWastes,24
+It made me wonder how much time I had wasted by,-,BiggestWastes,25
+not asking for help over the years.,nonfinite clause; >maximal segment,BiggestWastes,26
+"As dumb as you might feel asking questions,",nonrestrictive clause,BiggestWastes,27
+it's the fastest way to get an answer.,>maximal segment,BiggestWastes,28
+"Similarly, asking for help is a great way to, well, get help.",>maximal segment,BiggestWastes,29
+This is why networking and finding a mentor are hugely valuable.,>maximal segment,BiggestWastes,30
+"If you feel stuck in your career or need to learn new skills and have no idea how to get started,",-,BiggestWastes,31
+talking to other people in your field will go a long way.,nonfinite clause; >maximal segment,BiggestWastes,32
+"Even if it's just shooting someone a short email,",nonrestrictive clause,BiggestWastes,33
+asking for help is like a shortcut for your career.,nonfinite clause; >maximal segment,BiggestWastes,34
+Here's another way to look at it:,>maximal segment,BiggestWastes,35
+"if you're not asking for help,",nonrestrictive clause,BiggestWastes,36
+you're probably not challenging yourself enough.,"conjunction (if, then…); >maximal segment",BiggestWastes,37
+"If you have all the answers,",-,BiggestWastes,38
+"you're not learning new skills, trying new things or moving forward and out of your comfort zone.","conjunction (if, then…); >maximal segment",BiggestWastes,39
+"There are a handful of reasons we don't ask for help,",-,BiggestWastes,40
+"but it's usually because we're too proud or scared,",conjunction,BiggestWastes,41
+"and that's a huge waste of time,",conjunction,BiggestWastes,42
+because it keeps you from moving forward.,conjunction; >maximal segment,BiggestWastes,43
+Trying to Make Bad Relationships Work,>maximal segment,BiggestWastes,44
+"Relationships require maintenance,",-,BiggestWastes,45
+but there's a difference between,conjunction,BiggestWastes,46
+maintaining a good relationship and trying to force a bad one,nonfinite clause,BiggestWastes,47
+that doesn't make much sense to begin with.,relative clause; >maximal segment,BiggestWastes,48
+"There's a lot of emotion in romance and friendships,",-,BiggestWastes,49
+so sometimes it's hard to tell,conjunction,BiggestWastes,50
+when you should keep trying or you should just call it quits.,conjunction; >maximal segment,BiggestWastes,51
+"Like a lot of people,",nonrestrictive clause,BiggestWastes,52
+I made some common bad decisions,-,BiggestWastes,53
+that wasted both my time and the time of the person I was with.,relative clause; >maximal segment,BiggestWastes,54
+"For example,",nonrestrictive clause,BiggestWastes,55
+(1) Thinking I have more in common with the person I’m dating than I actually do.,>maximal segment,BiggestWastes,56
+(2) Being in a relationship just to avoid loneliness.,>maximal segment,BiggestWastes,57
+(3) Staying in a relationship only out of fear of losing the person.,>maximal segment,BiggestWastes,58
+"There are good reasons for wanting to make a relationship work,",-,BiggestWastes,59
+but those aren't good ones.,conjunction; >maximal segment,BiggestWastes,60
+"They cloud your judgment, prolong your unhappiness and distract you from things that matter to you most.",>maximal segment,BiggestWastes,61
+"At the same time,",nonrestrictive clause,BiggestWastes,62
+"it's hard to say all bad relationships are a total waste of time,",-,BiggestWastes,63
+because you learn a lot about yourself from them.,conjunction; >maximal segment,BiggestWastes,64
+"That's a valid silver lining,",-,BiggestWastes,65
+"but still, the sooner you learn those lessons, the better.",conjunction; >maximal segment,BiggestWastes,66
+"Similarly, not dealing with the emotional impact of a breakup is also a big waste of time.",>maximal segment,BiggestWastes,67
+"When a relationship ends,",relative clause,BiggestWastes,68
+we usually go through the typical stages of grief associated with loss.,>maximal segment,BiggestWastes,69
+It's easy to get comfortable with denial and convince ourselves,-,BiggestWastes,70
+we don't really care and we're fine.,complementizer (that…); >maximal segment,BiggestWastes,71
+"In reality,",nonrestrictive clause,BiggestWastes,72
+ignoring the pain only prolongs it.,>maximal segment,BiggestWastes,73
+Our work suffers;,>maximal segment,BiggestWastes,74
+the rest of our relationships suffer.,>maximal segment,BiggestWastes,75
+Dwelling on Your Mistakes and Shortcomings,>maximal segment,BiggestWastes,76
+Learning from your mistakes is one thing.,>maximal segment,BiggestWastes,77
+"Dwelling on them wastes your time, diminishes your confidence, and keeps you from",-,BiggestWastes,78
+getting on with your life.,nonfinite clause; >maximal segment,BiggestWastes,79
+Dwelling also makes you more apt to repeat your mistakes.,>maximal segment,BiggestWastes,80
+"In a recent study published in the Journal of Consumer Psychology,",nonrestrictive clause,BiggestWastes,81
+researchers asked subjects,-,BiggestWastes,82
+to spend money during an imaginary trip to the mall.,infinitival clause; >maximal segment,BiggestWastes,83
+"Before ""shopping"",",positioning element,BiggestWastes,84
+some subjects were asked,-,BiggestWastes,85
+to recall a past financial mistake.,infinitival clause; >maximal segment,BiggestWastes,86
+They found,-,BiggestWastes,87
+those subjects were more likely,complementizer (that…),BiggestWastes,88
+to incur debt.,infinitival clause; >maximal segment,BiggestWastes,89
+A press release for the study concluded:,-,BiggestWastes,90
+"Perhaps the most surprising, Haws said, is",complementizer (that…),BiggestWastes,91
+"that searching through the past can negatively affect behavior,",complementizer,BiggestWastes,92
+"depending on the ease of recall,",nonrestrictive clause,BiggestWastes,93
+even when past examples are positive...,>maximal segment,BiggestWastes,94
+"Instead of dwelling on the past,",nonrestrictive clause,BiggestWastes,95
+"Haws said, her research into behavior suggests",-,BiggestWastes,96
+that setting goals for the future can positively change present behavior...,complementizer; >maximal segment,BiggestWastes,97
+"In short,",nonrestrictive clause,BiggestWastes,98
+"if we want to have better self-control,",-,BiggestWastes,99
+"""Look forward,"" Haws says.","conjunction (if, then…); >maximal segment",BiggestWastes,100
+"""Don't look back.""",>maximal segment,BiggestWastes,101
+"When you think about your own experiences,",relative clause,BiggestWastes,102
+it probably makes sense.,>maximal segment,BiggestWastes,103
+Dwelling makes you feel like a failure.,>maximal segment,BiggestWastes,104
+"When I feel like a failure,",relative clause,BiggestWastes,105
+it's easy to tell myself,-,BiggestWastes,106
+"there's no point in trying,",complementizer (that….),BiggestWastes,107
+because I already suck.,conjunction; >maximal segment,BiggestWastes,108
+"(Hence, getting further into debt",-,BiggestWastes,109
+when you already feel like an overspender.),relative clause; >maximal segment,BiggestWastes,110
+"Of course,",nonrestrictive clause,BiggestWastes,111
+you don't want,-,BiggestWastes,112
+to skip over your mistakes and ignore them either.,infinitival clause; >maximal segment,BiggestWastes,113
+The goal is,-,BiggestWastes,114
+"to glean something from them,",infinitival clause,BiggestWastes,115
+then release the failure.,conjunction; >maximal segment,BiggestWastes,116
+"In order to let the past go,",conjunction,BiggestWastes,117
+you must forgive yourself officially.,>maximal segment,BiggestWastes,118

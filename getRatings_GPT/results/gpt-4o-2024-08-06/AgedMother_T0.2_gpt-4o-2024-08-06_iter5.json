@@ -1,0 +1,30 @@
+{
+    "id": "chatcmpl-AOTJ7m0CiWR0ufllVRMbQeYk8TTGu",
+    "choices": [
+        {
+            "finish_reason": "stop",
+            "index": 0,
+            "logprobs": null,
+            "message": {
+                "content": "\"\"\"1 The Mother 0 2\"\"\"\n\"\"\"2 Long mother 1 3\"\"\"\n\"\"\"3 They food 1 2\"\"\"\n\"\"\"4 and happy 2 2\"\"\"\n\"\"\"5 Shining leader -2 3\"\"\"\n\"\"\"6 who warrior -1 2\"\"\"\n\"\"\"7 had strength -2 3\"\"\"\n\"\"\"8 This proclamation -3 4\"\"\"\n\"\"\"9 The people -4 5\"\"\"\n\"\"\"10 Those days -3 3\"\"\"\n\"\"\"11 and uncommon -3 3\"\"\"\n\"\"\"12 The reverence 2 3\"\"\"\n\"\"\"13 and sorrow -3 4\"\"\"\n\"\"\"14 But governor -2 3\"\"\"\n\"\"\"15 so death -3 4\"\"\"\n\"\"\"16 Just poor -2 3\"\"\"\n\"\"\"17 and neck 0 2\"\"\"\n\"\"\"18 along water 0 2\"\"\"\n\"\"\"19 Then back -1 3\"\"\"\n\"\"\"20 and mountain -2 4\"\"\"\n\"\"\"21 The steep -2 3\"\"\"\n\"\"\"22 the woodcutters -1 3\"\"\"\n\"\"\"23 In confused -2 3\"\"\"\n\"\"\"24 but heed -1 2\"\"\"\n\"\"\"25 One not -1 2\"\"\"\n\"\"\"26 On \u2013 -1 3\"\"\"\n\"\"\"27 ever Obatsuyama -2 3\"\"\"\n\"\"\"28 the aged -3 4\"\"\"\n\"\"\"29 The dim 0 2\"\"\"\n\"\"\"30 but another -1 2\"\"\"\n\"\"\"31 and anxious -2 3\"\"\"\n\"\"\"32 Her paths -1 2\"\"\"\n\"\"\"33 and danger -2 3\"\"\"\n\"\"\"34 so passed 0 2\"\"\"\n\"\"\"35 she way 0 2\"\"\"\n\"\"\"36 so twigs 0 2\"\"\"\n\"\"\"37 At reached -1 3\"\"\"\n\"\"\"38 Weary burden -2 3\"\"\"\n\"\"\"39 and comfort -2 3\"\"\"\n\"\"\"40 as one -2 3\"\"\"\n\"\"\"41 Gathering cushion -1 2\"\"\"\n\"\"\"42 and it -1 2\"\"\"\n\"\"\"43 He shoulders -1 2\"\"\"\n\"\"\"44 and eyes -2 3\"\"\"\n\"\"\"45 and farewell -3 4\"\"\"\n\"\"\"46 The injunction -2 3\"\"\"\n\"\"\"47 \u201cLet son.\u201d -1 3\"\"\"\n\"\"\"48 \u201cThe dangers -2 3\"\"\"\n\"\"\"49 LOOK twigs -1 3\"\"\"\n\"\"\"50 They down -1 2\"\"\"\n\"\"\"51 The path -1 3\"\"\"\n\"\"\"52 then hands -2 3\"\"\"\n\"\"\"53 all love -2 3\"\"\"\n\"\"\"54 His within -3 4\"\"\"\n\"\"\"55 and aloud: -3 4\"\"\"\n\"\"\"56 \u201coh, heart -3 5\"\"\"\n\"\"\"57 I you -2 4\"\"\"\n\"\"\"58 Together twigs -2 4\"\"\"\n\"\"\"59 and die -3 4\"\"\"\n\"\"\"60 Once burden -1 3\"\"\"\n\"\"\"61 (how now) -1 2\"\"\"\n\"\"\"62 and path -1 3\"\"\"\n\"\"\"63 through moonlight -1 3\"\"\"\n\"\"\"64 to valley -1 2\"\"\"\n\"\"\"65 Beneath food 0 2\"\"\"\n\"\"\"66 which view 0 2\"\"\"\n\"\"\"67 There mother 0 2\"\"\"\n\"\"\"68 supplying needed 1 2\"\"\"\n\"\"\"69 continually discovered -2 3\"\"\"\n\"\"\"70 Time safe 1 2\"\"\"\n\"\"\"71 when heralds -2 3\"\"\"\n\"\"\"72 bearing order -2 3\"\"\"\n\"\"\"73 seemingly power -2 3\"\"\"\n\"\"\"74 His ashes -3 4\"\"\"\n\"\"\"75 The dread -3 4\"\"\"\n\"\"\"76 The obeyed -2 3\"\"\"\n\"\"\"77 yet ashes -3 4\"\"\"\n\"\"\"78 One distress -2 3\"\"\"\n\"\"\"79 the mother -1 3\"\"\"\n\"\"\"80 \u201cWait! think -1 3\"\"\"\n\"\"\"81 On do -1 3\"\"\"\n\"\"\"82 \u201cThen night -1 3\"\"\"\n\"\"\"83 He said 1 3\"\"\"\n\"\"\"84 there ashes 2 3\"\"\"\n\"\"\"85 The youth 2 3\"\"\"\n\"\"\"86 and greatly 2 2\"\"\"\n\"\"\"87 but wisdom -1 3\"\"\"\n\"\"\"88 \u201cAlas! told -2 3\"\"\"\n\"\"\"89 \u201cthe bows -1 3\"\"\"\n\"\"\"90 and story -1 3\"\"\"\n\"\"\"91 The silence -1 3\"\"\"\n\"\"\"92 Finally head 0 2\"\"\"\n\"\"\"93 \u201cShining youth 1 3\"\"\"\n\"\"\"94 he gravely 0 2\"\"\"\n\"\"\"95 \u201cAh, saying 1 3\"\"\"\n\"\"\"96 \u201cwith wisdom 1 3\"\"\"\n\"\"\"97 That abolished 2 3\"\"\"\n\"\"\"98 and remain 1 2\"\"\"",
+                "role": "assistant",
+                "refusal": null
+            }
+        }
+    ],
+    "created": 1730395893,
+    "model": "gpt-4o-2024-08-06",
+    "object": "chat.completion",
+    "system_fingerprint": "fp_159d8341cc",
+    "usage": {
+        "completion_tokens": 918,
+        "prompt_tokens": 2012,
+        "total_tokens": 2930,
+        "prompt_tokens_details": {
+            "cached_tokens": 1792
+        },
+        "completion_tokens_details": {
+            "reasoning_tokens": 0
+        }
+    }
+}

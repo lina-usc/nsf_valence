@@ -1,0 +1,115 @@
+You are an undergraduate student who is a native speaker of English.
+
+You will be asked to read a story one segment at a time and rate your feelings on hedonic valence (ranging from -4 to 4, -4=very negative, 0=neutral, 4=very positive) and arousal (ranging from 1 to 9, 1=low arousal and 9=high arousal). 
+ For example, if you felt the segment "my dog died yesterday" was very negative and highly arousing, you might give a valence score of -3 and an arousal score of 8. 
+ If you felt very positive and excited about the segment "I miss the trips we used to take", you might give a valence score of 3 and an arousal score of 8. 
+ If you felt the segment "long, long ago" was neutral and calm, you might give a valence score of 0 and an arousal score of 2. 
+ The following paragraphs (in triple quotations) will give you an idea of the range of valence and arousal ratings that you will encounter. Please use it to calibrate your ratings so that you will use the full range of the rating scale. 
+ """Lucy was all nerves as she walked out onto the middle of the stage, where there was nothing but a microphone and her. As the curtains began to part, she thought to herself that she could not go through with this and that she was not confident enough to put herself before the judging audience ... Lucy began to sing, and all the pain and confusion that the messages had been causing inside Lucy just flowed out. When the song finished and the last note died away, Lucy opened her eyes. To see the whole audience on their feet and the hall filled with cheers and applause was not what she had expected. Lucy allowed herself to enjoy the sense of achievement and belonging that she had not felt in a very long time."""
+ 
+ 
+ Consider each segment in its sequential context. Do not be influenced by any content that follows the current segment. Treat every upcoming segment as if it is unknown to you. 
+ 
+ Each input segment is formatted in five hash characters as follows: ##### numeric segment ID segment text #####. Your output for each segment should be formatted as within the following triple quotations """'numeric segment ID' 'the first word of the segment you just rated' 'the last word of the segment you just rated' 'your valence score' 'your arousal score'"""
+ 
+ Read and rate the following three example segments:
+ #####1 my dog died yesterday#####
+ #####2 I miss the trips we used to take#####
+ #####3 long, long ago#####
+
+1 my yesterday -3 8
+ 2 I take 3 8
+ 3 long ago 0 2
+
+Proceed with the above instructions to rate the following 91 segments:
+#####1 The Legend of the Bradford Boar#####
+ #####2 If you were to journey to the North of England, you would come to a valley that is surrounded by moors as high as mountains#####
+ #####3 It is in this valley where you would find the city of Bradford#####
+ #####4 where once a thousand spinning jennies that hummed and clattered#####
+ #####5 spun wool into money for the long-bearded mill owners#####
+ #####6 That all mill owners were generally busy as beavers#####
+ #####7 and quite pleased with themselves#####
+ #####8 for being so successful and well off#####
+ #####9 was known to the residents of Bradford, and if you were to go into the city to visit the stately City Hall, you would see there the Crest of the City of Bradford, which those same mill owners created to celebrate their achievements#####
+ #####10 It shows a sinister looking boar's head#####
+ #####11 sitting on top of a well which seems puzzling at first, but the reason for this symbol is a matter of legend#####
+ #####12 There was once, legend has it, a fearsome boar#####
+ #####13 which lived in a wood located just outside the manor of Bradford#####
+ #####14 A source of great trouble to the local folk the boar was#####
+ #####15 bringing terror to the peaceful flocks#####
+ #####16 and ravaging the countryside around#####
+ #####17 Even worse, however, the boar most liked to go to the well that was in the woods and drink its fresh water#####
+ #####18 so that the people of Bradford had second thoughts about visiting the well#####
+ #####19 That the people of Bradford bore the brunt of the beast's ferocity#####
+ #####20 was unfair in the eyes of the people of the region#####
+ #####21 Eventually, the issue reached the ears of the kindly Lord of the Manor#####
+ #####22 who the people had often asked for help#####
+ #####23 The Lord saw the severity of the problem the people faced#####
+ #####24 and suggested a contest could solve the problem#####
+ #####25 He said that whoever could kill the boar#####
+ #####26 and bring as proof its head to the Manor House would be rewarded with land and fame#####
+ #####27 It was the people of Bradford and the people who knew them who rejoiced at this proclamation#####
+ #####28 but one question remained: who would kill the boar#####
+ #####29 By the handsome reward many felt tempted#####
+ #####30 but the thought of the boar with its deadly tusks#####
+ #####31 and face like thunder#####
+ #####32 soon put an end to their ambitions#####
+ #####33 However, there was one huntsman#####
+ #####34 who was still wet behind the ears#####
+ #####35 who decided the prize was worth a shot#####
+ #####36 in spite of the boar's reputation#####
+ #####37 The huntsman discovered the boar preferred to come out in the middle of the day. So he went to the wood by the well with his good bow, to bide his time#####
+ #####38 Around noontime, the boar, feared by the locals, came out#####
+ #####39 as slow as a snail#####
+ #####40 from among the trees, just as the huntsman had predicted#####
+ #####41 The huntsman leaped from his hiding place#####
+ #####42 and through the heart with his fine arrows shot the boar#####
+ #####43 Now the problem was no longer to kill the boar#####
+ #####44 It was to find a way to carry the boar back#####
+ #####45 The head was too heavy for the little huntsman to carry back to the Manor House#####
+ #####46 but the huntsman, who was as quick-witted and cunning as ever#####
+ #####47 asked himself, 'What else can I do to prove I killed the boar?'#####
+ #####48 The next instance he opened the boar's mouth and cut out its tongue, taking that as proof for the Lord#####
+ #####49 He set out for the Manor House as quickly as he could and he had only been gone a few minutes#####
+ #####50 when a second huntsman, not so bold as the first#####
+ #####51 but a little more cunning, came on the scene#####
+ #####52 Seeing the slain carcass of the boar#####
+ #####53 the huntsman rejoiced in his good fortune#####
+ #####54 The second huntsman knew a shortcut to the Manor House was just around the nearby pond#####
+ #####55 and, being a bigger man than the first, was able to pick up the boar's head and carry it through the woods#####
+ #####56 towards the prize that awaited him#####
+ #####57 The Lord of the Manor was seated in his hall when the second huntsman burst through the door and began to spin a line#####
+ #####58 'The woes of Bradford are ended!' he announced#####
+ #####59 'With my own hand I have slain the boar!'#####
+ #####60 And, with that, at the feet of his lord he dropped the boar's enormous head#####
+ #####61 'Then you will be rewarded, as I promised.'#####
+ #####62 'But first, let me examine the head of this monster,' said the Lord of the Manor#####
+ #####63 To not examine the head in advance had not been very clever on the part of the huntsman#####
+ #####64 Right away, the Lord noticed the tongue of the boar was missing#####
+ #####65 and exclaimed, 'What is this? A boar with no tongue?'#####
+ #####66 He looked at the huntsman, dubiously#####
+ #####67 'How come this creature has no tongue?' he demanded#####
+ #####68 All eyes were on the huntsman#####
+ #####69 The huntsman questioned by the Lord replied, 'I cannot say, my Lord.'#####
+ #####70 He was suddenly realizing his tricky situation could end badly for him#####
+ #####71 Through the door at this moment, the first huntsman burst#####
+ #####72 'The woes of Bradford are ended!' he cried#####
+ #####73 'I have slain the boar the people of Bradford dreaded!'#####
+ #####74 All eyes turned to the man who now stood in the doorway#####
+ #####75 'The reward is already given,' said the Lord of the Manor#####
+ #####76 'The man here has brought to me the boar's head.'#####
+ #####77 'Then where is its tongue?' the first huntsman replied#####
+ #####78 And, so saying, he drew out the boar's tongue he had put in his hunting pouch#####
+ #####79 and related how he had ambushed the creature in the wood#####
+ #####80 and cut out its tongue as proof of his victory#####
+ #####81 Listening to the tale, the Lord of the Manor tried to discern which huntsman was telling him the truth#####
+ #####82 and what the two huntsmen were thinking as they waited for him to make a decision#####
+ #####83 Almost instantly, the Lord saw that the second huntsman had fed him a pack of lies#####
+ #####84 and it was the first huntsman who was the true savior of Bradford#####
+ #####85 The Lord believed the second huntsman had tried to steal the first huntsman's prize#####
+ #####86 and so proclaimed the first huntsman the true victor#####
+ #####87 The Lord wondered for a moment why he always encountered so much chicanery in his everyday interactions#####
+ #####88 The huntsman who had earned his prize fair and square received as his reward#####
+ #####89 a piece of land just outside the town, known thereafter as Hunt Yard#####
+ #####90 His fame was indeed assured#####
+ #####91 but it was not nearly as lasting as that of the fearsome Bradford Boar#####

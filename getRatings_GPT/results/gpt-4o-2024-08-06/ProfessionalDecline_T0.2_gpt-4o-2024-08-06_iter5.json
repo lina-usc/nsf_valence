@@ -1,0 +1,30 @@
+{
+    "id": "chatcmpl-AOUApE758ut5QCeUz0IogsQ8riMJe",
+    "choices": [
+        {
+            "finish_reason": "stop",
+            "index": 0,
+            "logprobs": null,
+            "message": {
+                "content": "\"\"\"1 Your Think -1 4\"\"\"\n\"\"\"2 Here\u2019s it 1 3\"\"\"\n\"\"\"3 It\u2019s anymore -1 3\"\"\"\n\"\"\"4 These D.C -1 3\"\"\"\n\"\"\"5 The quiet 0 2\"\"\"\n\"\"\"6 A dead -3 5\"\"\"\n\"\"\"7 Again that -2 4\"\"\"\n\"\"\"8 I it 0 3\"\"\"\n\"\"\"9 I fascination -1 4\"\"\"\n\"\"\"10 forming talked 0 3\"\"\"\n\"\"\"11 I obscurity -1 3\"\"\"\n\"\"\"12 someone dreams -1 3\"\"\"\n\"\"\"13 perhaps attained -1 3\"\"\"\n\"\"\"14 the pursued -1 3\"\"\"\n\"\"\"15 the started -1 3\"\"\"\n\"\"\"16 At man -2 4\"\"\"\n\"\"\"17 I shocked -2 5\"\"\"\n\"\"\"18 I world-famous -1 4\"\"\"\n\"\"\"19 Then ago 1 4\"\"\"\n\"\"\"20 As veneration 1 4\"\"\"\n\"\"\"21 Standing boy 2 4\"\"\"\n\"\"\"22 The glories 2 4\"\"\"\n\"\"\"23 For mind -1 4\"\"\"\n\"\"\"24 It 51st 0 3\"\"\"\n\"\"\"25 but well 1 3\"\"\"\n\"\"\"26 I Institute 1 3\"\"\"\n\"\"\"27 I books 1 3\"\"\"\n\"\"\"28 People speeches 1 3\"\"\"\n\"\"\"29 My Times 1 3\"\"\"\n\"\"\"30 But going -1 4\"\"\"\n\"\"\"31 I maniac -1 4\"\"\"\n\"\"\"32 But stop -1 4\"\"\"\n\"\"\"33 And then -2 4\"\"\"\n\"\"\"34 Would dead -3 5\"\"\"\n\"\"\"35 Was misery -2 4\"\"\"\n\"\"\"36 and happiness 1 3\"\"\"\n\"\"\"37 when stops -1 4\"\"\"\n\"\"\"38 Though project 0 3\"\"\"\n\"\"\"39 It appendix -1 3\"\"\"\n\"\"\"40 But ahead 0 3\"\"\"\n\"\"\"41 and dread -1 4\"\"\"\n\"\"\"42 into progress 1 3\"\"\"\n\"\"\"43 Here\u2019s found 1 3\"\"\"\n\"\"\"44 The decades 1 3\"\"\"\n\"\"\"45 and life 1 3\"\"\"\n\"\"\"46 In 50, 1 3\"\"\"\n\"\"\"47 then 50s 0 3\"\"\"\n\"\"\"48 Nothing course 0 3\"\"\"\n\"\"\"49 But life -1 3\"\"\"\n\"\"\"50 notwithstanding fortunes 0 3\"\"\"\n\"\"\"51 So data 0 3\"\"\"\n\"\"\"52 The mixed 0 3\"\"\"\n\"\"\"53 Almost so 1 3\"\"\"\n\"\"\"54 That however 0 3\"\"\"\n\"\"\"55 After happiness 0 3\"\"\"\n\"\"\"56 others death 0 3\"\"\"\n\"\"\"57 Others\u2014men plummet -2 4\"\"\"\n\"\"\"58 Indeed, 75 -2 4\"\"\"\n\"\"\"59 This plane -2 4\"\"\"\n\"\"\"60 A unhappiness -1 3\"\"\"\n\"\"\"61 It irrelevance -2 4\"\"\"\n\"\"\"62 In adults 0 3\"\"\"\n\"\"\"63 Their study -1 3\"\"\"\n\"\"\"64 and study -2 4\"\"\"\n\"\"\"65 One irrelevance -1 3\"\"\"\n\"\"\"66 after happiness 1 3\"\"\"\n\"\"\"67 If well 0 3\"\"\"\n\"\"\"68 Maybe not -1 3\"\"\"\n\"\"\"69 Though on -1 3\"\"\"\n\"\"\"70 In Development 0 3\"\"\"\n\"\"\"71 that gifted -1 3\"\"\"\n\"\"\"72 The eighty -2 4\"\"\"",
+                "role": "assistant",
+                "refusal": null
+            }
+        }
+    ],
+    "created": 1730399223,
+    "model": "gpt-4o-2024-08-06",
+    "object": "chat.completion",
+    "system_fingerprint": "fp_159d8341cc",
+    "usage": {
+        "completion_tokens": 671,
+        "prompt_tokens": 1997,
+        "total_tokens": 2668,
+        "prompt_tokens_details": {
+            "cached_tokens": 1792
+        },
+        "completion_tokens_details": {
+            "reasoning_tokens": 0
+        }
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "id": "chatcmpl-AOUNyl0is2YdFb7yNQYUUE5OdY18O",
+    "choices": [
+        {
+            "finish_reason": "stop",
+            "index": 0,
+            "logprobs": null,
+            "message": {
+                "content": "\"\"\"1 I me -3 6\"\"\"\n\"\"\"2 More lives 3 4\"\"\"\n\"\"\"3 According women 1 3\"\"\"\n\"\"\"4 More increases 1 3\"\"\"\n\"\"\"5 So women 1 3\"\"\"\n\"\"\"6 And 90 1 3\"\"\"\n\"\"\"7 (but that) 2 2\"\"\"\n\"\"\"8 And longer 2 3\"\"\"\n\"\"\"9 Those qualify\u2013 1 3\"\"\"\n\"\"\"10 discover selves -1 3\"\"\"\n\"\"\"11 That healthy -1 2\"\"\"\n\"\"\"12 I world 2 3\"\"\"\n\"\"\"13 but weaker -2 3\"\"\"\n\"\"\"14 with physical -2 3\"\"\"\n\"\"\"15 The increasing 2 3\"\"\"\n\"\"\"16 We market 1 3\"\"\"\n\"\"\"17 And customers 2 3\"\"\"\n\"\"\"18 often people 2 3\"\"\"\n\"\"\"19 Despite numbers -1 3\"\"\"\n\"\"\"20 the elderly -2 4\"\"\"\n\"\"\"21 Everyday open -2 4\"\"\"\n\"\"\"22 Containers muster -2 4\"\"\"\n\"\"\"23 (We caps.) 0 2\"\"\"\n\"\"\"24 Companies contrast -2 4\"\"\"\n\"\"\"25 Labels lenses -2 4\"\"\"\n\"\"\"26 And elderly -2 4\"\"\"\n\"\"\"27 they function -3 4\"\"\"\n\"\"\"28 We better 1 3\"\"\"\n\"\"\"29 What need 1 3\"\"\"\n\"\"\"30 As life 2 3\"\"\"\n\"\"\"31 which managers 2 3\"\"\"\n\"\"\"32 Crystalized intelligence, 2 3\"\"\"\n\"\"\"33 and experience 2 3\"\"\"\n\"\"\"34 A work -1 3\"\"\"\n\"\"\"35 Vision deteriorates -2 3\"\"\"\n\"\"\"36 The difficult -2 3\"\"\"\n\"\"\"37 I eyes -1 3\"\"\"\n\"\"\"38 but activity -2 3\"\"\"\n\"\"\"39 Floaters eye -2 3\"\"\"\n\"\"\"40 which retina -2 3\"\"\"\n\"\"\"41 reducing objects -2 3\"\"\"\n\"\"\"42 For surgery -1 3\"\"\"\n\"\"\"43 the focus -1 3\"\"\"\n\"\"\"44 (Artificial development.) 1 2\"\"\"\n\"\"\"45 A separately 1 3\"\"\"\n\"\"\"46 because read 1 3\"\"\"\n\"\"\"47 although useful 1 3\"\"\"\n\"\"\"48 Hearing decreases -2 3\"\"\"\n\"\"\"49 High go -2 3\"\"\"\n\"\"\"50 which sensitivity -2 3\"\"\"\n\"\"\"51 which environment -2 3\"\"\"\n\"\"\"52 Loud torture -3 4\"\"\"\n\"\"\"53 So level -1 3\"\"\"\n\"\"\"54 At TV -1 3\"\"\"\n\"\"\"55 we image -1 3\"\"\"\n\"\"\"56 Even language -1 3\"\"\"\n\"\"\"57 the words -1 3\"\"\"\n\"\"\"58 but another -2 3\"\"\"\n\"\"\"59 making unhelpful -3 4\"\"\"\n\"\"\"60 Bad abounds -3 4\"\"\"\n\"\"\"61 The people -2 3\"\"\"\n\"\"\"62 With devices -1 3\"\"\"\n\"\"\"63 why function -3 4\"\"\"\n\"\"\"64 Take phones -1 3\"\"\"\n\"\"\"65 The ugly -2 3\"\"\"\n\"\"\"66 so possible -2 3\"\"\"\n\"\"\"67 Bruce sins -1 3\"\"\"\n\"\"\"68 which people 1 3\"\"\"\n\"\"\"69 Once manual 1 3\"\"\"\n\"\"\"70 Today usability -2 3\"\"\"\n\"\"\"71 many develop -1 3\"\"\"\n\"\"\"72 As memorized -2 3\"\"\"\n\"\"\"73 Everything memorized -2 3\"\"\"\n\"\"\"74 These Apple -2 3\"\"\"\n\"\"\"75 New lettering -2 3\"\"\"\n\"\"\"76 with declines -2 3\"\"\"\n\"\"\"77 Physical car 1 3\"\"\"\n\"\"\"78 but disappearing -2 3\"\"\"\n\"\"\"79 Why? trendy -2 3\"\"\"\n\"\"\"80 Speech controls 1 3\"\"\"\n\"\"\"81 though claim -1 3\"\"\"\n\"\"\"82 Then problem -1 3\"\"\"\n\"\"\"83 When fragility -2 3\"\"\"\n\"\"\"84 As resist -2 3\"\"\"\n\"\"\"85 Once stylish: 1 3\"\"\"\n\"\"\"86 Today device -1 3\"\"\"\n\"\"\"87 Why life 1 3\"\"\"\n\"\"\"88 to balance 1 3\"\"\"\n\"\"\"89 Make one 2 3\"\"\"",
+                "role": "assistant",
+                "refusal": null
+            }
+        }
+    ],
+    "created": 1730400038,
+    "model": "gpt-4o-2024-08-06",
+    "object": "chat.completion",
+    "system_fingerprint": "fp_159d8341cc",
+    "usage": {
+        "completion_tokens": 821,
+        "prompt_tokens": 2076,
+        "total_tokens": 2897,
+        "prompt_tokens_details": {
+            "cached_tokens": 1920
+        },
+        "completion_tokens_details": {
+            "reasoning_tokens": 0
+        }
+    }
+}

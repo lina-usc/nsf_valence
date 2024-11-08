@@ -1,0 +1,30 @@
+{
+    "id": "chatcmpl-AOU3rovjw1MSx6RZ32DzKPdlgl6Ef",
+    "choices": [
+        {
+            "finish_reason": "stop",
+            "index": 0,
+            "logprobs": null,
+            "message": {
+                "content": "\"\"\"1 Koko Koko 0 2\"\"\"\n\"\"\"2 Did singing 1 3\"\"\"\n\"\"\"3 And Language 1 3\"\"\"\n\"\"\"4 Meet Patterson 2 3\"\"\"\n\"\"\"5 Patterson old 1 2\"\"\"\n\"\"\"6 Koko Patterson 2 3\"\"\"\n\"\"\"7 Koko Foundation 1 2\"\"\"\n\"\"\"8 Patterson since 2 3\"\"\"\n\"\"\"9 Dr. language 1 2\"\"\"\n\"\"\"10 She words 1 2\"\"\"\n\"\"\"11 and words 1 2\"\"\"\n\"\"\"12 For language 2 3\"\"\"\n\"\"\"13 Not Patterson -1 3\"\"\"\n\"\"\"14 Some doing -1 3\"\"\"\n\"\"\"15 Skeptics tricks -2 4\"\"\"\n\"\"\"16 For apple -1 3\"\"\"\n\"\"\"17 They means -1 3\"\"\"\n\"\"\"18 She apple -1 3\"\"\"\n\"\"\"19 The ape 1 3\"\"\"\n\"\"\"20 Sign pet-owner 1 3\"\"\"\n\"\"\"21 In Christmas 1 3\"\"\"\n\"\"\"22 They cat 0 2\"\"\"\n\"\"\"23 Koko unhappy -2 3\"\"\"\n\"\"\"24 She it -1 2\"\"\"\n\"\"\"25 and sad -2 3\"\"\"\n\"\"\"26 So liter 1 3\"\"\"\n\"\"\"27 Koko Ball 2 3\"\"\"\n\"\"\"28 Dr. gorilla 2 3\"\"\"\n\"\"\"29 Sadly car -3 4\"\"\"\n\"\"\"30 Patterson her -3 4\"\"\"\n\"\"\"31 It relationship 1 2\"\"\"\n\"\"\"32 but it -1 2\"\"\"\n\"\"\"33 Some ape -1 3\"\"\"\n\"\"\"34 They feelings -1 3\"\"\"\n\"\"\"35 When again -1 3\"\"\"\n\"\"\"36 She circumstances -1 3\"\"\"\n\"\"\"37 Nonetheless today 0 2\"\"\"\n\"\"\"38 As Maui 1 3\"\"\"\n\"\"\"39 but land -1 3\"\"\"\n\"\"\"40 So Patterson 0 2\"\"\"\n\"\"\"41 Koko that 1 2\"\"\"\n\"\"\"42 If \"likes 1 3\"\"\"\n\"\"\"43 Some language -1 3\"\"\"\n\"\"\"44 but networking 1 3\"\"\"",
+                "role": "assistant",
+                "refusal": null
+            }
+        }
+    ],
+    "created": 1730398791,
+    "model": "gpt-4o-2024-08-06",
+    "object": "chat.completion",
+    "system_fingerprint": "fp_159d8341cc",
+    "usage": {
+        "completion_tokens": 410,
+        "prompt_tokens": 1508,
+        "total_tokens": 1918,
+        "prompt_tokens_details": {
+            "cached_tokens": 1280
+        },
+        "completion_tokens_details": {
+            "reasoning_tokens": 0
+        }
+    }
+}

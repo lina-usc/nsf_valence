@@ -1,0 +1,30 @@
+{
+    "id": "chatcmpl-AOUIQ7iyW8TZOjxQdbepscePkXr40",
+    "choices": [
+        {
+            "finish_reason": "stop",
+            "index": 0,
+            "logprobs": null,
+            "message": {
+                "content": "\"\"\"1 The Tiger -1 3\"\"\"\n\"\"\"2 In Room 0 2\"\"\"\n\"\"\"3 This day 1 3\"\"\"\n\"\"\"4 and people 0 2\"\"\"\n\"\"\"5 which about 0 2\"\"\"\n\"\"\"6 Around Oz 0 2\"\"\"\n\"\"\"7 such people 1 3\"\"\"\n\"\"\"8 Little feet 1 3\"\"\"\n\"\"\"9 and Lion 1 3\"\"\"\n\"\"\"10 These guardians 1 3\"\"\"\n\"\"\"11 but Princess 1 3\"\"\"\n\"\"\"12 there Room 0 2\"\"\"\n\"\"\"13 or solemn 0 2\"\"\"\n\"\"\"14 and over 0 2\"\"\"\n\"\"\"15 and homes 0 2\"\"\"\n\"\"\"16 Of throne; 0 3\"\"\"\n\"\"\"17 but naughty 1 3\"\"\"\n\"\"\"18 So useful 0 2\"\"\"\n\"\"\"19 No themselves 0 2\"\"\"\n\"\"\"20 One friend: 0 3\"\"\"\n\"\"\"21 \"I'm job -1 3\"\"\"\n\"\"\"22 No us -1 3\"\"\"\n\"\"\"23 and us -1 3\"\"\"\n\"\"\"24 \"That softly -1 3\"\"\"\n\"\"\"25 \"We protection -1 3\"\"\"\n\"\"\"26 And time -1 3\"\"\"\n\"\"\"27 \"You back 0 3\"\"\"\n\"\"\"28 \"Enough, for,\" -1 3\"\"\"\n\"\"\"29 \"What babies -2 4\"\"\"\n\"\"\"30 I babies -2 4\"\"\"\n\"\"\"31 Then, me -2 4\"\"\"\n\"\"\"32 and important -1 3\"\"\"\n\"\"\"33 \"True,\" Lion -1 3\"\"\"\n\"\"\"34 \"It scene -1 3\"\"\"\n\"\"\"35 if baby -2 4\"\"\"\n\"\"\"36 As crowbars -1 3\"\"\"\n\"\"\"37 My seconds -1 3\"\"\"\n\"\"\"38 I him -1 3\"\"\"\n\"\"\"39 There City -1 3\"\"\"\n\"\"\"40 People knees -1 3\"\"\"\n\"\"\"41 and mercy -1 3\"\"\"\n\"\"\"42 That, important -1 3\"\"\"\n\"\"\"43 \"After next?\" -1 3\"\"\"\n\"\"\"44 \"Then earth -1 3\"\"\"\n\"\"\"45 And myself -1 3\"\"\"\n\"\"\"46 before done -1 3\"\"\"\n\"\"\"47 \"I Tiger -1 3\"\"\"\n\"\"\"48 \"You cowardly -1 3\"\"\"\n\"\"\"49 \"To Lion -1 3\"\"\"\n\"\"\"50 That peaceable -1 3\"\"\"\n\"\"\"51 But sigh -1 3\"\"\"\n\"\"\"52 and row -1 3\"\"\"\n\"\"\"53 and am -1 3\"\"\"\n\"\"\"54 The paw 0 3\"\"\"\n\"\"\"55 Then old -1 3\"\"\"\n\"\"\"56 and die -2 4\"\"\"\n\"\"\"57 Suppose Oz -1 3\"\"\"\n\"\"\"58 and power -1 3\"\"\"\n\"\"\"59 What usual -1 3\"\"\"\n\"\"\"60 and jiffy -2 4\"\"\"\n\"\"\"61 And pieces -2 4\"\"\"\n\"\"\"62 Then gates -1 3\"\"\"\n\"\"\"63 and country -1 3\"\"\"\n\"\"\"64 and us -1 3\"\"\"\n\"\"\"65 \"All Lion -1 3\"\"\"\n\"\"\"66 yawning teeth -1 3\"\"\"\n\"\"\"67 The body -1 3\"\"\"\n\"\"\"68 \"Seen said -1 3\"\"\"\n\"\"\"69 The two -1 3\"\"\"\n\"\"\"70 for horse -1 3\"\"\"\n\"\"\"71 Out one -1 3\"\"\"\n\"\"\"72 They grounds 0 2\"\"\"\n\"\"\"73 past flowers 0 2\"\"\"\n\"\"\"74 and one 0 2\"\"\"\n\"\"\"75 Then street 0 2\"\"\"\n\"\"\"76 and one 0 2\"\"\"\n\"\"\"77 \"I Tiger -1 3\"\"\"\n\"\"\"78 as side -1 3\"\"\"\n\"\"\"79 \"I nutmegs,\" -1 3\"\"\"\n\"\"\"80 \"No,\" Tiger -1 3\"\"\"\n\"\"\"81 \"I've gumdrops -1 3\"\"\"\n\"\"\"82 They one 0 2\"\"\"\n\"\"\"83 for afternoon 0 2\"\"\"\n\"\"\"84 \"I into,\" -1 3\"\"\"\n\"\"\"85 \"Sixty Tiger -1 3\"\"\"\n\"\"\"86 \"Would pieces?\" -1 3\"\"\"\n\"\"\"87 \"Who Tiger -1 3\"\"\"\n\"\"\"88 The reply -1 3\"\"\"\n\"\"\"89 They one 0 2\"\"\"\n\"\"\"90 Suddenly crying -1 4\"\"\"\n\"\"\"91 \"Aha!\" meat -1 4\"\"\"\n\"\"\"92 He following -1 4\"\"\"\n\"\"\"93 and street -1 4\"\"\"\n\"\"\"94 and distress -1 4\"\"\"\n\"\"\"95 \"What's baby -1 4\"\"\"\n\"\"\"96 \"I-lost mamma!\" -2 5\"\"\"\n\"\"\"97 \"Why, beast 1 3\"\"\"\n\"\"\"98 softly paw 1 3\"\"\"\n\"\"\"99 \"Don't away 1 3\"\"\"\n\"\"\"100 I'll her 1 3\"\"\"",
+                "role": "assistant",
+                "refusal": null
+            }
+        }
+    ],
+    "created": 1730399694,
+    "model": "gpt-4o-2024-08-06",
+    "object": "chat.completion",
+    "system_fingerprint": "fp_159d8341cc",
+    "usage": {
+        "completion_tokens": 955,
+        "prompt_tokens": 2213,
+        "total_tokens": 3168,
+        "prompt_tokens_details": {
+            "cached_tokens": 0
+        },
+        "completion_tokens_details": {
+            "reasoning_tokens": 0
+        }
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "id": "chatcmpl-AOTgbSqC5mH97Ek8f4UINrxmVtYlu",
+    "choices": [
+        {
+            "finish_reason": "stop",
+            "index": 0,
+            "logprobs": null,
+            "message": {
+                "content": "\"\"\"1 Elvis College -2 3\"\"\"\n\"\"\"2 At had 0 3\"\"\"\n\"\"\"3 that have 0 2\"\"\"\n\"\"\"4 He us 0 2\"\"\"\n\"\"\"5 He legs 0 2\"\"\"\n\"\"\"6 It away 0 3\"\"\"\n\"\"\"7 because finger 0 3\"\"\"\n\"\"\"8 At special 1 4\"\"\"\n\"\"\"9 He personality 0 2\"\"\"\n\"\"\"10 but body 0 3\"\"\"\n\"\"\"11 About Jacksonville 1 4\"\"\"\n\"\"\"12 to haircut 1 3\"\"\"\n\"\"\"13 That idea 1 3\"\"\"\n\"\"\"14 which bricks 1 3\"\"\"\n\"\"\"15 If get 2 5\"\"\"\n\"\"\"16 I sun 2 4\"\"\"\n\"\"\"17 and about 2 4\"\"\"\n\"\"\"18 The haircut 2 4\"\"\"\n\"\"\"19 not loquacious 2 4\"\"\"\n\"\"\"20 I everybody 2 3\"\"\"\n\"\"\"21 including feared 1 3\"\"\"\n\"\"\"22 that did 2 4\"\"\"\n\"\"\"23 and him 2 4\"\"\"\n\"\"\"24 The about 2 3\"\"\"\n\"\"\"25 and nothing 0 2\"\"\"\n\"\"\"26 When ear 3 4\"\"\"\n\"\"\"27 Those brightly 3 3\"\"\"\n\"\"\"28 and green 2 4\"\"\"\n\"\"\"29 I loved 2 3\"\"\"\n\"\"\"30 since shoes 2 3\"\"\"\n\"\"\"31 It look 2 3\"\"\"\n\"\"\"32 We orphans 1 3\"\"\"\n\"\"\"33 Even higher 2 4\"\"\"\n\"\"\"34 I asked 3 4\"\"\"\n\"\"\"35 The me 2 3\"\"\"\n\"\"\"36 and best 2 3\"\"\"\n\"\"\"37 I hair 3 4\"\"\"\n\"\"\"38 but ice -1 4\"\"\"\n\"\"\"39 motioned standing -1 3\"\"\"\n\"\"\"40 She 'No' -2 4\"\"\"\n\"\"\"41 In hair -2 4\"\"\"\n\"\"\"42 The cut -3 5\"\"\"\n\"\"\"43 'Why desperately -3 5\"\"\"\n\"\"\"44 but answer -2 3\"\"\"\n\"\"\"45 but asked -2 3\"\"\"\n\"\"\"46 Within me -3 4\"\"\"\n\"\"\"47 but me -3 4\"\"\"\n\"\"\"48 When hair -3 4\"\"\"\n\"\"\"49 and powder -2 3\"\"\"\n\"\"\"50 the bar -1 3\"\"\"\n\"\"\"51 I hungry -2 3\"\"\"\n\"\"\"52 'I'm chair -2 3\"\"\"\n\"\"\"53 'I said -2 3\"\"\"\n\"\"\"54 as eyes -3 4\"\"\"\n\"\"\"55 I floor -3 3\"\"\"\n\"\"\"56 and shoes -3 3\"\"\"\n\"\"\"57 My clouds -3 3\"\"\"\n\"\"\"58 and door -3 3\"\"\"\n\"\"\"59 The like -2 3\"\"\"\n\"\"\"60 The lady -1 4\"\"\"\n\"\"\"61 She could -1 4\"\"\"\n\"\"\"62 To cigarette -1 4\"\"\"\n\"\"\"63 and cigarette -1 3\"\"\"\n\"\"\"64 I man -2 3\"\"\"\n\"\"\"65 He head -1 3\"\"\"\n\"\"\"66 It soon -2 3\"\"\"\n\"\"\"67 I bones 0 3\"\"\"",
+                "role": "assistant",
+                "refusal": null
+            }
+        }
+    ],
+    "created": 1730397349,
+    "model": "gpt-4o-2024-08-06",
+    "object": "chat.completion",
+    "system_fingerprint": "fp_159d8341cc",
+    "usage": {
+        "completion_tokens": 612,
+        "prompt_tokens": 2001,
+        "total_tokens": 2613,
+        "prompt_tokens_details": {
+            "cached_tokens": 1792
+        },
+        "completion_tokens_details": {
+            "reasoning_tokens": 0
+        }
+    }
+}

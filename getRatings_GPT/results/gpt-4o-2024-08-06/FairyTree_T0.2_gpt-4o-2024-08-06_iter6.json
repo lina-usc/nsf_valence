@@ -1,0 +1,30 @@
+{
+    "id": "chatcmpl-AOTokil6iZtZ49twnvIYew8TwxopO",
+    "choices": [
+        {
+            "finish_reason": "stop",
+            "index": 0,
+            "logprobs": null,
+            "message": {
+                "content": "\"\"\"1 THE TREE 0 2\"\"\"\n\"\"\"2 Long sea 0 2\"\"\"\n\"\"\"3 The commands 0 2\"\"\"\n\"\"\"4 Flora the -1 3\"\"\"\n\"\"\"5 kitchen fire 0 2\"\"\"\n\"\"\"6 Near rocks 0 2\"\"\"\n\"\"\"7 A spot 1 3\"\"\"\n\"\"\"8 and forest 1 3\"\"\"\n\"\"\"9 She dream 1 3\"\"\"\n\"\"\"10 One cave, 1 4\"\"\"\n\"\"\"11 a stream 1 3\"\"\"\n\"\"\"12 Its rainbow 2 4\"\"\"\n\"\"\"13 \"I Rainbow 2 4\"\"\"\n\"\"\"14 Rainbow. 2 4\"\"\"\n\"\"\"15 So cave 2 4\"\"\"\n\"\"\"16 The breakfast 0 2\"\"\"\n\"\"\"17 bread breakfast 0 2\"\"\"\n\"\"\"18 On her 1 3\"\"\"\n\"\"\"19 He him 2 4\"\"\"\n\"\"\"20 How was 2 4\"\"\"\n\"\"\"21 She lonely 0 3\"\"\"\n\"\"\"22 and playfellow 1 3\"\"\"\n\"\"\"23 Every Flora -1 3\"\"\"\n\"\"\"24 would pet 1 3\"\"\"\n\"\"\"25 The them 1 3\"\"\"\n\"\"\"26 \"Here Rainbow 1 3\"\"\"\n\"\"\"27 she today 0 2\"\"\"\n\"\"\"28 but tomorrow 1 3\"\"\"\n\"\"\"29 Then song 1 3\"\"\"\n\"\"\"30 Flora thin -2 3\"\"\"\n\"\"\"31 and matter -1 3\"\"\"\n\"\"\"32 One fish -2 4\"\"\"\n\"\"\"33 crumbs fish -2 4\"\"\"\n\"\"\"34 While forest -1 3\"\"\"\n\"\"\"35 the fish -3 5\"\"\"\n\"\"\"36 carried home -3 5\"\"\"\n\"\"\"37 and supper -3 5\"\"\"\n\"\"\"38 The fire -3 5\"\"\"\n\"\"\"39 The usual -2 3\"\"\"\n\"\"\"40 but there -2 3\"\"\"\n\"\"\"41 She song -1 3\"\"\"\n\"\"\"42 and come -2 3\"\"\"\n\"\"\"43 \"Rainbow water -2 3\"\"\"\n\"\"\"44 Then bed -2 3\"\"\"\n\"\"\"45 and asleep -1 3\"\"\"\n\"\"\"46 The crowed 0 3\"\"\"\n\"\"\"47 \"Cock-a-doodle-doodle-doo 0 3\"\"\"\n\"\"\"48 The too 0 3\"\"\"\n\"\"\"49 Flora downstairs 0 3\"\"\"\n\"\"\"50 There pet -2 3\"\"\"\n\"\"\"51 She box -2 3\"\"\"\n\"\"\"52 She cave -2 3\"\"\"\n\"\"\"53 Then cry -1 3\"\"\"\n\"\"\"54 My deny -1 3\"\"\"\n\"\"\"55 If me -1 3\"\"\"\n\"\"\"56 Pray tree -1 3\"\"\"\n\"\"\"57 As girl 2 4\"\"\"\n\"\"\"58 wonderful girl 3 4\"\"\"\n\"\"\"59 Its ivory 3 4\"\"\"\n\"\"\"60 Its pearls 3 4\"\"\"\n\"\"\"61 Its gold 3 4\"\"\"\n\"\"\"62 and the 3 4\"\"\"\n\"\"\"63 rainbow 3 4\"\"\"\n\"\"\"64 One sea 1 3\"\"\"\n\"\"\"65 to island 1 3\"\"\"\n\"\"\"66 It king 1 3\"\"\"\n\"\"\"67 He tree 1 3\"\"\"\n\"\"\"68 from came 1 3\"\"\"\n\"\"\"69 The lived 1 3\"\"\"\n\"\"\"70 seven forest 1 3\"\"\"\n\"\"\"71 Fairy cave 2 4\"\"\"\n\"\"\"72 The leaves 1 3\"\"\"\n\"\"\"73 but not 0 3\"\"\"\n\"\"\"74 Then girl 1 3\"\"\"\n\"\"\"75 She singing 1 3\"\"\"\n\"\"\"76 \"Rainbow, me 1 3\"\"\"\n\"\"\"77 Bend Tree 1 3\"\"\"\n\"\"\"78 And cave 1 3\"\"\"\n\"\"\"79 the queen 2 4\"\"\"\n\"\"\"80 you queen 2 4\"\"\"\n\"\"\"81 As delight 3 4\"\"\"\n\"\"\"82 with delight 3 4\"\"\"\n\"\"\"83 The king 3 4\"\"\"\n\"\"\"84 As exclaimed 3 4\"\"\"\n\"\"\"85 \"To Tree; 3 4\"\"\"\n\"\"\"86 Pray me 3 4\"\"\"\n\"\"\"87 Flora dreaming 3 4\"\"\"\n\"\"\"88 but Tree 4 5\"\"\"",
+                "role": "assistant",
+                "refusal": null
+            }
+        }
+    ],
+    "created": 1730397854,
+    "model": "gpt-4o-2024-08-06",
+    "object": "chat.completion",
+    "system_fingerprint": "fp_159d8341cc",
+    "usage": {
+        "completion_tokens": 809,
+        "prompt_tokens": 1845,
+        "total_tokens": 2654,
+        "prompt_tokens_details": {
+            "cached_tokens": 1664
+        },
+        "completion_tokens_details": {
+            "reasoning_tokens": 0
+        }
+    }
+}

@@ -1,0 +1,112 @@
+You are an undergraduate student who is a native speaker of English.
+
+You will be asked to read a story one segment at a time and rate your feelings on hedonic valence (ranging from -4 to 4, -4=very negative, 0=neutral, 4=very positive) and arousal (ranging from 1 to 9, 1=low arousal and 9=high arousal). 
+ For example, if you felt the segment "my dog died yesterday" was very negative and highly arousing, you might give a valence score of -3 and an arousal score of 8. 
+ If you felt very positive and excited about the segment "I miss the trips we used to take", you might give a valence score of 3 and an arousal score of 8. 
+ If you felt the segment "long, long ago" was neutral and calm, you might give a valence score of 0 and an arousal score of 2. 
+ The following paragraphs (in triple quotations) will give you an idea of the range of valence and arousal ratings that you will encounter. Please use it to calibrate your ratings so that you will use the full range of the rating scale. 
+ """Lucy was all nerves as she walked out onto the middle of the stage, where there was nothing but a microphone and her. As the curtains began to part, she thought to herself that she could not go through with this and that she was not confident enough to put herself before the judging audience ... Lucy began to sing, and all the pain and confusion that the messages had been causing inside Lucy just flowed out. When the song finished and the last note died away, Lucy opened her eyes. To see the whole audience on their feet and the hall filled with cheers and applause was not what she had expected. Lucy allowed herself to enjoy the sense of achievement and belonging that she had not felt in a very long time."""
+ 
+ 
+ Consider each segment in its sequential context. Do not be influenced by any content that follows the current segment. Treat every upcoming segment as if it is unknown to you. 
+ 
+ Each input segment is formatted in five hash characters as follows: ##### numeric segment ID segment text #####. Your output for each segment should be formatted as within the following triple quotations """'numeric segment ID' 'the first word of the segment you just rated' 'the last word of the segment you just rated' 'your valence score' 'your arousal score'"""
+ 
+ Read and rate the following three example segments:
+ #####1 my dog died yesterday#####
+ #####2 I miss the trips we used to take#####
+ #####3 long, long ago#####
+
+1 my yesterday -3 8
+ 2 I take 3 8
+ 3 long ago 0 2
+
+Proceed with the above instructions to rate the following 88 segments:
+#####1 THE FAIRY TREE#####
+ #####2 Long, long ago, on an island in the sea, lived a family of seven sisters#####
+ #####3 The oldest girl ruled the household, and her sisters obeyed her commands#####
+ #####4 Flora, the youngest sister, was sent to the forest each day to gather wood for the#####
+ #####5 kitchen fire#####
+ #####6 Near the edge of the forest was a cave under some rocks#####
+ #####7 A stream of water fell over the rocks into a basin in the cave. This was a delightfully cool spot#####
+ #####8 and Flora often rested here on her way home after gathering wood in the forest#####
+ #####9 She would lie on the mossy bank of the stream for hours and dream#####
+ #####10 One morning as Flora ran along the grassy path that led to the cave, she saw#####
+ #####11 a little fish in the stream#####
+ #####12 Its scales flashed out all the colors of the rainbow#####
+ #####13 "I am going to keep the fish for a pet," said the girl to herself. "I will call him#####
+ #####14 Rainbow#####
+ #####15 So she caught the pretty fish and put him into the basin in the cave#####
+ #####16 The next day Flora went to the forest for wood. She carried some crumbs of#####
+ #####17 bread which she had saved from her breakfast#####
+ #####18 On the way home she stopped at the cave. The fish was waiting for her#####
+ #####19 He came to the edge of the basin, and she fed the crumbs to him#####
+ #####20 How delighted the girl was#####
+ #####21 She had been so lonely#####
+ #####22 and now she had a playfellow#####
+ #####23 Every morning, instead of eating the bread which her sister gave to her, Flora#####
+ #####24 would save it and feed the crumbs to her pet#####
+ #####25 The fish would leap to catch them#####
+ #####26 "Here are some crumbs, Rainbow#####
+ #####27 she would say. "This is all today#####
+ #####28 but I will come again tomorrow#####
+ #####29 Then she would sing a little song#####
+ #####30 Flora began to grow thin#####
+ #####31 and her sisters wondered what could be the matter#####
+ #####32 One day the oldest sister followed her to the cave and saw her feed the#####
+ #####33 crumbs of bread to the fish#####
+ #####34 While Flora was away in the forest#####
+ #####35 the oldest sister caught the fish#####
+ #####36 carried him home#####
+ #####37 and baked him for supper#####
+ #####38 The bones were buried under the kitchen fire#####
+ #####39 The next morning, Flora went to the cave as usual#####
+ #####40 but no fish was there#####
+ #####41 She sang her little song#####
+ #####42 and he still did not come#####
+ #####43 "Rainbow cannot be dead," she said, "for I do not see him in the water#####
+ #####44 Then Flora hastened home. She threw herself upon her bed#####
+ #####45 and was soon fast asleep#####
+ #####46 The following morning, a rooster flew up to Flora's window and crowed#####
+ #####47 "Cock-a-doodle-doodle-doo#####
+ #####48 The bones of Rainbow wait for you, Under the kitchen fire, too#####
+ #####49 Flora arose at once and went downstairs#####
+ #####50 There, under the kitchen fire, she found the bones of her pet#####
+ #####51 She wept as she gathered the bones and placed them in a box#####
+ #####52 She went to the forest and buried the box near the cave#####
+ #####53 Then Flora sat down on a mossy bank near the cave and sang this song: “Rainbow, Rainbow, hear my cry#####
+ #####54 My great wish do not deny#####
+ #####55 If you can't come back to me#####
+ #####56 Pray, O pray, become a tree#####
+ #####57 As the last words of the song echoed through the cave, there sprang up a#####
+ #####58 wonderful Fairy Tree beside the girl#####
+ #####59 Its trunk was of ivory#####
+ #####60 Its leaves were of silver fringed with pearls#####
+ #####61 Its flowers were gold#####
+ #####62 and its fruit gems from which sparkled the bright colors of the#####
+ #####63 rainbow#####
+ #####64 One day the summer breeze carried a leaf from the Fairy Tree across the sea#####
+ #####65 to another island#####
+ #####66 It fell at the feet of the king#####
+ #####67 He picked up the wonderful leaf and said, "I shall never rest until I find the tree#####
+ #####68 from which this leaf came#####
+ #####69 The king set sail with his attendants. He soon landed on the island where the#####
+ #####70 seven sisters lived. As the king and his men were marching through the forest, they found the#####
+ #####71 Fairy Tree growing at the entrance to the cave#####
+ #####72 The king tried to pick some of the leaves#####
+ #####73 but he could not#####
+ #####74 Then he heard the sweet voice of a girl#####
+ #####75 She was singing#####
+ #####76 "Rainbow, Rainbow, speak to me#####
+ #####77 Bend your branches, Fairy Tree#####
+ #####78 And Flora came tripping along the grassy path that led to the cave#####
+ #####79 The king said, "Fair maiden, if you can pick a leaf or a flower from this tree#####
+ #####80 you shall be my queen#####
+ #####81 As Flora reached to pick a flower, the tree bowed low, and every leaf trembled#####
+ #####82 with delight#####
+ #####83 The maiden at once presented the flower to the king#####
+ #####84 As he took the flower, the king exclaimed#####
+ #####85 "To you belongs the Fairy Tree;#####
+ #####86 Pray be my bride and rule with me#####
+ #####87 Flora thought she must be dreaming#####
+ #####88 but they were married the next day beneath the branches of the Fairy Tree#####

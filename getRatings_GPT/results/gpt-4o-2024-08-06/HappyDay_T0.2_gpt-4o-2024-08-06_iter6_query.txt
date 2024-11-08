@@ -1,0 +1,79 @@
+You are an undergraduate student who is a native speaker of English.
+
+You will be asked to read a story one segment at a time and rate your feelings on hedonic valence (ranging from -4 to 4, -4=very negative, 0=neutral, 4=very positive) and arousal (ranging from 1 to 9, 1=low arousal and 9=high arousal). 
+ For example, if you felt the segment "my dog died yesterday" was very negative and highly arousing, you might give a valence score of -3 and an arousal score of 8. 
+ If you felt very positive and excited about the segment "I miss the trips we used to take", you might give a valence score of 3 and an arousal score of 8. 
+ If you felt the segment "long, long ago" was neutral and calm, you might give a valence score of 0 and an arousal score of 2. 
+ The following paragraphs (in triple quotations) will give you an idea of the range of valence and arousal ratings that you will encounter. Please use it to calibrate your ratings so that you will use the full range of the rating scale. 
+ """Lucy was all nerves as she walked out onto the middle of the stage, where there was nothing but a microphone and her. As the curtains began to part, she thought to herself that she could not go through with this and that she was not confident enough to put herself before the judging audience ... Lucy began to sing, and all the pain and confusion that the messages had been causing inside Lucy just flowed out. When the song finished and the last note died away, Lucy opened her eyes. To see the whole audience on their feet and the hall filled with cheers and applause was not what she had expected. Lucy allowed herself to enjoy the sense of achievement and belonging that she had not felt in a very long time."""
+ 
+ 
+ Consider each segment in its sequential context. Do not be influenced by any content that follows the current segment. Treat every upcoming segment as if it is unknown to you. 
+ 
+ Each input segment is formatted in five hash characters as follows: ##### numeric segment ID segment text #####. Your output for each segment should be formatted as within the following triple quotations """'numeric segment ID' 'the first word of the segment you just rated' 'the last word of the segment you just rated' 'your valence score' 'your arousal score'"""
+ 
+ Read and rate the following three example segments:
+ #####1 my dog died yesterday#####
+ #####2 I miss the trips we used to take#####
+ #####3 long, long ago#####
+
+1 my yesterday -3 8
+ 2 I take 3 8
+ 3 long ago 0 2
+
+Proceed with the above instructions to rate the following 55 segments:
+#####1 A Happy Day#####
+ #####2 It was about 10:30 on a breezy Saturday morning in April#####
+ #####3 I yawned, opened my eyes, and smiled#####
+ #####4 I haven’t slept this late in months#####
+ #####5 I usually have to be at the office by 7:30#####
+ #####6 so this is quite a treat to sleep in#####
+ #####7 But when I smelled the crackling, smoky bacon from the kitchen downstairs#####
+ #####8 I could no longer stay in bed;#####
+ #####9 I just had to get up and follow that delicious scent#####
+ #####10 I put my hair into a sloppy ponytail, slid on my plush, fuzzy slippers, then lumbered down the stairs, letting my nose—and my stomach—guide me#####
+ #####11 To my very pleasant surprise I saw all my breakfast favorites: crisp fruit, a fresh pot of coffee, cheesy scrambled eggs, and of course, sizzling hot bacon#####
+ #####12 And the even bigger surprise, my husband was the one cooking#####
+ #####13 He had been gone for the last two weeks for a business trip#####
+ #####14 so he said that he wanted to do something nice for me now that he is back#####
+ #####15 We plated the food and devoured it instantly#####
+ #####16 We spent the next hour just talking and catching up on the last couple of weeks#####
+ #####17 enjoying each other’s company, giggling and gasping#####
+ #####18 I told him about my promotion at work and we celebrated#####
+ #####19 Along with more responsibility, I would also be getting my own parking spot and a raise#####
+ #####20 After he did the dishes and left for work, I went back upstairs and had a nice, long shower while singing along to my playlist as if I was on one of those tv show competitions#####
+ #####21 Except in my case, the judges were a shampoo bottle, a loofah, and a razor; their reactions were pretty flat though#####
+ #####22 so I’m not too sure I’m going to make it to the next round. Better luck next time#####
+ #####23 After my uneventful audition, I got dressed and headed out the door to meet one of my friends at a park nearby;#####
+ #####24 whenever our schedules magically align, and we have the same days off, we try to see each other and do something fun#####
+ #####25 This time we decided to ride bikes by the river and feed the ducks#####
+ #####26 I unloaded my bike out of the car, saw my friend parking, and cycled over to meet her#####
+ #####27 Since we don’t get to see each other very often we always appreciate the time we do spend together#####
+ #####28 and try to make the best of whatever time we do have#####
+ #####29 So, we went off on our bikes and rode towards the bike path quickly after greeting each other, no time to waste#####
+ #####30 We biked and biked all afternoon long until we noticed the sun was starting to go down.  We must have ridden something like ten miles or more#####
+ #####31 And trust me when I say, we were feeling it in every muscle, every bone#####
+ #####32 every inch of our legs was so sore#####
+ #####33 but it was worth it because we had such a great time#####
+ #####34 No longer able to stand without shaking like we were experiencing our own personal earthquakes, we decided to sit on the grass while we threw pieces of stale bread in the water towards the feathery ducks and little ducklings#####
+ #####35 We sat there throwing and chatting and laughing for quite a while#####
+ #####36 until suddenly, we realized it was already dark and we probably needed to head home soon#####
+ #####37 We said our goodbyes and per our usual ritual, hugged and promised to call and make plans again soon#####
+ #####38 Our time seemed so limited these days#####
+ #####39 And we didn’t want to let the important things slip through the cracks#####
+ #####40 Driving back to my house I could just catch the last little edge of the sunset in my rearview mirror;#####
+ #####41 the swirl of oranges and pinks darkening and turning blue and black to let the moon shine through#####
+ #####42 I stopped at a popular neighborhood take-out place to grab dinner because it’s my husband’s favorite#####
+ #####43 And the owner surprised me with complimentary appetizers#####
+ #####44 The delicious aroma filled the car the rest of the way home#####
+ #####45 When I arrived, my husband was already there to greet me#####
+ #####46 Over dinner, we chatted about our days. He told me that since he came on a Saturday he gets to take a Friday off#####
+ #####47 I told him all about my day at the park and how we completely lost track of time but didn’t mind because it was so fun#####
+ #####48 I also showed him adorable pictures of the ducklings#####
+ #####49 and some funny ones of a particularly clumsy duckling that didn’t seem to notice where the dock ended and tumbled right off the edge#####
+ #####50 Comfortable on the couch, we snacked on some popcorn and picked out a movie to watch#####
+ #####51 As usual none of the new movie suggestions were piquing our interest#####
+ #####52 so we decided to watch an old favorite#####
+ #####53 I’m not sure if we were both tired from active days or just not paying attention since we’d seen the movie before, but we both fell asleep about an hour into the movie#####
+ #####54 Either way, not a bad way to end a fantastic day#####
+ #####55 I can’t wait for another day like that#####

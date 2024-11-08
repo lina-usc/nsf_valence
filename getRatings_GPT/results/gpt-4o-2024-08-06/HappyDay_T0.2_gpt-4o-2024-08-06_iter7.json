@@ -1,0 +1,30 @@
+{
+    "id": "chatcmpl-AOTto8o86rxV374TF250urRCkOaju",
+    "choices": [
+        {
+            "finish_reason": "stop",
+            "index": 0,
+            "logprobs": null,
+            "message": {
+                "content": "\"\"\"1 A Day 3 4\"\"\"\n\"\"\"2 It April 1 3\"\"\"\n\"\"\"3 I smiled 2 2\"\"\"\n\"\"\"4 I months 1 2\"\"\"\n\"\"\"5 I 7:30 0 2\"\"\"\n\"\"\"6 so in 1 2\"\"\"\n\"\"\"7 But downstairs 2 3\"\"\"\n\"\"\"8 I bed; 1 2\"\"\"\n\"\"\"9 I scent 2 3\"\"\"\n\"\"\"10 I me 1 2\"\"\"\n\"\"\"11 To bacon 3 3\"\"\"\n\"\"\"12 And cooking 3 3\"\"\"\n\"\"\"13 He trip 1 2\"\"\"\n\"\"\"14 so back 2 2\"\"\"\n\"\"\"15 We instantly 2 2\"\"\"\n\"\"\"16 We weeks 2 2\"\"\"\n\"\"\"17 company, gasping 2 3\"\"\"\n\"\"\"18 I celebrated 3 3\"\"\"\n\"\"\"19 Along raise 3 3\"\"\"\n\"\"\"20 After competitions 2 3\"\"\"\n\"\"\"21 Except though 1 3\"\"\"\n\"\"\"22 so time 1 3\"\"\"\n\"\"\"23 After park 1 2\"\"\"\n\"\"\"24 whenever fun 2 2\"\"\"\n\"\"\"25 This ducks 2 3\"\"\"\n\"\"\"26 I her 2 3\"\"\"\n\"\"\"27 Since together 2 2\"\"\"\n\"\"\"28 and have 1 2\"\"\"\n\"\"\"29 So, waste 2 3\"\"\"\n\"\"\"30 We miles 2 3\"\"\"\n\"\"\"31 And bone 1 3\"\"\"\n\"\"\"32 every sore 1 3\"\"\"\n\"\"\"33 but time 3 3\"\"\"\n\"\"\"34 No ducklings 2 3\"\"\"\n\"\"\"35 We while 2 2\"\"\"\n\"\"\"36 until soon 1 2\"\"\"\n\"\"\"37 We soon 1 2\"\"\"\n\"\"\"38 Our days 0 2\"\"\"\n\"\"\"39 And cracks 0 2\"\"\"\n\"\"\"40 Driving mirror; 1 2\"\"\"\n\"\"\"41 the through 2 3\"\"\"\n\"\"\"42 I favorite 2 2\"\"\"\n\"\"\"43 And appetizers 3 3\"\"\"\n\"\"\"44 The home 2 2\"\"\"\n\"\"\"45 When me 2 2\"\"\"\n\"\"\"46 Over off 2 2\"\"\"\n\"\"\"47 I fun 2 2\"\"\"\n\"\"\"48 I ducklings 2 2\"\"\"\n\"\"\"49 and edge 2 3\"\"\"\n\"\"\"50 Comfortable movie 2 2\"\"\"\n\"\"\"51 As interest 0 2\"\"\"\n\"\"\"52 so favorite 1 2\"\"\"\n\"\"\"53 I movie 1 2\"\"\"\n\"\"\"54 Either day 2 2\"\"\"\n\"\"\"55 I that 3 3\"\"\"",
+                "role": "assistant",
+                "refusal": null
+            }
+        }
+    ],
+    "created": 1730398168,
+    "model": "gpt-4o-2024-08-06",
+    "object": "chat.completion",
+    "system_fingerprint": "fp_159d8341cc",
+    "usage": {
+        "completion_tokens": 505,
+        "prompt_tokens": 1781,
+        "total_tokens": 2286,
+        "prompt_tokens_details": {
+            "cached_tokens": 1664
+        },
+        "completion_tokens_details": {
+            "reasoning_tokens": 0
+        }
+    }
+}
