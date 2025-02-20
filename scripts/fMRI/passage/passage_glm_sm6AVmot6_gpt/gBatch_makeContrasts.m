@@ -1,0 +1,117 @@
+function options = gBatch_makeContrasts(options)
+
+List_sessions = options.sessions;
+List_conditions = options.conditions;
+
+N_sess = length(List_sessions);
+N_conds = length(List_conditions);
+
+file_confounds = cell2mat(options.T_subj{1,'Passage_confounds'});
+file_confounds_csv = strrep(file_confounds,'.txt','.csv');
+T_confounds = readtable(file_confounds_csv);
+
+N_covs = size(T_confounds,2);
+N_hrfs = 1;
+N = N_sess*(N_hrfs*N_conds+N_covs)+N_sess;
+
+options.N_sess = N_sess;
+options.N_conds = N_conds;
+options.N_covs = N_covs;
+options.N_hrfs = N_hrfs;
+options.N_regressors = N;
+
+Dir_otuput = fullfile(options.Dir_results,'firstlevel',options.model_glm,sprintf('sub-%d',options.subid));
+
+filename = fullfile(Dir_otuput,'contrasts.mat');
+if exist(filename,'file')
+    options.design_contrast = load(filename);
+    return
+end
+
+%% ============================= initiate =============================
+% initiate the contrast table
+
+T = table();
+T.idx = [1:N]';
+n = 1;
+for idx_ses = 1:N_sess
+    
+   % experiment design
+   for idx_hrf = 1:N_hrfs
+      for idx_cond = 1:N_conds
+          T.regressor{n} = sprintf('hrf%d',idx_hrf);
+          T.session{n} = List_sessions{idx_ses};
+          T.condition{n} = List_conditions{idx_cond};
+          n = n+1;
+      end
+   end
+   
+   % covariates
+   for idx_cov = 1:N_covs
+      T.regressor{n} = 'confounds';
+      n= n+1;
+   end
+   
+end
+
+% intercept
+for idx_ses = 1:N_sess
+    T.regressor{n} = 'intercept';
+    n= n+1;
+end
+
+%% ============================= make contrasts =============================
+n=0;
+S.test = 't';
+List_c1 = {'mean','A','V'};
+List_c2 = {'','',''};
+List_cname = {'mean','A','V'};
+List_labels = {''};
+for j = 1:length(List_c1)
+    c1 = List_c1{j};
+    c2 = List_c2{j};
+    
+    for i = 1:length(List_labels)
+        n=n+1;
+        S.idx_c = n;
+        c_name = List_cname{j};
+        session = List_labels{i};
+        if ~isempty(session)
+            c_name = [upper(session(1)) '_' c_name];
+        end
+        S.name = c_name;
+        
+        T_tmp = T;
+        weights = [];
+        for idx_hrf = 1:N_hrfs
+            label = ['weight' num2str(idx_hrf)];
+            T_tmp{:,label} = zeros(height(T),1);
+            
+            if strcmp(session,'')
+                nn = length(T_tmp{strcmp(T_tmp.regressor,['hrf' num2str(idx_hrf)]) & strcmp(T_tmp.condition,c1),label});
+                T_tmp{strcmp(T_tmp.regressor,['hrf' num2str(idx_hrf)])&strcmp(T_tmp.condition,c1),label} = 1/nn;
+                if ~isempty(c2)
+                    T_tmp{strcmp(T_tmp.regressor,['hrf' num2str(idx_hrf)])&strcmp(T_tmp.condition,c2),label} = -1/nn;
+                end
+                
+            else
+                nn = length(T_tmp{strcmp(T_tmp.regressor,['hrf' num2str(idx_hrf)])&strcmp(T_tmp.session,session)&strcmp(T_tmp.condition,c1),label});
+                T_tmp{strcmp(T_tmp.regressor,['hrf' num2str(idx_hrf)])&strcmp(T_tmp.session,session)&strcmp(T_tmp.condition,c1),label} = 1/nn;
+                T_tmp{strcmp(T_tmp.regressor,['hrf' num2str(idx_hrf)])&strcmp(T_tmp.session,session)&strcmp(T_tmp.condition,c2),label} = -1/nn;
+                
+            end
+            weights = cat(1,weights,T_tmp{:,label}');
+        end
+        S.weights = weights;
+        S.designtable = T_tmp;
+        
+        design.contrast(n) = S;
+    end
+end
+
+
+%% ============================= export =============================
+ 
+design = design.contrast;
+save(filename,'design');
+

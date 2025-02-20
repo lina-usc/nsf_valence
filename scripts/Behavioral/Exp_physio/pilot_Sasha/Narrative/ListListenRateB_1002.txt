@@ -1,0 +1,4 @@
+Weight	Nested	Procedure	story	segID	segment
+1		ProcTrial	HowCouldYou	1	aaa
+1		ProcTrial	HowCouldYou	2	bbb
+1		ProcTrial	HowCouldYou	3	ccc
