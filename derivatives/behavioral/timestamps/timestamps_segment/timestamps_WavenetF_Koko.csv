@@ -1,0 +1,95 @@
+segment,reason,story,idx,audio,segment_raw,onset,offset,words
+Did you know,-,Koko,0,WavenetF_Koko,Did you know,5.2,5.87,Did|you|know
+that humans aren't the only species,complementizer,Koko,1,WavenetF_Koko,that humans aren't the only species,5.87,8.23,that|humans|aren't|the|only|species
+that use language?,relative clause; >maximal segment,Koko,2,WavenetF_Koko,that use language?,8.23,9.53,that|use|language
+Bees communicate,-,Koko,3,WavenetF_Koko,Bees communicate,11.27,12.699999,Bees|communicate
+by dancing.,nonfinite clause; >maximal segment,Koko,4,WavenetF_Koko,by dancing.,12.71,13.78,by|dancing
+Whales talk to each other,-,Koko,5,WavenetF_Koko,Whales talk to each other,15.5,17.37,Whales|talk|to|each|other
+by singing.,nonfinite clause; >maximal segment,Koko,6,WavenetF_Koko,by singing.,17.369999,18.239999,by|singing
+And some apes talk to humans,-,Koko,7,WavenetF_Koko,And some apes talk to humans,20.09,22.08,And|some|apes|talk|to|humans
+by using American Sign Language.,nonfinite clause; >maximal segment,Koko,8,WavenetF_Koko,by using American Sign Language.,22.08,24.77,by|using|American|Sign|Language
+Meet Koko:,>maximal segment,Koko,9,WavenetF_Koko,Meet Koko:,27.83,2.13,Meet|Koko
+"a female gorilla born at the San Francisco Zoo on July 4th, 1971.",>maximal segment,Koko,10,WavenetF_Koko,"a female gorilla born at the San Francisco Zoo on July 4th, 1971.",29.08,37.620000000000005,a|female|gorilla|born|at|the|San|Francisco|Zoo|on|July|4th|1971
+"Koko learned sign language from her trainer,",-,Koko,11,WavenetF_Koko,"Koko learned sign language from her trainer,",37.620000000000005,40.43,Koko|learned|sign|language|from|her|trainer
+Dr. Penny Patterson.,nonrestrictive clause; >maximal segment,Koko,12,WavenetF_Koko,Dr. Penny Patterson.,40.51,42.36,Dr|Penny|Patterson
+"Patterson began teaching sign language to Koko in 1972,",positioning element,Koko,13,WavenetF_Koko,"Patterson began teaching sign language to Koko in 1972,",44.139999,49.59,Patterson|began|teaching|sign|language|to|Koko|in|1972
+when Koko was one year old.,relative clause; >maximal segment,Koko,14,WavenetF_Koko,when Koko was one year old.,49.65,51.91,when|Koko|was|one|year|old
+"Koko must have been a good student,",-,Koko,15,WavenetF_Koko,"Koko must have been a good student,",51.91,56.32,Koko|must|have|been|a|good|student
+because two years later she moved onto the Stanford University campus with Dr. Patterson.,conjunction; >maximal segment,Koko,16,WavenetF_Koko,because two years later she moved onto the Stanford University campus with Dr. Patterson.,56.39,62.94,because|two|years|later|she|moved|onto|the|Stanford|University|campus|with|Dr|Patterson
+Koko continued,-,Koko,17,WavenetF_Koko,Koko continued,62.94,66.03,Koko|continued
+to learn on the campus until 1976.,infinitival phrase; >maximal segment,Koko,18,WavenetF_Koko,to learn on the campus until 1976.,66.03,69.8,to|learn|on|the|campus|until|1976
+That's when she began,-,Koko,19,WavenetF_Koko,That's when she began,71.59,73.00999999999999,That's|when|she|began
+"living full-time with Patterson's group,",nonfinite clause,Koko,20,WavenetF_Koko,"living full-time with Patterson's group,",73.01,75.64,living|full|time|with|Patterson's|group
+the Gorilla Foundation.,nonrestrictive clause; >maximal segment,Koko,21,WavenetF_Koko,the Gorilla Foundation.,75.79,77.58,the|Gorilla|Foundation
+Patterson and Koko's relationship has blossomed ever since.,>maximal segment,Koko,22,WavenetF_Koko,Patterson and Koko's relationship has blossomed ever since.,79.34,83.93,Patterson|and|Koko's|relationship|has|blossomed|ever|since
+Dr. Patterson says,-,Koko,23,WavenetF_Koko,Dr. Patterson says,87.03999999999999,88.779999,Dr|Patterson|says
+that Koko has mastered sign language.,complementizer; >maximal segment,Koko,24,WavenetF_Koko,that Koko has mastered sign language.,88.779999,91.76,that|Koko|has|mastered|sign|language
+She says,-,Koko,25,WavenetF_Koko,She says,93.48,94.24,She|says
+"that Koko knows over 1,000 words,",complementizer,Koko,26,WavenetF_Koko,"that Koko knows over 1,000 words,",94.24,97.37,that|Koko|knows|over|1|000|words
+and that Koko makes up new words.,conjunction / complementizer; >maximal segment,Koko,27,WavenetF_Koko,and that Koko makes up new words.,97.43999999999998,99.999999,and|that|Koko|makes|up|new|words
+"For example, Koko didn't know the sign for ring,",-,Koko,28,WavenetF_Koko,"For example, Koko didn't know the sign for ring,",101.77,105.59,For|example|Koko|didn't|know|the|sign|for|ring
+so she signed the words finger and bracelet.,conjunction; >maximal segment,Koko,29,WavenetF_Koko,so she signed the words finger and bracelet.,105.7,108.699999,so|she|signed|the|words|finger|and|bracelet
+Dr. Patterson thinks,-,Koko,30,WavenetF_Koko,Dr. Patterson thinks,110.459999,112.26,Dr|Patterson|thinks
+that this shows meaningful and constructive use of language.,complementizer; >maximal segment,Koko,31,WavenetF_Koko,that this shows meaningful and constructive use of language.,112.26,116.31,that|this|shows|meaningful|and|constructive|use|of|language
+Not everyone agrees with Dr. Patterson.,>maximal segment,Koko,32,WavenetF_Koko,Not everyone agrees with Dr. Patterson.,119.3,122.659999,Not|everyone|agrees|with|Dr|Patterson
+Some argue,-,Koko,33,WavenetF_Koko,Some argue,124.4,125.35,Some|argue
+that apes like Koko do not understand the meaning of what they are doing.,complementizer; >maximal segment,Koko,34,WavenetF_Koko,that apes like Koko do not understand the meaning of what they are doing.,125.35,130.2,that|apes|like|Koko|do|not|understand|the|meaning|of|what|they|are|doing
+Skeptics say,-,Koko,35,WavenetF_Koko,Skeptics say,131.97,133.07999999999998,Skeptics|say
+that these apes are just performing complex tricks.,complementizer; >maximal segment,Koko,36,WavenetF_Koko,that these apes are just performing complex tricks.,133.08,136.769999,that|these|apes|are|just|performing|complex|tricks
+"For example, if Koko points to an apple and signs red or apple,",-,Koko,37,WavenetF_Koko,"For example, if Koko points to an apple and signs red or apple,",138.52,143.70000000000002,For|example|if|Koko|points|to|an|apple|and|signs|red|or|apple
+Dr. Patterson will give her an apple.,"conjunction (if, then...); >maximal segment",Koko,38,WavenetF_Koko,Dr. Patterson will give her an apple.,143.789999,146.45000000000002,Dr|Patterson|will|give|her|an|apple
+They argue,-,Koko,39,WavenetF_Koko,They argue,148.17,149.03,They|argue
+that Koko does not really know what the sign apple means.,complementizer; >maximal segment,Koko,40,WavenetF_Koko,that Koko does not really know what the sign apple means.,149.03,152.99,that|Koko|does|not|really|know|what|the|sign|apple|means
+She only knows,-,Koko,41,WavenetF_Koko,She only knows,154.74,155.89,She|only|knows
+"that that if she makes the right motion,",complementizer,Koko,42,WavenetF_Koko,"that that if she makes the right motion,",155.9,158.32000000000002,that|that|if|she|makes|the|right|motion
+"one which Dr. Patterson has shown her,",nonrestrictive clause,Koko,43,WavenetF_Koko,"one which Dr. Patterson has shown her,",158.41,161.43,one|which|Dr|Patterson|has|shown|her
+then she gets an apple.,conjunction; >maximal segment,Koko,44,WavenetF_Koko,then she gets an apple.,161.52,163.14,then|she|gets|an|apple
+"The debate is unresolved, but one thing is for certain:",>maximal segment,Koko,45,WavenetF_Koko,"The debate is unresolved, but one thing is for certain:",164.86,169.04,The|debate|is|unresolved|but|one|thing|is|for|certain
+Koko is an extraordinary ape.,>maximal segment,Koko,46,WavenetF_Koko,Koko is an extraordinary ape.,169.04,171.63,Koko|is|an|extraordinary|ape
+Sign language isn't the only unusual thing about Koko.,>maximal segment,Koko,47,WavenetF_Koko,Sign language isn't the only unusual thing about Koko.,174.73,169.82,Sign|language|isn't|the|only|unusual|thing|about|Koko
+She's also been a pet-owner.,>maximal segment,Koko,48,WavenetF_Koko,She's also been a pet-owner.,180.91,183.25,She's|also|been|a|pet|owner
+"In 1983,",positioning element,Koko,49,WavenetF_Koko,"In 1983,",184.97,186.84,In|1983
+"at the age of 12,",nonrestrictive clause,Koko,50,WavenetF_Koko,"at the age of 12,",186.92,188.43,at|the|age|of|12
+researchers said,-,Koko,51,WavenetF_Koko,researchers said,188.53,189.74,researchers|said
+that Koko asked for a cat for Christmas.,complementizer; >maximal segment,Koko,52,WavenetF_Koko,that Koko asked for a cat for Christmas.,189.74,192.81,that|Koko|asked|for|a|cat|for|Christmas
+They gave Koko a stuffed cat.,>maximal segment,Koko,53,WavenetF_Koko,They gave Koko a stuffed cat.,194.53,196.97,They|gave|Koko|a|stuffed|cat
+Koko was not happy.,>maximal segment,Koko,54,WavenetF_Koko,Koko was not happy.,196.97,200.61,Koko|was|not|happy
+"She did not play with it,",-,Koko,55,WavenetF_Koko,"She did not play with it,",202.35,204.07,She|did|not|play|with|it
+and she continued to sign sad.,conjunction; >maximal segment,Koko,56,WavenetF_Koko,and she continued to sign sad.,204.15,206.36,and|she|continued|to|sign|sad
+"So for her birthday in 1984,",positioning element,Koko,57,WavenetF_Koko,"So for her birthday in 1984,",208.15,210.73,So|for|her|birthday|in|1984
+they let her pick a cat out of an abandoned litter.,>maximal segment,Koko,58,WavenetF_Koko,they let her pick a cat out of an abandoned litter.,211.49,198.799999,they|let|her|pick|a|cat|out|of|an|abandoned|litter
+"Koko picked a gray cat and named him ""All Ball.""",>maximal segment,Koko,59,WavenetF_Koko,"Koko picked a gray cat and named him ""All Ball.""",198.799999,220.77,Koko|picked|a|gray|cat|and|named|him|All|Ball
+Dr. Patterson said,-,Koko,60,WavenetF_Koko,Dr. Patterson said,222.51,224.21,Dr|Patterson|said
+that Koko loved and nurtured All Ball,complementizer,Koko,61,WavenetF_Koko,that Koko loved and nurtured All Ball,224.21,226.739999,that|Koko|loved|and|nurtured|All|Ball
+as though he were a baby gorilla.,conjunction; >maximal segment,Koko,62,WavenetF_Koko,as though he were a baby gorilla.,226.74,228.789999,as|though|he|were|a|baby|gorilla
+"Sadly, All Ball got out of Koko's cage and was hit by a car.",>maximal segment,Koko,63,WavenetF_Koko,"Sadly, All Ball got out of Koko's cage and was hit by a car.",230.549999,235.48,Sadly|All|Ball|got|out|of|Koko's|cage|and|was|hit|by|a|car
+Patterson reported,-,Koko,64,WavenetF_Koko,Patterson reported,237.25,238.65,Patterson|reported
+"that Koko signed ""Bad, sad, bad"" and ""Frown, cry, frown, sad""",complementizer,Koko,65,WavenetF_Koko,"that Koko signed ""Bad, sad, bad"" and ""Frown, cry, frown, sad""",238.65,245.35,that|Koko|signed|Bad|sad|bad|and|Frown|cry|frown|sad
+when she broke the news to her.,relative clause; >maximal segment,Koko,66,WavenetF_Koko,when she broke the news to her.,245.36,247.4,when|she|broke|the|news|to|her
+"It seems like Patterson and Koko have a good relationship,",-,Koko,67,WavenetF_Koko,"It seems like Patterson and Koko have a good relationship,",250.42,254.77,It|seems|like|Patterson|and|Koko|have|a|good|relationship
+but not everyone agrees with it.,conjunction; >maximal segment,Koko,68,WavenetF_Koko,but not everyone agrees with it.,254.88,257.22,but|not|everyone|agrees|with|it
+Some critics believe,-,Koko,69,WavenetF_Koko,Some critics believe,258.97,260.48,Some|critics|believe
+that Patterson is humanizing the ape.,complementizer; >maximal segment,Koko,70,WavenetF_Koko,that Patterson is humanizing the ape.,260.48,263.139999,that|Patterson|is|humanizing|the|ape
+They believe,-,Koko,71,WavenetF_Koko,They believe,264.9,265.71999900000003,They|believe
+that apes should be left in the most natural state possible.,complementizer; >maximal segment,Koko,72,WavenetF_Koko,that apes should be left in the most natural state possible.,265.719999,269.77000000000004,that|apes|should|be|left|in|the|most|natural|state|possible
+Even Dr. Patterson struggles with these feelings.,>maximal segment,Koko,73,WavenetF_Koko,Even Dr. Patterson struggles with these feelings.,271.46999900000003,275.18,Even|Dr|Patterson|struggles|with|these|feelings
+"When asked if her findings could be duplicated by another group of scientists,",relative clause,Koko,74,WavenetF_Koko,"When asked if her findings could be duplicated by another group of scientists,",276.93,282.51,When|asked|if|her|findings|could|be|duplicated|by|another|group|of|scientists
+"she said, ""We don't think that it would be ethical to do again.""",>maximal segment,Koko,75,WavenetF_Koko,"she said, ""We don't think that it would be ethical to do again.""",282.61,286.82,she|said|We|don't|think|that|it|would|be|ethical|to|do|again
+She went on to argue,-,Koko,76,WavenetF_Koko,She went on to argue,288.539999,290.12,She|went|on|to|argue
+that animals should not be kept in such unnatural circumstances.,complementizer; >maximal segment,Koko,77,WavenetF_Koko,that animals should not be kept in such unnatural circumstances.,290.12,295.02000000000004,that|animals|should|not|be|kept|in|such|unnatural|circumstances
+"Nonetheless, Koko lives in her foundation today.",>maximal segment,Koko,78,WavenetF_Koko,"Nonetheless, Koko lives in her foundation today.",296.76,300.64,Nonetheless|Koko|lives|in|her|foundation|today
+"As for the future,",positioning element,Koko,79,WavenetF_Koko,"As for the future,",303.719999,305.09000000000003,As|for|the|future
+Dr. Patterson and the Gorilla Foundation would love,-,Koko,80,WavenetF_Koko,Dr. Patterson and the Gorilla Foundation would love,305.190001,308.73,Dr|Patterson|and|the|Gorilla|Foundation|would|love
+"to get Koko to an ape preserve in Maui,",infinitival phrase,Koko,81,WavenetF_Koko,"to get Koko to an ape preserve in Maui,",308.73,311.69,to|get|Koko|to|an|ape|preserve|in|Maui
+but they are having trouble securing the land.,conjunction; >maximal segment,Koko,82,WavenetF_Koko,but they are having trouble securing the land.,311.78,314.67,but|they|are|having|trouble|securing|the|land
+"So, unless you have a few million dollars to spare,",nonrestrictive clause,Koko,83,WavenetF_Koko,"So, unless you have a few million dollars to spare,",316.42,319.91,So|unless|you|have|a|few|million|dollars|to|spare
+Koko's going,-,Koko,84,WavenetF_Koko,Koko's going,320.049999,321.019999,Koko's|going
+"to be spending her time in Woodland, California with Dr. Patterson.",infinitival phrase; >maximal segment,Koko,85,WavenetF_Koko,"to be spending her time in Woodland, California with Dr. Patterson.",321.02,326.18,to|be|spending|her|time|in|Woodland|California|with|Dr|Patterson
+Koko probably doesn't mind that.,>maximal segment,Koko,86,WavenetF_Koko,Koko probably doesn't mind that.,326.18,330.64,Koko|probably|doesn't|mind|that
+"If she moved to Hawaii,",-,Koko,87,WavenetF_Koko,"If she moved to Hawaii,",332.37,334.159999,If|she|moved|to|Hawaii
+"she'd have to give up her Facebook page and Twitter feed,","conjunction (if, then...)",Koko,88,WavenetF_Koko,"she'd have to give up her Facebook page and Twitter feed,",334.25,337.979999,she'd|have|to|give|up|her|Facebook|page|and|Twitter|feed
+"and she's got like 50 thousand ""likes.""",>maximal segment,Koko,89,WavenetF_Koko,"and she's got like 50 thousand ""likes.""",338.049999,341.09000000000003,and|she's|got|like|50|thousand|likes
+Some may deny,-,Koko,90,WavenetF_Koko,Some may deny,342.859999,344.01,Some|may|deny
+"that she knows sign language,",complementizer,Koko,91,WavenetF_Koko,"that she knows sign language,",344.01,346.03,that|she|knows|sign|language
+but nobody says,conjunction,Koko,92,WavenetF_Koko,but nobody says,346.09,347.41,but|nobody|says
+that she doesn't know social networking.,complementizer; >maximal segment,Koko,93,WavenetF_Koko,that she doesn't know social networking.,347.41,350.07,that|she|doesn't|know|social|networking

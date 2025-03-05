@@ -1,0 +1,111 @@
+segment,reason,story,idx,audio,segment_raw,onset,offset,words
+"Long, long ago,",positioning element - generic convention,FairyTree,0,Jacob_FairyTree,"Long, long ago,",3.7,4.9,Long|long|ago
+"on an island in the sea,",positioning element,FairyTree,1,Jacob_FairyTree,"on an island in the sea,",5.75,7.18,on|an|island|in|the|sea
+lived a family of seven sisters.,>maximal segment,FairyTree,2,Jacob_FairyTree,lived a family of seven sisters.,8.03,9.96,lived|a|family|of|seven|sisters
+"The oldest girl ruled the household,",-,FairyTree,3,Jacob_FairyTree,"The oldest girl ruled the household,",11.46,13.36,The|oldest|girl|ruled|the|household
+and her sisters obeyed her commands.,conjunction; >maximal segment,FairyTree,4,Jacob_FairyTree,and her sisters obeyed her commands.,14.219999,16.3,and|her|sisters|obeyed|her|commands
+"Flora, the youngest sister,",nonrestrictive clause,FairyTree,5,Jacob_FairyTree,"Flora, the youngest sister,",17.779999,20.42,Flora|the|youngest|sister
+was sent to the forest each day,-,FairyTree,6,Jacob_FairyTree,was sent to the forest each day,21.22,22.85,was|sent|to|the|forest|each|day
+to gather wood for the kitchen fire.,infinitival clause; >maximal segment,FairyTree,7,Jacob_FairyTree,to gather wood for the kitchen fire.,22.85,24.97,to|gather|wood|for|the|kitchen|fire
+Near the edge of the forest,positioning element,FairyTree,8,Jacob_FairyTree,Near the edge of the forest,26.79,28.12,Near|the|edge|of|the|forest
+was a cave under some rocks.,>maximal segment,FairyTree,9,Jacob_FairyTree,was a cave under some rocks.,28.12,29.86,was|a|cave|under|some|rocks
+A stream of water fell over the rocks into a basin in the cave.,>maximal segment,FairyTree,10,Jacob_FairyTree,A stream of water fell over the rocks into a basin in the cave.,30.73,34.529999000000004,A|stream|of|water|fell|over|the|rocks|into|a|basin|in|the|cave
+"This was a delightfully cool spot,",-,FairyTree,11,Jacob_FairyTree,"This was a delightfully cool spot,",36.049999,38.1,This|was|a|delightfully|cool|spot
+and Flora often rested here on her way home,conjunction,FairyTree,12,Jacob_FairyTree,and Flora often rested here on her way home,38.98,42.07000000000001,and|Flora|often|rested|here|on|her|way|home
+after gathering wood in the forest.,nonfinite clause; >maximal segment,FairyTree,13,Jacob_FairyTree,after gathering wood in the forest.,42.09,44.31,after|gathering|wood|in|the|forest
+She would lie on the mossy bank of the stream for hours and dream.,>maximal segment,FairyTree,14,Jacob_FairyTree,She would lie on the mossy bank of the stream for hours and dream.,46.139999,49.7,She|would|lie|on|the|mossy|bank|of|the|stream|for|hours|and|dream
+One morning,positioning element,FairyTree,15,Jacob_FairyTree,One morning,51.23,51.97,One|morning
+"as Flora ran along the grassy path that led to the cave,",nonrestrictive clause,FairyTree,16,Jacob_FairyTree,"as Flora ran along the grassy path that led to the cave,",52.02,55.2,as|Flora|ran|along|the|grassy|path|that|led|to|the|cave
+she saw a little fish in the stream.,>maximal segment,FairyTree,17,Jacob_FairyTree,she saw a little fish in the stream.,56.04,57.91,she|saw|a|little|fish|in|the|stream
+Its scales flashed out all the colors of the rainbow.,>maximal segment,FairyTree,18,Jacob_FairyTree,Its scales flashed out all the colors of the rainbow.,59.03,62.2,Its|scales|flashed|out|all|the|colors|of|the|rainbow
+"""I am going to keep the fish for a pet,"" said the girl to herself.",>maximal segment,FairyTree,19,Jacob_FairyTree,"""I am going to keep the fish for a pet,"" said the girl to herself.",64.059999,68.25999999999999,I|am|going|to|keep|the|fish|for|a|pet|said|the|girl|to|herself
+"""I will call him Rainbow.""",>maximal segment,FairyTree,20,Jacob_FairyTree,"""I will call him Rainbow.""",69.13,70.699999,I|will|call|him|Rainbow
+"So, she caught the pretty fish and put him into the basin in the cave.",>maximal segment,FairyTree,21,Jacob_FairyTree,"So, she caught the pretty fish and put him into the basin in the cave.",72.27,75.8,So|she|caught|the|pretty|fish|and|put|him|into|the|basin|in|the|cave
+The next day,positioning element,FairyTree,22,Jacob_FairyTree,The next day,76.65,77.34,The|next|day
+Flora went to the forest for wood.,>maximal segment,FairyTree,23,Jacob_FairyTree,Flora went to the forest for wood.,77.34,79.14,Flora|went|to|the|forest|for|wood
+She carried some crumbs of bread,-,FairyTree,24,Jacob_FairyTree,She carried some crumbs of bread,80.05,81.78,She|carried|some|crumbs|of|bread
+which she had saved from her breakfast.,relative clause; >maximal segment,FairyTree,25,Jacob_FairyTree,which she had saved from her breakfast.,81.78999999999999,83.98,which|she|had|saved|from|her|breakfast
+On the way home she stopped at the cave.,>maximal segment,FairyTree,26,Jacob_FairyTree,On the way home she stopped at the cave.,85.78999999999999,88.759999,On|the|way|home|she|stopped|at|the|cave
+The fish was waiting for her.,>maximal segment,FairyTree,27,Jacob_FairyTree,The fish was waiting for her.,89.92,91.41,The|fish|was|waiting|for|her
+"He came to the edge of the basin,",-,FairyTree,28,Jacob_FairyTree,"He came to the edge of the basin,",92.66,94.53,He|came|to|the|edge|of|the|basin
+and she fed the crumbs to him.,conjunction; >maximal segment,FairyTree,29,Jacob_FairyTree,and she fed the crumbs to him.,95.36,96.88,and|she|fed|the|crumbs|to|him
+How delighted the girl was!,>maximal segment,FairyTree,30,Jacob_FairyTree,How delighted the girl was!,98.4,100.04,How|delighted|the|girl|was
+"She had been so lonely,",-,FairyTree,31,Jacob_FairyTree,"She had been so lonely,",100.929999,102.22,She|had|been|so|lonely
+and now she had a playfellow!,conjunction; >maximal segment,FairyTree,32,Jacob_FairyTree,and now she had a playfellow!,102.99,104.609999,and|now|she|had|a|playfellow
+"Every morning,",positioning element,FairyTree,33,Jacob_FairyTree,"Every morning,",106.42,107.19,Every|morning
+"instead of eating the bread which her sister gave to her,",nonrestrictive clause,FairyTree,34,Jacob_FairyTree,"instead of eating the bread which her sister gave to her,",108.02,111.13,instead|of|eating|the|bread|which|her|sister|gave|to|her
+Flora would save it and feed the crumbs to her pet.,>maximal segment,FairyTree,35,Jacob_FairyTree,Flora would save it and feed the crumbs to her pet.,112.0,114.86,Flora|would|save|it|and|feed|the|crumbs|to|her|pet
+The fish would leap,-,FairyTree,36,Jacob_FairyTree,The fish would leap,115.72,116.57,The|fish|would|leap
+to catch them.,infinitival phrase; >maximal segment,FairyTree,37,Jacob_FairyTree,to catch them.,116.599999,117.52,to|catch|them
+"""Here are some crumbs, Rainbow,"" she would say.",>maximal segment,FairyTree,38,Jacob_FairyTree,"""Here are some crumbs, Rainbow,"" she would say.",119.42,122.529999,Here|are|some|crumbs|Rainbow|she|would|say
+"""This is all today,",-,FairyTree,39,Jacob_FairyTree,"""This is all today,",123.41,124.43,This|is|all|today
+"but I will come again tomorrow.""",conjunction; >maximal segment,FairyTree,40,Jacob_FairyTree,"but I will come again tomorrow.""",125.23,126.85,but|I|will|come|again|tomorrow
+Then she would sing a little song.,>maximal segment,FairyTree,41,Jacob_FairyTree,Then she would sing a little song.,128.39,130.20000000000002,Then|she|would|sing|a|little|song
+"Flora began to grow thin,",-,FairyTree,42,Jacob_FairyTree,"Flora began to grow thin,",132.17,133.69,Flora|began|to|grow|thin
+and her sisters wondered,conjunction,FairyTree,43,Jacob_FairyTree,and her sisters wondered,134.55,135.739999,and|her|sisters|wondered
+what could be the matter.,complementizer; >maximal segment,FairyTree,44,Jacob_FairyTree,what could be the matter.,135.74,137.00999900000002,what|could|be|the|matter
+One day,positioning element,FairyTree,45,Jacob_FairyTree,One day,137.9,138.48000000000002,One|day
+the oldest sister followed her to the cave and saw her feed the crumbs of bread to the fish.,>maximal segment,FairyTree,46,Jacob_FairyTree,the oldest sister followed her to the cave and saw her feed the crumbs of bread to the fish.,138.509999,143.149999,the|oldest|sister|followed|her|to|the|cave|and|saw|her|feed|the|crumbs|of|bread|to|the|fish
+"While Flora was away in the forest,",relative clause,FairyTree,47,Jacob_FairyTree,"While Flora was away in the forest,",144.66,146.65,While|Flora|was|away|in|the|forest
+"the oldest sister caught the fish, carried him home and baked him for supper.",>maximal segment,FairyTree,48,Jacob_FairyTree,"the oldest sister caught the fish, carried him home and baked him for supper.",147.45,153.11,the|oldest|sister|caught|the|fish|carried|him|home|and|baked|him|for|supper
+The bones were buried under the kitchen fire.,>maximal segment,FairyTree,49,Jacob_FairyTree,The bones were buried under the kitchen fire.,154.59,156.98,The|bones|were|buried|under|the|kitchen|fire
+"The next morning,",positioning element,FairyTree,50,Jacob_FairyTree,"The next morning,",158.429999,159.319999,The|next|morning
+"Flora went to the cave as usual,",-,FairyTree,51,Jacob_FairyTree,"Flora went to the cave as usual,",160.129999,161.99,Flora|went|to|the|cave|as|usual
+but no fish was there.,conjunction; >maximal segment,FairyTree,52,Jacob_FairyTree,but no fish was there.,162.809999,164.11,but|no|fish|was|there
+"She sang her little song,",-,FairyTree,53,Jacob_FairyTree,"She sang her little song,",165.27,166.54999999999998,She|sang|her|little|song
+and he still did not come.,conjunction; >maximal segment,FairyTree,54,Jacob_FairyTree,and he still did not come.,167.39,168.73,and|he|still|did|not|come
+"""Rainbow cannot be dead,"" she said,",-,FairyTree,55,Jacob_FairyTree,"""Rainbow cannot be dead,"" she said,",170.24,173.04999999999998,Rainbow|cannot|be|dead|she|said
+"""for I do not see him in the water.""",conjunction; >maximal segment,FairyTree,56,Jacob_FairyTree,"""for I do not see him in the water.""",173.9,175.70000000000002,for|I|do|not|see|him|in|the|water
+Then Flora hastened home.,>maximal segment,FairyTree,57,Jacob_FairyTree,Then Flora hastened home.,177.38,178.94,Then|Flora|hastened|home
+She threw herself upon her bed and was soon fast asleep.,>maximal segment,FairyTree,58,Jacob_FairyTree,She threw herself upon her bed and was soon fast asleep.,179.84,183.82,She|threw|herself|upon|her|bed|and|was|soon|fast|asleep
+"The following morning,",positioning element,FairyTree,59,Jacob_FairyTree,"The following morning,",185.32,186.53,The|following|morning
+"a rooster flew up to Flora's window and crowed, ""Cock-a-doodle-doodle-doo!",>maximal segment,FairyTree,60,Jacob_FairyTree,"a rooster flew up to Flora's window and crowed, ""Cock-a-doodle-doodle-doo!",187.39,192.8,a|rooster|flew|up|to|Flora's|window|and|crowed|Cock|a|doodle|doodle|doo
+"The bones of Rainbow wait for you, Under the kitchen fire, too.""",>maximal segment,FairyTree,61,Jacob_FairyTree,"The bones of Rainbow wait for you, Under the kitchen fire, too.""",193.66,198.25,The|bones|of|Rainbow|wait|for|you|Under|the|kitchen|fire|too
+Flora arose at once and went downstairs.,>maximal segment,FairyTree,62,Jacob_FairyTree,Flora arose at once and went downstairs.,199.89,202.41,Flora|arose|at|once|and|went|downstairs
+"There, under the kitchen fire,",nonrestrictive clause,FairyTree,63,Jacob_FairyTree,"There, under the kitchen fire,",203.24,205.77,There|under|the|kitchen|fire
+she found the bones of her pet.,>maximal segment,FairyTree,64,Jacob_FairyTree,she found the bones of her pet.,206.52,208.13,she|found|the|bones|of|her|pet
+She wept as she gathered the bones and placed them in a box.,>maximal segment,FairyTree,65,Jacob_FairyTree,She wept as she gathered the bones and placed them in a box.,208.94,212.229999,She|wept|as|she|gathered|the|bones|and|placed|them|in|a|box
+She went to the forest and buried the box near the cave.,>maximal segment,FairyTree,66,Jacob_FairyTree,She went to the forest and buried the box near the cave.,213.92,216.65,She|went|to|the|forest|and|buried|the|box|near|the|cave
+Then Flora sat down on a mossy bank near the cave and sang this song:,>maximal segment,FairyTree,67,Jacob_FairyTree,Then Flora sat down on a mossy bank near the cave and sang this song:,217.5,221.54,Then|Flora|sat|down|on|a|mossy|bank|near|the|cave|and|sang|this|song
+"""Rainbow, Rainbow, hear my cry,",>maximal segment,FairyTree,68,Jacob_FairyTree,"""Rainbow, Rainbow, hear my cry,",222.43,224.83,Rainbow|Rainbow|hear|my|cry
+My great wish do not deny.,>maximal segment,FairyTree,69,Jacob_FairyTree,My great wish do not deny.,225.67,227.67,My|great|wish|do|not|deny
+If you can't come back to me,-,FairyTree,70,Jacob_FairyTree,If you can't come back to me,228.52,230.2,If|you|can't|come|back|to|me
+"Pray, O pray, become a tree!""","conjunction (if, then...); >maximal segment",FairyTree,71,Jacob_FairyTree,"Pray, O pray, become a tree!""",230.719999,233.75,Pray|O|pray|become|a|tree
+"As the last words of the song echoed through the cave,",positioning element,FairyTree,72,Jacob_FairyTree,"As the last words of the song echoed through the cave,",235.16,237.88,As|the|last|words|of|the|song|echoed|through|the|cave
+there sprang up a wonderful Fairy Tree beside the girl.,>maximal segment,FairyTree,73,Jacob_FairyTree,there sprang up a wonderful Fairy Tree beside the girl.,238.61,241.94,there|sprang|up|a|wonderful|Fairy|Tree|beside|the|girl
+Its trunk was of ivory.,>maximal segment,FairyTree,74,Jacob_FairyTree,Its trunk was of ivory.,243.559999,244.99,Its|trunk|was|of|ivory
+Its leaves were of silver fringed with pearls.,>maximal segment,FairyTree,75,Jacob_FairyTree,Its leaves were of silver fringed with pearls.,245.83,248.399999,Its|leaves|were|of|silver|fringed|with|pearls
+"Its flowers were gold, and its fruit gems",-,FairyTree,76,Jacob_FairyTree,"Its flowers were gold, and its fruit gems",249.219999,252.46,Its|flowers|were|gold|and|its|fruit|gems
+from which sparkled the bright colors of the rainbow.,relative clause; >maximal segment,FairyTree,77,Jacob_FairyTree,from which sparkled the bright colors of the rainbow.,252.459999,255.54,from|which|sparkled|the|bright|colors|of|the|rainbow
+One day,positioning element,FairyTree,78,Jacob_FairyTree,One day,257.21,257.86,One|day
+the summer breeze carried a leaf from the Fairy Tree,-,FairyTree,79,Jacob_FairyTree,the summer breeze carried a leaf from the Fairy Tree,257.88,260.48,the|summer|breeze|carried|a|leaf|from|the|Fairy|Tree
+across the sea to another island.,positioning element; >maximal segment,FairyTree,80,Jacob_FairyTree,across the sea to another island.,260.5,263.419999,across|the|sea|to|another|island
+It fell at the feet of the king.,>maximal segment,FairyTree,81,Jacob_FairyTree,It fell at the feet of the king.,264.53,266.389999,It|fell|at|the|feet|of|the|king
+He picked up the wonderful leaf,-,FairyTree,82,Jacob_FairyTree,He picked up the wonderful leaf,267.509999,268.999999,He|picked|up|the|wonderful|leaf
+"and said, ""I shall never rest until I find the tree from which this leaf came.""",quotation; >maximal segment,FairyTree,83,Jacob_FairyTree,"and said, ""I shall never rest until I find the tree from which this leaf came.""",269.039999,274.20000000000005,and|said|I|shall|never|rest|until|I|find|the|tree|from|which|this|leaf|came
+The king set sail with his attendants.,>maximal segment,FairyTree,84,Jacob_FairyTree,The king set sail with his attendants.,275.7,277.68,The|king|set|sail|with|his|attendants
+He soon landed on the island,-,FairyTree,85,Jacob_FairyTree,He soon landed on the island,278.46,280.2,He|soon|landed|on|the|island
+where the seven sisters lived.,relative clause; >maximal segment,FairyTree,86,Jacob_FairyTree,where the seven sisters lived.,280.2,281.87,where|the|seven|sisters|lived
+"As the king and his men were marching through the forest,",nonrestrictive clause,FairyTree,87,Jacob_FairyTree,"As the king and his men were marching through the forest,",283.54,286.03,As|the|king|and|his|men|were|marching|through|the|forest
+they found the Fairy Tree,-,FairyTree,88,Jacob_FairyTree,they found the Fairy Tree,286.799999,287.90000000000003,they|found|the|Fairy|Tree
+growing at the entrance to the cave.,nonfinite clause; >maximal segment,FairyTree,89,Jacob_FairyTree,growing at the entrance to the cave.,287.9,289.74,growing|at|the|entrance|to|the|cave
+The king tried,-,FairyTree,90,Jacob_FairyTree,The king tried,290.61,291.26,The|king|tried
+"to pick some of the leaves,",infinitival phrase,FairyTree,91,Jacob_FairyTree,"to pick some of the leaves,",291.26,292.43,to|pick|some|of|the|leaves
+but he could not.,conjunction; >maximal segment,FairyTree,92,Jacob_FairyTree,but he could not.,293.23,294.21000000000004,but|he|could|not
+Then he heard the sweet voice of a girl.,>maximal segment,FairyTree,93,Jacob_FairyTree,Then he heard the sweet voice of a girl.,295.63,297.56,Then|he|heard|the|sweet|voice|of|a|girl
+"She was singing, ""Rainbow, Rainbow, speak to me!",>maximal segment,FairyTree,94,Jacob_FairyTree,"She was singing, ""Rainbow, Rainbow, speak to me!",298.44,302.909999,She|was|singing|Rainbow|Rainbow|speak|to|me
+"Bend your branches, Fairy Tree!""",>maximal segment,FairyTree,95,Jacob_FairyTree,"Bend your branches, Fairy Tree!""",303.7,306.45,Bend|your|branches|Fairy|Tree
+And Flora came,-,FairyTree,96,Jacob_FairyTree,And Flora came,308.0,308.75,And|Flora|came
+tripping along the grassy path that led to the cave.,nonfinite clause; >maximal segment,FairyTree,97,Jacob_FairyTree,tripping along the grassy path that led to the cave.,308.75,311.45,tripping|along|the|grassy|path|that|led|to|the|cave
+"The king said, ""Fair maiden, if you can pick a leaf or a flower from this tree,",-,FairyTree,98,Jacob_FairyTree,"The king said, ""Fair maiden, if you can pick a leaf or a flower from this tree,",312.23,318.29,The|king|said|Fair|maiden|if|you|can|pick|a|leaf|or|a|flower|from|this|tree
+"you shall be my queen.""","conjunction (if, then...); >maximal segment",FairyTree,99,Jacob_FairyTree,"you shall be my queen.""",319.059999,320.44,you|shall|be|my|queen
+"As Flora reached to pick a flower,",nonrestrictive clause,FairyTree,100,Jacob_FairyTree,"As Flora reached to pick a flower,",321.92,323.689999,As|Flora|reached|to|pick|a|flower
+"the tree bowed low,",-,FairyTree,101,Jacob_FairyTree,"the tree bowed low,",324.459999,325.77000000000004,the|tree|bowed|low
+and every leaf trembled with delight.,conjunction; >maximal segment,FairyTree,102,Jacob_FairyTree,and every leaf trembled with delight.,326.55,328.66,and|every|leaf|trembled|with|delight
+The maiden at once presented the flower to the king.,>maximal segment,FairyTree,103,Jacob_FairyTree,The maiden at once presented the flower to the king.,329.77,332.63,The|maiden|at|once|presented|the|flower|to|the|king
+"As he took the flower,",nonrestrictive clause,FairyTree,104,Jacob_FairyTree,"As he took the flower,",333.8,334.94,As|he|took|the|flower
+"the king exclaimed, ""To you belongs the Fairy Tree;",>maximal segment,FairyTree,105,Jacob_FairyTree,"the king exclaimed, ""To you belongs the Fairy Tree;",335.71,339.64,the|king|exclaimed|To|you|belongs|the|Fairy|Tree
+"Pray be my bride and rule with me.""",>maximal segment,FairyTree,106,Jacob_FairyTree,"Pray be my bride and rule with me.""",340.709999,343.02,Pray|be|my|bride|and|rule|with|me
+"Flora thought she must be dreaming,",-,FairyTree,107,Jacob_FairyTree,"Flora thought she must be dreaming,",344.12,345.97,Flora|thought|she|must|be|dreaming
+but they were married the next day,conjunction,FairyTree,108,Jacob_FairyTree,but they were married the next day,346.99,348.79,but|they|were|married|the|next|day
+beneath the branches of the Fairy Tree.,positioning element; >maximal segment,FairyTree,109,Jacob_FairyTree,beneath the branches of the Fairy Tree.,349.28,351.61,beneath|the|branches|of|the|Fairy|Tree

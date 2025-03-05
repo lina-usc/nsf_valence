@@ -1,0 +1,159 @@
+segment,reason,story,idx,audio,segment_raw,onset,offset,words
+The text message said,-,BulliesPronoun,0,Allison_BulliesPronouns,The text message said,3.78,5.06,The|text|message|said
+that Lucy Josephs was a failure.,complementizer; >maximal segment,BulliesPronoun,1,Allison_BulliesPronouns,that Lucy Josephs was a failure.,5.09,7.09,that|Lucy|Josephs|was|a|failure
+It said,-,BulliesPronoun,2,Allison_BulliesPronouns,It said,8.13,8.53,It|said
+"she was ugly, had no style and the world hated her.",complementizer; >maximal segment,BulliesPronoun,3,Allison_BulliesPronouns,"she was ugly, had no style and the world hated her.",8.53,12.17,she|was|ugly|had|no|style|and|the|world|hated|her
+At least that was what it said to her.,>maximal segment,BulliesPronoun,4,Allison_BulliesPronouns,At least that was what it said to her.,13.28,15.799999,At|least|that|was|what|it|said|to|her
+It said that and a whole lot more,-,BulliesPronoun,5,Allison_BulliesPronouns,It said that and a whole lot more,16.459999,18.67,It|said|that|and|a|whole|lot|more
+that she was struggling to understand.,relative clause; >maximal segment,BulliesPronoun,6,Allison_BulliesPronouns,that she was struggling to understand.,18.99,20.63,that|she|was|struggling|to|understand
+The actual text of the note said,-,BulliesPronoun,7,Allison_BulliesPronouns,The actual text of the note said,21.54,23.36,The|actual|text|of|the|note|said
+"that she better not show up at the party tonight,",complementizer,BulliesPronoun,8,Allison_BulliesPronouns,"that she better not show up at the party tonight,",23.36,25.77,that|she|better|not|show|up|at|the|party|tonight
+because it was going,conjunction,BulliesPronoun,9,Allison_BulliesPronouns,because it was going,26.22,26.99,because|it|was|going
+to be bad enough already!,infinitival phrase; >maximal segment,BulliesPronoun,10,Allison_BulliesPronouns,to be bad enough already!,27.0,28.4,to|be|bad|enough|already
+"Lucy, who had started receiving these messages a few weeks ago,",relative clause,BulliesPronoun,11,Allison_BulliesPronouns,"Lucy, who had started receiving these messages a few weeks ago,",29.41,33.12,Lucy|who|had|started|receiving|these|messages|a|few|weeks|ago
+tapped the mobile screen,-,BulliesPronoun,12,Allison_BulliesPronouns,tapped the mobile screen,33.549999,34.84,tapped|the|mobile|screen
+to make the message disappear from view.,infinitival clause; >maximal segment,BulliesPronoun,13,Allison_BulliesPronouns,to make the message disappear from view.,35.029999000000004,36.93,to|make|the|message|disappear|from|view
+She only wished,-,BulliesPronoun,14,Allison_BulliesPronouns,She only wished,37.8,38.77,She|only|wished
+it was as easy,complementizer,BulliesPronoun,15,Allison_BulliesPronouns,it was as easy,39.03,39.85,it|was|as|easy
+to tap her heart and erase the trace the message had left there.,infinitival phrase; >maximal segment,BulliesPronoun,16,Allison_BulliesPronouns,to tap her heart and erase the trace the message had left there.,39.85,43.86000000000001,to|tap|her|heart|and|erase|the|trace|the|message|had|left|there
+"'Was that another one of those messages?' her mom asked,",-,BulliesPronoun,17,Allison_BulliesPronouns,"'Was that another one of those messages?' her mom asked,",43.86000000000001,48.14,'Was|that|another|one|of|those|messages|'|her|mom|asked
+who was driving the car.,relative clause / positioning element; >maximal segment,BulliesPronoun,18,Allison_BulliesPronouns,who was driving the car.,48.49,49.5,who|was|driving|the|car
+She confirmed,-,BulliesPronoun,19,Allison_BulliesPronouns,She confirmed,50.11,50.8,She|confirmed
+her mother's suspicion was founded,complementizer,BulliesPronoun,20,Allison_BulliesPronouns,her mother's suspicion was founded,50.799999,52.769999,her|mother's|suspicion|was|founded
+"as she answered dejectedly, 'I'm sorry to say it was.'",conjunction; >maximal segment,BulliesPronoun,21,Allison_BulliesPronouns,"as she answered dejectedly, 'I'm sorry to say it was.'",52.789999,56.92,as|she|answered|dejectedly|'I'm|sorry|to|say|it|was|'
+"'Haven't you reported it yet?' asked Jill,",-,BulliesPronoun,22,Allison_BulliesPronouns,"'Haven't you reported it yet?' asked Jill,",56.92,59.54,'Haven't|you|reported|it|yet|'|asked|Jill
+her older sister,nonrestrictive clause,BulliesPronoun,23,Allison_BulliesPronouns,her older sister,59.8,60.84,her|older|sister
+who was sitting in the passenger seat.,relative clause; >maximal segment,BulliesPronoun,24,Allison_BulliesPronouns,who was sitting in the passenger seat.,60.85,62.59,who|was|sitting|in|the|passenger|seat
+"'Yes,' she replied,",-,BulliesPronoun,25,Allison_BulliesPronouns,"'Yes,' she replied,",63.34,64.59,'Yes|'|she|replied
+lying through her teeth.,nonfinite clause; >maximal segment,BulliesPronoun,26,Allison_BulliesPronouns,lying through her teeth.,64.66,66.01,lying|through|her|teeth
+That she should not let the messages get to her,-,BulliesPronoun,27,Allison_BulliesPronouns,That she should not let the messages get to her,66.53,68.91,That|she|should|not|let|the|messages|get|to|her
+and that the sender was only jealous,conjunction / relative clause,BulliesPronoun,28,Allison_BulliesPronouns,and that the sender was only jealous,69.33,71.629999,and|that|the|sender|was|only|jealous
+"were her mom's arguments,",-,BulliesPronoun,29,Allison_BulliesPronouns,"were her mom's arguments,",71.869999,73.37,were|her|mom's|arguments
+in an effort,nonrestrictive clause,BulliesPronoun,30,Allison_BulliesPronouns,in an effort,73.9,74.51,in|an|effort
+to comfort her daughter.,infinitival phrase; >maximal segment,BulliesPronoun,31,Allison_BulliesPronouns,to comfort her daughter.,74.51,75.57,to|comfort|her|daughter
+"Her mom suddenly felt guilty,",-,BulliesPronoun,32,Allison_BulliesPronouns,"Her mom suddenly felt guilty,",76.46,78.10000000000001,Her|mom|suddenly|felt|guilty
+for she had been the one,conjunction,BulliesPronoun,33,Allison_BulliesPronouns,for she had been the one,78.49,79.63000000000001,for|she|had|been|the|one
+to buy the phone for her,infinitival phrase,BulliesPronoun,34,Allison_BulliesPronouns,to buy the phone for her,79.63,80.80999999999999,to|buy|the|phone|for|her
+just a couple of months ago.,positioning element - temporal information; >maximal segment,BulliesPronoun,35,Allison_BulliesPronouns,just a couple of months ago.,81.12,82.5,just|a|couple|of|months|ago
+She then admitted,-,BulliesPronoun,36,Allison_BulliesPronouns,She then admitted,83.429999,84.31,She|then|admitted
+her regret about the phone was still bugging her out loud,complementizer,BulliesPronoun,37,Allison_BulliesPronouns,her regret about the phone was still bugging her out loud,84.309999,87.47999999999999,her|regret|about|the|phone|was|still|bugging|her|out|loud
+"as she sighed, 'I never should have given you that phone Lucy.'",conjunction / quotation; >maximal segment,BulliesPronoun,38,Allison_BulliesPronouns,"as she sighed, 'I never should have given you that phone Lucy.'",87.87,92.59,as|she|sighed|'I|never|should|have|given|you|that|phone|Lucy|'
+"'No, it's fine. I love it,' she said,",-,BulliesPronoun,39,Allison_BulliesPronouns,"'No, it's fine. I love it,' she said,",92.59,95.64,'No|it's|fine|I|love|it|'|she|said
+knowing that,>minimal segment,BulliesPronoun,40,Allison_BulliesPronouns,knowing that,95.64,96.13,knowing|that
+affording the phone had been no small thing for her mother.,nonfinite clause; >maximal segment,BulliesPronoun,41,Allison_BulliesPronouns,affording the phone had been no small thing for her mother.,96.13,99.13,affording|the|phone|had|been|no|small|thing|for|her|mother
+It had been nothing but trouble though.,>maximal segment,BulliesPronoun,42,Allison_BulliesPronouns,It had been nothing but trouble though.,99.76,101.35,It|had|been|nothing|but|trouble|though
+She did not know who it was,-,BulliesPronoun,43,Allison_BulliesPronouns,She did not know who it was,102.25,103.76,She|did|not|know|who|it|was
+"that was sending her the messages,",complementizer,BulliesPronoun,44,Allison_BulliesPronouns,"that was sending her the messages,",103.94,105.48,that|was|sending|her|the|messages
+and she did not know,conjunction,BulliesPronoun,45,Allison_BulliesPronouns,and she did not know,105.839999,106.93,and|she|did|not|know
+"how they had got her number,",relative clause,BulliesPronoun,46,Allison_BulliesPronouns,"how they had got her number,",106.940001,108.81,how|they|had|got|her|number
+"but whoever it was,",conjunction / relative clause,BulliesPronoun,47,Allison_BulliesPronouns,"but whoever it was,",110.09,111.26,but|whoever|it|was
+he or she had slowly taken over her life.,>maximal segment,BulliesPronoun,48,Allison_BulliesPronouns,he or she had slowly taken over her life.,111.58,114.78,he|or|she|had|slowly|taken|over|her|life
+"She was getting several texts a day now,",-,BulliesPronoun,49,Allison_BulliesPronouns,"She was getting several texts a day now,",115.79,118.619999,She|was|getting|several|texts|a|day|now
+all of which were abusive and hurtful.,nonrestrictive clause; >maximal segment,BulliesPronoun,50,Allison_BulliesPronouns,all of which were abusive and hurtful.,118.679999,120.939999,all|of|which|were|abusive|and|hurtful
+She wondered,-,BulliesPronoun,51,Allison_BulliesPronouns,She wondered,121.9,122.44,She|wondered
+what the person,complementizer,BulliesPronoun,52,Allison_BulliesPronouns,what the person,122.44,123.109999,what|the|person
+who was messaging her,relative clause,BulliesPronoun,53,Allison_BulliesPronouns,who was messaging her,123.12,124.15,who|was|messaging|her
+might be thinking or trying,-,BulliesPronoun,54,Allison_BulliesPronouns,might be thinking or trying,124.52,125.92,might|be|thinking|or|trying
+to achieve with all of their hateful messages.,infinitival clause; >maximal segment,BulliesPronoun,55,Allison_BulliesPronouns,to achieve with all of their hateful messages.,125.92,129.06,to|achieve|with|all|of|their|hateful|messages
+"As the car pulled up outside the school,",-,BulliesPronoun,56,Allison_BulliesPronouns,"As the car pulled up outside the school,",130.29,132.5,As|the|car|pulled|up|outside|the|school
+"which looked like a large shadow in the darkness of a November evening,",relative clause,BulliesPronoun,57,Allison_BulliesPronouns,"which looked like a large shadow in the darkness of a November evening,",132.86,136.44,which|looked|like|a|large|shadow|in|the|darkness|of|a|November|evening
+she felt a shiver run down her spine.,>maximal segment,BulliesPronoun,58,Allison_BulliesPronouns,she felt a shiver run down her spine.,136.889999,139.119999,she|felt|a|shiver|run|down|her|spine
+"Hastened by Jill,",-,BulliesPronoun,59,Allison_BulliesPronouns,"Hastened by Jill,",139.96,141.12,Hastened|by|Jill
+"who did not want to be late to her own concert,",relative clause,BulliesPronoun,60,Allison_BulliesPronouns,"who did not want to be late to her own concert,",141.589999,144.27,who|did|not|want|to|be|late|to|her|own|concert
+she hesitantly stepped out of the car and walked toward the school.,>maximal segment,BulliesPronoun,61,Allison_BulliesPronouns,she hesitantly stepped out of the car and walked toward the school.,144.8,148.87,she|hesitantly|stepped|out|of|the|car|and|walked|toward|the|school
+It was Jill,-,BulliesPronoun,62,Allison_BulliesPronouns,It was Jill,149.97,150.75,It|was|Jill
+who in her final year of high school,relative clause / nonrestrictive clause,BulliesPronoun,63,Allison_BulliesPronouns,who in her final year of high school,151.07,153.09,who|in|her|final|year|of|high|school
+"had become involved in helping organize this year's school talent show,",relative clause cont.,BulliesPronoun,64,Allison_BulliesPronouns,"had become involved in helping organize this year's school talent show,",153.44,158.189999,had|become|involved|in|helping|organize|this|year's|school|talent|show
+and she took her position very seriously.,conjunction; >maximal segment,BulliesPronoun,65,Allison_BulliesPronouns,and she took her position very seriously.,158.65,161.13999900000002,and|she|took|her|position|very|seriously
+"She hurried behind Jill,",-,BulliesPronoun,66,Allison_BulliesPronouns,"She hurried behind Jill,",162.23,163.57,She|hurried|behind|Jill
+"pulling on the worn, oversized coat",nonfinite clause,BulliesPronoun,67,Allison_BulliesPronouns,"pulling on the worn, oversized coat",163.96,166.25,pulling|on|the|worn|oversized|coat
+"that had originally belonged to Jill,",relative clause,BulliesPronoun,68,Allison_BulliesPronouns,"that had originally belonged to Jill,",166.67,168.36,that|had|originally|belonged|to|Jill
+in order to keep her dry,infinitival clause,BulliesPronoun,69,Allison_BulliesPronouns,in order to keep her dry,168.77,170.21,in|order|to|keep|her|dry
+as the raindrops fell all around them.,conjunction; >maximal segment,BulliesPronoun,70,Allison_BulliesPronouns,as the raindrops fell all around them.,170.55,172.43,as|the|raindrops|fell|all|around|them
+As the sisters entered the hall,-,BulliesPronoun,71,Allison_BulliesPronouns,As the sisters entered the hall,173.25,174.98,As|the|sisters|entered|the|hall
+"where the show was to take place,",relative clause / positioning element,BulliesPronoun,72,Allison_BulliesPronouns,"where the show was to take place,",174.98,176.61,where|the|show|was|to|take|place
+Jill filled with excitement,novel information,BulliesPronoun,73,Allison_BulliesPronouns,Jill filled with excitement,177.009999,178.689999,Jill|filled|with|excitement
+while she regretted,conjunction,BulliesPronoun,74,Allison_BulliesPronouns,while she regretted,178.98,179.899999,while|she|regretted
+that she had promised her mother,complementizer,BulliesPronoun,75,Allison_BulliesPronouns,that she had promised her mother,179.91,181.5,that|she|had|promised|her|mother
+she would participate in the show.,complementizer (that...); >maximal segment,BulliesPronoun,76,Allison_BulliesPronouns,she would participate in the show.,181.89,183.45,she|would|participate|in|the|show
+"'To waste your talent would be a real shame,",quotation,BulliesPronoun,77,Allison_BulliesPronouns,"'To waste your talent would be a real shame,",183.49,187.02,'To|waste|your|talent|would|be|a|real|shame
+"for you have such a beautiful voice,'",conjunction; end quotation,BulliesPronoun,78,Allison_BulliesPronouns,"for you have such a beautiful voice,'",187.41,189.15,for|you|have|such|a|beautiful|voice|'
+"her mother had argued two months back,",positioning element,BulliesPronoun,79,Allison_BulliesPronouns,"her mother had argued two months back,",189.15,191.189999,her|mother|had|argued|two|months|back
+when the concert was first announced.,relative clause; >maximal segment,BulliesPronoun,80,Allison_BulliesPronouns,when the concert was first announced.,191.63,193.55,when|the|concert|was|first|announced
+"She had been considering it,",-,BulliesPronoun,81,Allison_BulliesPronouns,"She had been considering it,",194.2,195.599999,She|had|been|considering|it
+for she did love to sing.,conjunction; >maximal segment,BulliesPronoun,82,Allison_BulliesPronouns,for she did love to sing.,195.98,197.46,for|she|did|love|to|sing
+"That very night,",positioning element,BulliesPronoun,83,Allison_BulliesPronouns,"That very night,",198.119999,199.03,That|very|night
+the first text message had come through.,>maximal segment,BulliesPronoun,84,Allison_BulliesPronouns,the first text message had come through.,199.27,201.25,the|first|text|message|had|come|through
+'How does it feel,quotation,BulliesPronoun,85,Allison_BulliesPronouns,'How does it feel,201.95,202.76,'How|does|it|feel
+"to be tall and lanky like a giraffe?' it had asked,",infinitival phrase / quotation,BulliesPronoun,86,Allison_BulliesPronouns,"to be tall and lanky like a giraffe?' it had asked,",202.76,206.51,to|be|tall|and|lanky|like|a|giraffe|'|it|had|asked
+taking her by surprise.,nonfinite clause; >maximal segment,BulliesPronoun,87,Allison_BulliesPronouns,taking her by surprise.,206.94,208.39,taking|her|by|surprise
+"One of the popular girls, she had always known she wasn't,",-,BulliesPronoun,88,Allison_BulliesPronouns,"One of the popular girls, she had always known she wasn't,",208.94,212.99,One|of|the|popular|girls|she|had|always|known|she|wasn't
+"but before the messages began,",conjunction / positioning element,BulliesPronoun,89,Allison_BulliesPronouns,"but before the messages began,",213.48,215.3,but|before|the|messages|began
+she had always been quite prou,conjunction cont.,BulliesPronoun,90,Allison_BulliesPronouns,she had always been quite prou,215.83,217.21,she|had|always|been|quite|prou
+of being a little different.,nonfinite clause; >maximal segment,BulliesPronoun,91,Allison_BulliesPronouns,of being a little different.,217.57,219.44,of|being|a|little|different
+"But text by text, her self-confidence had deflated",-,BulliesPronoun,92,Allison_BulliesPronouns,"But text by text, her self-confidence had deflated",220.4,224.58,But|text|by|text|her|self|confidence|had|deflated
+"and, in the end,",positioning element,BulliesPronoun,93,Allison_BulliesPronouns,"and, in the end,",225.32,226.31,and|in|the|end
+it had taken some doing,-,BulliesPronoun,94,Allison_BulliesPronouns,it had taken some doing,226.809999,228.27,it|had|taken|some|doing
+to get he,infinitival phrase,BulliesPronoun,95,Allison_BulliesPronouns,to get he,228.3,228.659999,to|get|he
+to agree,infinitival phrase,BulliesPronoun,96,Allison_BulliesPronouns,to agree,228.66,229.54,to|agree
+to perform in the show.,>maximal segment; infinitival phrase,BulliesPronoun,97,Allison_BulliesPronouns,to perform in the show.,229.559999,230.96,to|perform|in|the|show
+"Now, however,",positioning element / nonrestrictive clause (minimal segment),BulliesPronoun,98,Allison_BulliesPronouns,"Now, however,",231.57,232.859999,Now|however
+she had no choice,-,BulliesPronoun,99,Allison_BulliesPronouns,she had no choice,233.289999,234.6,she|had|no|choice
+but to make her way towards the stage,conjunction,BulliesPronoun,100,Allison_BulliesPronouns,but to make her way towards the stage,234.889999,237.34,but|to|make|her|way|towards|the|stage
+where Jill was beckoning encouragingly to her.,relative clause; >maximal segment,BulliesPronoun,101,Allison_BulliesPronouns,where Jill was beckoning encouragingly to her.,237.66,240.97,where|Jill|was|beckoning|encouragingly|to|her
+She was the first performer.,>maximal segment,BulliesPronoun,102,Allison_BulliesPronouns,She was the first performer.,241.5,242.999999,She|was|the|first|performer
+"Announced by her sister to the audience,",nonrestrictive clause,BulliesPronoun,103,Allison_BulliesPronouns,"Announced by her sister to the audience,",243.66,245.93,Announced|by|her|sister|to|the|audience
+she was all nerves,-,BulliesPronoun,104,Allison_BulliesPronouns,she was all nerves,246.349999,247.409999,she|was|all|nerves
+"as she walked out onto the middle of the stage,",conjunction,BulliesPronoun,105,Allison_BulliesPronouns,"as she walked out onto the middle of the stage,",247.44,249.979999,as|she|walked|out|onto|the|middle|of|the|stage
+where there was nothing but a microphone and her.,relative clause; >maximal segment,BulliesPronoun,106,Allison_BulliesPronouns,where there was nothing but a microphone and her.,250.43,252.98,where|there|was|nothing|but|a|microphone|and|her
+She heard the audience applaud and could feel a sense of anticipation emanate from the other side of the heavy curtain.,>maximal segment,BulliesPronoun,107,Allison_BulliesPronouns,She heard the audience applaud and could feel a sense of anticipation emanate from the other side of the heavy curtain.,253.36,259.96,She|heard|the|audience|applaud|and|could|feel|a|sense|of|anticipation|emanate|from|the|other|side|of|the|heavy|curtain
+"As the curtains began to part,",nonrestrictive clause,BulliesPronoun,108,Allison_BulliesPronouns,"As the curtains began to part,",260.46,262.03,As|the|curtains|began|to|part
+"she cast a worried look at Jill in the wings,",-,BulliesPronoun,109,Allison_BulliesPronouns,"she cast a worried look at Jill in the wings,",262.25,264.99,she|cast|a|worried|look|at|Jill|in|the|wings
+who assured her with a positive thumbs up.,relative clause; >maximal segment,BulliesPronoun,110,Allison_BulliesPronouns,who assured her with a positive thumbs up.,265.4,267.71,who|assured|her|with|a|positive|thumbs|up
+She thought to herself,-,BulliesPronoun,111,Allison_BulliesPronouns,She thought to herself,268.27,269.42,She|thought|to|herself
+that she could not go through with this,complementizer,BulliesPronoun,112,Allison_BulliesPronouns,that she could not go through with this,269.65,271.33,that|she|could|not|go|through|with|this
+"and that she,",conjunction,BulliesPronoun,113,Allison_BulliesPronouns,"and that she,",271.54,272.42,and|that|she
+"unlike her older sister,",nonrestrictive clause,BulliesPronoun,114,Allison_BulliesPronouns,"unlike her older sister,",272.58,273.98,unlike|her|older|sister
+was not confident enough,conjunction cont.,BulliesPronoun,115,Allison_BulliesPronouns,was not confident enough,274.31,275.69,was|not|confident|enough
+to put herself before the judging audience.,infinitival phrase; >maximal segment,BulliesPronoun,116,Allison_BulliesPronouns,to put herself before the judging audience.,276.04,278.45000000000005,to|put|herself|before|the|judging|audience
+The crowd looked up at her,-,BulliesPronoun,117,Allison_BulliesPronouns,The crowd looked up at her,279.04,280.32,The|crowd|looked|up|at|her
+and she was ready,conjunction,BulliesPronoun,118,Allison_BulliesPronouns,and she was ready,280.73,281.459999,and|she|was|ready
+to run,infinitival phrase,BulliesPronoun,119,Allison_BulliesPronouns,to run,281.46,282.01,to|run
+when the first notes of the music sounded out,relative clause,BulliesPronoun,120,Allison_BulliesPronouns,when the first notes of the music sounded out,282.27,284.61,when|the|first|notes|of|the|music|sounded|out
+and a sudden calm settled over her.,conjunction; >maximal segment,BulliesPronoun,121,Allison_BulliesPronouns,and a sudden calm settled over her.,284.929999,287.09,and|a|sudden|calm|settled|over|her
+"She closed her eyes and shut everything out,",-,BulliesPronoun,122,Allison_BulliesPronouns,"She closed her eyes and shut everything out,",287.57,290.42,She|closed|her|eyes|and|shut|everything|out
+"including the audience, the nerves",-,BulliesPronoun,123,Allison_BulliesPronouns,"including the audience, the nerves",290.71,292.7,including|the|audience|the|nerves
+that threatened,relative clause,BulliesPronoun,124,Allison_BulliesPronouns,that threatened,292.7,293.26,that|threatened
+"to take over,",infinitival phrase,BulliesPronoun,125,Allison_BulliesPronouns,"to take over,",293.26,293.94,to|take|over
+"the text messages, and the way",-,BulliesPronoun,126,Allison_BulliesPronouns,"the text messages, and the way",294.3,296.54,the|text|messages|and|the|way
+they made her feel.,relative clause (that...); >maximal segment,BulliesPronoun,127,Allison_BulliesPronouns,they made her feel.,296.54,297.52000000000004,they|made|her|feel
+"It was just her and the music,",-,BulliesPronoun,128,Allison_BulliesPronouns,"It was just her and the music,",298.16,300.039999,It|was|just|her|and|the|music
+and it was a love story,conjunction,BulliesPronoun,129,Allison_BulliesPronouns,and it was a love story,300.389999,301.61,and|it|was|a|love|story
+that had been going on her whole life.,relative clause; >maximal segment,BulliesPronoun,130,Allison_BulliesPronouns,that had been going on her whole life.,301.61,304.23999999999995,that|had|been|going|on|her|whole|life
+"She began to sing,",-,BulliesPronoun,131,Allison_BulliesPronouns,"She began to sing,",304.84,305.94,She|began|to|sing
+and all the pain and confusion,conjunction,BulliesPronoun,132,Allison_BulliesPronouns,and all the pain and confusion,306.369999,308.09,and|all|the|pain|and|confusion
+that the messages had been causing inside her,relative clause,BulliesPronoun,133,Allison_BulliesPronouns,that the messages had been causing inside her,308.31,310.33,that|the|messages|had|been|causing|inside|her
+just flowed out.,conjunction cont.; >maximal segment,BulliesPronoun,134,Allison_BulliesPronouns,just flowed out.,310.74,311.75,just|flowed|out
+"The words were not important,",-,BulliesPronoun,135,Allison_BulliesPronouns,"The words were not important,",312.43,313.87,The|words|were|not|important
+for it was the feeling behind them,conjunction,BulliesPronoun,136,Allison_BulliesPronouns,for it was the feeling behind them,314.3,315.85,for|it|was|the|feeling|behind|them
+that she latched onto.,complementizer; >maximal segment,BulliesPronoun,137,Allison_BulliesPronouns,that she latched onto.,316.17,317.379999,that|she|latched|onto
+She was in the heart of the song,-,BulliesPronoun,138,Allison_BulliesPronouns,She was in the heart of the song,318.09,319.47,She|was|in|the|heart|of|the|song
+with the rest of the world slipping away.,nonfinite clause; >maximal segment,BulliesPronoun,139,Allison_BulliesPronouns,with the rest of the world slipping away.,319.799999,321.67,with|the|rest|of|the|world|slipping|away
+When the song finished,relative clause,BulliesPronoun,140,Allison_BulliesPronouns,When the song finished,322.16,323.249999,When|the|song|finished
+"and the last note died away,",conjunction,BulliesPronoun,141,Allison_BulliesPronouns,"and the last note died away,",323.46999900000003,325.02,and|the|last|note|died|away
+she opened her eyes.,>maximal segment,BulliesPronoun,142,Allison_BulliesPronouns,she opened her eyes.,325.37,326.53000000000003,she|opened|her|eyes
+To see the whole audience on their feet and the hall filled with cheers and applause,infinitival phrase,BulliesPronoun,143,Allison_BulliesPronouns,To see the whole audience on their feet and the hall filled with cheers and applause,327.11,331.71000000000004,To|see|the|whole|audience|on|their|feet|and|the|hall|filled|with|cheers|and|applause
+was not what she had expected.,conjunction; >maximal segment,BulliesPronoun,144,Allison_BulliesPronouns,was not what she had expected.,331.96,333.53,was|not|what|she|had|expected
+She allowed herself,-,BulliesPronoun,145,Allison_BulliesPronouns,She allowed herself,334.13,335.08,She|allowed|herself
+to enjoy the sense of achievement and belonging,infinitival phrase,BulliesPronoun,146,Allison_BulliesPronouns,to enjoy the sense of achievement and belonging,335.08,337.3,to|enjoy|the|sense|of|achievement|and|belonging
+that she had not felt in a very long time.,complementizer; >maximal segment,BulliesPronoun,147,Allison_BulliesPronouns,that she had not felt in a very long time.,337.639999,339.67,that|she|had|not|felt|in|a|very|long|time
+"Then she saw her mother,",-,BulliesPronoun,148,Allison_BulliesPronouns,"Then she saw her mother,",340.129999,341.249999,Then|she|saw|her|mother
+"who was cheering the loudest of all in the crowd,",relative clause,BulliesPronoun,149,Allison_BulliesPronouns,"who was cheering the loudest of all in the crowd,",341.58,343.65000000000003,who|was|cheering|the|loudest|of|all|in|the|crowd
+"and Jill,",conjunction,BulliesPronoun,150,Allison_BulliesPronouns,"and Jill,",344.16,344.71000000000004,and|Jill
+who was beaming at her with pride from the wings.,relative clause; >maximal segment,BulliesPronoun,151,Allison_BulliesPronouns,who was beaming at her with pride from the wings.,345.07,347.46,who|was|beaming|at|her|with|pride|from|the|wings
+She knew she owed them big time for reminding her,-,BulliesPronoun,152,Allison_BulliesPronouns,She knew she owed them big time for reminding her,347.91,350.679999,She|knew|she|owed|them|big|time|for|reminding|her
+what she was capable of,complementizer,BulliesPronoun,153,Allison_BulliesPronouns,what she was capable of,350.98,352.39000000000004,what|she|was|capable|of
+and who she really was.,complementizer; >maximal segment,BulliesPronoun,154,Allison_BulliesPronouns,and who she really was.,352.66,353.96999900000003,and|who|she|really|was
+The next time her phone bleeped,positioning element,BulliesPronoun,155,Allison_BulliesPronouns,The next time her phone bleeped,354.44,355.91,The|next|time|her|phone|bleeped
+she would tap the message straight into oblivion,-,BulliesPronoun,156,Allison_BulliesPronouns,she would tap the message straight into oblivion,356.29,358.849999,she|would|tap|the|message|straight|into|oblivion
+where it belonged.,relative clause; >maximal segment,BulliesPronoun,157,Allison_BulliesPronouns,where it belonged.,358.9,359.859999,where|it|belonged

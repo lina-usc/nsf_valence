@@ -1,0 +1,148 @@
+segment,reason,story,idx,audio,segment_raw,onset,offset,words
+A clear and joyous day it was,positioning element,Aqua,0,Brandi_Aqua,A clear and joyous day it was,6.06,7.72,A|clear|and|joyous|day|it|was
+"and out on the wide open sea,",positioning element,Aqua,1,Brandi_Aqua,"and out on the wide open sea,",7.75,9.41,and|out|on|the|wide|open|sea
+"thousands upon thousands of sparkling water drops,",-,Aqua,2,Brandi_Aqua,"thousands upon thousands of sparkling water drops,",9.44,12.2,thousands|upon|thousands|of|sparkling|water|drops
+excited by,nonrestrictive clause,Aqua,3,Brandi_Aqua,excited by,12.83,13.51,excited|by
+"getting to play in the ocean,",nonfinite clause,Aqua,4,Brandi_Aqua,"getting to play in the ocean,",13.509999,14.819999,getting|to|play|in|the|ocean
+danced all around.,>maximal segment,Aqua,5,Brandi_Aqua,danced all around.,14.92,16.05,danced|all|around
+"One of these was a merry little fellow named Aqua,",-,Aqua,6,Brandi_Aqua,"One of these was a merry little fellow named Aqua,",17.209999,19.85,One|of|these|was|a|merry|little|fellow|named|Aqua
+who danced on the silver backs of the fishes,relative clause,Aqua,7,Brandi_Aqua,who danced on the silver backs of the fishes,19.89,22.04,who|danced|on|the|silver|backs|of|the|fishes
+"as they plunged up and down in the waves,",conjunction,Aqua,8,Brandi_Aqua,"as they plunged up and down in the waves,",22.07,24.04,as|they|plunged|up|and|down|in|the|waves
+"and, no matter how high he sprung,",conjunction / nonrestrictive clause,Aqua,9,Brandi_Aqua,"and, no matter how high he sprung,",24.62,26.6,and|no|matter|how|high|he|sprung
+he always came down again into his mother's lap.,conjunction cont.; >maximal segment,Aqua,10,Brandi_Aqua,he always came down again into his mother's lap.,27.15,29.51,he|always|came|down|again|into|his|mother's|lap
+"His mother, you know, was the ocean,",-,Aqua,11,Brandi_Aqua,"His mother, you know, was the ocean,",30.21,32.059999,His|mother|you|know|was|the|ocean
+and very beautiful she looked,conjunction,Aqua,12,Brandi_Aqua,and very beautiful she looked,32.75,34.13999999999999,and|very|beautiful|she|looked
+that summer day,positioning element,Aqua,13,Brandi_Aqua,that summer day,34.15,34.980000000000004,that|summer|day
+in her dark blue dress and white ruffles.,>maximal segment,Aqua,14,Brandi_Aqua,in her dark blue dress and white ruffles.,34.980000000000004,37.340001,in|her|dark|blue|dress|and|white|ruffles
+"By and by,",positioning element,Aqua,15,Brandi_Aqua,"By and by,",38.11,38.86,By|and|by
+"the happy water drop tired of his play,",narrative advancement,Aqua,16,Brandi_Aqua,"the happy water drop tired of his play,",38.89,40.98,the|happy|water|drop|tired|of|his|play
+"and looking up to the clear sky above him,",conjunction / nonfinite clause,Aqua,17,Brandi_Aqua,"and looking up to the clear sky above him,",41.37,43.37,and|looking|up|to|the|clear|sky|above|him
+"thought he would like to have a sail on one of the white, marshmallow-like clouds,",conjunction cont.,Aqua,18,Brandi_Aqua,"thought he would like to have a sail on one of the white, marshmallow-like clouds,",43.96,48.010000000000005,thought|he|would|like|to|have|a|sail|on|one|of|the|white|marshmallow|like|clouds
+instead of spending his whole life in the ocean.,conjunction / nonfinite clause; >maximal segment,Aqua,19,Brandi_Aqua,instead of spending his whole life in the ocean.,48.04,50.399999,instead|of|spending|his|whole|life|in|the|ocean
+"Of the sky, little Aqua had always been afraid,",-,Aqua,20,Brandi_Aqua,"Of the sky, little Aqua had always been afraid,",51.259999,53.9,Of|the|sky|little|Aqua|had|always|been|afraid
+but he decided,conjunction,Aqua,21,Brandi_Aqua,but he decided,54.52,55.220000000000006,but|he|decided
+to finally face his demons,infinitival phrase,Aqua,22,Brandi_Aqua,to finally face his demons,55.22,56.76,to|finally|face|his|demons
+and suggested a solution,conjunction,Aqua,23,Brandi_Aqua,and suggested a solution,56.79,58.14,and|suggested|a|solution
+involving the sun,nonfinite clause,Aqua,24,Brandi_Aqua,involving the sun,58.18,59.23,involving|the|sun
+carrying him up to the sky would be ideal.,nonfinite clause; >maximal segment,Aqua,25,Brandi_Aqua,carrying him up to the sky would be ideal.,59.23,61.440000000000005,carrying|him|up|to|the|sky|would|be|ideal
+The sun understood,-,Aqua,26,Brandi_Aqua,The sun understood,62.42,63.319999,The|sun|understood
+"Aqua's request came from his heart,",complementizer (that...),Aqua,27,Brandi_Aqua,"Aqua's request came from his heart,",63.719999,65.12,Aqua's|request|came|from|his|heart
+"so he acquiesced and also took ever so many other drops,",conjunction,Aqua,28,Brandi_Aqua,"so he acquiesced and also took ever so many other drops,",65.719999,69.489999,so|he|acquiesced|and|also|took|ever|so|many|other|drops
+so that Aqua might not be lonesome on the way.,conjunction; >maximal segment,Aqua,29,Brandi_Aqua,so that Aqua might not be lonesome on the way.,70.129999,72.33999899999999,so|that|Aqua|might|not|be|lonesome|on|the|way
+It was only the sun,-,Aqua,30,Brandi_Aqua,It was only the sun,73.57,74.61,It|was|only|the|sun
+"that knew this, however,",relative clause,Aqua,31,Brandi_Aqua,"that knew this, however,",74.61,75.69,that|knew|this|however
+for all the other drops had been changed into fine mist or vapor,conjunction,Aqua,32,Brandi_Aqua,for all the other drops had been changed into fine mist or vapor,76.34,79.77,for|all|the|other|drops|had|been|changed|into|fine|mist|or|vapor
+and Aqua could not see them.,conjunction; >maximal segment,Aqua,33,Brandi_Aqua,and Aqua could not see them.,79.84,81.27,and|Aqua|could|not|see|them
+Do you know what vapor is?,>maximal segment,Aqua,34,Brandi_Aqua,Do you know what vapor is?,82.28999999999999,83.85,Do|you|know|what|vapor|is
+"If you breathe into the air,",-,Aqua,35,Brandi_Aqua,"If you breathe into the air,",84.599999,85.93,If|you|breathe|into|the|air
+"when it is cold enough,",relative clause,Aqua,36,Brandi_Aqua,"when it is cold enough,",85.95,87.03,when|it|is|cold|enough
+you will see it,-,Aqua,37,Brandi_Aqua,you will see it,87.559999,88.12,you|will|see|it
+coming out of your mouth thick and fast like steam.,nonfinite clause; >maximal segment,Aqua,38,Brandi_Aqua,coming out of your mouth thick and fast like steam.,88.119999,91.14,coming|out|of|your|mouth|thick|and|fast|like|steam
+"When the vapor is quite near the earth,",relative clause,Aqua,39,Brandi_Aqua,"When the vapor is quite near the earth,",92.7,94.43,When|the|vapor|is|quite|near|the|earth
+we call it 'fog'.,>maximal segment,Aqua,40,Brandi_Aqua,we call it 'fog'.,94.49,97.16,we|call|it|'fog'
+Into vapor the water drops,-,Aqua,41,Brandi_Aqua,Into vapor the water drops,97.16,98.66,Into|vapor|the|water|drops
+that danced in the ocean,relative clause,Aqua,42,Brandi_Aqua,that danced in the ocean,98.66,99.79,that|danced|in|the|ocean
+"had been changed,",-,Aqua,43,Brandi_Aqua,"had been changed,",99.8,100.71,had|been|changed
+because in their own shape they were too heavy for the sunbeams,conjunction,Aqua,44,Brandi_Aqua,because in their own shape they were too heavy for the sunbeams,101.219999,104.36,because|in|their|own|shape|they|were|too|heavy|for|the|sunbeams
+that the sun let out,relative clause,Aqua,45,Brandi_Aqua,that the sun let out,104.36,105.289999,that|the|sun|let|out
+to carry.,infinitival phrase; >maximal segment,Aqua,46,Brandi_Aqua,to carry.,105.309999,105.88,to|carry
+"Higher and higher they sailed,",-,Aqua,47,Brandi_Aqua,"Higher and higher they sailed,",107.799999,109.29,Higher|and|higher|they|sailed
+"and though it was grand,",conjunction / nonrestrictive clause,Aqua,48,Brandi_Aqua,"and though it was grand,",109.91,111.07,and|though|it|was|grand
+"Aqua and his friends were like fish out of water,",conjunction cont.,Aqua,49,Brandi_Aqua,"Aqua and his friends were like fish out of water,",111.38,113.75,Aqua|and|his|friends|were|like|fish|out|of|water
+so they grew quite dizzy.,conjunction; >maximal segment,Aqua,50,Brandi_Aqua,so they grew quite dizzy.,114.39,115.74,so|they|grew|quite|dizzy
+They enjoyed,-,Aqua,51,Brandi_Aqua,They enjoyed,116.67,117.33,They|enjoyed
+"looking down on the world below,",nonfinite clause,Aqua,52,Brandi_Aqua,"looking down on the world below,",117.33,118.78,looking|down|on|the|world|below
+"while the wind scattered them across the four corners of the earth,",conjunction,Aqua,53,Brandi_Aqua,"while the wind scattered them across the four corners of the earth,",119.41,122.24,while|the|wind|scattered|them|across|the|four|corners|of|the|earth
+but after a while it grew nearly time for the sun,conjunction,Aqua,54,Brandi_Aqua,but after a while it grew nearly time for the sun,122.86,125.68,but|after|a|while|it|grew|nearly|time|for|the|sun
+to go to bed.,infinitival phrase; >maximal segment,Aqua,55,Brandi_Aqua,to go to bed.,125.68,126.48,to|go|to|bed
+"He became very red in the face,",-,Aqua,56,Brandi_Aqua,"He became very red in the face,",127.15,128.9,He|became|very|red|in|the|face
+"and began to sink lower and lower,",conjunction,Aqua,57,Brandi_Aqua,"and began to sink lower and lower,",128.93,131.12,and|began|to|sink|lower|and|lower
+until suddenly he went clear out of sight!,conjunction; >maximal segment,Aqua,58,Brandi_Aqua,until suddenly he went clear out of sight!,131.15,134.06,until|suddenly|he|went|clear|out|of|sight
+"Poor little Aqua,",-,Aqua,59,Brandi_Aqua,"Poor little Aqua,",135.17,136.22,Poor|little|Aqua
+"frightened by the impending cold and darkness,",nonrestrictive clause,Aqua,60,Brandi_Aqua,"frightened by the impending cold and darkness,",136.82,139.17000000000002,frightened|by|the|impending|cold|and|darkness
+"wished he could sleep not in the sky, but somewhere closer to earth.",>maximal segment,Aqua,61,Brandi_Aqua,"wished he could sleep not in the sky, but somewhere closer to earth.",139.75,143.84,wished|he|could|sleep|not|in|the|sky|but|somewhere|closer|to|earth
+Then Aqua heard the wind blow and conjectured,-,Aqua,62,Brandi_Aqua,Then Aqua heard the wind blow and conjectured,145.31,148.31,Then|Aqua|heard|the|wind|blow|and|conjectured
+that maybe the wind could take him back down to the ocean.,complementizer; >maximal segment,Aqua,63,Brandi_Aqua,that maybe the wind could take him back down to the ocean.,148.34,151.17,that|maybe|the|wind|could|take|him|back|down|to|the|ocean
+"Indeed, the wind took pity on him and fanned him,",-,Aqua,64,Brandi_Aqua,"Indeed, the wind took pity on him and fanned him,",152.639999,155.4,Indeed|the|wind|took|pity|on|him|and|fanned|him
+"together with all of his brothers and sisters,",nonrestrictive clause,Aqua,65,Brandi_Aqua,"together with all of his brothers and sisters,",155.5,157.779999,together|with|all|of|his|brothers|and|sisters
+"into a heavy gray cloud,",-,Aqua,66,Brandi_Aqua,"into a heavy gray cloud,",158.38,159.79999999999998,into|a|heavy|gray|cloud
+after which he blew them apart and told them,conjunction,Aqua,67,Brandi_Aqua,after which he blew them apart and told them,160.43,162.459999,after|which|he|blew|them|apart|and|told|them
+"to hurry down,",infinitival phrase,Aqua,68,Brandi_Aqua,"to hurry down,",162.46,163.41,to|hurry|down
+"fast and furious to the earth,",nonrestrictive clause,Aqua,69,Brandi_Aqua,"fast and furious to the earth,",163.43,165.12,fast|and|furious|to|the|earth
+so they could have a fighting chance of reaching the ocean.,conjunction; >maximal segment,Aqua,70,Brandi_Aqua,so they could have a fighting chance of reaching the ocean.,165.71,168.39,so|they|could|have|a|fighting|chance|of|reaching|the|ocean
+"Down they went,",positioning element,Aqua,71,Brandi_Aqua,"Down they went,",170.21,171.04,Down|they|went
+rolling over each other,nonfinite clause,Aqua,72,Brandi_Aqua,rolling over each other,171.61,172.66,rolling|over|each|other
+"until with a patter and clatter and spatter they touched the ground,",conjunction,Aqua,73,Brandi_Aqua,"until with a patter and clatter and spatter they touched the ground,",172.66,176.319999,until|with|a|patter|and|clatter|and|spatter|they|touched|the|ground
+and all the people,conjunction,Aqua,74,Brandi_Aqua,and all the people,177.5,178.34,and|all|the|people
+that the raindrops fell on,relative clause,Aqua,75,Brandi_Aqua,that the raindrops fell on,178.34,179.63,that|the|raindrops|fell|on
+"cried, 'It's raining', and took out their umbrellas.",>maximal segment,Aqua,76,Brandi_Aqua,"cried, 'It's raining', and took out their umbrellas.",179.629999,183.05,cried|'It's|raining'|and|took|out|their|umbrellas
+Some of the drops,-,Aqua,77,Brandi_Aqua,Some of the drops,184.71,185.64,Some|of|the|drops
+"that were the most fortunate,",relative clause,Aqua,78,Brandi_Aqua,"that were the most fortunate,",185.64,186.81,that|were|the|most|fortunate
+"including Aqua,",nonrestrictive clause,Aqua,79,Brandi_Aqua,"including Aqua,",186.89,187.91,including|Aqua
+"fell on a mountainside,",-,Aqua,80,Brandi_Aqua,"fell on a mountainside,",188.46,189.7,fell|on|a|mountainside
+and down the rocky cliff they ran.,conjunction; >maximal segment,Aqua,81,Brandi_Aqua,and down the rocky cliff they ran.,189.719999,191.46,and|down|the|rocky|cliff|they|ran
+"Together they plunged into a mountain brook,",-,Aqua,82,Brandi_Aqua,"Together they plunged into a mountain brook,",192.57,194.619999,Together|they|plunged|into|a|mountain|brook
+"which came foaming and dashing along,",relative clause / nonfinite clause,Aqua,83,Brandi_Aqua,"which came foaming and dashing along,",195.429999,197.389999,which|came|foaming|and|dashing|along
+leaping over rocks,nonfinite clause,Aqua,84,Brandi_Aqua,leaping over rocks,198.049999,199.06,leaping|over|rocks
+"and rushing down the hillside,",nonfinite clause,Aqua,85,Brandi_Aqua,"and rushing down the hillside,",199.06,200.55,and|rushing|down|the|hillside
+until in the valley below,conjunction / positioning element,Aqua,86,Brandi_Aqua,until in the valley below,201.64,202.84,until|in|the|valley|below
+they heard the strangest clattering noise.,>maximal segment,Aqua,87,Brandi_Aqua,they heard the strangest clattering noise.,202.84,204.82,they|heard|the|strangest|clattering|noise
+The little water drops were then able,-,Aqua,88,Brandi_Aqua,The little water drops were then able,206.83,208.69,The|little|water|drops|were|then|able
+to make out a flour mill,infinitival phrase,Aqua,89,Brandi_Aqua,to make out a flour mill,208.69,210.0,to|make|out|a|flour|mill
+that was standing on the bank.,relative clause; >maximal segment,Aqua,90,Brandi_Aqua,that was standing on the bank.,210.599999,211.96,that|was|standing|on|the|bank
+"Inside the mill,",positioning element,Aqua,91,Brandi_Aqua,"Inside the mill,",213.2,214.099999,Inside|the|mill
+"the water drops saw two great stones,",-,Aqua,92,Brandi_Aqua,"the water drops saw two great stones,",214.66,217.07,the|water|drops|saw|two|great|stones
+which the big wheel kept whizzing round and round.,relative clause; >maximal segment,Aqua,93,Brandi_Aqua,which the big wheel kept whizzing round and round.,217.71,220.54,which|the|big|wheel|kept|whizzing|round|and|round
+"The stones,",-,Aqua,94,Brandi_Aqua,"The stones,",221.62,222.42,The|stones
+"smoothed by the spinning,",nonrestrictive clause,Aqua,95,Brandi_Aqua,"smoothed by the spinning,",222.46,223.79,smoothed|by|the|spinning
+were busy,-,Aqua,96,Brandi_Aqua,were busy,224.12,224.61,were|busy
+grinding the wheat into flour and the corn into golden meal.,nonfinite clause; >maximal segment,Aqua,97,Brandi_Aqua,grinding the wheat into flour and the corn into golden meal.,224.61,227.93,grinding|the|wheat|into|flour|and|the|corn|into|golden|meal
+But what giant do you suppose it was,-,Aqua,98,Brandi_Aqua,But what giant do you suppose it was,229.549999,231.66,But|what|giant|do|you|suppose|it|was
+who could turn and swing that tremendous wheel?,relative clause; >maximal segment,Aqua,99,Brandi_Aqua,who could turn and swing that tremendous wheel?,231.66,233.919999,who|could|turn|and|swing|that|tremendous|wheel
+No giant at all.,>maximal segment,Aqua,100,Brandi_Aqua,No giant at all.,235.08,236.37,No|giant|at|all
+"It was just our tiny little water drops,",-,Aqua,101,Brandi_Aqua,"It was just our tiny little water drops,",236.98,239.34,It|was|just|our|tiny|little|water|drops
+"who sprang on it by hundreds and thousands, and whirled it over and over.",relative clause; >maximal segment,Aqua,102,Brandi_Aqua,"who sprang on it by hundreds and thousands, and whirled it over and over.",239.38,243.49,who|sprang|on|it|by|hundreds|and|thousands|and|whirled|it|over|and|over
+It was lucky for the water drops,-,Aqua,103,Brandi_Aqua,It was lucky for the water drops,244.76,246.349999,It|was|lucky|for|the|water|drops
+that the brook,complementizer,Aqua,104,Brandi_Aqua,that the brook,246.599999,247.15,that|the|brook
+where they were swimming,relative clause,Aqua,105,Brandi_Aqua,where they were swimming,247.15,247.99,where|they|were|swimming
+next emptied into a beautiful pond,-,Aqua,106,Brandi_Aqua,next emptied into a beautiful pond,247.99,250.14,next|emptied|into|a|beautiful|pond
+where ducks and geese were living peacefully.,relative clause; >maximal segment,Aqua,107,Brandi_Aqua,where ducks and geese were living peacefully.,250.190001,252.21,where|ducks|and|geese|were|living|peacefully
+"Aqua liked to play hide-and-seek in this pond,",-,Aqua,108,Brandi_Aqua,"Aqua liked to play hide-and-seek in this pond,",253.85,256.08,Aqua|liked|to|play|hide|and|seek|in|this|pond
+and it was his brother water drop,conjunction,Aqua,109,Brandi_Aqua,and it was his brother water drop,256.47,258.05,and|it|was|his|brother|water|drop
+who he fooled,relative clause,Aqua,110,Brandi_Aqua,who he fooled,258.06,258.69,who|he|fooled
+by swimming to a big pool of water,nonfinite clause,Aqua,111,Brandi_Aqua,by swimming to a big pool of water,258.7,260.64,by|swimming|to|a|big|pool|of|water
+"and pretending to hide there,",nonfinite clause,Aqua,112,Brandi_Aqua,"and pretending to hide there,",260.67,262.049999,and|pretending|to|hide|there
+but then sneaking under a rock into an obscured little puddle.,conjunction; >maximal segment,Aqua,113,Brandi_Aqua,but then sneaking under a rock into an obscured little puddle.,262.179999,265.93,but|then|sneaking|under|a|rock|into|an|obscured|little|puddle
+His brother had blatantly peaked and even followed Aqua,-,Aqua,114,Brandi_Aqua,His brother had blatantly peaked and even followed Aqua,267.24,270.08,His|brother|had|blatantly|peaked|and|even|followed|Aqua
+"as he entered the big pool of water,",conjunction,Aqua,115,Brandi_Aqua,"as he entered the big pool of water,",270.08,271.75,as|he|entered|the|big|pool|of|water
+"so when he searched there and could not find him,",conjunction / relative clause,Aqua,116,Brandi_Aqua,"so when he searched there and could not find him,",272.45,274.51000000000005,so|when|he|searched|there|and|could|not|find|him
+he was extremely surprised and gave up.,conjunction cont.; >maximal segment,Aqua,117,Brandi_Aqua,he was extremely surprised and gave up.,275.08,277.08000000000004,he|was|extremely|surprised|and|gave|up
+"Aqua liked this pond where he could play all day,",-,Aqua,118,Brandi_Aqua,"Aqua liked this pond where he could play all day,",278.559999,281.239999,Aqua|liked|this|pond|where|he|could|play|all|day
+"so he stayed a good while,",conjunction,Aqua,119,Brandi_Aqua,"so he stayed a good while,",281.82,283.2,so|he|stayed|a|good|while
+"sailing up and down,",nonfinite clause,Aqua,120,Brandi_Aqua,"sailing up and down,",283.74,285.179999,sailing|up|and|down
+"taking the ducks' backs for ships and the frogs for horses,",nonfinite clause,Aqua,121,Brandi_Aqua,"taking the ducks' backs for ships and the frogs for horses,",285.83,289.08,taking|the|ducks'|backs|for|ships|and|the|frogs|for|horses
+but after a time he tired of the dull life],conjunction,Aqua,122,Brandi_Aqua,but after a time he tired of the dull life],289.89,293.66,but|after|a|time|he|tired|of|the|dull|life]
+"and he and his brothers floated under a bridge for a long distance,",conjunction,Aqua,123,Brandi_Aqua,"and he and his brothers floated under a bridge for a long distance,",293.66,296.87,and|he|and|his|brothers|floated|under|a|bridge|for|a|long|distance
+until they saw another brook tumbling down a hillside.,conjunction; >maximal segment,Aqua,124,Brandi_Aqua,until they saw another brook tumbling down a hillside.,297.51,300.649999,until|they|saw|another|brook|tumbling|down|a|hillside
+"'Come, let's join hands!' cried Aqua",quotation,Aqua,125,Brandi_Aqua,"'Come, let's join hands!' cried Aqua",302.12,305.589999,'Come|let's|join|hands|'|cried|Aqua
+"and because the water drops were all together,",conjunction / nonrestrictive clause,Aqua,126,Brandi_Aqua,"and because the water drops were all together,",306.16,308.03,and|because|the|water|drops|were|all|together
+overcoming the brook was child's play.,conjunction cont. / nonfinite clause; >maximal segment,Aqua,127,Brandi_Aqua,overcoming the brook was child's play.,308.65,310.5,overcoming|the|brook|was|child's|play
+It was by the help of Aqua and his brothers,-,Aqua,128,Brandi_Aqua,It was by the help of Aqua and his brothers,311.86,313.99,It|was|by|the|help|of|Aqua|and|his|brothers
+that the bewitching river was able,complementizer,Aqua,129,Brandi_Aqua,that the bewitching river was able,314.52,315.96000000000004,that|the|bewitching|river|was|able
+"to float heavy ships,",infinitival phrase,Aqua,130,Brandi_Aqua,"to float heavy ships,",315.96,317.31,to|float|heavy|ships
+though not so long ago,positioning element,Aqua,131,Brandi_Aqua,though not so long ago,318.17,319.34000000000003,though|not|so|long|ago
+it was only a little stream.,>maximal segment,Aqua,132,Brandi_Aqua,it was only a little stream.,319.34,320.73999999999995,it|was|only|a|little|stream
+As the river grew wider,-,Aqua,133,Brandi_Aqua,As the river grew wider,322.71999900000003,324.109999,As|the|river|grew|wider
+"and he could almost see the ocean,",conjunction / nonrestrictive clause,Aqua,134,Brandi_Aqua,"and he could almost see the ocean,",324.629999,326.21000000000004,and|he|could|almost|see|the|ocean
+Aqua realized,-,Aqua,135,Brandi_Aqua,Aqua realized,326.84,327.6,Aqua|realized
+his journey was almost over,complementizer (that...),Aqua,136,Brandi_Aqua,his journey was almost over,327.6,329.03000000000003,his|journey|was|almost|over
+and he had come full circle.,conjunction; >maximal segment,Aqua,137,Brandi_Aqua,and he had come full circle.,329.03,330.46000000000004,and|he|had|come|full|circle
+"Back in the ocean,",positioning element,Aqua,138,Brandi_Aqua,"Back in the ocean,",331.51,332.44,Back|in|the|ocean
+he felt right at home.,>maximal segment,Aqua,139,Brandi_Aqua,he felt right at home.,332.45,333.68,he|felt|right|at|home
+"For him, this was the safest, sweetest place in the whole wide world.",>maximal segment,Aqua,140,Brandi_Aqua,"For him, this was the safest, sweetest place in the whole wide world.",334.38,338.519999,For|him|this|was|the|safest|sweetest|place|in|the|whole|wide|world
+"During the warm summer evenings,",positioning element,Aqua,141,Brandi_Aqua,"During the warm summer evenings,",339.46,341.05,During|the|warm|summer|evenings
+"if you take a walk on the sea beach,",-,Aqua,142,Brandi_Aqua,"if you take a walk on the sea beach,",341.59,343.52,if|you|take|a|walk|on|the|sea|beach
+you will hear the gentle rippling swash of the waves,"conjunction (if, then...)",Aqua,143,Brandi_Aqua,you will hear the gentle rippling swash of the waves,343.49,347.68,you|will|hear|the|gentle|rippling|swash|of|the|waves
+and some say,conjunction,Aqua,144,Brandi_Aqua,and some say,348.86,349.66,and|some|say
+that it must be the gurgling voices of Aqua and his brother water drops,complementizer,Aqua,145,Brandi_Aqua,that it must be the gurgling voices of Aqua and his brother water drops,350.19,353.83,that|it|must|be|the|gurgling|voices|of|Aqua|and|his|brother|water|drops
+telling each other about their wonderful journey around the world.,nonfinite clause; >maximal segment,Aqua,146,Brandi_Aqua,telling each other about their wonderful journey around the world.,355.0,358.119999,telling|each|other|about|their|wonderful|journey|around|the|world

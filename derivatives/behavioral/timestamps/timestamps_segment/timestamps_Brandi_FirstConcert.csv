@@ -1,0 +1,119 @@
+segment,reason,story,idx,audio,segment_raw,onset,offset,words
+"The most popular teen band was coming to town,",-,FirstConcert,0,Brandi_FirstConcert,"The most popular teen band was coming to town,",7.45,10.06,The|most|popular|teen|band|was|coming|to|town
+and both Alex and his twin sister Amanda really wanted,conjunction,FirstConcert,1,Brandi_FirstConcert,and both Alex and his twin sister Amanda really wanted,10.06,13.519999,and|both|Alex|and|his|twin|sister|Amanda|really|wanted
+to go to the concert.,infinitival phrase; >maximal segment,FirstConcert,2,Brandi_FirstConcert,to go to the concert.,13.52,14.69,to|go|to|the|concert
+They had never been to a concert,-,FirstConcert,3,Brandi_FirstConcert,They had never been to a concert,16.02,17.54,They|had|never|been|to|a|concert
+because their parents' rule was,conjunction,FirstConcert,4,Brandi_FirstConcert,because their parents' rule was,17.539999,18.979999,because|their|parents'|rule|was
+that you must be in sixth grade to go to a concert.,complementizer; >maximal segment,FirstConcert,5,Brandi_FirstConcert,that you must be in sixth grade to go to a concert.,18.98,21.85,that|you|must|be|in|sixth|grade|to|go|to|a|concert
+Alex and Amanda were only in fifth grade.,>maximal segment,FirstConcert,6,Brandi_FirstConcert,Alex and Amanda were only in fifth grade.,21.85,25.75,Alex|and|Amanda|were|only|in|fifth|grade
+"""Please, Mom and Dad.",>maximal segment,FirstConcert,7,Brandi_FirstConcert,"""Please, Mom and Dad.",27.809999,29.08,Please|Mom|and|Dad
+"We will do anything if you let us go,"" they begged their parents.",quotation; >maximal segment,FirstConcert,8,Brandi_FirstConcert,"We will do anything if you let us go,"" they begged their parents.",29.09,18.520000000000003,We|will|do|anything|if|you|let|us|go|they|begged|their|parents
+"Their two older sisters had both been to concerts before,",-,FirstConcert,9,Brandi_FirstConcert,"Their two older sisters had both been to concerts before,",35.109999,38.010000000000005,Their|two|older|sisters|had|both|been|to|concerts|before
+and always talked about how great it is,conjunction,FirstConcert,10,Brandi_FirstConcert,and always talked about how great it is,38.010000000000005,39.82,and|always|talked|about|how|great|it|is
+to experience live music.,infinitival clause; >maximal segment,FirstConcert,11,Brandi_FirstConcert,to experience live music.,39.82,41.32,to|experience|live|music
+"""Is there any possibility we can go?",>maximal segment,FirstConcert,12,Brandi_FirstConcert,"""Is there any possibility we can go?",43.38,45.73,Is|there|any|possibility|we|can|go
+The production is supposed,-,FirstConcert,13,Brandi_FirstConcert,The production is supposed,46.76,47.91,The|production|is|supposed
+to be amazing with lots of special effects.,infinitival phrase; >maximal segment,FirstConcert,14,Brandi_FirstConcert,to be amazing with lots of special effects.,47.92,50.81,to|be|amazing|with|lots|of|special|effects
+It is going,quotation,FirstConcert,15,Brandi_FirstConcert,It is going,51.83,52.279999,It|is|going
+"to be the band's best show yet,",infinitival phrase,FirstConcert,16,Brandi_FirstConcert,"to be the band's best show yet,",52.279999,54.290000000000006,to|be|the|band's|best|show|yet
+and they aren't going,conjunction,FirstConcert,17,Brandi_FirstConcert,and they aren't going,54.290000000000006,55.59,and|they|aren't|going
+"to tour again for three years,"" explained Alex with excitement.",infinitival phrase; >maximal segment,FirstConcert,18,Brandi_FirstConcert,"to tour again for three years,"" explained Alex with excitement.",55.59,60.42,to|tour|again|for|three|years|explained|Alex|with|excitement
+"""All of our friends are going,"" added Amanda.",>maximal segment,FirstConcert,19,Brandi_FirstConcert,"""All of our friends are going,"" added Amanda.",62.38,65.78,All|of|our|friends|are|going|added|Amanda
+Their mom and dad said,-,FirstConcert,20,Brandi_FirstConcert,Their mom and dad said,68.45,69.619999,Their|mom|and|dad|said
+"they would think about it,",complementizer (that...),FirstConcert,21,Brandi_FirstConcert,"they would think about it,",69.62,70.79999899999999,they|would|think|about|it
+and asked Alex and Amanda,conjunction,FirstConcert,22,Brandi_FirstConcert,and asked Alex and Amanda,70.79999899999999,72.72,and|asked|Alex|and|Amanda
+not to bring it up again until they had time,infinitival phrase,FirstConcert,23,Brandi_FirstConcert,not to bring it up again until they had time,72.72,74.83,not|to|bring|it|up|again|until|they|had|time
+to consider it.,infinitival phrase; >maximal segment,FirstConcert,24,Brandi_FirstConcert,to consider it.,74.83,75.67,to|consider|it
+"Alex and Amanda agreed,",-,FirstConcert,25,Brandi_FirstConcert,"Alex and Amanda agreed,",75.67,79.00999999999999,Alex|and|Amanda|agreed
+and said,conjunction,FirstConcert,26,Brandi_FirstConcert,and said,79.00999999999999,80.19,and|said
+they would not pester their parents.,complementizer (that...); >maximal segment,FirstConcert,27,Brandi_FirstConcert,they would not pester their parents.,80.2,33.689999,they|would|not|pester|their|parents
+It was very difficult for them though.,>maximal segment,FirstConcert,28,Brandi_FirstConcert,It was very difficult for them though.,83.3,85.06,It|was|very|difficult|for|them|though
+"After about a week's time,",positioning element,FirstConcert,29,Brandi_FirstConcert,"After about a week's time,",87.389999,88.80000000000001,After|about|a|week's|time
+their parents brought the subject of the concert up at dinner.,>maximal segment,FirstConcert,30,Brandi_FirstConcert,their parents brought the subject of the concert up at dinner.,88.799999,91.71,their|parents|brought|the|subject|of|the|concert|up|at|dinner
+They said,-,FirstConcert,31,Brandi_FirstConcert,They said,93.55,93.96,They|said
+they would reconsider their rule about,complementizer (that...),FirstConcert,32,Brandi_FirstConcert,they would reconsider their rule about,93.96,95.7,they|would|reconsider|their|rule|about
+having to be in the sixth grade with a couple of conditions.,nonfinite clause; >maximal segment,FirstConcert,33,Brandi_FirstConcert,having to be in the sixth grade with a couple of conditions.,95.71,98.91,having|to|be|in|the|sixth|grade|with|a|couple|of|conditions
+Alex and Amanda were thrilled.,>maximal segment,FirstConcert,34,Brandi_FirstConcert,Alex and Amanda were thrilled.,98.91,102.25,Alex|and|Amanda|were|thrilled
+They both jumped up from the table,-,FirstConcert,35,Brandi_FirstConcert,They both jumped up from the table,103.349999,104.91,They|both|jumped|up|from|the|table
+to hug their mom and dad.,infinitival clause; >maximal segment,FirstConcert,36,Brandi_FirstConcert,to hug their mom and dad.,104.91,106.35,to|hug|their|mom|and|dad
+"""You are the best!"" they screamed",-,FirstConcert,37,Brandi_FirstConcert,"""You are the best!"" they screamed",107.549999,109.99,You|are|the|best|they|screamed
+as they hugged their parents.,conjunction; >maximal segment,FirstConcert,38,Brandi_FirstConcert,as they hugged their parents.,109.99,89.399999,as|they|hugged|their|parents
+"""Slow down,"" said their dad.",>maximal segment,FirstConcert,39,Brandi_FirstConcert,"""Slow down,"" said their dad.",113.11,115.41,Slow|down|said|their|dad
+"""You haven't even heard the conditions yet.""",>maximal segment,FirstConcert,40,Brandi_FirstConcert,"""You haven't even heard the conditions yet.""",116.3,118.509999,You|haven't|even|heard|the|conditions|yet
+Alex and Amanda listened patiently,-,FirstConcert,41,Brandi_FirstConcert,Alex and Amanda listened patiently,118.509999,122.78,Alex|and|Amanda|listened|patiently
+as their dad went over the conditions.,conjunction; >maximal segment,FirstConcert,42,Brandi_FirstConcert,as their dad went over the conditions.,122.78,124.7,as|their|dad|went|over|the|conditions
+"""First, work very hard",-,FirstConcert,43,Brandi_FirstConcert,"""First, work very hard",124.7,129.11,First|work|very|hard
+and get an A on your next book report.,conjunction; >maximal segment,FirstConcert,44,Brandi_FirstConcert,and get an A on your next book report.,129.11,131.28,and|get|an|A|on|your|next|book|report
+"Second, pay for the concert ticket yourself.",>maximal segment,FirstConcert,45,Brandi_FirstConcert,"Second, pay for the concert ticket yourself.",132.56,136.23,Second|pay|for|the|concert|ticket|yourself
+"Third, find a responsible adult",-,FirstConcert,46,Brandi_FirstConcert,"Third, find a responsible adult",138.009999,141.11,Third|find|a|responsible|adult
+to drive and go to the concert with you,infinitival phrase,FirstConcert,47,Brandi_FirstConcert,to drive and go to the concert with you,141.12,143.07999900000002,to|drive|and|go|to|the|concert|with|you
+"because Mom and I have a charity dinner that night.""",conjunction; >maximal segment,FirstConcert,48,Brandi_FirstConcert,"because Mom and I have a charity dinner that night.""",144.15,146.829999,because|Mom|and|I|have|a|charity|dinner|that|night
+Alex and Amanda smiled at each other,-,FirstConcert,49,Brandi_FirstConcert,Alex and Amanda smiled at each other,146.829999,151.36,Alex|and|Amanda|smiled|at|each|other
+because they knew,conjunction,FirstConcert,50,Brandi_FirstConcert,because they knew,151.37,152.05,because|they|knew
+they could easily cover the first two conditions.,complementizer; >maximal segment,FirstConcert,51,Brandi_FirstConcert,they could easily cover the first two conditions.,152.05,154.73,they|could|easily|cover|the|first|two|conditions
+The only problem was finding an adult,-,FirstConcert,52,Brandi_FirstConcert,The only problem was finding an adult,156.2,158.21,The|only|problem|was|finding|an|adult
+to go to the concert with them.,infinitival phrase; >maximal segment,FirstConcert,53,Brandi_FirstConcert,to go to the concert with them.,158.219999,159.76000000000002,to|go|to|the|concert|with|them
+"Then a thought occurred to Amanda,",-,FirstConcert,54,Brandi_FirstConcert,"Then a thought occurred to Amanda,",161.209999,163.15,Then|a|thought|occurred|to|Amanda
+and she looked across the table at her oldest sister.,conjunction; >maximal segment,FirstConcert,55,Brandi_FirstConcert,and she looked across the table at her oldest sister.,163.15,165.86,and|she|looked|across|the|table|at|her|oldest|sister
+"""Andrea, you could go with us.",quotation; >maximal segment,FirstConcert,56,Brandi_FirstConcert,"""Andrea, you could go with us.",168.24,170.24,Andrea|you|could|go|with|us
+You are 18 years old,quotation,FirstConcert,57,Brandi_FirstConcert,You are 18 years old,171.179999,172.48,You|are|18|years|old
+"which makes you an adult,",relative clause / quotation,FirstConcert,58,Brandi_FirstConcert,"which makes you an adult,",172.48,173.739999,which|makes|you|an|adult
+"and you are responsible,"" Amanda said with a pleading look in her eyes.",conjunction / quotation; >maximal segment,FirstConcert,59,Brandi_FirstConcert,"and you are responsible,"" Amanda said with a pleading look in her eyes.",173.739999,180.34,and|you|are|responsible|Amanda|said|with|a|pleading|look|in|her|eyes
+Andrea thought about it for a couple of minutes.,>maximal segment,FirstConcert,60,Brandi_FirstConcert,Andrea thought about it for a couple of minutes.,182.27,184.69,Andrea|thought|about|it|for|a|couple|of|minutes
+"Then she said, ""I guess I could help my youngest siblings out,",-,FirstConcert,61,Brandi_FirstConcert,"Then she said, ""I guess I could help my youngest siblings out,",185.72,190.93,Then|she|said|I|guess|I|could|help|my|youngest|siblings|out
+but I also have a condition.,conjunction; >maximal segment,FirstConcert,62,Brandi_FirstConcert,but I also have a condition.,191.67,193.72,but|I|also|have|a|condition
+I want you two,-,FirstConcert,63,Brandi_FirstConcert,I want you two,195.219999,196.06,I|want|you|two
+to pay for my ticket and a ticket for a friend of mine,infinitival phrase,FirstConcert,64,Brandi_FirstConcert,to pay for my ticket and a ticket for a friend of mine,196.059999,199.01,to|pay|for|my|ticket|and|a|ticket|for|a|friend|of|mine
+"to go with us too.""",infinitival phrase; >maximal segment,FirstConcert,65,Brandi_FirstConcert,"to go with us too.""",199.02,200.24,to|go|with|us|too
+Alex and Amanda thought,-,FirstConcert,66,Brandi_FirstConcert,Alex and Amanda thought,200.24,203.78,Alex|and|Amanda|thought
+that sounded reasonable.,complementizer; >maximal segment,FirstConcert,67,Brandi_FirstConcert,that sounded reasonable.,203.79,205.09,that|sounded|reasonable
+They figured,-,FirstConcert,68,Brandi_FirstConcert,They figured,206.59,207.21,They|figured
+that Alex would mow a couple extra lawns,complementizer (that...),FirstConcert,69,Brandi_FirstConcert,that Alex would mow a couple extra lawns,285.36,209.33,that|Alex|would|mow|a|couple|extra|lawns
+"to make money,",infinitival phrase,FirstConcert,70,Brandi_FirstConcert,"to make money,",209.33,210.08,to|make|money
+and Amanda would take on a couple more babysitting jobs.,conjunction; >maximal segment,FirstConcert,71,Brandi_FirstConcert,and Amanda would take on a couple more babysitting jobs.,210.08,214.03,and|Amanda|would|take|on|a|couple|more|babysitting|jobs
+They immediately agreed to Andrea's stipulation.,>maximal segment,FirstConcert,72,Brandi_FirstConcert,They immediately agreed to Andrea's stipulation.,215.92,218.74,They|immediately|agreed|to|Andrea's|stipulation
+The day of the concert had arrived.,>maximal segment,FirstConcert,73,Brandi_FirstConcert,The day of the concert had arrived.,220.99,223.12,The|day|of|the|concert|had|arrived
+"Andrea, Alex and Amanda got into the car and went",-,FirstConcert,74,Brandi_FirstConcert,"Andrea, Alex and Amanda got into the car and went",224.16,227.31,Andrea|Alex|and|Amanda|got|into|the|car|and|went
+to pick up Andrea's friend Renee.,infinitival phrase; >maximal segment,FirstConcert,75,Brandi_FirstConcert,to pick up Andrea's friend Renee.,227.309999,229.13,to|pick|up|Andrea's|friend|Renee
+Alex and Amanda weren't the only ones in the car,-,FirstConcert,76,Brandi_FirstConcert,Alex and Amanda weren't the only ones in the car,229.13,233.31,Alex|and|Amanda|weren't|the|only|ones|in|the|car
+who were excited.,relative clause; >maximal segment,FirstConcert,77,Brandi_FirstConcert,who were excited.,233.309999,234.29,who|were|excited
+"As they rode to the concert,",conjunction,FirstConcert,78,Brandi_FirstConcert,"As they rode to the concert,",235.76,237.27,As|they|rode|to|the|concert
+they listened to the band's most recent release.,>maximal segment,FirstConcert,79,Brandi_FirstConcert,they listened to the band's most recent release.,237.27,240.38,they|listened|to|the|band's|most|recent|release
+Everyone was singing and having fun.,>maximal segment,FirstConcert,80,Brandi_FirstConcert,Everyone was singing and having fun.,241.2,243.35,Everyone|was|singing|and|having|fun
+"When they got to the arena,",positioning element,FirstConcert,81,Brandi_FirstConcert,"When they got to the arena,",245.28,246.65,When|they|got|to|the|arena
+they all went immediately to the concession stand,-,FirstConcert,82,Brandi_FirstConcert,they all went immediately to the concession stand,246.65,249.88,they|all|went|immediately|to|the|concession|stand
+to get some goodies,infinitival phrase,FirstConcert,83,Brandi_FirstConcert,to get some goodies,249.92,250.91,to|get|some|goodies
+so they wouldn't have,conjunction,FirstConcert,84,Brandi_FirstConcert,so they wouldn't have,250.92,251.69,so|they|wouldn't|have
+to leave their seats during the show if their stomachs growled.,infinitival phrase; >maximal segment,FirstConcert,85,Brandi_FirstConcert,to leave their seats during the show if their stomachs growled.,251.690001,254.739999,to|leave|their|seats|during|the|show|if|their|stomachs|growled
+They also stopped at another stand,-,FirstConcert,86,Brandi_FirstConcert,They also stopped at another stand,256.559999,258.089999,They|also|stopped|at|another|stand
+to buy t-shirts.,infinitival phrase; >maximal segment,FirstConcert,87,Brandi_FirstConcert,to buy t-shirts.,258.28,259.47,to|buy|t|shirts
+They were more than ready for the show.,>maximal segment,FirstConcert,88,Brandi_FirstConcert,They were more than ready for the show.,260.84,262.999999,They|were|more|than|ready|for|the|show
+Andrea and Renee let Alex and Amanda have the seats with the best view.,>maximal segment,FirstConcert,89,Brandi_FirstConcert,Andrea and Renee let Alex and Amanda have the seats with the best view.,265.03,269.0,Andrea|and|Renee|let|Alex|and|Amanda|have|the|seats|with|the|best|view
+They all settled in and waited for the band to start.,>maximal segment,FirstConcert,90,Brandi_FirstConcert,They all settled in and waited for the band to start.,270.91,273.57,They|all|settled|in|and|waited|for|the|band|to|start
+Alex and Amanda could hardly contain themselves,-,FirstConcert,91,Brandi_FirstConcert,Alex and Amanda could hardly contain themselves,273.57,277.77000000000004,Alex|and|Amanda|could|hardly|contain|themselves
+as the band took the stage.,conjunction; >maximal segment,FirstConcert,92,Brandi_FirstConcert,as the band took the stage.,277.77,279.43,as|the|band|took|the|stage
+Then the music began.,>maximal segment,FirstConcert,93,Brandi_FirstConcert,Then the music began.,280.77,282.36,Then|the|music|began
+It was so loud,-,FirstConcert,94,Brandi_FirstConcert,It was so loud,284.07,285.36,It|was|so|loud
+"that they couldn't hear each other talk,",relative clause,FirstConcert,95,Brandi_FirstConcert,"that they couldn't hear each other talk,",329.19,287.04,that|they|couldn't|hear|each|other|talk
+but they didn't mind.,conjunction; >maximal segment,FirstConcert,96,Brandi_FirstConcert,but they didn't mind.,287.99,289.140001,but|they|didn't|mind
+Now they knew what their older sisters meant by,-,FirstConcert,97,Brandi_FirstConcert,Now they knew what their older sisters meant by,290.610001,292.89000000000004,Now|they|knew|what|their|older|sisters|meant|by
+experiencing live music.,nonfinite clause; >maximal segment,FirstConcert,98,Brandi_FirstConcert,experiencing live music.,292.89,294.67,experiencing|live|music
+It was amazing,-,FirstConcert,99,Brandi_FirstConcert,It was amazing,296.099999,297.19,It|was|amazing
+"watching the band members play the piano, guitar and drums,",nonfinite clause,FirstConcert,100,Brandi_FirstConcert,"watching the band members play the piano, guitar and drums,",297.19,300.71,watching|the|band|members|play|the|piano|guitar|and|drums
+and hearing the elements of the music,nonfinite clause,FirstConcert,101,Brandi_FirstConcert,and hearing the elements of the music,300.71,303.319999,and|hearing|the|elements|of|the|music
+coming together with the band's voices.,nonfinite clause; >maximal segment,FirstConcert,102,Brandi_FirstConcert,coming together with the band's voices.,303.32,305.479999,coming|together|with|the|band's|voices
+The band played all of Alex and Amanda's favorite songs.,>maximal segment,FirstConcert,103,Brandi_FirstConcert,The band played all of Alex and Amanda's favorite songs.,307.79,310.83,The|band|played|all|of|Alex|and|Amanda's|favorite|songs
+"The show lasted for almost two hours,",-,FirstConcert,104,Brandi_FirstConcert,"The show lasted for almost two hours,",312.69,315.13000000000005,The|show|lasted|for|almost|two|hours
+and there were incredible special effects like they had never seen.,conjunction; >maximal segment,FirstConcert,105,Brandi_FirstConcert,and there were incredible special effects like they had never seen.,315.13000000000005,319.759999,and|there|were|incredible|special|effects|like|they|had|never|seen
+It was the most amazing experience,-,FirstConcert,106,Brandi_FirstConcert,It was the most amazing experience,321.32,323.43,It|was|the|most|amazing|experience
+Alex and Amanda had ever had.,relative clause (that...); >maximal segment,FirstConcert,107,Brandi_FirstConcert,Alex and Amanda had ever had.,323.43,325.39999900000004,Alex|and|Amanda|had|ever|had
+Andrea and Renee agreed,-,FirstConcert,108,Brandi_FirstConcert,Andrea and Renee agreed,327.659999,329.19,Andrea|and|Renee|agreed
+that it was a spectacular show too.,relative clause; >maximal segment,FirstConcert,109,Brandi_FirstConcert,that it was a spectacular show too.,353.809999,331.14,that|it|was|a|spectacular|show|too
+"On the drive home,",positioning element,FirstConcert,110,Brandi_FirstConcert,"On the drive home,",333.389999,334.4,On|the|drive|home
+Alex and Amanda thanked Andrea and Renee over and over again,-,FirstConcert,111,Brandi_FirstConcert,Alex and Amanda thanked Andrea and Renee over and over again,334.4,338.23,Alex|and|Amanda|thanked|Andrea|and|Renee|over|and|over|again
+for taking them.,nonfinite clause; >maximal segment,FirstConcert,112,Brandi_FirstConcert,for taking them.,338.25,339.149999,for|taking|them
+"""You owe me,"" said Andrea with a laugh and a wink of her eye.",>maximal segment,FirstConcert,113,Brandi_FirstConcert,"""You owe me,"" said Andrea with a laugh and a wink of her eye.",341.15,345.32000000000005,You|owe|me|said|Andrea|with|a|laugh|and|a|wink|of|her|eye
+"""Me too,"" chimed in Renee.",>maximal segment,FirstConcert,114,Brandi_FirstConcert,"""Me too,"" chimed in Renee.",346.76,348.93,Me|too|chimed|in|Renee
+The only bad part of the evening for all of them was,-,FirstConcert,115,Brandi_FirstConcert,The only bad part of the evening for all of them was,350.73,353.81,The|only|bad|part|of|the|evening|for|all|of|them|was
+that they would have to wait another three years,relative clause,FirstConcert,116,Brandi_FirstConcert,that they would have to wait another three years,353.81,356.349999,that|they|would|have|to|wait|another|three|years
+to hear the band live again.,infinitival phrase; >maximal segment,FirstConcert,117,Brandi_FirstConcert,to hear the band live again.,356.41,358.04999999999995,to|hear|the|band|live|again

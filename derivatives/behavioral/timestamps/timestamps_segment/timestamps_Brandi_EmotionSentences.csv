@@ -1,0 +1,86 @@
+segment,reason,story,idx,audio,segment_raw,onset,offset,words
+What makes you think,-,EmotionSentences,1,Brandi_EmotionSentences,What makes you think,0.31,1.07,What|makes|you|think
+you can yell at me?,complementizer (that...); >maximal segment,EmotionSentences,2,Brandi_EmotionSentences,you can yell at me?,1.07,2.09,you|can|yell|at|me
+Don't ever speak to me that way.,>maximal segment,EmotionSentences,3,Brandi_EmotionSentences,Don't ever speak to me that way.,4.33,6.01,Don't|ever|speak|to|me|that|way
+Quit bothering me.,>maximal segment,EmotionSentences,4,Brandi_EmotionSentences,Quit bothering me.,8.179999,9.41,Quit|bothering|me
+I'm not ready for the biopsy results.,>maximal segment,EmotionSentences,5,Brandi_EmotionSentences,I'm not ready for the biopsy results.,,,I'm|not|ready|for|the|biopsy|results
+That abandoned warehouse doesn't seem safe.,>maximal segment,EmotionSentences,6,Brandi_EmotionSentences,That abandoned warehouse doesn't seem safe.,,24.26,That|abandoned|warehouse|doesn't|seem|safe
+I think,-,EmotionSentences,7,Brandi_EmotionSentences,I think,,,I|think
+someone's in here besides us.,complementizer; >maximal segment,EmotionSentences,8,Brandi_EmotionSentences,someone's in here besides us.,,,someone's|in|here|besides|us
+She never returned from the campout.,>maximal segment,EmotionSentences,9,Brandi_EmotionSentences,She never returned from the campout.,,,She|never|returned|from|the|campout
+The forest is eerie,-,EmotionSentences,10,Brandi_EmotionSentences,The forest is eerie,41.08,42.38,The|forest|is|eerie
+when no one's around.,relative clause; >maximal segment,EmotionSentences,11,Brandi_EmotionSentences,when no one's around.,42.38,43.48,when|no|one's|around
+She shouldn't walk there at night.,>maximal segment,EmotionSentences,12,Brandi_EmotionSentences,She shouldn't walk there at night.,45.59,74.99,She|shouldn't|walk|there|at|night
+I think,-,EmotionSentences,13,Brandi_EmotionSentences,I think,,,I|think
+I have a doctor's appointment.,complementizer (that...); >maximal segment,EmotionSentences,14,Brandi_EmotionSentences,I have a doctor's appointment.,,,I|have|a|doctor's|appointment
+I think,-,EmotionSentences,15,Brandi_EmotionSentences,I think,,,I|think
+I've seen this before.,complementizer (that...); >maximal segment,EmotionSentences,16,Brandi_EmotionSentences,I've seen this before.,,,I've|seen|this|before
+I was terrified,-,EmotionSentences,17,Brandi_EmotionSentences,I was terrified,,,I|was|terrified
+that night.,positioning element; >maximal segment,EmotionSentences,18,Brandi_EmotionSentences,that night.,,,that|night
+These words are creepy.,>maximal segment,EmotionSentences,19,Brandi_EmotionSentences,These words are creepy.,,,These|words|are|creepy
+I wish we didn't have,-,EmotionSentences,20,Brandi_EmotionSentences,I wish we didn't have,,,I|wish|we|didn't|have
+to walk through the graveyard.,infinitival phrase; >maximal segment,EmotionSentences,21,Brandi_EmotionSentences,to walk through the graveyard.,,,to|walk|through|the|graveyard
+Maybe tomorrow it will be cold.,>maximal segment,EmotionSentences,22,Brandi_EmotionSentences,Maybe tomorrow it will be cold.,,,Maybe|tomorrow|it|will|be|cold
+I would like a new alarm clock.,>maximal segment,EmotionSentences,23,Brandi_EmotionSentences,I would like a new alarm clock.,,,I|would|like|a|new|alarm|clock
+Have you seen him?,>maximal segment,EmotionSentences,24,Brandi_EmotionSentences,Have you seen him?,9.61,18.17,Have|you|seen|him
+It's terrible,-,EmotionSentences,25,Brandi_EmotionSentences,It's terrible,,,It's|terrible
+that such a thing could happen.,relative clause; >maximal segment,EmotionSentences,26,Brandi_EmotionSentences,that such a thing could happen.,,,that|such|a|thing|could|happen
+I regret,-,EmotionSentences,27,Brandi_EmotionSentences,I regret,,,I|regret
+that we broke up.,complementizer; >maximal segment,EmotionSentences,28,Brandi_EmotionSentences,that we broke up.,,,that|we|broke|up
+I miss the time,-,EmotionSentences,29,Brandi_EmotionSentences,I miss the time,,,I|miss|the|time
+we spent together.,relative clause; >maximal segment,EmotionSentences,30,Brandi_EmotionSentences,we spent together.,,,we|spent|together
+I'm so sorry for,-,EmotionSentences,31,Brandi_EmotionSentences,I'm so sorry for,,,I'm|so|sorry|for
+hurting you.,nonfinite clause; >maximal segment,EmotionSentences,32,Brandi_EmotionSentences,hurting you.,,,hurting|you
+My brother is very sick.,>maximal segment,EmotionSentences,33,Brandi_EmotionSentences,My brother is very sick.,,,My|brother|is|very|sick
+Please forgive me.,>maximal segment,EmotionSentences,34,Brandi_EmotionSentences,Please forgive me.,,,Please|forgive|me
+You look wonderful.,>maximal segment,EmotionSentences,35,Brandi_EmotionSentences,You look wonderful.,,,You|look|wonderful
+We had so much fun,-,EmotionSentences,36,Brandi_EmotionSentences,We had so much fun,,,We|had|so|much|fun
+last night.,positioning element; >maximal segment,EmotionSentences,37,Brandi_EmotionSentences,last night.,,,last|night
+That was a blast.,>maximal segment,EmotionSentences,38,Brandi_EmotionSentences,That was a blast.,,,That|was|a|blast
+I miss the trips,-,EmotionSentences,39,Brandi_EmotionSentences,I miss the trips,,,I|miss|the|trips
+we used to take.,relative clause; >maximal segment,EmotionSentences,40,Brandi_EmotionSentences,we used to take.,,,we|used|to|take
+I felt so hopeless.,>maximal segment,EmotionSentences,41,Brandi_EmotionSentences,I felt so hopeless.,,,I|felt|so|hopeless
+If only I could go back.,>maximal segment,EmotionSentences,42,Brandi_EmotionSentences,If only I could go back.,,,If|only|I|could|go|back
+I can't seem,-,EmotionSentences,43,Brandi_EmotionSentences,I can't seem,,,I|can't|seem
+to do well on my exams.,infinitival phrase; >maximal segment,EmotionSentences,44,Brandi_EmotionSentences,to do well on my exams.,,,to|do|well|on|my|exams
+He never listens to me anymore.,>maximal segment,EmotionSentences,45,Brandi_EmotionSentences,He never listens to me anymore.,,,He|never|listens|to|me|anymore
+My dog died yesterday.,>maximal segment,EmotionSentences,46,Brandi_EmotionSentences,My dog died yesterday.,,,My|dog|died|yesterday
+I really enjoy our family vacations.,>maximal segment,EmotionSentences,47,Brandi_EmotionSentences,I really enjoy our family vacations.,,,I|really|enjoy|our|family|vacations
+I love,-,EmotionSentences,48,Brandi_EmotionSentences,I love,,,I|love
+spending time with you.,non finite clause; >maximal segment,EmotionSentences,49,Brandi_EmotionSentences,spending time with you.,,,spending|time|with|you
+The mountains are supposed,-,EmotionSentences,50,Brandi_EmotionSentences,The mountains are supposed,,,The|mountains|are|supposed
+to be nice this time of year.,infinitival phrase; >maximal segment,EmotionSentences,51,Brandi_EmotionSentences,to be nice this time of year.,,,to|be|nice|this|time|of|year
+The airplane is almost full.,>maximal segment,EmotionSentences,52,Brandi_EmotionSentences,The airplane is almost full.,,,The|airplane|is|almost|full
+Don't forget a jacket.,>maximal segment,EmotionSentences,53,Brandi_EmotionSentences,Don't forget a jacket.,,,Don't|forget|a|jacket
+I wonder,-,EmotionSentences,54,Brandi_EmotionSentences,I wonder,,,I|wonder
+what that is about.,complementizer; >maximal segment,EmotionSentences,55,Brandi_EmotionSentences,what that is about.,,,what|that|is|about
+We'll stop in a couple of minutes.,-,EmotionSentences,56,Brandi_EmotionSentences,We'll stop in a couple of minutes.,,,We'll|stop|in|a|couple|of|minutes
+I'm on my way to the meeting.,>maximal segment,EmotionSentences,57,Brandi_EmotionSentences,I'm on my way to the meeting.,18.17,,I'm|on|my|way|to|the|meeting
+Can you hear me?,>maximal segment,EmotionSentences,58,Brandi_EmotionSentences,Can you hear me?,,,Can|you|hear|me
+What could be better?,>maximal segment,EmotionSentences,59,Brandi_EmotionSentences,What could be better?,,,What|could|be|better
+I always enjoy,-,EmotionSentences,60,Brandi_EmotionSentences,I always enjoy,,,I|always|enjoy
+when she visits.,relative clause; >maximal segment,EmotionSentences,61,Brandi_EmotionSentences,when she visits.,,,when|she|visits
+He's always pleasant,-,EmotionSentences,62,Brandi_EmotionSentences,He's always pleasant,,,He's|always|pleasant
+to be around.,infinitival phrase; >maximal segment,EmotionSentences,63,Brandi_EmotionSentences,to be around.,,,to|be|around
+Do you think,-,EmotionSentences,64,Brandi_EmotionSentences,Do you think,,,Do|you|think
+you can push me around?,complementizer (that...); >maximal segment,EmotionSentences,65,Brandi_EmotionSentences,you can push me around?,,4.33,you|can|push|me|around
+That was insulting.,>maximal segment,EmotionSentences,66,Brandi_EmotionSentences,That was insulting.,276.01,277.31,That|was|insulting
+That noise is getting really annoying.,>maximal segment,EmotionSentences,67,Brandi_EmotionSentences,That noise is getting really annoying.,279.4,281.39,That|noise|is|getting|really|annoying
+They say,-,EmotionSentences,68,Brandi_EmotionSentences,They say,,,They|say
+he was a murderer.,complementizer (that...); >maximal segment,EmotionSentences,69,Brandi_EmotionSentences,he was a murderer.,,,he|was|a|murderer
+It's getting dark,-,EmotionSentences,70,Brandi_EmotionSentences,It's getting dark,,,It's|getting|dark
+and I can't find my way back.,conjunction; >maximal segment,EmotionSentences,71,Brandi_EmotionSentences,and I can't find my way back.,,,and|I|can't|find|my|way|back
+That man looks suspicious.,>maximal segment,EmotionSentences,72,Brandi_EmotionSentences,That man looks suspicious.,,,That|man|looks|suspicious
+I'm going,-,EmotionSentences,73,Brandi_EmotionSentences,I'm going,,,I'm|going
+to write a complaint.,infinitival phrase; >maximal segment,EmotionSentences,74,Brandi_EmotionSentences,to write a complaint.,,,to|write|a|complaint
+Don't raise your voice at me.,>maximal segment,EmotionSentences,75,Brandi_EmotionSentences,Don't raise your voice at me.,,,Don't|raise|your|voice|at|me
+Why are you always,-,EmotionSentences,76,Brandi_EmotionSentences,Why are you always,,,Why|are|you|always
+testing my patience.,nonfinite clause; >maximal segment,EmotionSentences,77,Brandi_EmotionSentences,testing my patience.,,,testing|my|patience
+This microwave is useless.,>maximal segment,EmotionSentences,78,Brandi_EmotionSentences,This microwave is useless.,9.42,9.61,This|microwave|is|useless
+I never want,-,EmotionSentences,79,Brandi_EmotionSentences,I never want,,,I|never|want
+to see you again.,infinitival phrase; >maximal segment,EmotionSentences,80,Brandi_EmotionSentences,to see you again.,,352.08,to|see|you|again
+I have been waiting in line for too long.,>maximal segment,EmotionSentences,81,Brandi_EmotionSentences,I have been waiting in line for too long.,336.88,338.99,I|have|been|waiting|in|line|for|too|long
+I look forward to meeting you.,>maximal segment,EmotionSentences,82,Brandi_EmotionSentences,I look forward to meeting you.,,349.94,I|look|forward|to|meeting|you
+Have you ever tasted anything better?,>maximal segment,EmotionSentences,83,Brandi_EmotionSentences,Have you ever tasted anything better?,,0.31,Have|you|ever|tasted|anything|better
+The soup is delicious.,>maximal segment,EmotionSentences,84,Brandi_EmotionSentences,The soup is delicious.,,,The|soup|is|delicious
+The surface is slick.,>maximal segment,EmotionSentences,85,Brandi_EmotionSentences,The surface is slick.,,,The|surface|is|slick

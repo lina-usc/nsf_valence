@@ -1,0 +1,119 @@
+segment,reason,story,idx,audio,segment_raw,onset,offset,words
+It was about 10:30,positioning element,HappyDay,0,Jacob_HappyDay,It was about 10:30,7.36,8.53,It|was|about|10|30
+on a breezy Saturday morning in April.,positioning element; >maximal segment,HappyDay,1,Jacob_HappyDay,on a breezy Saturday morning in April.,8.54,10.709999,on|a|breezy|Saturday|morning|in|April
+"I yawned, opened my eyes, and smiled.",>maximal segment,HappyDay,2,Jacob_HappyDay,"I yawned, opened my eyes, and smiled.",12.95,15.67,I|yawned|opened|my|eyes|and|smiled
+I haven't slept this late in months!,>maximal segment,HappyDay,3,Jacob_HappyDay,I haven't slept this late in months!,16.77,18.74,I|haven't|slept|this|late|in|months
+I usually have,-,HappyDay,4,Jacob_HappyDay,I usually have,19.83,20.540000000000003,I|usually|have
+"to be at the office by 7:30,",infinitival phrase,HappyDay,5,Jacob_HappyDay,"to be at the office by 7:30,",20.54,22.85,to|be|at|the|office|by|7|30
+so this is quite a treat to sleep in.,conjunction; >maximal segment,HappyDay,6,Jacob_HappyDay,so this is quite a treat to sleep in.,23.92,25.87,so|this|is|quite|a|treat|to|sleep|in
+"But when I smelled the crackling, smoky bacon from the kitchen downstairs,",relative clause,HappyDay,7,Jacob_HappyDay,"But when I smelled the crackling, smoky bacon from the kitchen downstairs,",28.98,33.24999999999999,But|when|I|smelled|the|crackling|smoky|bacon|from|the|kitchen|downstairs
+I could no longer stay in bed;,>maximal segment,HappyDay,8,Jacob_HappyDay,I could no longer stay in bed;,34.33,35.95,I|could|no|longer|stay|in|bed
+I just had,-,HappyDay,9,Jacob_HappyDay,I just had,37.02,37.7,I|just|had
+to get up and follow that delicious scent.,infinitival phrase; >maximal segment,HappyDay,10,Jacob_HappyDay,to get up and follow that delicious scent.,37.69,40.040000000000006,to|get|up|and|follow|that|delicious|scent
+"I put my hair into a sloppy ponytail, slid on my plush, fuzzy slippers, then lumbered down the stairs,",-,HappyDay,11,Jacob_HappyDay,"I put my hair into a sloppy ponytail, slid on my plush, fuzzy slippers, then lumbered down the stairs,",41.24,49.21,I|put|my|hair|into|a|sloppy|ponytail|slid|on|my|plush|fuzzy|slippers|then|lumbered|down|the|stairs
+letting my nose-and my stomach-guide me.,nonfinite clause; >maximal segment,HappyDay,12,Jacob_HappyDay,letting my nose-and my stomach-guide me.,50.27,54.99,letting|my|nose|and|my|stomach|guide|me
+To my very pleasant surprise I saw all my breakfast favorites:,-,HappyDay,13,Jacob_HappyDay,To my very pleasant surprise I saw all my breakfast favorites:,58.17,62.779999,To|my|very|pleasant|surprise|I|saw|all|my|breakfast|favorites
+"crisp fruit, a fresh pot of coffee, cheesy scrambled eggs, and of course, sizzling hot bacon.",nonrestrictive clause; >maximal segment,HappyDay,14,Jacob_HappyDay,"crisp fruit, a fresh pot of coffee, cheesy scrambled eggs, and of course, sizzling hot bacon.",63.96,72.81,crisp|fruit|a|fresh|pot|of|coffee|cheesy|scrambled|eggs|and|of|course|sizzling|hot|bacon
+"And the even bigger surprise,",nonrestrictive clause,HappyDay,15,Jacob_HappyDay,"And the even bigger surprise,",75.43,76.99,And|the|even|bigger|surprise
+my husband was the one cooking!,>maximal segment,HappyDay,16,Jacob_HappyDay,my husband was the one cooking!,77.62,79.42,my|husband|was|the|one|cooking
+"He had been gone for the last two weeks for a business trip,",-,HappyDay,17,Jacob_HappyDay,"He had been gone for the last two weeks for a business trip,",80.07,83.1,He|had|been|gone|for|the|last|two|weeks|for|a|business|trip
+so he said,conjunction,HappyDay,18,Jacob_HappyDay,so he said,83.599999,84.2,so|he|said
+that he wanted,complementizer,HappyDay,19,Jacob_HappyDay,that he wanted,84.2,84.739999,that|he|wanted
+to do something nice for me,infinitival phrase,HappyDay,20,Jacob_HappyDay,to do something nice for me,84.74,86.13000000000001,to|do|something|nice|for|me
+now that he is back.,positioning element; >maximal segment,HappyDay,21,Jacob_HappyDay,now that he is back.,86.71000000000001,87.81,now|that|he|is|back
+We plated the food and devoured it instantly.,>maximal segment,HappyDay,22,Jacob_HappyDay,We plated the food and devoured it instantly.,90.37,92.99,We|plated|the|food|and|devoured|it|instantly
+We spent the next hour,-,HappyDay,23,Jacob_HappyDay,We spent the next hour,94.01,95.24,We|spent|the|next|hour
+just talking and catching up on the last couple of weeks,nonfinite clause,HappyDay,24,Jacob_HappyDay,just talking and catching up on the last couple of weeks,95.24,98.18,just|talking|and|catching|up|on|the|last|couple|of|weeks
+"enjoying each other's company,",nonfinite clause,HappyDay,25,Jacob_HappyDay,"enjoying each other's company,",98.23,99.85,enjoying|each|other's|company
+giggling and gasping.,nonfinite clause; >maximal segment,HappyDay,26,Jacob_HappyDay,giggling and gasping.,100.46,101.98,giggling|and|gasping
+I told him about my promotion at work,-,HappyDay,27,Jacob_HappyDay,I told him about my promotion at work,102.58,104.49,I|told|him|about|my|promotion|at|work
+and we celebrated.,conjunction; >maximal segment,HappyDay,28,Jacob_HappyDay,and we celebrated.,105.02,106.12,and|we|celebrated
+"Along with more responsibility,",nonrestrictive clause,HappyDay,29,Jacob_HappyDay,"Along with more responsibility,",106.74,109.03,Along|with|more|responsibility
+I would also be getting my own parking spot and a raise!,>maximal segment,HappyDay,30,Jacob_HappyDay,I would also be getting my own parking spot and a raise!,109.57,112.75,I|would|also|be|getting|my|own|parking|spot|and|a|raise
+"After he did the dishes and left for work,",positioning element,HappyDay,31,Jacob_HappyDay,"After he did the dishes and left for work,",115.57,117.83,After|he|did|the|dishes|and|left|for|work
+"I went back upstairs and had a nice, long shower",-,HappyDay,32,Jacob_HappyDay,"I went back upstairs and had a nice, long shower",118.0,120.75,I|went|back|upstairs|and|had|a|nice|long|shower
+while singing along to my playlist,nonfinite clause,HappyDay,33,Jacob_HappyDay,while singing along to my playlist,121.66,123.57,while|singing|along|to|my|playlist
+as if I was on one of those tv show competitions.,conjunction; >maximal segment,HappyDay,34,Jacob_HappyDay,as if I was on one of those tv show competitions.,124.129999,127.31,as|if|I|was|on|one|of|those|tv|show|competitions
+"Except in my case, the judges were a shampoo bottle, a loofah, and a razor;",>maximal segment,HappyDay,35,Jacob_HappyDay,"Except in my case, the judges were a shampoo bottle, a loofah, and a razor;",127.91,133.84,Except|in|my|case|the|judges|were|a|shampoo|bottle|a|loofah|and|a|razor
+"their reactions were pretty flat though,",-,HappyDay,36,Jacob_HappyDay,"their reactions were pretty flat though,",135.309999,137.21,their|reactions|were|pretty|flat|though
+so I'm not too sure,conjunction,HappyDay,37,Jacob_HappyDay,so I'm not too sure,138.509999,139.5,so|I'm|not|too|sure
+I'm going,complementizer (that...),HappyDay,38,Jacob_HappyDay,I'm going,139.5,139.95999999999998,I'm|going
+to make it to the next round.,infinitival phrase; >maximal segment,HappyDay,39,Jacob_HappyDay,to make it to the next round.,139.96,141.489999,to|make|it|to|the|next|round
+Better luck next time!,>maximal segment,HappyDay,40,Jacob_HappyDay,Better luck next time!,142.85,147.51,Better|luck|next|time
+"After my uneventful audition,",positioning element,HappyDay,41,Jacob_HappyDay,"After my uneventful audition,",147.51,149.20000000000002,After|my|uneventful|audition
+I got dressed and headed out the door,-,HappyDay,42,Jacob_HappyDay,I got dressed and headed out the door,149.53,151.31,I|got|dressed|and|headed|out|the|door
+to meet one of my friends at a park nearby;,infinitival phrase; >maximal segment,HappyDay,43,Jacob_HappyDay,to meet one of my friends at a park nearby;,151.31,153.58,to|meet|one|of|my|friends|at|a|park|nearby
+"whenever our schedules magically align,",-,HappyDay,44,Jacob_HappyDay,"whenever our schedules magically align,",153.96,156.31,whenever|our|schedules|magically|align
+"and we have the same days off,",conjunction,HappyDay,45,Jacob_HappyDay,"and we have the same days off,",156.74,158.39999999999998,and|we|have|the|same|days|off
+we try,-,HappyDay,46,Jacob_HappyDay,we try,158.79,159.16,we|try
+to see each other and do something fun.,infinitival phrase; >maximal segment,HappyDay,47,Jacob_HappyDay,to see each other and do something fun.,159.16,161.189999,to|see|each|other|and|do|something|fun
+This time we decided,-,HappyDay,48,Jacob_HappyDay,This time we decided,161.76,162.79,This|time|we|decided
+to ride bikes by the river and feed the ducks.,infinitive phrase; >maximal segment,HappyDay,49,Jacob_HappyDay,to ride bikes by the river and feed the ducks.,162.79,165.44,to|ride|bikes|by|the|river|and|feed|the|ducks
+"I unloaded my bike out of the car, saw my friend parking, and cycled over",-,HappyDay,50,Jacob_HappyDay,"I unloaded my bike out of the car, saw my friend parking, and cycled over",168.43,173.86999899999998,I|unloaded|my|bike|out|of|the|car|saw|my|friend|parking|and|cycled|over
+to meet her.,infinitival phrase; >maximal segment,HappyDay,51,Jacob_HappyDay,to meet her.,173.87,174.58,to|meet|her
+Since we don't get to see each other very often,nonrestrictive clause,HappyDay,52,Jacob_HappyDay,Since we don't get to see each other very often,175.02,177.299999,Since|we|don't|get|to|see|each|other|very|often
+we always appreciate the time we do spend together and try,-,HappyDay,53,Jacob_HappyDay,we always appreciate the time we do spend together and try,177.7,181.07,we|always|appreciate|the|time|we|do|spend|together|and|try
+to make the best of whatever time we do have.,infinitival phrase; >maximal segment,HappyDay,54,Jacob_HappyDay,to make the best of whatever time we do have.,181.07,183.35,to|make|the|best|of|whatever|time|we|do|have
+"So, we went off on our bikes and rode",-,HappyDay,55,Jacob_HappyDay,"So, we went off on our bikes and rode",184.31,186.82,So|we|went|off|on|our|bikes|and|rode
+towards the bike path quickly,positioning element,HappyDay,56,Jacob_HappyDay,towards the bike path quickly,186.82,188.47,towards|the|bike|path|quickly
+"after greeting each other,",positioning element,HappyDay,57,Jacob_HappyDay,"after greeting each other,",188.86,190.08,after|greeting|each|other
+no time to waste!,nonrestrictive clause; >maximal segment,HappyDay,58,Jacob_HappyDay,no time to waste!,190.48,191.61,no|time|to|waste
+We biked and biked all afternoon long,-,HappyDay,59,Jacob_HappyDay,We biked and biked all afternoon long,194.63,197.199999,We|biked|and|biked|all|afternoon|long
+until we noticed,positioning element,HappyDay,60,Jacob_HappyDay,until we noticed,198.16,199.05,until|we|noticed
+the sun was starting to go down.,complementizer (that...); >maximal segment,HappyDay,61,Jacob_HappyDay,the sun was starting to go down.,199.07,200.75,the|sun|was|starting|to|go|down
+We must have ridden something like ten miles or more.,>maximal segment,HappyDay,62,Jacob_HappyDay,We must have ridden something like ten miles or more.,201.17,204.1,We|must|have|ridden|something|like|ten|miles|or|more
+"And trust me when I say,",nonrestrictive clause,HappyDay,63,Jacob_HappyDay,"And trust me when I say,",204.96,206.26,And|trust|me|when|I|say
+"we were feeling it in every muscle, every bone, every inch of our legs was so sore,",-,HappyDay,64,Jacob_HappyDay,"we were feeling it in every muscle, every bone, every inch of our legs was so sore,",207.19,212.829999,we|were|feeling|it|in|every|muscle|every|bone|every|inch|of|our|legs|was|so|sore
+but it was worth it,conjunction,HappyDay,65,Jacob_HappyDay,but it was worth it,213.27,214.199999,but|it|was|worth|it
+because we had such a great time.,conjunction; >maximal segment,HappyDay,66,Jacob_HappyDay,because we had such a great time.,214.199999,216.159999,because|we|had|such|a|great|time
+No longer able to stand,-,HappyDay,67,Jacob_HappyDay,No longer able to stand,217.09,218.59,No|longer|able|to|stand
+"without shaking like we were experiencing our own personal earthquakes,",nonfinite clause,HappyDay,68,Jacob_HappyDay,"without shaking like we were experiencing our own personal earthquakes,",218.59,222.42,without|shaking|like|we|were|experiencing|our|own|personal|earthquakes
+we decided,-,HappyDay,69,Jacob_HappyDay,we decided,222.82,223.49,we|decided
+to sit on the grass,infinitival phrase,HappyDay,70,Jacob_HappyDay,to sit on the grass,223.49,224.63,to|sit|on|the|grass
+while we threw pieces of stale bread in the water towards the feathery ducks and little ducklings.,relative clause; >maximal segment,HappyDay,71,Jacob_HappyDay,while we threw pieces of stale bread in the water towards the feathery ducks and little ducklings.,224.66,230.62,while|we|threw|pieces|of|stale|bread|in|the|water|towards|the|feathery|ducks|and|little|ducklings
+We sat there throwing and chatting and laughing for quite a while,-,HappyDay,72,Jacob_HappyDay,We sat there throwing and chatting and laughing for quite a while,232.049999,235.69,We|sat|there|throwing|and|chatting|and|laughing|for|quite|a|while
+"until suddenly,",positioning element,HappyDay,73,Jacob_HappyDay,"until suddenly,",236.04,237.03,until|suddenly
+we realized,-,HappyDay,74,Jacob_HappyDay,we realized,237.06,237.66,we|realized
+it was already dark,complementizer (that...),HappyDay,75,Jacob_HappyDay,it was already dark,237.66,238.67,it|was|already|dark
+and we probably needed,conjunction,HappyDay,76,Jacob_HappyDay,and we probably needed,239.04,240.15,and|we|probably|needed
+to head home soon.,infinitival phrase; >maximal segment,HappyDay,77,Jacob_HappyDay,to head home soon.,240.15,241.11,to|head|home|soon
+We said our goodbyes,-,HappyDay,78,Jacob_HappyDay,We said our goodbyes,242.46,243.57,We|said|our|goodbyes
+"and per our usual ritual,",conjunction / nonrestrictive clause,HappyDay,79,Jacob_HappyDay,"and per our usual ritual,",243.61,245.32,and|per|our|usual|ritual
+hugged and promised,conjunction cont.,HappyDay,80,Jacob_HappyDay,hugged and promised,245.74,246.63,hugged|and|promised
+to call and make plans again soon.,infinitival phrase; >maximal segment,HappyDay,81,Jacob_HappyDay,to call and make plans again soon.,246.65,248.73,to|call|and|make|plans|again|soon
+Our time seemed so limited these days,-,HappyDay,82,Jacob_HappyDay,Our time seemed so limited these days,249.19,251.429999,Our|time|seemed|so|limited|these|days
+and we didn't want,conjunction,HappyDay,83,Jacob_HappyDay,and we didn't want,251.779999,252.53,and|we|didn't|want
+to let the important things slip through the cracks.,infinitival phrase; >maximal segment,HappyDay,84,Jacob_HappyDay,to let the important things slip through the cracks.,252.54,254.86,to|let|the|important|things|slip|through|the|cracks
+Driving back to my house,nonfinite clause,HappyDay,85,Jacob_HappyDay,Driving back to my house,256.14,257.46000000000004,Driving|back|to|my|house
+I could just catch the last little edge of the sunset in my rearview mirror;,-,HappyDay,86,Jacob_HappyDay,I could just catch the last little edge of the sunset in my rearview mirror;,257.87,261.91,I|could|just|catch|the|last|little|edge|of|the|sunset|in|my|rearview|mirror
+the swirl of oranges and pinks darkening and turning blue and black,nonfinite clause,HappyDay,87,Jacob_HappyDay,the swirl of oranges and pinks darkening and turning blue and black,262.83,267.66,the|swirl|of|oranges|and|pinks|darkening|and|turning|blue|and|black
+to let the moon shine through.,infinitival phrase; >maximal segment,HappyDay,88,Jacob_HappyDay,to let the moon shine through.,268.039999,269.62999999999994,to|let|the|moon|shine|through
+I stopped at a popular neighborhood take-out place,-,HappyDay,89,Jacob_HappyDay,I stopped at a popular neighborhood take-out place,273.32,275.78000000000003,I|stopped|at|a|popular|neighborhood|take|out|place
+to grab dinner,infinitival phrase,HappyDay,90,Jacob_HappyDay,to grab dinner,275.79,276.59,to|grab|dinner
+"because it's my husband's favorite,",conjunction,HappyDay,91,Jacob_HappyDay,"because it's my husband's favorite,",276.96,278.48,because|it's|my|husband's|favorite
+and the owner surprised me with complimentary appetizers.,conjunction; >maximal segment,HappyDay,92,Jacob_HappyDay,and the owner surprised me with complimentary appetizers.,278.87,282.75,and|the|owner|surprised|me|with|complimentary|appetizers
+The delicious aroma filled the car the rest of the way home.,>maximal segment,HappyDay,93,Jacob_HappyDay,The delicious aroma filled the car the rest of the way home.,283.67,286.81,The|delicious|aroma|filled|the|car|the|rest|of|the|way|home
+"When I arrived,",positioning element,HappyDay,94,Jacob_HappyDay,"When I arrived,",289.74,290.67,When|I|arrived
+my husband was already there,-,HappyDay,95,Jacob_HappyDay,my husband was already there,291.03,292.5,my|husband|was|already|there
+to greet me.,infinitival phrase; >maximal segment,HappyDay,96,Jacob_HappyDay,to greet me.,292.5,293.27,to|greet|me
+"Over dinner, we chatted about our days.",>maximal segment,HappyDay,97,Jacob_HappyDay,"Over dinner, we chatted about our days.",294.16,296.78000000000003,Over|dinner|we|chatted|about|our|days
+He told me,-,HappyDay,98,Jacob_HappyDay,He told me,297.2,297.8,He|told|me
+"that since he came on a Saturday,",complementizer / nonrestrictive clause,HappyDay,99,Jacob_HappyDay,"that since he came on a Saturday,",297.8,299.69,that|since|he|came|on|a|Saturday
+he gets to take a Friday off.,complementizer cont.; >maximal segment,HappyDay,100,Jacob_HappyDay,he gets to take a Friday off.,300.099999,301.7,he|gets|to|take|a|Friday|off
+I told him all about my day at the park,-,HappyDay,101,Jacob_HappyDay,I told him all about my day at the park,302.11,304.23,I|told|him|all|about|my|day|at|the|park
+and how we completely lost track of time but didn't mind,conjunction,HappyDay,102,Jacob_HappyDay,and how we completely lost track of time but didn't mind,304.359999,307.66,and|how|we|completely|lost|track|of|time|but|didn't|mind
+because it was so fun.,conjunction; >maximal segment,HappyDay,103,Jacob_HappyDay,because it was so fun.,307.68,309.21,because|it|was|so|fun
+I also showed him adorable pictures of the ducklings and some funny ones of a particularly clumsy duckling,-,HappyDay,104,Jacob_HappyDay,I also showed him adorable pictures of the ducklings and some funny ones of a particularly clumsy duckling,311.07,318.04999999999995,I|also|showed|him|adorable|pictures|of|the|ducklings|and|some|funny|ones|of|a|particularly|clumsy|duckling
+that didn't seem,relative clause,HappyDay,105,Jacob_HappyDay,that didn't seem,318.4,319.07,that|didn't|seem
+to notice,infinitival phrase,HappyDay,106,Jacob_HappyDay,to notice,319.07,319.7,to|notice
+where the dock ended and tumbled right off the edge.,relative clause; >maximal segment,HappyDay,107,Jacob_HappyDay,where the dock ended and tumbled right off the edge.,319.719999,322.96999900000003,where|the|dock|ended|and|tumbled|right|off|the|edge
+"Comfortable on the couch,",nonrestrictive clause,HappyDay,108,Jacob_HappyDay,"Comfortable on the couch,",325.129999,326.37,Comfortable|on|the|couch
+we snacked on some popcorn and picked out a movie to watch.,>maximal segment,HappyDay,109,Jacob_HappyDay,we snacked on some popcorn and picked out a movie to watch.,327.21,330.23,we|snacked|on|some|popcorn|and|picked|out|a|movie|to|watch
+As usual none of the new movie suggestions were piquing our interest,-,HappyDay,110,Jacob_HappyDay,As usual none of the new movie suggestions were piquing our interest,330.98,335.409999,As|usual|none|of|the|new|movie|suggestions|were|piquing|our|interest
+so we decided to watch an old favorite.,conjunction; >maximal segment,HappyDay,111,Jacob_HappyDay,so we decided to watch an old favorite.,336.24,338.53,so|we|decided|to|watch|an|old|favorite
+I'm not sure if we were both tired from active days or just not paying attention,-,HappyDay,112,Jacob_HappyDay,I'm not sure if we were both tired from active days or just not paying attention,338.53,345.04,I'm|not|sure|if|we|were|both|tired|from|active|days|or|just|not|paying|attention
+"since we'd seen the movie before,",conjunction,HappyDay,113,Jacob_HappyDay,"since we'd seen the movie before,",345.04,346.73,since|we'd|seen|the|movie|before
+but we both fell asleep about an hour into the movie.,conjunction; >maximal segment,HappyDay,114,Jacob_HappyDay,but we both fell asleep about an hour into the movie.,347.07,350.31,but|we|both|fell|asleep|about|an|hour|into|the|movie
+"Either way, not a bad way",-,HappyDay,115,Jacob_HappyDay,"Either way, not a bad way",352.77,355.23,Either|way|not|a|bad|way
+to end a fantastic day.,infinitival phrase; >maximal segment,HappyDay,116,Jacob_HappyDay,to end a fantastic day.,355.23,356.59000000000003,to|end|a|fantastic|day
+I can't wait for another day like that.,>maximal segment,HappyDay,117,Jacob_HappyDay,I can't wait for another day like that.,357.54,359.46,I|can't|wait|for|another|day|like|that

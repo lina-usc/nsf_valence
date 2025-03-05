@@ -1,0 +1,158 @@
+segment,reason,story,idx,audio,segment_raw,onset,offset,words
+"At ten years old,",positioning element,Elvis,0,Brandi_Elvis,"At ten years old,",5.16,6.109999999999999,At|ten|years|old
+I could not figure out what it was,-,Elvis,1,Brandi_Elvis,I could not figure out what it was,6.11,7.64,I|could|not|figure|out|what|it|was
+that this Elvis Presley guy had,relative clause,Elvis,2,Brandi_Elvis,that this Elvis Presley guy had,7.65,9.41,that|this|Elvis|Presley|guy|had
+that the rest of us boys did not have.,relative clause; >maximal segment,Elvis,3,Brandi_Elvis,that the rest of us boys did not have.,9.41,11.17,that|the|rest|of|us|boys|did|not|have
+He seemed,-,Elvis,4,Brandi_Elvis,He seemed,12.32,12.749999,He|seemed
+to be no different from the rest of us.,infinitival phrase; >maximal segment,Elvis,5,Brandi_Elvis,to be no different from the rest of us.,12.759999,14.489999,to|be|no|different|from|the|rest|of|us
+He was simply a man,-,Elvis,6,Brandi_Elvis,He was simply a man,15.36,16.43,He|was|simply|a|man
+"who had a head, two arms and two legs.",relative clause; >maximal segment,Elvis,7,Brandi_Elvis,"who had a head, two arms and two legs.",16.440001,19.03,who|had|a|head|two|arms|and|two|legs
+It must have been something pretty superlative,-,Elvis,8,Brandi_Elvis,It must have been something pretty superlative,20.17,22.03,It|must|have|been|something|pretty|superlative
+"that he had hidden away,",relative clause,Elvis,9,Brandi_Elvis,"that he had hidden away,",22.07,23.13,that|he|had|hidden|away
+because he had every young girl,conjunction,Elvis,10,Brandi_Elvis,because he had every young girl,24.13,25.53,because|he|had|every|young|girl
+at the orphanage,positioning element - location,Elvis,11,Brandi_Elvis,at the orphanage,25.53,26.26,at|the|orphanage
+wrapped around his little finger.,>maximal segment,Elvis,12,Brandi_Elvis,wrapped around his little finger.,26.26,27.67,wrapped|around|his|little|finger
+"At about nine o'clock on Saturday morning,",positioning element,Elvis,13,Brandi_Elvis,"At about nine o'clock on Saturday morning,",29.55,31.579999,At|about|nine|o'clock|on|Saturday|morning
+I figured a good solution was,-,Elvis,14,Brandi_Elvis,I figured a good solution was,32.62,34.03,I|figured|a|good|solution|was
+"to ask Eugene Correthers,",infinitival phrase,Elvis,15,Brandi_Elvis,"to ask Eugene Correthers,",34.029999000000004,35.549999,to|ask|Eugene|Correthers
+"who was one of the older and smarter boys,",relative clause,Elvis,16,Brandi_Elvis,"who was one of the older and smarter boys,",36.629999,38.69,who|was|one|of|the|older|and|smarter|boys
+what it was,relative clause,Elvis,17,Brandi_Elvis,what it was,39.71,40.28,what|it|was
+that made this Elvis guy so special.,relative clause; >maximal segment,Elvis,18,Brandi_Elvis,that made this Elvis guy so special.,40.29,42.1,that|made|this|Elvis|guy|so|special
+He told me,-,Elvis,19,Brandi_Elvis,He told me,44.02,44.64,He|told|me
+"that it was not anything about Elvis's personality,",complementizer,Elvis,20,Brandi_Elvis,"that it was not anything about Elvis's personality,",44.639999,47.1,that|it|was|not|anything|about|Elvis's|personality
+"but his wavy hair, and the way he moved his body.",conjunction; >maximal segment,Elvis,21,Brandi_Elvis,"but his wavy hair, and the way he moved his body.",48.12,50.53,but|his|wavy|hair|and|the|way|he|moved|his|body
+"About a half an hour later,",positioning element,Elvis,22,Brandi_Elvis,"About a half an hour later,",52.010000000000005,53.319999,About|a|half|an|hour|later
+"the boys in the orphanage,",-,Elvis,23,Brandi_Elvis,"the boys in the orphanage,",54.359999,55.52,the|boys|in|the|orphanage
+"called down to the main dining room by the matron,",nonrestrictive clause,Elvis,24,Brandi_Elvis,"called down to the main dining room by the matron,",55.54,57.74,called|down|to|the|main|dining|room|by|the|matron
+were told,-,Elvis,25,Brandi_Elvis,were told,58.8,59.27,were|told
+"that they were all going to downtown Jacksonville, Florida",complementizer,Elvis,26,Brandi_Elvis,"that they were all going to downtown Jacksonville, Florida",59.27,61.89,that|they|were|all|going|to|downtown|Jacksonville|Florida
+to get a new pair of Buster Brown shoes and a haircut.,infinitival phrase; >maximal segment,Elvis,27,Brandi_Elvis,to get a new pair of Buster Brown shoes and a haircut.,62.4,65.01,to|get|a|new|pair|of|Buster|Brown|shoes|and|a|haircut
+"That is when I got this big idea,",-,Elvis,28,Brandi_Elvis,"That is when I got this big idea,",65.01,68.089999,That|is|when|I|got|this|big|idea
+which hit me like a ton of bricks.,relative clause; >maximal segment,Elvis,29,Brandi_Elvis,which hit me like a ton of bricks.,68.96000000000001,70.66,which|hit|me|like|a|ton|of|bricks
+"If the Elvis haircut was the big secret,",-,Elvis,30,Brandi_Elvis,"If the Elvis haircut was the big secret,",72.01,74.26,If|the|Elvis|haircut|was|the|big|secret
+then Elvis's haircut I was going,conjunction,Elvis,31,Brandi_Elvis,then Elvis's haircut I was going,75.25,76.91000000000001,then|Elvis's|haircut|I|was|going
+to get.,infinitival phrase; >maximal segment,Elvis,32,Brandi_Elvis,to get.,76.91,77.32000000000001,to|get
+I was going,-,Elvis,33,Brandi_Elvis,I was going,78.36,78.83,I|was|going
+"to have my day in the sun,",infinitival phrase,Elvis,34,Brandi_Elvis,"to have my day in the sun,",78.83,80.12,to|have|my|day|in|the|sun
+and all the way to town,conjunction / positioning element,Elvis,35,Brandi_Elvis,and all the way to town,81.13,82.32,and|all|the|way|to|town
+that was all I talked about.,relative clause; >maximal segment,Elvis,36,Brandi_Elvis,that was all I talked about.,82.32,83.64999999999999,that|was|all|I|talked|about
+The fact,-,Elvis,37,Brandi_Elvis,The fact,84.98,85.36999899999999,The|fact
+"that I was getting an Elvis haircut,",relative clause,Elvis,38,Brandi_Elvis,"that I was getting an Elvis haircut,",85.38,86.94,that|I|was|getting|an|Elvis|haircut
+not just the simple fact,-,Elvis,39,Brandi_Elvis,not just the simple fact,87.92,89.12999900000001,not|just|the|simple|fact
+"that we were getting out of the orphanage,",relative clause,Elvis,40,Brandi_Elvis,"that we were getting out of the orphanage,",89.129999,90.55,that|we|were|getting|out|of|the|orphanage
+made me particularly loquacious.,>maximal segment,Elvis,41,Brandi_Elvis,made me particularly loquacious.,91.15,92.98,made|me|particularly|loquacious
+"I told everybody,",-,Elvis,42,Brandi_Elvis,"I told everybody,",94.03,95.04,I|told|everybody
+"including the orphanage matron I normally feared,",nonrestrictive clause,Elvis,43,Brandi_Elvis,"including the orphanage matron I normally feared,",95.05,97.44,including|the|orphanage|matron|I|normally|feared
+that I was going,complementizer,Elvis,44,Brandi_Elvis,that I was going,98.48,99.06,that|I|was|going
+to look just like Elvis Presley,infinitival phrase,Elvis,45,Brandi_Elvis,to look just like Elvis Presley,99.059999,100.75,to|look|just|like|Elvis|Presley
+and that I would learn,conjunction,Elvis,46,Brandi_Elvis,and that I would learn,101.74,102.44,and|that|I|would|learn
+to move around just like he did,infinitival phrase,Elvis,47,Brandi_Elvis,to move around just like he did,102.44,103.94,to|move|around|just|like|he|did
+"and that I would be rich and famous one day,",conjunction,Elvis,48,Brandi_Elvis,"and that I would be rich and famous one day,",103.969999,105.98,and|that|I|would|be|rich|and|famous|one|day
+just like him.,nonrestrictive clause; >maximal segment,Elvis,49,Brandi_Elvis,just like him.,106.039999,107.0,just|like|him
+The matron understood,-,Elvis,50,Brandi_Elvis,The matron understood,109.64,110.62,The|matron|understood
+my idea was something,complementizer (that...),Elvis,51,Brandi_Elvis,my idea was something,110.62,111.65,my|idea|was|something
+that I was really excited about and said nothing.,relative clause; >maximal segment,Elvis,52,Brandi_Elvis,that I was really excited about and said nothing.,111.65,114.13,that|I|was|really|excited|about|and|said|nothing
+"When I got my new Buster Brown shoes,",relative clause,Elvis,53,Brandi_Elvis,"When I got my new Buster Brown shoes,",115.66,117.43,When|I|got|my|new|Buster|Brown|shoes
+I was smiling from ear to ear.,>maximal segment,Elvis,54,Brandi_Elvis,I was smiling from ear to ear.,117.46,119.059999,I|was|smiling|from|ear|to|ear
+"Those shoes, they shined really brightly,",-,Elvis,55,Brandi_Elvis,"Those shoes, they shined really brightly,",120.11,122.739999,Those|shoes|they|shined|really|brightly
+and I liked,conjunction,Elvis,56,Brandi_Elvis,and I liked,123.74,124.23,and|I|liked
+"looking at the bones in my feet,",nonfinite clause,Elvis,57,Brandi_Elvis,"looking at the bones in my feet,",124.27,125.699999,looking|at|the|bones|in|my|feet
+"which I had never seen before,",relative clause,Elvis,58,Brandi_Elvis,"which I had never seen before,",126.67,128.22,which|I|had|never|seen|before
+through a special x-ray machine,-,Elvis,59,Brandi_Elvis,through a special x-ray machine,129.2,130.67999999999998,through|a|special|x|ray|machine
+they had in the shoe store,relative clause (that...),Elvis,60,Brandi_Elvis,they had in the shoe store,130.68,131.91,they|had|in|the|shoe|store
+that made the bones in your feet look green.,relative clause; >maximal segment,Elvis,61,Brandi_Elvis,that made the bones in your feet look green.,131.96,134.04999999999998,that|made|the|bones|in|your|feet|look|green
+I was now almost ready,-,Elvis,62,Brandi_Elvis,I was now almost ready,135.62,136.78,I|was|now|almost|ready
+to go back to the orphanage and practice,infinitival phrase,Elvis,63,Brandi_Elvis,to go back to the orphanage and practice,136.78,138.64,to|go|back|to|the|orphanage|and|practice
+being like the man,nonfinite clause,Elvis,64,Brandi_Elvis,being like the man,138.639999,139.48,being|like|the|man
+"who all the girls loved,",relative clause,Elvis,65,Brandi_Elvis,"who all the girls loved,",139.48,140.67,who|all|the|girls|loved
+since I had my new Buster Brown shoes.,conjunction; >maximal segment,Elvis,66,Brandi_Elvis,since I had my new Buster Brown shoes.,141.71,143.85999900000002,since|I|had|my|new|Buster|Brown|shoes
+"It was the new haircut, though,",-,Elvis,67,Brandi_Elvis,"It was the new haircut, though,",145.01,146.48000000000002,It|was|the|new|haircut|though
+that I needed to complete my new look.,relative clause; >maximal segment,Elvis,68,Brandi_Elvis,that I needed to complete my new look.,146.48,148.11,that|I|needed|to|complete|my|new|look
+"We finally arrived at the unassuming, unembellished barbershop,",-,Elvis,69,Brandi_Elvis,"We finally arrived at the unassuming, unembellished barbershop,",149.65,153.18,We|finally|arrived|at|the|unassuming|unembellished|barbershop
+where they cut our hair for free,relative clause,Elvis,70,Brandi_Elvis,where they cut our hair for free,154.16,155.51,where|they|cut|our|hair|for|free
+because we were orphans.,conjunction; >maximal segment,Elvis,71,Brandi_Elvis,because we were orphans.,155.509999,156.76,because|we|were|orphans
+Even though we were supposed,nonrestrictive clause,Elvis,72,Brandi_Elvis,Even though we were supposed,158.16,159.42999999999998,Even|though|we|were|supposed
+to slowly wai,infinitival phrase,Elvis,73,Brandi_Elvis,to slowly wai,159.44,160.209999,to|slowly|wai
+"to be called,",infinitival phrase,Elvis,74,Brandi_Elvis,"to be called,",160.23,161.09,to|be|called
+I ran straight up to one of the barber chairs and climbed up onto the board,-,Elvis,75,Brandi_Elvis,I ran straight up to one of the barber chairs and climbed up onto the board,162.18,165.68,I|ran|straight|up|to|one|of|the|barber|chairs|and|climbed|up|onto|the|board
+the barber placed across the arms,relative clause (that...),Elvis,76,Brandi_Elvis,the barber placed across the arms,165.68,167.22,the|barber|placed|across|the|arms
+to make me sit up higher.,infinitival phrase; >maximal segment,Elvis,77,Brandi_Elvis,to make me sit up higher.,167.22,168.38,to|make|me|sit|up|higher
+"I looked at the man and said,",-,Elvis,78,Brandi_Elvis,"I looked at the man and said,",169.95,171.18,I|looked|at|the|man|and|said
+"with a beaming smile on my face,",nonrestrictive clause,Elvis,79,Brandi_Elvis,"with a beaming smile on my face,",171.179999,172.86,with|a|beaming|smile|on|my|face
+'I want an Elvis haircut.,>maximal segment,Elvis,80,Brandi_Elvis,'I want an Elvis haircut.,173.9,175.36,'I|want|an|Elvis|haircut
+Can you make my hair like Elvis's?' I asked.,>maximal segment,Elvis,81,Brandi_Elvis,Can you make my hair like Elvis's?' I asked.,176.34,179.789999,Can|you|make|my|hair|like|Elvis's|'|I|asked
+"The barber,",-,Elvis,82,Brandi_Elvis,"The barber,",181.62,182.3,The|barber
+"who was a genial young man,",relative clause,Elvis,83,Brandi_Elvis,"who was a genial young man,",183.26,184.63,who|was|a|genial|young|man
+grinned back at me and said,-,Elvis,84,Brandi_Elvis,grinned back at me and said,185.62,186.86,grinned|back|at|me|and|said
+that he would try his best.,complementizer; >maximal segment,Elvis,85,Brandi_Elvis,that he would try his best.,186.86,188.3,that|he|would|try|his|best
+I was so happy,-,Elvis,86,Brandi_Elvis,I was so happy,189.849999,190.85,I|was|so|happy
+when he started,positioning element,Elvis,87,Brandi_Elvis,when he started,190.849999,191.45,when|he|started
+"to cut my hair,",infinitival phrase,Elvis,88,Brandi_Elvis,"to cut my hair,",191.45,192.319999,to|cut|my|hair
+but just as he started,conjunction,Elvis,89,Brandi_Elvis,but just as he started,193.5,194.51,but|just|as|he|started
+"to cut,",infinitival phrase,Elvis,90,Brandi_Elvis,"to cut,",194.509999,194.98,to|cut
+"the matron,",-,Elvis,91,Brandi_Elvis,"the matron,",195.96,196.689999,the|matron
+"who had been watching me and had a look as cold as ice,",relative clause,Elvis,92,Brandi_Elvis,"who had been watching me and had a look as cold as ice,",197.209999,200.08,who|had|been|watching|me|and|had|a|look|as|cold|as|ice
+motioned for him,-,Elvis,93,Brandi_Elvis,motioned for him,201.34,202.06,motioned|for|him
+to come over to where she was standing.,infinitival phrase; >maximal segment,Elvis,94,Brandi_Elvis,to come over to where she was standing.,202.06,203.88,to|come|over|to|where|she|was|standing
+She whispered something into his ear,-,Elvis,95,Brandi_Elvis,She whispered something into his ear,205.23,206.81,She|whispered|something|into|his|ear
+that caused the barber,relative clause,Elvis,96,Brandi_Elvis,that caused the barber,206.809999,207.61,that|caused|the|barber
+"to shake his head,",infinitival phrase,Elvis,97,Brandi_Elvis,"to shake his head,",207.61,208.57,to|shake|his|head
+"like he was telling her, 'No'.",nonrestrictive clause; >maximal segment,Elvis,98,Brandi_Elvis,"like he was telling her, 'No'.",208.61,,like|he|was|telling|her|'No'
+"In response, the matron walked over to a little man",-,Elvis,99,Brandi_Elvis,"In response, the matron walked over to a little man",211.46,214.09999900000005,In|response|the|matron|walked|over|to|a|little|man
+sitting in an office chair,nonfinite clause,Elvis,100,Brandi_Elvis,sitting in an office chair,214.1,215.23,sitting|in|an|office|chair
+that squeaked as it rolled around the floor,relative clause,Elvis,101,Brandi_Elvis,that squeaked as it rolled around the floor,215.23,217.120001,that|squeaked|as|it|rolled|around|the|floor
+and spoke to him.,>maximal segment,Elvis,102,Brandi_Elvis,and spoke to him.,217.15,218.08,and|spoke|to|him
+It was the little man,-,Elvis,103,Brandi_Elvis,It was the little man,219.61,220.58,It|was|the|little|man
+who then walked over and said something to the man,relative clause,Elvis,104,Brandi_Elvis,who then walked over and said something to the man,220.58,222.56,who|then|walked|over|and|said|something|to|the|man
+who was cutting my hair.,relative clause; >maximal segment,Elvis,105,Brandi_Elvis,who was cutting my hair.,222.56,223.64,who|was|cutting|my|hair
+"The next thing I knew,",positioning element,Elvis,106,Brandi_Elvis,"The next thing I knew,",225.2,226.22,The|next|thing|I|knew
+the man,-,Elvis,107,Brandi_Elvis,the man,226.27,226.65,the|man
+who was cutting my hair told me,relative clause,Elvis,108,Brandi_Elvis,who was cutting my hair told me,226.65,227.99,who|was|cutting|my|hair|told|me
+that he was no longer allowed,complementizer,Elvis,109,Brandi_Elvis,that he was no longer allowed,227.99,229.369999,that|he|was|no|longer|allowed
+to give me an Elvis cut.,infinitival phrase; >maximal segment,Elvis,110,Brandi_Elvis,to give me an Elvis cut.,229.37,230.53,to|give|me|an|Elvis|cut
+'Why not?' I cried desperately.,quotation; >maximal segment,Elvis,111,Brandi_Elvis,'Why not?' I cried desperately.,232.1,235.12,'Why|not|'|I|cried|desperately
+The kindly barber,-,Elvis,112,Brandi_Elvis,The kindly barber,236.45,237.35,The|kindly|barber
+stopped by the matron,nonrestrictive clause,Elvis,113,Brandi_Elvis,stopped by the matron,237.35,238.39,stopped|by|the|matron
+"did not answer,",-,Elvis,114,Brandi_Elvis,"did not answer,",238.4,239.46,did|not|answer
+"but from his expression, I could tell",conjunction,Elvis,115,Brandi_Elvis,"but from his expression, I could tell",240.43,241.98,but|from|his|expression|I|could|tell
+that he wished,complementizer,Elvis,116,Brandi_Elvis,that he wished,241.98,242.55,that|he|wished
+he could cut it as I had asked.,complementizer; >maximal segment,Elvis,117,Brandi_Elvis,he could cut it as I had asked.,242.55,243.92,he|could|cut|it|as|I|had|asked
+"Within a few minutes,",positioning element,Elvis,118,Brandi_Elvis,"Within a few minutes,",245.66,246.65,Within|a|few|minutes
+"it wasn't an Elvis haircut, but a short buzz cut",-,Elvis,119,Brandi_Elvis,"it wasn't an Elvis haircut, but a short buzz cut",246.66,250.13,it|wasn't|an|Elvis|haircut|but|a|short|buzz|cut
+that the barber had given me.,relative clause; >maximal segment,Elvis,120,Brandi_Elvis,that the barber had given me.,250.16,251.34,that|the|barber|had|given|me
+When he finished,positioning element,Elvis,121,Brandi_Elvis,When he finished,253.209999,253.87,When|he|finished
+shaving off all my hair,nonfinite clause,Elvis,122,Brandi_Elvis,shaving off all my hair,253.87,255.27,shaving|off|all|my|hair
+"and made me smell real good with his powder,",-,Elvis,123,Brandi_Elvis,"and made me smell real good with his powder,",255.27,257.32,and|made|me|smell|real|good|with|his|powder
+the barber handed me a nickel and told me,conjunction (then...),Elvis,124,Brandi_Elvis,the barber handed me a nickel and told me,258.41,260.27999900000003,the|barber|handed|me|a|nickel|and|told|me
+to go outside to the snack machine and buy myself a candy bar.,infinitival phrase; >maximal segment,Elvis,125,Brandi_Elvis,to go outside to the snack machine and buy myself a candy bar.,260.28,263.28,to|go|outside|to|the|snack|machine|and|buy|myself|a|candy|bar
+I handed him the nickel back and told him,-,Elvis,126,Brandi_Elvis,I handed him the nickel back and told him,264.759999,267.64,I|handed|him|the|nickel|back|and|told|him
+that I was not hungry.,complementizer; >maximal segment,Elvis,127,Brandi_Elvis,that I was not hungry.,267.639999,268.68,that|I|was|not|hungry
+"'I'm so sorry, baby,' he said,",quotation,Elvis,128,Brandi_Elvis,"'I'm so sorry, baby,' he said,",270.41,273.21000000000004,'I'm|so|sorry|baby|'|he|said
+as I climbed out of his barber chair.,conjunction; >maximal segment,Elvis,129,Brandi_Elvis,as I climbed out of his barber chair.,273.21,274.88000000000005,as|I|climbed|out|of|his|barber|chair
+"'I am not a baby,' I said,",-,Elvis,130,Brandi_Elvis,"'I am not a baby,' I said,",274.89,279.33,'I|am|not|a|baby|'|I|said
+as I wiped the tears from my eyes.,conjunction; >maximal segment,Elvis,131,Brandi_Elvis,as I wiped the tears from my eyes.,280.33,282.33000000000004,as|I|wiped|the|tears|from|my|eyes
+I then sat down on the floor and brushed away the hair,-,Elvis,132,Brandi_Elvis,I then sat down on the floor and brushed away the hair,283.61,286.23,I|then|sat|down|on|the|floor|and|brushed|away|the|hair
+that had accumulated on my shiny new Buster Brown shoes.,relative clause; >maximal segment,Elvis,133,Brandi_Elvis,that had accumulated on my shiny new Buster Brown shoes.,286.23,289.329999,that|had|accumulated|on|my|shiny|new|Buster|Brown|shoes
+"My head was no longer in the clouds,",-,Elvis,134,Brandi_Elvis,"My head was no longer in the clouds,",291.02,292.88,My|head|was|no|longer|in|the|clouds
+"and I got up off the floor, brushed off my short pants, and walked sullenly towards the door.",conjunction; >maximal segment,Elvis,135,Brandi_Elvis,"and I got up off the floor, brushed off my short pants, and walked sullenly towards the door.",293.9,300.51,and|I|got|up|off|the|floor|brushed|off|my|short|pants|and|walked|sullenly|towards|the|door
+The matron was smiling at me sort of funny like.,>maximal segment,Elvis,136,Brandi_Elvis,The matron was smiling at me sort of funny like.,302.09,304.48,The|matron|was|smiling|at|me|sort|of|funny|like
+The barber,-,Elvis,137,Brandi_Elvis,The barber,305.99,306.479999,The|barber
+upset by the matron,nonrestrictive clause,Elvis,138,Brandi_Elvis,upset by the matron,306.48,307.56,upset|by|the|matron
+"said to her, 'You are just a damn bitch, lady.'",>maximal segment,Elvis,139,Brandi_Elvis,"said to her, 'You are just a damn bitch, lady.'",307.57,,said|to|her|'You|are|just|a|damn|bitch|lady|'
+"She yelled back at him at the top of her lungs,",-,Elvis,140,Brandi_Elvis,"She yelled back at him at the top of her lungs,",312.49,314.55,She|yelled|back|at|him|at|the|top|of|her|lungs
+"before walking toward the office, as fast as she could.",positioning element; >maximal segment,Elvis,141,Brandi_Elvis,"before walking toward the office, as fast as she could.",314.55,317.14,before|walking|toward|the|office|as|fast|as|she|could
+"To show his anger,",nonrestrictive clause,Elvis,142,Brandi_Elvis,"To show his anger,",318.65,319.569999,To|show|his|anger
+the man hit the wall with his hand and then walked outside,-,Elvis,143,Brandi_Elvis,the man hit the wall with his hand and then walked outside,319.57,323.3,the|man|hit|the|wall|with|his|hand|and|then|walked|outside
+"where he stood against the brick wall,",relative clause,Elvis,144,Brandi_Elvis,"where he stood against the brick wall,",323.299999,324.69,where|he|stood|against|the|brick|wall
+smoking a cigarette.,nonfinite clause; >maximal segment,Elvis,145,Brandi_Elvis,smoking a cigarette.,324.690001,325.73,smoking|a|cigarette
+I understood right there,-,Elvis,146,Brandi_Elvis,I understood right there,327.51,328.91,I|understood|right|there
+my haircut was something,complementizer (that...),Elvis,147,Brandi_Elvis,my haircut was something,328.92,330.02,my|haircut|was|something
+that had been out of the power of the barber,relative clause,Elvis,148,Brandi_Elvis,that had been out of the power of the barber,330.02,331.92,that|had|been|out|of|the|power|of|the|barber
+and then I slowly walked outside,conjunction,Elvis,149,Brandi_Elvis,and then I slowly walked outside,332.4,333.87,and|then|I|slowly|walked|outside
+to join the man.,infinitival phrase; >maximal segment,Elvis,150,Brandi_Elvis,to join the man.,333.88,334.73,to|join|the|man
+"He looked down, smiled at me, then he patted me on the top of my bald as a coot head.",>maximal segment,Elvis,151,Brandi_Elvis,"He looked down, smiled at me, then he patted me on the top of my bald as a coot head.",335.94,342.33,He|looked|down|smiled|at|me|then|he|patted|me|on|the|top|of|my|bald|as|a|coot|head
+It was a fact of my life,-,Elvis,152,Brandi_Elvis,It was a fact of my life,343.89,345.15,It|was|a|fact|of|my|life
+that I was not gonna have hair,relative clause,Elvis,153,Brandi_Elvis,that I was not gonna have hair,345.15,346.51000000000005,that|I|was|not|gonna|have|hair
+that was anything like Elvis's anytime soon.,relative clause; >maximal segment,Elvis,154,Brandi_Elvis,that was anything like Elvis's anytime soon.,346.51,348.86,that|was|anything|like|Elvis's|anytime|soon
+I then looked up at the barber with my wet red eyes,-,Elvis,155,Brandi_Elvis,I then looked up at the barber with my wet red eyes,350.4,353.129999,I|then|looked|up|at|the|barber|with|my|wet|red|eyes
+"and asked, 'Do you know if Elvis Presley has green bones?'",quotation; >maximal segment,Elvis,156,Brandi_Elvis,"and asked, 'Do you know if Elvis Presley has green bones?'",353.13,,and|asked|'Do|you|know|if|Elvis|Presley|has|green|bones|'

@@ -1,0 +1,1021 @@
+word,idx_segment,segment,segment_raw,reason,story,audio,word_gentle,onset,offset,flag_onset,duration
+At,0,"At ten years old,","At ten years old,",positioning element,Elvis,Jack_Elvis,at,7.29,7.46,,0.16999999999999993
+ten,0,"At ten years old,","At ten years old,",positioning element,Elvis,Jack_Elvis,ten,7.46,7.7,0.16999999999999993,0.2400000000000002
+years,0,"At ten years old,","At ten years old,",positioning element,Elvis,Jack_Elvis,years,7.7,7.99,0.2400000000000002,0.29000000000000004
+old,0,"At ten years old,","At ten years old,",positioning element,Elvis,Jack_Elvis,old,8.01,8.45,0.3099999999999996,0.4399999999999995
+I,1,I could not figure out what it was,I could not figure out what it was,-,Elvis,Jack_Elvis,i,8.62,8.739999999999998,0.6099999999999994,0.11999999999999922
+could,1,I could not figure out what it was,I could not figure out what it was,-,Elvis,Jack_Elvis,could,8.74,8.96,0.120000000000001,0.22000000000000064
+not,1,I could not figure out what it was,I could not figure out what it was,-,Elvis,Jack_Elvis,not,8.96,9.19,0.22000000000000064,0.22999999999999865
+figure,1,I could not figure out what it was,I could not figure out what it was,-,Elvis,Jack_Elvis,figure,9.19,9.48,0.22999999999999865,0.2900000000000009
+out,1,I could not figure out what it was,I could not figure out what it was,-,Elvis,Jack_Elvis,out,9.48,9.66,0.2900000000000009,0.17999999999999972
+what,1,I could not figure out what it was,I could not figure out what it was,-,Elvis,Jack_Elvis,what,9.66,9.79,0.17999999999999972,0.129999999999999
+it,1,I could not figure out what it was,I could not figure out what it was,-,Elvis,Jack_Elvis,it,9.79,9.87,0.129999999999999,0.08000000000000007
+was,1,I could not figure out what it was,I could not figure out what it was,-,Elvis,Jack_Elvis,was,9.87,10.21,0.08000000000000007,0.34000000000000163
+that,2,that this Elvis Presley guy had,that this Elvis Presley guy had,relative clause,Elvis,Jack_Elvis,that,10.25,10.38,0.3800000000000008,0.13000000000000078
+this,2,that this Elvis Presley guy had,that this Elvis Presley guy had,relative clause,Elvis,Jack_Elvis,this,10.38,10.590000000000002,0.13000000000000078,0.21000000000000085
+Elvis,2,that this Elvis Presley guy had,that this Elvis Presley guy had,relative clause,Elvis,Jack_Elvis,elvis,10.63,11.010000000000002,0.25,0.3800000000000008
+Presley,2,that this Elvis Presley guy had,that this Elvis Presley guy had,relative clause,Elvis,Jack_Elvis,presley,11.02,11.44,0.3899999999999988,0.41999999999999993
+guy,2,that this Elvis Presley guy had,that this Elvis Presley guy had,relative clause,Elvis,Jack_Elvis,guy,11.44,11.67,0.41999999999999993,0.23000000000000043
+had,2,that this Elvis Presley guy had,that this Elvis Presley guy had,relative clause,Elvis,Jack_Elvis,had,11.679999,12.079999,0.23999900000000096,0.40000000000000036
+that,3,that the rest of us boys did not have.,that the rest of us boys did not have.,relative clause; >maximal segment,Elvis,Jack_Elvis,that,12.139999,12.289999,0.4599999999999991,0.15000000000000036
+the,3,that the rest of us boys did not have.,that the rest of us boys did not have.,relative clause; >maximal segment,Elvis,Jack_Elvis,the,12.29,12.38,0.1500009999999996,0.09000000000000163
+rest,3,that the rest of us boys did not have.,that the rest of us boys did not have.,relative clause; >maximal segment,Elvis,Jack_Elvis,rest,12.38,12.590000000000002,0.09000000000000163,0.21000000000000085
+of,3,that the rest of us boys did not have.,that the rest of us boys did not have.,relative clause; >maximal segment,Elvis,Jack_Elvis,of,12.59,12.7,0.20999999999999908,0.10999999999999943
+us,3,that the rest of us boys did not have.,that the rest of us boys did not have.,relative clause; >maximal segment,Elvis,Jack_Elvis,us,12.7,12.85,0.10999999999999943,0.15000000000000036
+boys,3,that the rest of us boys did not have.,that the rest of us boys did not have.,relative clause; >maximal segment,Elvis,Jack_Elvis,boys,12.849999,13.189999,0.1499990000000011,0.33999999999999986
+did,3,that the rest of us boys did not have.,that the rest of us boys did not have.,relative clause; >maximal segment,Elvis,Jack_Elvis,did,13.19,13.36,0.3400009999999991,0.16999999999999993
+not,3,that the rest of us boys did not have.,that the rest of us boys did not have.,relative clause; >maximal segment,Elvis,Jack_Elvis,not,13.36,13.57,0.16999999999999993,0.21000000000000085
+have,3,that the rest of us boys did not have.,that the rest of us boys did not have.,relative clause; >maximal segment,Elvis,Jack_Elvis,have,13.57,13.96,0.21000000000000085,0.39000000000000057
+He,4,He seemed,He seemed,-,Elvis,Jack_Elvis,he,15.12,15.28,1.549999999999999,0.16000000000000014
+seemed,4,He seemed,He seemed,-,Elvis,Jack_Elvis,seemed,15.28,15.57,0.16000000000000014,0.2900000000000009
+to,5,to be no different from the rest of us.,to be no different from the rest of us.,infinitival phrase; >maximal segment,Elvis,Jack_Elvis,to,15.599999,15.709999,0.31999900000000103,0.10999999999999943
+be,5,to be no different from the rest of us.,to be no different from the rest of us.,infinitival phrase; >maximal segment,Elvis,Jack_Elvis,be,15.719999,15.869999,0.11999999999999922,0.15000000000000036
+no,5,to be no different from the rest of us.,to be no different from the rest of us.,infinitival phrase; >maximal segment,Elvis,Jack_Elvis,no,15.87,16.08,0.1500009999999996,0.20999999999999908
+different,5,to be no different from the rest of us.,to be no different from the rest of us.,infinitival phrase; >maximal segment,Elvis,Jack_Elvis,different,16.08,16.409999999999997,0.20999999999999908,0.3299999999999983
+from,5,to be no different from the rest of us.,to be no different from the rest of us.,infinitival phrase; >maximal segment,Elvis,Jack_Elvis,from,16.41,16.53,0.33000000000000185,0.120000000000001
+the,5,to be no different from the rest of us.,to be no different from the rest of us.,infinitival phrase; >maximal segment,Elvis,Jack_Elvis,the,16.529999,16.629999,0.11999899999999997,0.10000000000000142
+rest,5,to be no different from the rest of us.,to be no different from the rest of us.,infinitival phrase; >maximal segment,Elvis,Jack_Elvis,rest,16.629999,16.819999000000003,0.10000000000000142,0.19000000000000128
+of,5,to be no different from the rest of us.,to be no different from the rest of us.,infinitival phrase; >maximal segment,Elvis,Jack_Elvis,of,16.82,16.93,0.19000099999999875,0.10999999999999943
+us,5,to be no different from the rest of us.,to be no different from the rest of us.,infinitival phrase; >maximal segment,Elvis,Jack_Elvis,us,16.93,17.2,0.10999999999999943,0.2699999999999996
+He,6,He was simply a man,He was simply a man,-,Elvis,Jack_Elvis,he,18.190001,18.320001,1.260000999999999,0.13000000000000256
+was,6,He was simply a man,He was simply a man,-,Elvis,Jack_Elvis,was,18.32,18.45,0.12999900000000153,0.129999999999999
+simply,6,He was simply a man,He was simply a man,-,Elvis,Jack_Elvis,simply,18.45,18.78,0.129999999999999,0.33000000000000185
+a,6,He was simply a man,He was simply a man,-,Elvis,Jack_Elvis,a,18.78,18.84,0.33000000000000185,0.05999999999999872
+man,6,He was simply a man,He was simply a man,-,Elvis,Jack_Elvis,man,18.84,19.02,0.05999999999999872,0.17999999999999972
+who,7,"who had a head, two arms and two legs.","who had a head, two arms and two legs.",relative clause; >maximal segment,Elvis,Jack_Elvis,who,19.02,19.16,0.17999999999999972,0.14000000000000057
+had,7,"who had a head, two arms and two legs.","who had a head, two arms and two legs.",relative clause; >maximal segment,Elvis,Jack_Elvis,had,19.16,19.54,0.14000000000000057,0.379999999999999
+a,7,"who had a head, two arms and two legs.","who had a head, two arms and two legs.",relative clause; >maximal segment,Elvis,Jack_Elvis,a,19.69,19.81,0.5300000000000011,0.11999999999999744
+head,7,"who had a head, two arms and two legs.","who had a head, two arms and two legs.",relative clause; >maximal segment,Elvis,Jack_Elvis,head,19.81,20.22,0.11999999999999744,0.41000000000000014
+two,7,"who had a head, two arms and two legs.","who had a head, two arms and two legs.",relative clause; >maximal segment,Elvis,Jack_Elvis,two,20.66,20.86,0.8500000000000014,0.1999999999999993
+arms,7,"who had a head, two arms and two legs.","who had a head, two arms and two legs.",relative clause; >maximal segment,Elvis,Jack_Elvis,arms,20.86,21.27,0.1999999999999993,0.41000000000000014
+and,7,"who had a head, two arms and two legs.","who had a head, two arms and two legs.",relative clause; >maximal segment,Elvis,Jack_Elvis,and,21.38,21.54,0.5199999999999996,0.16000000000000014
+two,7,"who had a head, two arms and two legs.","who had a head, two arms and two legs.",relative clause; >maximal segment,Elvis,Jack_Elvis,two,21.54,21.71,0.16000000000000014,0.1700000000000017
+legs,7,"who had a head, two arms and two legs.","who had a head, two arms and two legs.",relative clause; >maximal segment,Elvis,Jack_Elvis,legs,21.71,22.12,0.1700000000000017,0.41000000000000014
+It,8,It must have been something pretty superlative,It must have been something pretty superlative,-,Elvis,Jack_Elvis,it,23.24,23.430000000000003,1.5299999999999976,0.19000000000000483
+must,8,It must have been something pretty superlative,It must have been something pretty superlative,-,Elvis,Jack_Elvis,must,23.43,23.67,0.19000000000000128,0.240000000000002
+have,8,It must have been something pretty superlative,It must have been something pretty superlative,-,Elvis,Jack_Elvis,have,23.67,23.790000000000003,0.240000000000002,0.120000000000001
+been,8,It must have been something pretty superlative,It must have been something pretty superlative,-,Elvis,Jack_Elvis,been,23.79,24.02,0.11999999999999744,0.23000000000000043
+something,8,It must have been something pretty superlative,It must have been something pretty superlative,-,Elvis,Jack_Elvis,something,24.04,24.46,0.25,0.4200000000000017
+pretty,8,It must have been something pretty superlative,It must have been something pretty superlative,-,Elvis,Jack_Elvis,pretty,24.52,24.88,0.4800000000000004,0.35999999999999943
+superlative,8,It must have been something pretty superlative,It must have been something pretty superlative,-,Elvis,Jack_Elvis,<unk>,24.88,25.49,0.35999999999999943,0.6099999999999994
+that,9,"that he had hidden away,","that he had hidden away,",relative clause,Elvis,Jack_Elvis,that,25.53,25.67,0.6500000000000021,0.14000000000000057
+he,9,"that he had hidden away,","that he had hidden away,",relative clause,Elvis,Jack_Elvis,he,25.67,25.83,0.14000000000000057,0.1599999999999966
+had,9,"that he had hidden away,","that he had hidden away,",relative clause,Elvis,Jack_Elvis,had,25.84,26.09,0.16999999999999815,0.25
+hidden,9,"that he had hidden away,","that he had hidden away,",relative clause,Elvis,Jack_Elvis,hidden,26.09,26.36,0.25,0.2699999999999996
+away,9,"that he had hidden away,","that he had hidden away,",relative clause,Elvis,Jack_Elvis,away,26.36,26.78,0.2699999999999996,0.4200000000000017
+because,10,because he had every young girl,because he had every young girl,conjunction,Elvis,Jack_Elvis,because,27.76,28.02,1.4000000000000021,0.259999999999998
+he,10,because he had every young girl,because he had every young girl,conjunction,Elvis,Jack_Elvis,he,28.02,28.18,0.259999999999998,0.16000000000000014
+had,10,because he had every young girl,because he had every young girl,conjunction,Elvis,Jack_Elvis,had,28.179999,28.379999,0.15999899999999911,0.20000000000000284
+every,10,because he had every young girl,because he had every young girl,conjunction,Elvis,Jack_Elvis,every,28.42,28.81,0.24000100000000302,0.389999999999997
+young,10,because he had every young girl,because he had every young girl,conjunction,Elvis,Jack_Elvis,young,28.809999,29.079999,0.38999899999999954,0.2699999999999996
+girl,10,because he had every young girl,because he had every young girl,conjunction,Elvis,Jack_Elvis,girl,29.08,29.4,0.27000099999999705,0.3200000000000003
+at,11,at the orphanage,at the orphanage,positioning element - location,Elvis,Jack_Elvis,at,29.4,29.5,0.3200000000000003,0.10000000000000142
+the,11,at the orphanage,at the orphanage,positioning element - location,Elvis,Jack_Elvis,the,29.5,29.6,0.10000000000000142,0.10000000000000142
+orphanage,11,at the orphanage,at the orphanage,positioning element - location,Elvis,Jack_Elvis,orphanage,29.599999,30.219999,0.0999990000000004,0.620000000000001
+wrapped,12,wrapped around his little finger.,wrapped around his little finger.,>maximal segment,Elvis,Jack_Elvis,wrapped,30.4,30.8,0.8000009999999982,0.40000000000000213
+around,12,wrapped around his little finger.,wrapped around his little finger.,>maximal segment,Elvis,Jack_Elvis,around,30.82,31.12,0.4200000000000017,0.3000000000000007
+his,12,wrapped around his little finger.,wrapped around his little finger.,>maximal segment,Elvis,Jack_Elvis,his,31.12,31.29,0.3000000000000007,0.16999999999999815
+little,12,wrapped around his little finger.,wrapped around his little finger.,>maximal segment,Elvis,Jack_Elvis,little,31.29,31.5,0.16999999999999815,0.21000000000000085
+finger,12,wrapped around his little finger.,wrapped around his little finger.,>maximal segment,Elvis,Jack_Elvis,finger,31.5,31.97,0.21000000000000085,0.46999999999999886
+At,13,"At about nine o'clock on Saturday morning,","At about nine o'clock on Saturday morning,",positioning element,Elvis,Jack_Elvis,at,33.38,33.480000000000004,1.8800000000000026,0.10000000000000142
+about,13,"At about nine o'clock on Saturday morning,","At about nine o'clock on Saturday morning,",positioning element,Elvis,Jack_Elvis,about,33.480000000000004,33.720000000000006,0.10000000000000142,0.240000000000002
+nine,13,"At about nine o'clock on Saturday morning,","At about nine o'clock on Saturday morning,",positioning element,Elvis,Jack_Elvis,nine,33.719999,33.999999,0.2399989999999974,0.28000000000000114
+o'clock,13,"At about nine o'clock on Saturday morning,","At about nine o'clock on Saturday morning,",positioning element,Elvis,Jack_Elvis,o'clock,34.0,34.36,0.2800009999999986,0.35999999999999943
+on,13,"At about nine o'clock on Saturday morning,","At about nine o'clock on Saturday morning,",positioning element,Elvis,Jack_Elvis,on,34.369999,34.559999,0.36999899999999997,0.18999999999999773
+Saturday,13,"At about nine o'clock on Saturday morning,","At about nine o'clock on Saturday morning,",positioning element,Elvis,Jack_Elvis,saturday,34.559999000000005,34.929999,0.19000000000000483,0.36999999999999744
+morning,13,"At about nine o'clock on Saturday morning,","At about nine o'clock on Saturday morning,",positioning element,Elvis,Jack_Elvis,morning,34.93,35.37,0.3700009999999949,0.4399999999999977
+I,14,I figured a good solution was,I figured a good solution was,-,Elvis,Jack_Elvis,i,35.68,35.85,0.75,0.1700000000000017
+figured,14,I figured a good solution was,I figured a good solution was,-,Elvis,Jack_Elvis,figured,35.85,36.190000000000005,0.1700000000000017,0.3400000000000034
+a,14,I figured a good solution was,I figured a good solution was,-,Elvis,Jack_Elvis,a,36.190001,36.250001,0.3400010000000009,0.05999999999999517
+good,14,I figured a good solution was,I figured a good solution was,-,Elvis,Jack_Elvis,good,36.25,36.49,0.05999899999999769,0.240000000000002
+solution,14,I figured a good solution was,I figured a good solution was,-,Elvis,Jack_Elvis,solution,36.5,37.03,0.25,0.5300000000000011
+was,14,I figured a good solution was,I figured a good solution was,-,Elvis,Jack_Elvis,was,37.06,37.25,0.5600000000000023,0.18999999999999773
+to,15,"to ask Eugene Correthers,","to ask Eugene Correthers,",infinitival phrase,Elvis,Jack_Elvis,to,37.25,37.36,0.18999999999999773,0.10999999999999943
+ask,15,"to ask Eugene Correthers,","to ask Eugene Correthers,",infinitival phrase,Elvis,Jack_Elvis,ask,37.36,37.6,0.10999999999999943,0.240000000000002
+Eugene,15,"to ask Eugene Correthers,","to ask Eugene Correthers,",infinitival phrase,Elvis,Jack_Elvis,eugene,37.61,38.09,0.25,0.480000000000004
+Correthers,15,"to ask Eugene Correthers,","to ask Eugene Correthers,",infinitival phrase,Elvis,Jack_Elvis,<unk>,38.09,38.64,0.480000000000004,0.5499999999999972
+who,16,"who was one of the older and smarter boys,","who was one of the older and smarter boys,",relative clause,Elvis,Jack_Elvis,who,39.45,39.580000000000005,1.3599999999999994,0.13000000000000256
+was,16,"who was one of the older and smarter boys,","who was one of the older and smarter boys,",relative clause,Elvis,Jack_Elvis,was,39.58,39.82,0.12999999999999545,0.240000000000002
+one,16,"who was one of the older and smarter boys,","who was one of the older and smarter boys,",relative clause,Elvis,Jack_Elvis,one,39.91,40.16,0.3299999999999983,0.25
+of,16,"who was one of the older and smarter boys,","who was one of the older and smarter boys,",relative clause,Elvis,Jack_Elvis,of,40.16,40.26,0.25,0.10000000000000142
+the,16,"who was one of the older and smarter boys,","who was one of the older and smarter boys,",relative clause,Elvis,Jack_Elvis,the,40.26,40.38,0.10000000000000142,0.12000000000000455
+older,16,"who was one of the older and smarter boys,","who was one of the older and smarter boys,",relative clause,Elvis,Jack_Elvis,older,40.38,40.82,0.12000000000000455,0.4399999999999977
+and,16,"who was one of the older and smarter boys,","who was one of the older and smarter boys,",relative clause,Elvis,Jack_Elvis,and,40.86,41.05,0.4799999999999969,0.18999999999999773
+smarter,16,"who was one of the older and smarter boys,","who was one of the older and smarter boys,",relative clause,Elvis,Jack_Elvis,smarter,41.05,41.47,0.18999999999999773,0.4200000000000017
+boys,16,"who was one of the older and smarter boys,","who was one of the older and smarter boys,",relative clause,Elvis,Jack_Elvis,boys,41.47,41.91,0.4200000000000017,0.4399999999999977
+what,17,what it was,what it was,relative clause,Elvis,Jack_Elvis,what,42.3,42.48,0.8299999999999983,0.17999999999999972
+it,17,what it was,what it was,relative clause,Elvis,Jack_Elvis,it,42.48,42.55,0.17999999999999972,0.07000000000000028
+was,17,what it was,what it was,relative clause,Elvis,Jack_Elvis,was,42.55,42.84,0.07000000000000028,0.29000000000000625
+that,18,that made this Elvis guy so special.,that made this Elvis guy so special.,relative clause; >maximal segment,Elvis,Jack_Elvis,that,42.86,43.01,0.3100000000000023,0.14999999999999858
+made,18,that made this Elvis guy so special.,that made this Elvis guy so special.,relative clause; >maximal segment,Elvis,Jack_Elvis,made,43.01,43.21,0.14999999999999858,0.20000000000000284
+this,18,that made this Elvis guy so special.,that made this Elvis guy so special.,relative clause; >maximal segment,Elvis,Jack_Elvis,this,43.21,43.36,0.20000000000000284,0.14999999999999858
+Elvis,18,that made this Elvis guy so special.,that made this Elvis guy so special.,relative clause; >maximal segment,Elvis,Jack_Elvis,elvis,43.39,43.78,0.17999999999999972,0.39000000000000057
+guy,18,that made this Elvis guy so special.,that made this Elvis guy so special.,relative clause; >maximal segment,Elvis,Jack_Elvis,guy,43.78,43.98,0.39000000000000057,0.19999999999999574
+so,18,that made this Elvis guy so special.,that made this Elvis guy so special.,relative clause; >maximal segment,Elvis,Jack_Elvis,so,43.98,44.190000000000005,0.19999999999999574,0.21000000000000796
+special,18,that made this Elvis guy so special.,that made this Elvis guy so special.,relative clause; >maximal segment,Elvis,Jack_Elvis,special,44.19,44.72,0.21000000000000085,0.5300000000000011
+He,19,He told me,He told me,-,Elvis,Jack_Elvis,he,45.98,46.2,1.7899999999999991,0.22000000000000597
+told,19,He told me,He told me,-,Elvis,Jack_Elvis,told,46.2,46.49,0.22000000000000597,0.28999999999999915
+me,19,He told me,He told me,-,Elvis,Jack_Elvis,me,46.49,46.71,0.28999999999999915,0.21999999999999886
+that,20,"that it was not anything about Elvis's personality,","that it was not anything about Elvis's personality,",complementizer,Elvis,Jack_Elvis,that,46.76,46.89,0.269999999999996,0.13000000000000256
+it,20,"that it was not anything about Elvis's personality,","that it was not anything about Elvis's personality,",complementizer,Elvis,Jack_Elvis,it,46.889999,46.959999,0.12999900000000508,0.07000000000000028
+was,20,"that it was not anything about Elvis's personality,","that it was not anything about Elvis's personality,",complementizer,Elvis,Jack_Elvis,was,46.96,47.09,0.07000099999999776,0.13000000000000256
+not,20,"that it was not anything about Elvis's personality,","that it was not anything about Elvis's personality,",complementizer,Elvis,Jack_Elvis,not,47.099999,47.459999,0.139998999999996,0.36000000000000654
+anything,20,"that it was not anything about Elvis's personality,","that it was not anything about Elvis's personality,",complementizer,Elvis,Jack_Elvis,anything,47.559999,47.999999,0.46000000000000085,0.44000000000000483
+about,20,"that it was not anything about Elvis's personality,","that it was not anything about Elvis's personality,",complementizer,Elvis,Jack_Elvis,about,48.009999,48.259999,0.45000000000000284,0.25
+Elvis's,20,"that it was not anything about Elvis's personality,","that it was not anything about Elvis's personality,",complementizer,Elvis,Jack_Elvis,elvis's,48.28,48.76,0.2700010000000006,0.4799999999999969
+personality,20,"that it was not anything about Elvis's personality,","that it was not anything about Elvis's personality,",complementizer,Elvis,Jack_Elvis,personality,48.759999,49.509999,0.4799989999999994,0.75
+but,21,"but his wavy hair, and the way he moved his body.","but his wavy hair, and the way he moved his body.",conjunction; >maximal segment,Elvis,Jack_Elvis,but,49.95,50.1,1.1900010000000023,0.14999999999999858
+his,21,"but his wavy hair, and the way he moved his body.","but his wavy hair, and the way he moved his body.",conjunction; >maximal segment,Elvis,Jack_Elvis,his,50.099999,50.239999,0.149998999999994,0.14000000000000057
+wavy,21,"but his wavy hair, and the way he moved his body.","but his wavy hair, and the way he moved his body.",conjunction; >maximal segment,Elvis,Jack_Elvis,wavy,50.259999,50.679999,0.1600000000000037,0.4200000000000017
+hair,21,"but his wavy hair, and the way he moved his body.","but his wavy hair, and the way he moved his body.",conjunction; >maximal segment,Elvis,Jack_Elvis,hair,50.679999,51.139999,0.4200000000000017,0.46000000000000085
+and,21,"but his wavy hair, and the way he moved his body.","but his wavy hair, and the way he moved his body.",conjunction; >maximal segment,Elvis,Jack_Elvis,and,51.38,51.53,0.7000010000000003,0.14999999999999858
+the,21,"but his wavy hair, and the way he moved his body.","but his wavy hair, and the way he moved his body.",conjunction; >maximal segment,Elvis,Jack_Elvis,the,51.54,51.63,0.1599999999999966,0.09000000000000341
+way,21,"but his wavy hair, and the way he moved his body.","but his wavy hair, and the way he moved his body.",conjunction; >maximal segment,Elvis,Jack_Elvis,way,51.63,51.870000000000005,0.09000000000000341,0.240000000000002
+he,21,"but his wavy hair, and the way he moved his body.","but his wavy hair, and the way he moved his body.",conjunction; >maximal segment,Elvis,Jack_Elvis,he,51.87,52.01,0.23999999999999488,0.14000000000000057
+moved,21,"but his wavy hair, and the way he moved his body.","but his wavy hair, and the way he moved his body.",conjunction; >maximal segment,Elvis,Jack_Elvis,moved,52.010000000000005,52.260000000000005,0.14000000000000767,0.25
+his,21,"but his wavy hair, and the way he moved his body.","but his wavy hair, and the way he moved his body.",conjunction; >maximal segment,Elvis,Jack_Elvis,his,52.260000000000005,52.41,0.25,0.14999999999999147
+body,21,"but his wavy hair, and the way he moved his body.","but his wavy hair, and the way he moved his body.",conjunction; >maximal segment,Elvis,Jack_Elvis,body,52.41,52.83,0.14999999999999147,0.4200000000000017
+About,22,"About a half an hour later,","About a half an hour later,",positioning element,Elvis,Jack_Elvis,about,55.2,55.42,2.7900000000000063,0.21999999999999886
+a,22,"About a half an hour later,","About a half an hour later,",positioning element,Elvis,Jack_Elvis,a,55.42,55.48,0.21999999999999886,0.05999999999999517
+half,22,"About a half an hour later,","About a half an hour later,",positioning element,Elvis,Jack_Elvis,half,55.48,55.77,0.05999999999999517,0.29000000000000625
+an,22,"About a half an hour later,","About a half an hour later,",positioning element,Elvis,Jack_Elvis,an,55.77,55.89,0.29000000000000625,0.11999999999999744
+hour,22,"About a half an hour later,","About a half an hour later,",positioning element,Elvis,Jack_Elvis,hour,55.89,56.11,0.11999999999999744,0.21999999999999886
+later,22,"About a half an hour later,","About a half an hour later,",positioning element,Elvis,Jack_Elvis,later,56.11,56.55,0.21999999999999886,0.4399999999999977
+the,23,"the boys in the orphanage,","the boys in the orphanage,",-,Elvis,Jack_Elvis,the,56.88,57.0,0.7700000000000031,0.11999999999999744
+boys,23,"the boys in the orphanage,","the boys in the orphanage,",-,Elvis,Jack_Elvis,boys,57.0,57.36,0.11999999999999744,0.35999999999999943
+in,23,"the boys in the orphanage,","the boys in the orphanage,",-,Elvis,Jack_Elvis,in,57.37,57.47,0.36999999999999744,0.10000000000000142
+the,23,"the boys in the orphanage,","the boys in the orphanage,",-,Elvis,Jack_Elvis,the,57.47,57.55,0.10000000000000142,0.0799999999999983
+orphanage,23,"the boys in the orphanage,","the boys in the orphanage,",-,Elvis,Jack_Elvis,orphanage,57.55,58.02,0.0799999999999983,0.47000000000000597
+called,24,"called down to the main dining room by the matron,","called down to the main dining room by the matron,",nonrestrictive clause,Elvis,Jack_Elvis,called,58.08,58.4,0.5300000000000011,0.3200000000000003
+down,24,"called down to the main dining room by the matron,","called down to the main dining room by the matron,",nonrestrictive clause,Elvis,Jack_Elvis,down,58.4,58.64,0.3200000000000003,0.240000000000002
+to,24,"called down to the main dining room by the matron,","called down to the main dining room by the matron,",nonrestrictive clause,Elvis,Jack_Elvis,to,58.64,58.76,0.240000000000002,0.11999999999999744
+the,24,"called down to the main dining room by the matron,","called down to the main dining room by the matron,",nonrestrictive clause,Elvis,Jack_Elvis,the,58.76,58.86,0.11999999999999744,0.10000000000000142
+main,24,"called down to the main dining room by the matron,","called down to the main dining room by the matron,",nonrestrictive clause,Elvis,Jack_Elvis,main,58.86,59.2,0.10000000000000142,0.3400000000000034
+dining,24,"called down to the main dining room by the matron,","called down to the main dining room by the matron,",nonrestrictive clause,Elvis,Jack_Elvis,dining,59.2,59.55,0.3400000000000034,0.3499999999999943
+room,24,"called down to the main dining room by the matron,","called down to the main dining room by the matron,",nonrestrictive clause,Elvis,Jack_Elvis,room,59.55,59.69,0.3499999999999943,0.14000000000000057
+by,24,"called down to the main dining room by the matron,","called down to the main dining room by the matron,",nonrestrictive clause,Elvis,Jack_Elvis,by,59.69,59.81,0.14000000000000057,0.12000000000000455
+the,24,"called down to the main dining room by the matron,","called down to the main dining room by the matron,",nonrestrictive clause,Elvis,Jack_Elvis,the,59.81,59.95,0.12000000000000455,0.14000000000000057
+matron,24,"called down to the main dining room by the matron,","called down to the main dining room by the matron,",nonrestrictive clause,Elvis,Jack_Elvis,<unk>,59.95,60.42,0.14000000000000057,0.46999999999999886
+were,25,were told,were told,-,Elvis,Jack_Elvis,were,60.66,60.8,0.7099999999999937,0.14000000000000057
+told,25,were told,were told,-,Elvis,Jack_Elvis,told,60.8,61.15,0.14000000000000057,0.3500000000000014
+that,26,"that they were all going to downtown Jacksonville, Florida","that they were all going to downtown Jacksonville, Florida",complementizer,Elvis,Jack_Elvis,that,61.18,61.36,0.38000000000000256,0.17999999999999972
+they,26,"that they were all going to downtown Jacksonville, Florida","that they were all going to downtown Jacksonville, Florida",complementizer,Elvis,Jack_Elvis,they,61.36,61.44,0.17999999999999972,0.0799999999999983
+were,26,"that they were all going to downtown Jacksonville, Florida","that they were all going to downtown Jacksonville, Florida",complementizer,Elvis,Jack_Elvis,were,61.44,61.56,0.0799999999999983,0.12000000000000455
+all,26,"that they were all going to downtown Jacksonville, Florida","that they were all going to downtown Jacksonville, Florida",complementizer,Elvis,Jack_Elvis,all,61.56,61.81,0.12000000000000455,0.25
+going,26,"that they were all going to downtown Jacksonville, Florida","that they were all going to downtown Jacksonville, Florida",complementizer,Elvis,Jack_Elvis,going,61.81,62.07,0.25,0.259999999999998
+to,26,"that they were all going to downtown Jacksonville, Florida","that they were all going to downtown Jacksonville, Florida",complementizer,Elvis,Jack_Elvis,to,62.07,62.17,0.259999999999998,0.10000000000000142
+downtown,26,"that they were all going to downtown Jacksonville, Florida","that they were all going to downtown Jacksonville, Florida",complementizer,Elvis,Jack_Elvis,downtown,62.17,62.760000000000005,0.10000000000000142,0.5900000000000034
+Jacksonville,26,"that they were all going to downtown Jacksonville, Florida","that they were all going to downtown Jacksonville, Florida",complementizer,Elvis,Jack_Elvis,jacksonville,62.76,63.38,0.5899999999999963,0.6200000000000045
+Florida,26,"that they were all going to downtown Jacksonville, Florida","that they were all going to downtown Jacksonville, Florida",complementizer,Elvis,Jack_Elvis,florida,63.389999,63.879999000000005,0.6299990000000051,0.490000000000002
+to,27,to get a new pair of Buster Brown shoes and a haircut.,to get a new pair of Buster Brown shoes and a haircut.,infinitival phrase; >maximal segment,Elvis,Jack_Elvis,to,64.13,64.24,0.7400009999999924,0.10999999999999943
+get,27,to get a new pair of Buster Brown shoes and a haircut.,to get a new pair of Buster Brown shoes and a haircut.,infinitival phrase; >maximal segment,Elvis,Jack_Elvis,get,64.24,64.36,0.10999999999999943,0.12000000000000455
+a,27,to get a new pair of Buster Brown shoes and a haircut.,to get a new pair of Buster Brown shoes and a haircut.,infinitival phrase; >maximal segment,Elvis,Jack_Elvis,a,64.36,64.41,0.12000000000000455,0.04999999999999716
+new,27,to get a new pair of Buster Brown shoes and a haircut.,to get a new pair of Buster Brown shoes and a haircut.,infinitival phrase; >maximal segment,Elvis,Jack_Elvis,new,64.41,64.63,0.04999999999999716,0.21999999999999886
+pair,27,to get a new pair of Buster Brown shoes and a haircut.,to get a new pair of Buster Brown shoes and a haircut.,infinitival phrase; >maximal segment,Elvis,Jack_Elvis,pair,64.63,64.92999999999999,0.21999999999999886,0.29999999999999716
+of,27,to get a new pair of Buster Brown shoes and a haircut.,to get a new pair of Buster Brown shoes and a haircut.,infinitival phrase; >maximal segment,Elvis,Jack_Elvis,of,64.929999,65.05999899999999,0.2999989999999997,0.12999999999999545
+Buster,27,to get a new pair of Buster Brown shoes and a haircut.,to get a new pair of Buster Brown shoes and a haircut.,infinitival phrase; >maximal segment,Elvis,Jack_Elvis,buster,65.09,65.44,0.16000100000000828,0.3499999999999943
+Brown,27,to get a new pair of Buster Brown shoes and a haircut.,to get a new pair of Buster Brown shoes and a haircut.,infinitival phrase; >maximal segment,Elvis,Jack_Elvis,brown,65.44,65.74,0.3499999999999943,0.29999999999999716
+shoes,27,to get a new pair of Buster Brown shoes and a haircut.,to get a new pair of Buster Brown shoes and a haircut.,infinitival phrase; >maximal segment,Elvis,Jack_Elvis,shoes,65.75,66.11,0.3100000000000023,0.35999999999999943
+and,27,to get a new pair of Buster Brown shoes and a haircut.,to get a new pair of Buster Brown shoes and a haircut.,infinitival phrase; >maximal segment,Elvis,Jack_Elvis,and,66.139999,66.28999900000001,0.3899990000000031,0.15000000000000568
+a,27,to get a new pair of Buster Brown shoes and a haircut.,to get a new pair of Buster Brown shoes and a haircut.,infinitival phrase; >maximal segment,Elvis,Jack_Elvis,a,66.28999999999999,66.33999999999999,0.15000099999998895,0.04999999999999716
+haircut,27,to get a new pair of Buster Brown shoes and a haircut.,to get a new pair of Buster Brown shoes and a haircut.,infinitival phrase; >maximal segment,Elvis,Jack_Elvis,haircut,66.34,66.86,0.05000000000001137,0.519999999999996
+That,28,"That is when I got this big idea,","That is when I got this big idea,",-,Elvis,Jack_Elvis,that,68.21000000000001,68.54,1.8700000000000045,0.3299999999999983
+is,28,"That is when I got this big idea,","That is when I got this big idea,",-,Elvis,Jack_Elvis,is,68.549999,68.749999,0.3399989999999917,0.20000000000000284
+when,28,"That is when I got this big idea,","That is when I got this big idea,",-,Elvis,Jack_Elvis,when,68.75,69.01,0.20000100000000032,0.2600000000000051
+I,28,"That is when I got this big idea,","That is when I got this big idea,",-,Elvis,Jack_Elvis,i,69.2,69.31,0.45000000000000284,0.10999999999999943
+got,28,"That is when I got this big idea,","That is when I got this big idea,",-,Elvis,Jack_Elvis,got,69.309999,69.499999,0.10999900000000196,0.18999999999999773
+this,28,"That is when I got this big idea,","That is when I got this big idea,",-,Elvis,Jack_Elvis,this,69.5,69.68,0.1900009999999952,0.18000000000000682
+big,28,"That is when I got this big idea,","That is when I got this big idea,",-,Elvis,Jack_Elvis,big,69.69,69.98,0.18999999999999773,0.29000000000000625
+idea,28,"That is when I got this big idea,","That is when I got this big idea,",-,Elvis,Jack_Elvis,idea,70.0,70.65,0.3100000000000023,0.6500000000000057
+which,29,which hit me like a ton of bricks.,which hit me like a ton of bricks.,relative clause; >maximal segment,Elvis,Jack_Elvis,which,70.84,71.03,0.8400000000000034,0.18999999999999773
+hit,29,which hit me like a ton of bricks.,which hit me like a ton of bricks.,relative clause; >maximal segment,Elvis,Jack_Elvis,hit,71.029999,71.229999,0.18999900000000025,0.20000000000000284
+me,29,which hit me like a ton of bricks.,which hit me like a ton of bricks.,relative clause; >maximal segment,Elvis,Jack_Elvis,me,71.23,71.35000000000001,0.20000100000000032,0.12000000000000455
+like,29,which hit me like a ton of bricks.,which hit me like a ton of bricks.,relative clause; >maximal segment,Elvis,Jack_Elvis,like,71.379999,71.529999,0.149998999999994,0.15000000000000568
+a,29,which hit me like a ton of bricks.,which hit me like a ton of bricks.,relative clause; >maximal segment,Elvis,Jack_Elvis,a,71.529999,71.589999,0.15000000000000568,0.060000000000002274
+ton,29,which hit me like a ton of bricks.,which hit me like a ton of bricks.,relative clause; >maximal segment,Elvis,Jack_Elvis,ton,71.59,71.82000000000001,0.06000099999999975,0.23000000000000398
+of,29,which hit me like a ton of bricks.,which hit me like a ton of bricks.,relative clause; >maximal segment,Elvis,Jack_Elvis,of,71.82,71.99,0.22999999999998977,0.1700000000000017
+bricks,29,which hit me like a ton of bricks.,which hit me like a ton of bricks.,relative clause; >maximal segment,Elvis,Jack_Elvis,bricks,71.99,72.46,0.1700000000000017,0.46999999999999886
+If,30,"If the Elvis haircut was the big secret,","If the Elvis haircut was the big secret,",-,Elvis,Jack_Elvis,if,73.63,73.78999999999999,1.6400000000000006,0.1599999999999966
+the,30,"If the Elvis haircut was the big secret,","If the Elvis haircut was the big secret,",-,Elvis,Jack_Elvis,the,73.81,73.95,0.18000000000000682,0.14000000000000057
+Elvis,30,"If the Elvis haircut was the big secret,","If the Elvis haircut was the big secret,",-,Elvis,Jack_Elvis,elvis,73.98,74.38000000000001,0.1700000000000017,0.4000000000000057
+haircut,30,"If the Elvis haircut was the big secret,","If the Elvis haircut was the big secret,",-,Elvis,Jack_Elvis,haircut,74.39,74.93,0.4099999999999966,0.5400000000000063
+was,30,"If the Elvis haircut was the big secret,","If the Elvis haircut was the big secret,",-,Elvis,Jack_Elvis,was,74.99,75.19999999999999,0.5999999999999943,0.20999999999999375
+the,30,"If the Elvis haircut was the big secret,","If the Elvis haircut was the big secret,",-,Elvis,Jack_Elvis,the,75.2,75.3,0.21000000000000796,0.09999999999999432
+big,30,"If the Elvis haircut was the big secret,","If the Elvis haircut was the big secret,",-,Elvis,Jack_Elvis,big,75.3,75.56,0.09999999999999432,0.2600000000000051
+secret,30,"If the Elvis haircut was the big secret,","If the Elvis haircut was the big secret,",-,Elvis,Jack_Elvis,secret,75.56,76.10000000000001,0.2600000000000051,0.5400000000000063
+then,31,then Elvis's haircut I was going,then Elvis's haircut I was going,conjunction,Elvis,Jack_Elvis,then,76.52,76.7,0.9599999999999937,0.18000000000000682
+Elvis's,31,then Elvis's haircut I was going,then Elvis's haircut I was going,conjunction,Elvis,Jack_Elvis,elvis's,76.73,77.25,0.21000000000000796,0.519999999999996
+haircut,31,then Elvis's haircut I was going,then Elvis's haircut I was going,conjunction,Elvis,Jack_Elvis,haircut,77.25,77.84,0.519999999999996,0.5900000000000034
+I,31,then Elvis's haircut I was going,then Elvis's haircut I was going,conjunction,Elvis,Jack_Elvis,i,77.97,78.17999999999999,0.7199999999999989,0.20999999999999375
+was,31,then Elvis's haircut I was going,then Elvis's haircut I was going,conjunction,Elvis,Jack_Elvis,was,78.18,78.38000000000001,0.21000000000000796,0.20000000000000284
+going,31,then Elvis's haircut I was going,then Elvis's haircut I was going,conjunction,Elvis,Jack_Elvis,going,78.38,78.63,0.19999999999998863,0.25
+to,32,to get.,to get.,infinitival phrase; >maximal segment,Elvis,Jack_Elvis,to,78.63,78.75,0.25,0.12000000000000455
+get,32,to get.,to get.,infinitival phrase; >maximal segment,Elvis,Jack_Elvis,get,78.75,79.14,0.12000000000000455,0.39000000000000057
+I,33,I was going,I was going,-,Elvis,Jack_Elvis,i,80.4,80.5,1.6500000000000057,0.09999999999999432
+was,33,I was going,I was going,-,Elvis,Jack_Elvis,was,80.5,80.64,0.09999999999999432,0.14000000000000057
+going,33,I was going,I was going,-,Elvis,Jack_Elvis,going,80.639999,80.849999,0.1399990000000031,0.20999999999999375
+to,34,"to have my day in the sun,","to have my day in the sun,",infinitival phrase,Elvis,Jack_Elvis,to,80.849999,80.94999899999999,0.20999999999999375,0.09999999999999432
+have,34,"to have my day in the sun,","to have my day in the sun,",infinitival phrase,Elvis,Jack_Elvis,have,80.95,81.27,0.100001000000006,0.3199999999999932
+my,34,"to have my day in the sun,","to have my day in the sun,",infinitival phrase,Elvis,Jack_Elvis,my,81.27,81.44,0.3199999999999932,0.1700000000000017
+day,34,"to have my day in the sun,","to have my day in the sun,",infinitival phrase,Elvis,Jack_Elvis,day,81.44,81.81,0.1700000000000017,0.37000000000000455
+in,34,"to have my day in the sun,","to have my day in the sun,",infinitival phrase,Elvis,Jack_Elvis,in,81.809999,81.92999900000001,0.36999900000000707,0.12000000000000455
+the,34,"to have my day in the sun,","to have my day in the sun,",infinitival phrase,Elvis,Jack_Elvis,the,81.929999,82.039999,0.11999999999999034,0.10999999999999943
+sun,34,"to have my day in the sun,","to have my day in the sun,",infinitival phrase,Elvis,Jack_Elvis,sun,82.03999999999999,82.44999999999999,0.1100009999999969,0.4099999999999966
+and,35,and all the way to town,and all the way to town,conjunction / positioning element,Elvis,Jack_Elvis,and,82.94,83.13,0.9000000000000057,0.18999999999999773
+all,35,and all the way to town,and all the way to town,conjunction / positioning element,Elvis,Jack_Elvis,all,83.19,83.47,0.25,0.28000000000000114
+the,35,and all the way to town,and all the way to town,conjunction / positioning element,Elvis,Jack_Elvis,the,83.469999,83.559999,0.27999900000000366,0.09000000000000341
+way,35,and all the way to town,and all the way to town,conjunction / positioning element,Elvis,Jack_Elvis,way,83.559999,83.75999900000001,0.09000000000000341,0.20000000000000284
+to,35,and all the way to town,and all the way to town,conjunction / positioning element,Elvis,Jack_Elvis,to,83.759999,83.879999,0.19999999999998863,0.12000000000000455
+town,35,and all the way to town,and all the way to town,conjunction / positioning element,Elvis,Jack_Elvis,town,83.88,84.33999999999999,0.12000100000000202,0.45999999999999375
+that,36,that was all I talked about.,that was all I talked about.,relative clause; >maximal segment,Elvis,Jack_Elvis,that,84.61,84.77,0.730000000000004,0.1599999999999966
+was,36,that was all I talked about.,that was all I talked about.,relative clause; >maximal segment,Elvis,Jack_Elvis,was,84.77,84.91,0.1599999999999966,0.14000000000000057
+all,36,that was all I talked about.,that was all I talked about.,relative clause; >maximal segment,Elvis,Jack_Elvis,all,84.91,85.07,0.14000000000000057,0.1599999999999966
+I,36,that was all I talked about.,that was all I talked about.,relative clause; >maximal segment,Elvis,Jack_Elvis,i,85.07,85.13,0.1599999999999966,0.060000000000002274
+talked,36,that was all I talked about.,that was all I talked about.,relative clause; >maximal segment,Elvis,Jack_Elvis,talked,85.13,85.44999999999999,0.060000000000002274,0.3199999999999932
+about,36,that was all I talked about.,that was all I talked about.,relative clause; >maximal segment,Elvis,Jack_Elvis,about,85.45,85.76,0.3200000000000074,0.3100000000000023
+The,37,The fact,The fact,-,Elvis,Jack_Elvis,the,86.57,86.69,1.1199999999999903,0.12000000000000455
+fact,37,The fact,The fact,-,Elvis,Jack_Elvis,fact,86.69,86.95,0.12000000000000455,0.2600000000000051
+that,38,"that I was getting an Elvis haircut,","that I was getting an Elvis haircut,",relative clause,Elvis,Jack_Elvis,that,86.95,87.08,0.2600000000000051,0.12999999999999545
+I,38,"that I was getting an Elvis haircut,","that I was getting an Elvis haircut,",relative clause,Elvis,Jack_Elvis,i,87.08,87.14,0.12999999999999545,0.060000000000002274
+was,38,"that I was getting an Elvis haircut,","that I was getting an Elvis haircut,",relative clause,Elvis,Jack_Elvis,was,87.139999,87.339999,0.0599990000000048,0.20000000000000284
+getting,38,"that I was getting an Elvis haircut,","that I was getting an Elvis haircut,",relative clause,Elvis,Jack_Elvis,getting,87.339999,87.75999900000001,0.20000000000000284,0.4200000000000017
+an,38,"that I was getting an Elvis haircut,","that I was getting an Elvis haircut,",relative clause,Elvis,Jack_Elvis,an,87.87,88.05000000000001,0.5300009999999986,0.18000000000000682
+Elvis,38,"that I was getting an Elvis haircut,","that I was getting an Elvis haircut,",relative clause,Elvis,Jack_Elvis,elvis,88.059999,88.45999900000001,0.18999900000000025,0.4000000000000057
+haircut,38,"that I was getting an Elvis haircut,","that I was getting an Elvis haircut,",relative clause,Elvis,Jack_Elvis,haircut,88.459999,88.969999,0.3999999999999915,0.5100000000000051
+not,39,not just the simple fact,not just the simple fact,-,Elvis,Jack_Elvis,not,89.35,89.58,0.890000999999998,0.23000000000000398
+just,39,not just the simple fact,not just the simple fact,-,Elvis,Jack_Elvis,just,89.58,89.78,0.23000000000000398,0.20000000000000284
+the,39,not just the simple fact,not just the simple fact,-,Elvis,Jack_Elvis,the,89.779999,89.889999,0.19999900000000537,0.10999999999999943
+simple,39,not just the simple fact,not just the simple fact,-,Elvis,Jack_Elvis,simple,89.889999,90.249999,0.10999999999999943,0.35999999999999943
+fact,39,not just the simple fact,not just the simple fact,-,Elvis,Jack_Elvis,fact,90.25,90.57,0.3600009999999969,0.3199999999999932
+that,40,"that we were getting out of the orphanage,","that we were getting out of the orphanage,",relative clause,Elvis,Jack_Elvis,that,90.59,90.73,0.3400000000000034,0.14000000000000057
+we,40,"that we were getting out of the orphanage,","that we were getting out of the orphanage,",relative clause,Elvis,Jack_Elvis,we,90.77,90.92,0.1799999999999926,0.15000000000000568
+were,40,"that we were getting out of the orphanage,","that we were getting out of the orphanage,",relative clause,Elvis,Jack_Elvis,were,90.92,91.03,0.15000000000000568,0.10999999999999943
+getting,40,"that we were getting out of the orphanage,","that we were getting out of the orphanage,",relative clause,Elvis,Jack_Elvis,getting,91.04,91.3,0.12000000000000455,0.2599999999999909
+out,40,"that we were getting out of the orphanage,","that we were getting out of the orphanage,",relative clause,Elvis,Jack_Elvis,out,91.31,91.49,0.269999999999996,0.1799999999999926
+of,40,"that we were getting out of the orphanage,","that we were getting out of the orphanage,",relative clause,Elvis,Jack_Elvis,of,91.49,91.6,0.1799999999999926,0.10999999999999943
+the,40,"that we were getting out of the orphanage,","that we were getting out of the orphanage,",relative clause,Elvis,Jack_Elvis,the,91.6,91.7,0.10999999999999943,0.10000000000000853
+orphanage,40,"that we were getting out of the orphanage,","that we were getting out of the orphanage,",relative clause,Elvis,Jack_Elvis,orphanage,91.71,92.33,0.10999999999999943,0.6200000000000045
+made,41,made me particularly loquacious.,made me particularly loquacious.,>maximal segment,Elvis,Jack_Elvis,made,92.59,92.82,0.8800000000000097,0.22999999999998977
+me,41,made me particularly loquacious.,made me particularly loquacious.,>maximal segment,Elvis,Jack_Elvis,me,92.82,93.02,0.22999999999998977,0.20000000000000284
+particularly,41,made me particularly loquacious.,made me particularly loquacious.,>maximal segment,Elvis,Jack_Elvis,particularly,93.1,93.92,0.28000000000000114,0.8200000000000074
+loquacious,41,made me particularly loquacious.,made me particularly loquacious.,>maximal segment,Elvis,Jack_Elvis,loquacious,93.92,94.64,0.8200000000000074,0.7199999999999989
+I,42,"I told everybody,","I told everybody,",-,Elvis,Jack_Elvis,i,96.22,96.35,2.299999999999997,0.12999999999999545
+told,42,"I told everybody,","I told everybody,",-,Elvis,Jack_Elvis,told,96.35,96.58,0.12999999999999545,0.23000000000000398
+everybody,42,"I told everybody,","I told everybody,",-,Elvis,Jack_Elvis,everybody,96.6,97.21,0.25,0.6099999999999994
+including,43,"including the orphanage matron I normally feared,","including the orphanage matron I normally feared,",nonrestrictive clause,Elvis,Jack_Elvis,including,97.89,98.4,1.2900000000000063,0.5100000000000051
+the,43,"including the orphanage matron I normally feared,","including the orphanage matron I normally feared,",nonrestrictive clause,Elvis,Jack_Elvis,the,98.4,98.49,0.5100000000000051,0.0899999999999892
+orphanage,43,"including the orphanage matron I normally feared,","including the orphanage matron I normally feared,",nonrestrictive clause,Elvis,Jack_Elvis,orphanage,98.49,98.95,0.0899999999999892,0.46000000000000796
+matron,43,"including the orphanage matron I normally feared,","including the orphanage matron I normally feared,",nonrestrictive clause,Elvis,Jack_Elvis,,98.95,,,
+I,43,"including the orphanage matron I normally feared,","including the orphanage matron I normally feared,",nonrestrictive clause,Elvis,Jack_Elvis,i,99.349999,99.429999,,0.0799999999999983
+normally,43,"including the orphanage matron I normally feared,","including the orphanage matron I normally feared,",nonrestrictive clause,Elvis,Jack_Elvis,normally,99.429999,99.929999,0.0799999999999983,0.5
+feared,43,"including the orphanage matron I normally feared,","including the orphanage matron I normally feared,",nonrestrictive clause,Elvis,Jack_Elvis,feared,99.929999,100.389999,0.5,0.46000000000000796
+that,44,that I was going,that I was going,complementizer,Elvis,Jack_Elvis,that,101.48,101.62,1.5500010000000088,0.14000000000000057
+I,44,that I was going,that I was going,complementizer,Elvis,Jack_Elvis,i,101.62,101.67,0.14000000000000057,0.04999999999999716
+was,44,that I was going,that I was going,complementizer,Elvis,Jack_Elvis,was,101.67,101.8,0.04999999999999716,0.12999999999999545
+going,44,that I was going,that I was going,complementizer,Elvis,Jack_Elvis,going,101.8,102.02,0.12999999999999545,0.21999999999999886
+to,45,to look just like Elvis Presley,to look just like Elvis Presley,infinitival phrase,Elvis,Jack_Elvis,to,102.02,102.12,0.21999999999999886,0.10000000000000853
+look,45,to look just like Elvis Presley,to look just like Elvis Presley,infinitival phrase,Elvis,Jack_Elvis,look,102.12,102.33,0.10000000000000853,0.20999999999999375
+just,45,to look just like Elvis Presley,to look just like Elvis Presley,infinitival phrase,Elvis,Jack_Elvis,just,102.36,102.74,0.23999999999999488,0.37999999999999545
+like,45,to look just like Elvis Presley,to look just like Elvis Presley,infinitival phrase,Elvis,Jack_Elvis,like,102.74,103.02,0.37999999999999545,0.28000000000000114
+Elvis,45,to look just like Elvis Presley,to look just like Elvis Presley,infinitival phrase,Elvis,Jack_Elvis,elvis,103.03,103.41,0.29000000000000625,0.37999999999999545
+Presley,45,to look just like Elvis Presley,to look just like Elvis Presley,infinitival phrase,Elvis,Jack_Elvis,presley,103.42,103.93,0.39000000000000057,0.5100000000000051
+and,46,and that I would learn,and that I would learn,conjunction,Elvis,Jack_Elvis,and,105.139999,105.279999,1.7199990000000014,0.14000000000000057
+that,46,and that I would learn,and that I would learn,conjunction,Elvis,Jack_Elvis,that,105.309999,105.389999,0.1700000000000017,0.0799999999999983
+I,46,and that I would learn,and that I would learn,conjunction,Elvis,Jack_Elvis,i,105.389999,105.449999,0.0799999999999983,0.060000000000002274
+would,46,and that I would learn,and that I would learn,conjunction,Elvis,Jack_Elvis,would,105.45,105.6,0.06000099999999975,0.14999999999999147
+learn,46,and that I would learn,and that I would learn,conjunction,Elvis,Jack_Elvis,learn,105.599999,105.899999,0.149998999999994,0.29999999999999716
+to,47,to move around just like he did,to move around just like he did,infinitival phrase,Elvis,Jack_Elvis,to,105.9,106.13,0.30000100000000884,0.22999999999998977
+move,47,to move around just like he did,to move around just like he did,infinitival phrase,Elvis,Jack_Elvis,move,106.190001,106.540001,0.2900009999999895,0.3500000000000085
+around,47,to move around just like he did,to move around just like he did,infinitival phrase,Elvis,Jack_Elvis,around,106.539999,106.919999,0.34999799999999937,0.38000000000000966
+just,47,to move around just like he did,to move around just like he did,infinitival phrase,Elvis,Jack_Elvis,just,106.940001,107.250001,0.40000200000000063,0.3100000000000023
+like,47,to move around just like he did,to move around just like he did,infinitival phrase,Elvis,Jack_Elvis,like,107.25,107.41,0.3099990000000048,0.1599999999999966
+he,47,to move around just like he did,to move around just like he did,infinitival phrase,Elvis,Jack_Elvis,he,107.41,107.6,0.1599999999999966,0.18999999999999773
+did,47,to move around just like he did,to move around just like he did,infinitival phrase,Elvis,Jack_Elvis,did,107.6,107.87,0.18999999999999773,0.27000000000001023
+and,48,"and that I would be rich and famous one day,","and that I would be rich and famous one day,",conjunction,Elvis,Jack_Elvis,and,108.969999,109.089999,1.369999000000007,0.12000000000000455
+that,48,"and that I would be rich and famous one day,","and that I would be rich and famous one day,",conjunction,Elvis,Jack_Elvis,that,109.09,109.21,0.12000100000000202,0.11999999999999034
+I,48,"and that I would be rich and famous one day,","and that I would be rich and famous one day,",conjunction,Elvis,Jack_Elvis,i,109.21,109.28,0.11999999999999034,0.07000000000000739
+would,48,"and that I would be rich and famous one day,","and that I would be rich and famous one day,",conjunction,Elvis,Jack_Elvis,would,109.28,109.41,0.07000000000000739,0.12999999999999545
+be,48,"and that I would be rich and famous one day,","and that I would be rich and famous one day,",conjunction,Elvis,Jack_Elvis,be,109.42,109.55,0.14000000000000057,0.12999999999999545
+rich,48,"and that I would be rich and famous one day,","and that I would be rich and famous one day,",conjunction,Elvis,Jack_Elvis,rich,109.55,109.87,0.12999999999999545,0.3200000000000074
+and,48,"and that I would be rich and famous one day,","and that I would be rich and famous one day,",conjunction,Elvis,Jack_Elvis,and,109.89,110.05,0.3400000000000034,0.1599999999999966
+famous,48,"and that I would be rich and famous one day,","and that I would be rich and famous one day,",conjunction,Elvis,Jack_Elvis,famous,110.05,110.46,0.1599999999999966,0.4099999999999966
+one,48,"and that I would be rich and famous one day,","and that I would be rich and famous one day,",conjunction,Elvis,Jack_Elvis,one,110.46,110.65,0.4099999999999966,0.19000000000001194
+day,48,"and that I would be rich and famous one day,","and that I would be rich and famous one day,",conjunction,Elvis,Jack_Elvis,day,110.65,110.9,0.19000000000001194,0.25
+just,49,just like him.,just like him.,nonrestrictive clause; >maximal segment,Elvis,Jack_Elvis,just,111.28,111.58,0.6299999999999955,0.29999999999999716
+like,49,just like him.,just like him.,nonrestrictive clause; >maximal segment,Elvis,Jack_Elvis,like,111.58,111.81,0.29999999999999716,0.23000000000000398
+him,49,just like him.,just like him.,nonrestrictive clause; >maximal segment,Elvis,Jack_Elvis,him,111.81,112.15,0.23000000000000398,0.3400000000000034
+The,50,The matron understood,The matron understood,-,Elvis,Jack_Elvis,the,113.55,113.67,1.7399999999999949,0.12000000000000455
+matron,50,The matron understood,The matron understood,-,Elvis,Jack_Elvis,<unk>,113.67,114.22,0.12000000000000455,0.5499999999999972
+understood,50,The matron understood,The matron understood,-,Elvis,Jack_Elvis,understood,114.38,115.07,0.7099999999999937,0.6899999999999977
+my,51,my idea was something,my idea was something,complementizer (that...),Elvis,Jack_Elvis,my,115.07,115.25,0.6899999999999977,0.18000000000000682
+idea,51,my idea was something,my idea was something,complementizer (that...),Elvis,Jack_Elvis,idea,115.25,115.57,0.18000000000000682,0.3199999999999932
+was,51,my idea was something,my idea was something,complementizer (that...),Elvis,Jack_Elvis,was,115.57,115.84,0.3199999999999932,0.27000000000001023
+something,51,my idea was something,my idea was something,complementizer (that...),Elvis,Jack_Elvis,something,115.85,116.23,0.28000000000000114,0.38000000000000966
+that,52,that I was really excited about and said nothing.,that I was really excited about and said nothing.,relative clause; >maximal segment,Elvis,Jack_Elvis,that,116.24,116.27,0.39000000000000057,0.030000000000001137
+I,52,that I was really excited about and said nothing.,that I was really excited about and said nothing.,relative clause; >maximal segment,Elvis,Jack_Elvis,i,116.28,116.38,0.04000000000000625,0.09999999999999432
+was,52,that I was really excited about and said nothing.,that I was really excited about and said nothing.,relative clause; >maximal segment,Elvis,Jack_Elvis,was,116.38,116.55,0.09999999999999432,0.1700000000000017
+really,52,that I was really excited about and said nothing.,that I was really excited about and said nothing.,relative clause; >maximal segment,Elvis,Jack_Elvis,really,116.55,116.83,0.1700000000000017,0.28000000000000114
+excited,52,that I was really excited about and said nothing.,that I was really excited about and said nothing.,relative clause; >maximal segment,Elvis,Jack_Elvis,excited,116.83,117.29,0.28000000000000114,0.46000000000000796
+about,52,that I was really excited about and said nothing.,that I was really excited about and said nothing.,relative clause; >maximal segment,Elvis,Jack_Elvis,about,117.3,117.6,0.46999999999999886,0.29999999999999716
+and,52,that I was really excited about and said nothing.,that I was really excited about and said nothing.,relative clause; >maximal segment,Elvis,Jack_Elvis,and,117.9,118.09,0.6000000000000085,0.18999999999999773
+said,52,that I was really excited about and said nothing.,that I was really excited about and said nothing.,relative clause; >maximal segment,Elvis,Jack_Elvis,said,118.09,118.36,0.18999999999999773,0.269999999999996
+nothing,52,that I was really excited about and said nothing.,that I was really excited about and said nothing.,relative clause; >maximal segment,Elvis,Jack_Elvis,nothing,118.37,118.9,0.28000000000000114,0.5300000000000011
+When,53,"When I got my new Buster Brown shoes,","When I got my new Buster Brown shoes,",relative clause,Elvis,Jack_Elvis,when,120.42,120.62,2.049999999999997,0.20000000000000284
+I,53,"When I got my new Buster Brown shoes,","When I got my new Buster Brown shoes,",relative clause,Elvis,Jack_Elvis,i,120.62,120.69,0.20000000000000284,0.06999999999999318
+got,53,"When I got my new Buster Brown shoes,","When I got my new Buster Brown shoes,",relative clause,Elvis,Jack_Elvis,got,120.69,120.87,0.06999999999999318,0.18000000000000682
+my,53,"When I got my new Buster Brown shoes,","When I got my new Buster Brown shoes,",relative clause,Elvis,Jack_Elvis,my,120.87,120.99,0.18000000000000682,0.11999999999999034
+new,53,"When I got my new Buster Brown shoes,","When I got my new Buster Brown shoes,",relative clause,Elvis,Jack_Elvis,new,120.99,121.23,0.11999999999999034,0.2400000000000091
+Buster,53,"When I got my new Buster Brown shoes,","When I got my new Buster Brown shoes,",relative clause,Elvis,Jack_Elvis,buster,121.23,121.57,0.2400000000000091,0.3399999999999892
+Brown,53,"When I got my new Buster Brown shoes,","When I got my new Buster Brown shoes,",relative clause,Elvis,Jack_Elvis,brown,121.57,121.86,0.3399999999999892,0.29000000000000625
+shoes,53,"When I got my new Buster Brown shoes,","When I got my new Buster Brown shoes,",relative clause,Elvis,Jack_Elvis,shoes,121.86,122.32,0.29000000000000625,0.45999999999999375
+I,54,I was smiling from ear to ear.,I was smiling from ear to ear.,>maximal segment,Elvis,Jack_Elvis,i,122.57,122.72,0.7099999999999937,0.15000000000000568
+was,54,I was smiling from ear to ear.,I was smiling from ear to ear.,>maximal segment,Elvis,Jack_Elvis,was,122.719999,122.859999,0.1499990000000082,0.14000000000000057
+smiling,54,I was smiling from ear to ear.,I was smiling from ear to ear.,>maximal segment,Elvis,Jack_Elvis,smiling,122.86,123.33,0.14000099999999804,0.46999999999999886
+from,54,I was smiling from ear to ear.,I was smiling from ear to ear.,>maximal segment,Elvis,Jack_Elvis,from,123.33,123.49,0.46999999999999886,0.1599999999999966
+ear,54,I was smiling from ear to ear.,I was smiling from ear to ear.,>maximal segment,Elvis,Jack_Elvis,ear,123.5,123.76,0.1700000000000017,0.2600000000000051
+to,54,I was smiling from ear to ear.,I was smiling from ear to ear.,>maximal segment,Elvis,Jack_Elvis,to,123.759999,123.919999,0.25999899999999343,0.1600000000000108
+ear,54,I was smiling from ear to ear.,I was smiling from ear to ear.,>maximal segment,Elvis,Jack_Elvis,ear,123.92,124.28,0.16000100000000828,0.35999999999999943
+Those,55,"Those shoes, they shined really brightly,","Those shoes, they shined really brightly,",-,Elvis,Jack_Elvis,those,125.43,125.66,1.5100000000000051,0.22999999999998977
+shoes,55,"Those shoes, they shined really brightly,","Those shoes, they shined really brightly,",-,Elvis,Jack_Elvis,shoes,125.66,126.15,0.22999999999998977,0.4900000000000091
+they,55,"Those shoes, they shined really brightly,","Those shoes, they shined really brightly,",-,Elvis,Jack_Elvis,they,126.47,126.65,0.8100000000000023,0.18000000000000682
+shined,55,"Those shoes, they shined really brightly,","Those shoes, they shined really brightly,",-,Elvis,Jack_Elvis,shined,126.65,127.06,0.18000000000000682,0.4099999999999966
+really,55,"Those shoes, they shined really brightly,","Those shoes, they shined really brightly,",-,Elvis,Jack_Elvis,really,127.06,127.31,0.4099999999999966,0.25
+brightly,55,"Those shoes, they shined really brightly,","Those shoes, they shined really brightly,",-,Elvis,Jack_Elvis,brightly,127.31,127.81,0.25,0.5
+and,56,and I liked,and I liked,conjunction,Elvis,Jack_Elvis,and,128.68,128.81,1.3700000000000045,0.12999999999999545
+I,56,and I liked,and I liked,conjunction,Elvis,Jack_Elvis,i,128.81,128.88,0.12999999999999545,0.06999999999999318
+liked,56,and I liked,and I liked,conjunction,Elvis,Jack_Elvis,liked,128.88,129.11,0.06999999999999318,0.2300000000000182
+looking,57,"looking at the bones in my feet,","looking at the bones in my feet,",nonfinite clause,Elvis,Jack_Elvis,looking,129.14,129.42,0.2599999999999909,0.28000000000000114
+at,57,"looking at the bones in my feet,","looking at the bones in my feet,",nonfinite clause,Elvis,Jack_Elvis,at,129.42,129.51,0.28000000000000114,0.09000000000000341
+the,57,"looking at the bones in my feet,","looking at the bones in my feet,",nonfinite clause,Elvis,Jack_Elvis,the,129.51,129.59,0.09000000000000341,0.0800000000000125
+bones,57,"looking at the bones in my feet,","looking at the bones in my feet,",nonfinite clause,Elvis,Jack_Elvis,bones,129.59,129.94,0.0800000000000125,0.3499999999999943
+in,57,"looking at the bones in my feet,","looking at the bones in my feet,",nonfinite clause,Elvis,Jack_Elvis,in,129.94,130.06,0.3499999999999943,0.12000000000000455
+my,57,"looking at the bones in my feet,","looking at the bones in my feet,",nonfinite clause,Elvis,Jack_Elvis,my,130.06,130.2,0.12000000000000455,0.13999999999998636
+feet,57,"looking at the bones in my feet,","looking at the bones in my feet,",nonfinite clause,Elvis,Jack_Elvis,feet,130.2,130.5,0.13999999999998636,0.30000000000001137
+which,58,"which I had never seen before,","which I had never seen before,",relative clause,Elvis,Jack_Elvis,which,130.78,131.0,0.5800000000000125,0.21999999999999886
+I,58,"which I had never seen before,","which I had never seen before,",relative clause,Elvis,Jack_Elvis,i,131.0,131.07,0.21999999999999886,0.06999999999999318
+had,58,"which I had never seen before,","which I had never seen before,",relative clause,Elvis,Jack_Elvis,had,131.07,131.19,0.06999999999999318,0.12000000000000455
+never,58,"which I had never seen before,","which I had never seen before,",relative clause,Elvis,Jack_Elvis,never,131.19,131.4,0.12000000000000455,0.21000000000000796
+seen,58,"which I had never seen before,","which I had never seen before,",relative clause,Elvis,Jack_Elvis,seen,131.4,131.64,0.21000000000000796,0.23999999999998067
+before,58,"which I had never seen before,","which I had never seen before,",relative clause,Elvis,Jack_Elvis,before,131.64,132.17999999999998,0.23999999999998067,0.539999999999992
+through,59,through a special x-ray machine,through a special x-ray machine,-,Elvis,Jack_Elvis,through,133.13,133.29,1.490000000000009,0.1599999999999966
+a,59,through a special x-ray machine,through a special x-ray machine,-,Elvis,Jack_Elvis,a,133.29,133.36,0.1599999999999966,0.0700000000000216
+special,59,through a special x-ray machine,through a special x-ray machine,-,Elvis,Jack_Elvis,special,133.36,133.76000000000002,0.0700000000000216,0.4000000000000057
+x,59,through a special x-ray machine,through a special x-ray machine,-,Elvis,Jack_Elvis,x,133.78,134.02,0.4199999999999875,0.2400000000000091
+ray,59,through a special x-ray machine,through a special x-ray machine,-,Elvis,Jack_Elvis,ray,134.02,134.15,0.2400000000000091,0.12999999999999545
+machine,59,through a special x-ray machine,through a special x-ray machine,-,Elvis,Jack_Elvis,machine,134.15,134.55,0.12999999999999545,0.4000000000000057
+they,60,they had in the shoe store,they had in the shoe store,relative clause (that...),Elvis,Jack_Elvis,they,134.55,134.66000000000005,0.4000000000000057,0.11000000000004206
+had,60,they had in the shoe store,they had in the shoe store,relative clause (that...),Elvis,Jack_Elvis,had,134.67,134.91,0.11999999999997613,0.2400000000000091
+in,60,they had in the shoe store,they had in the shoe store,relative clause (that...),Elvis,Jack_Elvis,in,134.92,135.04,0.25,0.12000000000000455
+the,60,they had in the shoe store,they had in the shoe store,relative clause (that...),Elvis,Jack_Elvis,the,135.04,135.13,0.12000000000000455,0.09000000000000341
+shoe,60,they had in the shoe store,they had in the shoe store,relative clause (that...),Elvis,Jack_Elvis,shoe,135.13,135.36,0.09000000000000341,0.2300000000000182
+store,60,they had in the shoe store,they had in the shoe store,relative clause (that...),Elvis,Jack_Elvis,store,135.36,135.74,0.2300000000000182,0.37999999999999545
+that,61,that made the bones in your feet look green.,that made the bones in your feet look green.,relative clause; >maximal segment,Elvis,Jack_Elvis,that,136.099999,136.23999899999998,0.7399989999999832,0.13999999999998636
+made,61,that made the bones in your feet look green.,that made the bones in your feet look green.,relative clause; >maximal segment,Elvis,Jack_Elvis,made,136.24,136.41,0.14000100000001225,0.1699999999999875
+the,61,that made the bones in your feet look green.,that made the bones in your feet look green.,relative clause; >maximal segment,Elvis,Jack_Elvis,the,136.41,136.49,0.1699999999999875,0.0800000000000125
+bones,61,that made the bones in your feet look green.,that made the bones in your feet look green.,relative clause; >maximal segment,Elvis,Jack_Elvis,bones,136.5,136.85,0.09000000000000341,0.3499999999999943
+in,61,that made the bones in your feet look green.,that made the bones in your feet look green.,relative clause; >maximal segment,Elvis,Jack_Elvis,in,136.86,136.99,0.36000000000001364,0.12999999999999545
+your,61,that made the bones in your feet look green.,that made the bones in your feet look green.,relative clause; >maximal segment,Elvis,Jack_Elvis,your,136.99,137.12,0.12999999999999545,0.12999999999999545
+feet,61,that made the bones in your feet look green.,that made the bones in your feet look green.,relative clause; >maximal segment,Elvis,Jack_Elvis,feet,137.12,137.36,0.12999999999999545,0.2400000000000091
+look,61,that made the bones in your feet look green.,that made the bones in your feet look green.,relative clause; >maximal segment,Elvis,Jack_Elvis,look,137.36,137.62,0.2400000000000091,0.2599999999999909
+green,61,that made the bones in your feet look green.,that made the bones in your feet look green.,relative clause; >maximal segment,Elvis,Jack_Elvis,green,137.63,138.19,0.2699999999999818,0.5600000000000023
+I,62,I was now almost ready,I was now almost ready,-,Elvis,Jack_Elvis,i,139.67,139.78,2.039999999999992,0.11000000000001364
+was,62,I was now almost ready,I was now almost ready,-,Elvis,Jack_Elvis,was,139.78,139.95,0.11000000000001364,0.1699999999999875
+now,62,I was now almost ready,I was now almost ready,-,Elvis,Jack_Elvis,now,139.969999,140.309999,0.18999900000000025,0.3400000000000034
+almost,62,I was now almost ready,I was now almost ready,-,Elvis,Jack_Elvis,almost,140.37,140.85,0.40000100000000316,0.47999999999998977
+ready,62,I was now almost ready,I was now almost ready,-,Elvis,Jack_Elvis,ready,140.849999,141.099999,0.4799989999999923,0.25
+to,63,to go back to the orphanage and practice,to go back to the orphanage and practice,infinitival phrase,Elvis,Jack_Elvis,to,141.099999,141.23999899999998,0.25,0.13999999999998636
+go,63,to go back to the orphanage and practice,to go back to the orphanage and practice,infinitival phrase,Elvis,Jack_Elvis,go,141.24,141.45000000000002,0.14000100000001225,0.21000000000000796
+back,63,to go back to the orphanage and practice,to go back to the orphanage and practice,infinitival phrase,Elvis,Jack_Elvis,back,141.469999,141.699999,0.2299989999999923,0.22999999999998977
+to,63,to go back to the orphanage and practice,to go back to the orphanage and practice,infinitival phrase,Elvis,Jack_Elvis,to,141.7,141.82,0.23000099999998724,0.12000000000000455
+the,63,to go back to the orphanage and practice,to go back to the orphanage and practice,infinitival phrase,Elvis,Jack_Elvis,the,141.82,141.93,0.12000000000000455,0.11000000000001364
+orphanage,63,to go back to the orphanage and practice,to go back to the orphanage and practice,infinitival phrase,Elvis,Jack_Elvis,orphanage,141.929999,142.459999,0.10999900000001617,0.5300000000000011
+and,63,to go back to the orphanage and practice,to go back to the orphanage and practice,infinitival phrase,Elvis,Jack_Elvis,and,142.73,142.89999999999998,0.8000009999999804,0.1699999999999875
+practice,63,to go back to the orphanage and practice,to go back to the orphanage and practice,infinitival phrase,Elvis,Jack_Elvis,practice,142.9,143.33,0.17000000000001592,0.4300000000000068
+being,64,being like the man,being like the man,nonfinite clause,Elvis,Jack_Elvis,being,143.359999,143.719999,0.45999899999998206,0.36000000000001364
+like,64,being like the man,being like the man,nonfinite clause,Elvis,Jack_Elvis,like,143.73,143.98999999999998,0.370001000000002,0.2599999999999909
+the,64,being like the man,being like the man,nonfinite clause,Elvis,Jack_Elvis,the,144.0,144.11,0.27000000000001023,0.11000000000001364
+man,64,being like the man,being like the man,nonfinite clause,Elvis,Jack_Elvis,man,144.109999,144.349999,0.10999899999998775,0.2400000000000091
+who,65,"who all the girls loved,","who all the girls loved,",relative clause,Elvis,Jack_Elvis,who,144.35,144.5,0.24000100000000657,0.15000000000000568
+all,65,"who all the girls loved,","who all the girls loved,",relative clause,Elvis,Jack_Elvis,all,144.51,144.76999999999998,0.1599999999999966,0.2599999999999909
+the,65,"who all the girls loved,","who all the girls loved,",relative clause,Elvis,Jack_Elvis,the,144.77,144.88000000000002,0.2600000000000193,0.11000000000001364
+girls,65,"who all the girls loved,","who all the girls loved,",relative clause,Elvis,Jack_Elvis,girls,144.88,145.26,0.10999999999998522,0.37999999999999545
+loved,65,"who all the girls loved,","who all the girls loved,",relative clause,Elvis,Jack_Elvis,loved,145.26,145.69,0.37999999999999545,0.4300000000000068
+since,66,since I had my new Buster Brown shoes.,since I had my new Buster Brown shoes.,conjunction; >maximal segment,Elvis,Jack_Elvis,since,146.56,146.79,1.3000000000000114,0.22999999999998977
+I,66,since I had my new Buster Brown shoes.,since I had my new Buster Brown shoes.,conjunction; >maximal segment,Elvis,Jack_Elvis,i,146.79,146.86,0.22999999999998977,0.0700000000000216
+had,66,since I had my new Buster Brown shoes.,since I had my new Buster Brown shoes.,conjunction; >maximal segment,Elvis,Jack_Elvis,had,146.87,147.12,0.0800000000000125,0.25
+my,66,since I had my new Buster Brown shoes.,since I had my new Buster Brown shoes.,conjunction; >maximal segment,Elvis,Jack_Elvis,my,147.12,147.21,0.25,0.09000000000000341
+new,66,since I had my new Buster Brown shoes.,since I had my new Buster Brown shoes.,conjunction; >maximal segment,Elvis,Jack_Elvis,new,147.21,147.39,0.09000000000000341,0.1799999999999784
+Buster,66,since I had my new Buster Brown shoes.,since I had my new Buster Brown shoes.,conjunction; >maximal segment,Elvis,Jack_Elvis,buster,147.39,147.70999999999998,0.1799999999999784,0.3199999999999932
+Brown,66,since I had my new Buster Brown shoes.,since I had my new Buster Brown shoes.,conjunction; >maximal segment,Elvis,Jack_Elvis,brown,147.71,147.98000000000002,0.3200000000000216,0.27000000000001023
+shoes,66,since I had my new Buster Brown shoes.,since I had my new Buster Brown shoes.,conjunction; >maximal segment,Elvis,Jack_Elvis,shoes,147.98,148.42999999999998,0.2699999999999818,0.44999999999998863
+It,67,"It was the new haircut, though,","It was the new haircut, though,",-,Elvis,Jack_Elvis,it,150.19,150.34,2.210000000000008,0.15000000000000568
+was,67,"It was the new haircut, though,","It was the new haircut, though,",-,Elvis,Jack_Elvis,was,150.34,150.48,0.15000000000000568,0.13999999999998636
+the,67,"It was the new haircut, though,","It was the new haircut, though,",-,Elvis,Jack_Elvis,the,150.48,150.57,0.13999999999998636,0.09000000000000341
+new,67,"It was the new haircut, though,","It was the new haircut, though,",-,Elvis,Jack_Elvis,new,150.57,150.78,0.09000000000000341,0.21000000000000796
+haircut,67,"It was the new haircut, though,","It was the new haircut, though,",-,Elvis,Jack_Elvis,haircut,150.79,151.32999999999998,0.21999999999999886,0.539999999999992
+though,67,"It was the new haircut, though,","It was the new haircut, though,",-,Elvis,Jack_Elvis,though,151.34,151.70000000000002,0.5500000000000114,0.36000000000001364
+that,68,that I needed to complete my new look.,that I needed to complete my new look.,relative clause; >maximal segment,Elvis,Jack_Elvis,that,152.429999,152.589999,1.089999000000006,0.1599999999999966
+I,68,that I needed to complete my new look.,that I needed to complete my new look.,relative clause; >maximal segment,Elvis,Jack_Elvis,i,152.59,152.67000000000002,0.16000099999999406,0.0800000000000125
+needed,68,that I needed to complete my new look.,that I needed to complete my new look.,relative clause; >maximal segment,Elvis,Jack_Elvis,needed,152.67,153.04999999999998,0.07999999999998408,0.37999999999999545
+to,68,that I needed to complete my new look.,that I needed to complete my new look.,relative clause; >maximal segment,Elvis,Jack_Elvis,to,153.05,153.17000000000002,0.3800000000000239,0.12000000000000455
+complete,68,that I needed to complete my new look.,that I needed to complete my new look.,relative clause; >maximal segment,Elvis,Jack_Elvis,complete,153.17,153.57999999999998,0.11999999999997613,0.4099999999999966
+my,68,that I needed to complete my new look.,that I needed to complete my new look.,relative clause; >maximal segment,Elvis,Jack_Elvis,my,153.59,153.72,0.4200000000000159,0.12999999999999545
+new,68,that I needed to complete my new look.,that I needed to complete my new look.,relative clause; >maximal segment,Elvis,Jack_Elvis,new,153.719999,153.949999,0.12999899999999798,0.22999999999998977
+look,68,that I needed to complete my new look.,that I needed to complete my new look.,relative clause; >maximal segment,Elvis,Jack_Elvis,look,153.96,154.38,0.24000100000000657,0.4199999999999875
+We,69,"We finally arrived at the unassuming, unembellished barbershop,","We finally arrived at the unassuming, unembellished barbershop,",-,Elvis,Jack_Elvis,we,155.55,155.73000000000002,1.5900000000000034,0.18000000000000682
+finally,69,"We finally arrived at the unassuming, unembellished barbershop,","We finally arrived at the unassuming, unembellished barbershop,",-,Elvis,Jack_Elvis,finally,155.73,156.17999999999998,0.1799999999999784,0.44999999999998863
+arrived,69,"We finally arrived at the unassuming, unembellished barbershop,","We finally arrived at the unassuming, unembellished barbershop,",-,Elvis,Jack_Elvis,arrived,156.19,156.73,0.46000000000000796,0.539999999999992
+at,69,"We finally arrived at the unassuming, unembellished barbershop,","We finally arrived at the unassuming, unembellished barbershop,",-,Elvis,Jack_Elvis,at,156.86,157.01000000000002,0.6700000000000159,0.15000000000000568
+the,69,"We finally arrived at the unassuming, unembellished barbershop,","We finally arrived at the unassuming, unembellished barbershop,",-,Elvis,Jack_Elvis,the,157.009999,157.129999,0.1499989999999798,0.12000000000000455
+unassuming,69,"We finally arrived at the unassuming, unembellished barbershop,","We finally arrived at the unassuming, unembellished barbershop,",-,Elvis,Jack_Elvis,unassuming,157.16,157.86,0.15000100000000316,0.700000000000017
+unembellished,69,"We finally arrived at the unassuming, unembellished barbershop,","We finally arrived at the unassuming, unembellished barbershop,",-,Elvis,Jack_Elvis,<unk>,157.969999,158.629999,0.8099990000000048,0.6599999999999966
+barbershop,69,"We finally arrived at the unassuming, unembellished barbershop,","We finally arrived at the unassuming, unembellished barbershop,",-,Elvis,Jack_Elvis,barbershop,158.639999,159.219999,0.6699999999999875,0.5800000000000125
+where,70,where they cut our hair for free,where they cut our hair for free,relative clause,Elvis,Jack_Elvis,where,160.0,160.17,1.3600010000000111,0.1699999999999875
+they,70,where they cut our hair for free,where they cut our hair for free,relative clause,Elvis,Jack_Elvis,they,160.17000000000002,160.28000000000003,0.17000000000001592,0.11000000000001364
+cut,70,where they cut our hair for free,where they cut our hair for free,relative clause,Elvis,Jack_Elvis,cut,160.279999,160.479999,0.10999899999998775,0.19999999999998863
+our,70,where they cut our hair for free,where they cut our hair for free,relative clause,Elvis,Jack_Elvis,our,160.52,160.63000000000002,0.24000100000000657,0.11000000000001364
+hair,70,where they cut our hair for free,where they cut our hair for free,relative clause,Elvis,Jack_Elvis,hair,160.629999,160.829999,0.10999899999998775,0.19999999999998863
+for,70,where they cut our hair for free,where they cut our hair for free,relative clause,Elvis,Jack_Elvis,for,160.82999999999998,160.98999999999998,0.2000009999999861,0.1599999999999966
+free,70,where they cut our hair for free,where they cut our hair for free,relative clause,Elvis,Jack_Elvis,free,160.99,161.34,0.160000000000025,0.3499999999999943
+because,71,because we were orphans.,because we were orphans.,conjunction; >maximal segment,Elvis,Jack_Elvis,because,161.369999,161.63999900000002,0.379998999999998,0.27000000000001023
+we,71,because we were orphans.,because we were orphans.,conjunction; >maximal segment,Elvis,Jack_Elvis,we,161.639999,161.76999899999998,0.2699999999999818,0.12999999999999545
+were,71,because we were orphans.,because we were orphans.,conjunction; >maximal segment,Elvis,Jack_Elvis,were,161.77,161.9,0.13000100000002135,0.12999999999999545
+orphans,71,because we were orphans.,because we were orphans.,conjunction; >maximal segment,Elvis,Jack_Elvis,orphans,161.91,162.47,0.13999999999998636,0.5600000000000023
+Even,72,Even though we were supposed,Even though we were supposed,nonrestrictive clause,Elvis,Jack_Elvis,even,163.71,163.94,1.8000000000000114,0.22999999999998977
+though,72,Even though we were supposed,Even though we were supposed,nonrestrictive clause,Elvis,Jack_Elvis,though,163.94,164.07999999999998,0.22999999999998977,0.13999999999998636
+we,72,Even though we were supposed,Even though we were supposed,nonrestrictive clause,Elvis,Jack_Elvis,we,164.08,164.22,0.14000000000001478,0.13999999999998636
+were,72,Even though we were supposed,Even though we were supposed,nonrestrictive clause,Elvis,Jack_Elvis,were,164.22,164.38,0.13999999999998636,0.1599999999999966
+supposed,72,Even though we were supposed,Even though we were supposed,nonrestrictive clause,Elvis,Jack_Elvis,supposed,164.39,164.82999999999998,0.1699999999999875,0.4399999999999977
+to,73,to slowly wai,to slowly wai,infinitival phrase,Elvis,Jack_Elvis,to,164.84,165.0,0.45000000000001705,0.1599999999999966
+slowly,73,to slowly wai,to slowly wai,infinitival phrase,Elvis,Jack_Elvis,slowly,165.0,165.54,0.1599999999999966,0.539999999999992
+wai,73,to slowly wai,to slowly wai,infinitival phrase,Elvis,Jack_Elvis,<unk>,165.54,165.75,0.539999999999992,0.21000000000000796
+to,74,"to be called,","to be called,",infinitival phrase,Elvis,Jack_Elvis,to,165.76,165.86,0.21999999999999886,0.10000000000002274
+be,74,"to be called,","to be called,",infinitival phrase,Elvis,Jack_Elvis,be,165.87,166.01,0.11000000000001364,0.13999999999998636
+called,74,"to be called,","to be called,",infinitival phrase,Elvis,Jack_Elvis,called,166.01,166.45,0.13999999999998636,0.4399999999999977
+I,75,I ran straight up to one of the barber chairs and climbed up onto the board,I ran straight up to one of the barber chairs and climbed up onto the board,-,Elvis,Jack_Elvis,i,166.78,166.92,0.7700000000000102,0.13999999999998636
+ran,75,I ran straight up to one of the barber chairs and climbed up onto the board,I ran straight up to one of the barber chairs and climbed up onto the board,-,Elvis,Jack_Elvis,ran,166.92,167.16,0.13999999999998636,0.2400000000000091
+straight,75,I ran straight up to one of the barber chairs and climbed up onto the board,I ran straight up to one of the barber chairs and climbed up onto the board,-,Elvis,Jack_Elvis,straight,167.16,167.52,0.2400000000000091,0.36000000000001364
+up,75,I ran straight up to one of the barber chairs and climbed up onto the board,I ran straight up to one of the barber chairs and climbed up onto the board,-,Elvis,Jack_Elvis,up,167.53,167.69,0.37000000000000455,0.1599999999999966
+to,75,I ran straight up to one of the barber chairs and climbed up onto the board,I ran straight up to one of the barber chairs and climbed up onto the board,-,Elvis,Jack_Elvis,to,167.69,167.82,0.1599999999999966,0.12999999999999545
+one,75,I ran straight up to one of the barber chairs and climbed up onto the board,I ran straight up to one of the barber chairs and climbed up onto the board,-,Elvis,Jack_Elvis,one,167.82,167.95999999999998,0.12999999999999545,0.13999999999998636
+of,75,I ran straight up to one of the barber chairs and climbed up onto the board,I ran straight up to one of the barber chairs and climbed up onto the board,-,Elvis,Jack_Elvis,of,167.96,168.08,0.14000000000001478,0.12000000000000455
+the,75,I ran straight up to one of the barber chairs and climbed up onto the board,I ran straight up to one of the barber chairs and climbed up onto the board,-,Elvis,Jack_Elvis,the,168.08,168.15,0.12000000000000455,0.06999999999999318
+barber,75,I ran straight up to one of the barber chairs and climbed up onto the board,I ran straight up to one of the barber chairs and climbed up onto the board,-,Elvis,Jack_Elvis,barber,168.15,168.43,0.06999999999999318,0.28000000000000114
+chairs,75,I ran straight up to one of the barber chairs and climbed up onto the board,I ran straight up to one of the barber chairs and climbed up onto the board,-,Elvis,Jack_Elvis,chairs,168.43,168.82,0.28000000000000114,0.38999999999998636
+and,75,I ran straight up to one of the barber chairs and climbed up onto the board,I ran straight up to one of the barber chairs and climbed up onto the board,-,Elvis,Jack_Elvis,and,169.05,169.20000000000002,0.6200000000000045,0.15000000000000568
+climbed,75,I ran straight up to one of the barber chairs and climbed up onto the board,I ran straight up to one of the barber chairs and climbed up onto the board,-,Elvis,Jack_Elvis,climbed,169.2,169.56,0.14999999999997726,0.36000000000001364
+up,75,I ran straight up to one of the barber chairs and climbed up onto the board,I ran straight up to one of the barber chairs and climbed up onto the board,-,Elvis,Jack_Elvis,up,169.56,169.88,0.36000000000001364,0.3199999999999932
+onto,75,I ran straight up to one of the barber chairs and climbed up onto the board,I ran straight up to one of the barber chairs and climbed up onto the board,-,Elvis,Jack_Elvis,onto,170.0,170.25,0.4399999999999977,0.25
+the,75,I ran straight up to one of the barber chairs and climbed up onto the board,I ran straight up to one of the barber chairs and climbed up onto the board,-,Elvis,Jack_Elvis,the,170.25,170.35,0.25,0.09999999999999432
+board,75,I ran straight up to one of the barber chairs and climbed up onto the board,I ran straight up to one of the barber chairs and climbed up onto the board,-,Elvis,Jack_Elvis,board,170.349999,170.749999,0.09999899999999684,0.4000000000000057
+the,76,the barber placed across the arms,the barber placed across the arms,relative clause (that...),Elvis,Jack_Elvis,the,170.75,170.82,0.40000100000000316,0.06999999999999318
+barber,76,the barber placed across the arms,the barber placed across the arms,relative clause (that...),Elvis,Jack_Elvis,barber,170.82,171.15,0.06999999999999318,0.3300000000000125
+placed,76,the barber placed across the arms,the barber placed across the arms,relative clause (that...),Elvis,Jack_Elvis,placed,171.15,171.52,0.3300000000000125,0.37000000000000455
+across,76,the barber placed across the arms,the barber placed across the arms,relative clause (that...),Elvis,Jack_Elvis,across,171.53,171.85,0.37999999999999545,0.3199999999999932
+the,76,the barber placed across the arms,the barber placed across the arms,relative clause (that...),Elvis,Jack_Elvis,the,171.95,171.97,0.4199999999999875,0.020000000000010232
+arms,76,the barber placed across the arms,the barber placed across the arms,relative clause (that...),Elvis,Jack_Elvis,arms,171.969999,172.369999,0.019999000000012757,0.4000000000000057
+to,77,to make me sit up higher.,to make me sit up higher.,infinitival phrase; >maximal segment,Elvis,Jack_Elvis,to,172.45,172.54999999999998,0.48000099999998724,0.09999999999999432
+make,77,to make me sit up higher.,to make me sit up higher.,infinitival phrase; >maximal segment,Elvis,Jack_Elvis,make,172.55,172.71,0.10000000000002274,0.1599999999999966
+me,77,to make me sit up higher.,to make me sit up higher.,infinitival phrase; >maximal segment,Elvis,Jack_Elvis,me,172.71,172.83,0.1599999999999966,0.12000000000000455
+sit,77,to make me sit up higher.,to make me sit up higher.,infinitival phrase; >maximal segment,Elvis,Jack_Elvis,sit,172.83,173.02,0.12000000000000455,0.18999999999999773
+up,77,to make me sit up higher.,to make me sit up higher.,infinitival phrase; >maximal segment,Elvis,Jack_Elvis,up,173.03,173.17,0.19999999999998863,0.13999999999998636
+higher,77,to make me sit up higher.,to make me sit up higher.,infinitival phrase; >maximal segment,Elvis,Jack_Elvis,higher,173.17,173.55999999999997,0.13999999999998636,0.38999999999998636
+I,78,"I looked at the man and said,","I looked at the man and said,",-,Elvis,Jack_Elvis,i,175.62,175.75,2.450000000000017,0.12999999999999545
+looked,78,"I looked at the man and said,","I looked at the man and said,",-,Elvis,Jack_Elvis,looked,175.75,176.0,0.12999999999999545,0.25
+at,78,"I looked at the man and said,","I looked at the man and said,",-,Elvis,Jack_Elvis,at,176.0,176.07,0.25,0.06999999999999318
+the,78,"I looked at the man and said,","I looked at the man and said,",-,Elvis,Jack_Elvis,the,176.07,176.16,0.06999999999999318,0.09000000000000341
+man,78,"I looked at the man and said,","I looked at the man and said,",-,Elvis,Jack_Elvis,man,176.16,176.48,0.09000000000000341,0.3199999999999932
+and,78,"I looked at the man and said,","I looked at the man and said,",-,Elvis,Jack_Elvis,and,176.509999,176.699999,0.34999899999999684,0.18999999999999773
+said,78,"I looked at the man and said,","I looked at the man and said,",-,Elvis,Jack_Elvis,said,176.7,177.11999999999998,0.1900009999999952,0.4199999999999875
+with,79,"with a beaming smile on my face,","with a beaming smile on my face,",nonrestrictive clause,Elvis,Jack_Elvis,with,177.42,177.61999999999998,0.7199999999999989,0.19999999999998863
+a,79,"with a beaming smile on my face,","with a beaming smile on my face,",nonrestrictive clause,Elvis,Jack_Elvis,a,177.62,177.69,0.20000000000001705,0.06999999999999318
+beaming,79,"with a beaming smile on my face,","with a beaming smile on my face,",nonrestrictive clause,Elvis,Jack_Elvis,beaming,177.7,178.04,0.07999999999998408,0.3400000000000034
+smile,79,"with a beaming smile on my face,","with a beaming smile on my face,",nonrestrictive clause,Elvis,Jack_Elvis,smile,178.039999,178.329999,0.33999900000000594,0.28999999999999204
+on,79,"with a beaming smile on my face,","with a beaming smile on my face,",nonrestrictive clause,Elvis,Jack_Elvis,on,178.32999999999998,178.45,0.2900009999999895,0.12000000000000455
+my,79,"with a beaming smile on my face,","with a beaming smile on my face,",nonrestrictive clause,Elvis,Jack_Elvis,my,178.449999,178.609999,0.11999900000000707,0.1599999999999966
+face,79,"with a beaming smile on my face,","with a beaming smile on my face,",nonrestrictive clause,Elvis,Jack_Elvis,face,178.609999,178.99999899999997,0.1599999999999966,0.38999999999998636
+'I,80,'I want an Elvis haircut.,'I want an Elvis haircut.,>maximal segment,Elvis,Jack_Elvis,<unk>,179.969999,179.979999,1.3600000000000136,0.009999999999990905
+want,80,'I want an Elvis haircut.,'I want an Elvis haircut.,>maximal segment,Elvis,Jack_Elvis,,179.979999,,,
+an,80,'I want an Elvis haircut.,'I want an Elvis haircut.,>maximal segment,Elvis,Jack_Elvis,an,180.4,180.45,,0.04999999999998295
+Elvis,80,'I want an Elvis haircut.,'I want an Elvis haircut.,>maximal segment,Elvis,Jack_Elvis,elvis,180.45,180.77,0.04999999999998295,0.3200000000000216
+haircut,80,'I want an Elvis haircut.,'I want an Elvis haircut.,>maximal segment,Elvis,Jack_Elvis,haircut,180.77,181.38,0.3200000000000216,0.6099999999999852
+Can,81,Can you make my hair like Elvis's?' I asked.,Can you make my hair like Elvis's?' I asked.,>maximal segment,Elvis,Jack_Elvis,can,182.29,182.42,1.5199999999999818,0.12999999999999545
+you,81,Can you make my hair like Elvis's?' I asked.,Can you make my hair like Elvis's?' I asked.,>maximal segment,Elvis,Jack_Elvis,you,182.42,182.49,0.12999999999999545,0.0700000000000216
+make,81,Can you make my hair like Elvis's?' I asked.,Can you make my hair like Elvis's?' I asked.,>maximal segment,Elvis,Jack_Elvis,make,182.49,182.67,0.0700000000000216,0.1799999999999784
+my,81,Can you make my hair like Elvis's?' I asked.,Can you make my hair like Elvis's?' I asked.,>maximal segment,Elvis,Jack_Elvis,my,182.67,182.77,0.1799999999999784,0.10000000000002274
+hair,81,Can you make my hair like Elvis's?' I asked.,Can you make my hair like Elvis's?' I asked.,>maximal segment,Elvis,Jack_Elvis,hair,182.77,182.94,0.10000000000002274,0.1699999999999875
+like,81,Can you make my hair like Elvis's?' I asked.,Can you make my hair like Elvis's?' I asked.,>maximal segment,Elvis,Jack_Elvis,like,182.94,183.16,0.1699999999999875,0.21999999999999886
+Elvis's,81,Can you make my hair like Elvis's?' I asked.,Can you make my hair like Elvis's?' I asked.,>maximal segment,Elvis,Jack_Elvis,elvis's,183.16,183.62,0.21999999999999886,0.46000000000000796
+',81,Can you make my hair like Elvis's?' I asked.,Can you make my hair like Elvis's?' I asked.,>maximal segment,Elvis,Jack_Elvis,,183.62,,,
+I,81,Can you make my hair like Elvis's?' I asked.,Can you make my hair like Elvis's?' I asked.,>maximal segment,Elvis,Jack_Elvis,i,183.85,184.03,,0.18000000000000682
+asked,81,Can you make my hair like Elvis's?' I asked.,Can you make my hair like Elvis's?' I asked.,>maximal segment,Elvis,Jack_Elvis,asked,184.04,184.47,0.18999999999999773,0.4300000000000068
+The,82,"The barber,","The barber,",-,Elvis,Jack_Elvis,the,185.66,185.78,1.6200000000000045,0.12000000000000455
+barber,82,"The barber,","The barber,",-,Elvis,Jack_Elvis,barber,185.78,186.24,0.12000000000000455,0.46000000000000796
+who,83,"who was a genial young man,","who was a genial young man,",relative clause,Elvis,Jack_Elvis,who,186.64,186.77,0.8599999999999852,0.13000000000002387
+was,83,"who was a genial young man,","who was a genial young man,",relative clause,Elvis,Jack_Elvis,was,186.77,186.9,0.13000000000002387,0.12999999999999545
+a,83,"who was a genial young man,","who was a genial young man,",relative clause,Elvis,Jack_Elvis,a,186.9,186.97,0.12999999999999545,0.06999999999999318
+genial,83,"who was a genial young man,","who was a genial young man,",relative clause,Elvis,Jack_Elvis,<unk>,186.97,187.47,0.06999999999999318,0.5
+young,83,"who was a genial young man,","who was a genial young man,",relative clause,Elvis,Jack_Elvis,young,187.49,187.79,0.5200000000000102,0.29999999999998295
+man,83,"who was a genial young man,","who was a genial young man,",relative clause,Elvis,Jack_Elvis,man,187.79,188.12,0.29999999999998295,0.3300000000000125
+grinned,84,grinned back at me and said,grinned back at me and said,-,Elvis,Jack_Elvis,<unk>,188.95,189.23,1.1599999999999966,0.28000000000000114
+back,84,grinned back at me and said,grinned back at me and said,-,Elvis,Jack_Elvis,back,189.25,189.49,0.30000000000001137,0.2400000000000091
+at,84,grinned back at me and said,grinned back at me and said,-,Elvis,Jack_Elvis,at,189.49,189.59,0.2400000000000091,0.09999999999999432
+me,84,grinned back at me and said,grinned back at me and said,-,Elvis,Jack_Elvis,me,189.59,189.9,0.09999999999999432,0.3100000000000023
+and,84,grinned back at me and said,grinned back at me and said,-,Elvis,Jack_Elvis,and,189.969999,190.109999,0.379998999999998,0.13999999999998636
+said,84,grinned back at me and said,grinned back at me and said,-,Elvis,Jack_Elvis,said,190.11,190.3,0.14000100000001225,0.18999999999999773
+that,85,that he would try his best.,that he would try his best.,complementizer; >maximal segment,Elvis,Jack_Elvis,that,190.3,190.38,0.18999999999999773,0.07999999999998408
+he,85,that he would try his best.,that he would try his best.,complementizer; >maximal segment,Elvis,Jack_Elvis,he,190.389999,190.539999,0.08999899999997751,0.15000000000000568
+would,85,that he would try his best.,that he would try his best.,complementizer; >maximal segment,Elvis,Jack_Elvis,would,190.54,190.74,0.15000100000000316,0.20000000000001705
+try,85,that he would try his best.,that he would try his best.,complementizer; >maximal segment,Elvis,Jack_Elvis,try,190.75,191.0,0.21000000000000796,0.25
+his,85,that he would try his best.,that he would try his best.,complementizer; >maximal segment,Elvis,Jack_Elvis,his,191.0,191.19,0.25,0.18999999999999773
+best,85,that he would try his best.,that he would try his best.,complementizer; >maximal segment,Elvis,Jack_Elvis,best,191.19,191.65,0.18999999999999773,0.46000000000000796
+I,86,I was so happy,I was so happy,-,Elvis,Jack_Elvis,i,192.69,192.81,1.5,0.12000000000000455
+was,86,I was so happy,I was so happy,-,Elvis,Jack_Elvis,was,192.809999,192.969999,0.11999900000000707,0.1599999999999966
+so,86,I was so happy,I was so happy,-,Elvis,Jack_Elvis,so,192.969999,193.219999,0.1599999999999966,0.25
+happy,86,I was so happy,I was so happy,-,Elvis,Jack_Elvis,happy,193.219999,193.579999,0.25,0.3599999999999852
+when,87,when he started,when he started,positioning element,Elvis,Jack_Elvis,when,193.58,193.69000000000003,0.3600010000000111,0.11000000000001364
+he,87,when he started,when he started,positioning element,Elvis,Jack_Elvis,he,193.69,193.77,0.10999999999998522,0.0800000000000125
+started,87,when he started,when he started,positioning element,Elvis,Jack_Elvis,started,193.77,194.1,0.0800000000000125,0.3299999999999841
+to,88,"to cut my hair,","to cut my hair,",infinitival phrase,Elvis,Jack_Elvis,to,194.099999,194.199999,0.3299989999999866,0.09999999999999432
+cut,88,"to cut my hair,","to cut my hair,",infinitival phrase,Elvis,Jack_Elvis,cut,194.2,194.4,0.10000099999999179,0.20000000000001705
+my,88,"to cut my hair,","to cut my hair,",infinitival phrase,Elvis,Jack_Elvis,my,194.4,194.55,0.20000000000001705,0.15000000000000568
+hair,88,"to cut my hair,","to cut my hair,",infinitival phrase,Elvis,Jack_Elvis,hair,194.549999,194.90999900000003,0.1499990000000082,0.36000000000001364
+but,89,but just as he started,but just as he started,conjunction,Elvis,Jack_Elvis,but,195.74,195.89,1.1900009999999952,0.14999999999997726
+just,89,but just as he started,but just as he started,conjunction,Elvis,Jack_Elvis,just,195.889999,196.129999,0.1499989999999798,0.2400000000000091
+as,89,but just as he started,but just as he started,conjunction,Elvis,Jack_Elvis,as,196.129999,196.229999,0.2400000000000091,0.09999999999999432
+he,89,but just as he started,but just as he started,conjunction,Elvis,Jack_Elvis,he,196.23,196.34,0.10000099999999179,0.11000000000001364
+started,89,but just as he started,but just as he started,conjunction,Elvis,Jack_Elvis,started,196.34,196.69,0.11000000000001364,0.3499999999999943
+to,90,"to cut,","to cut,",infinitival phrase,Elvis,Jack_Elvis,to,196.690001,196.800001,0.3500009999999918,0.11000000000001364
+cut,90,"to cut,","to cut,",infinitival phrase,Elvis,Jack_Elvis,cut,196.799999,197.119999,0.10999800000001869,0.3199999999999932
+the,91,"the matron,","the matron,",-,Elvis,Jack_Elvis,the,197.49,197.61,0.6900009999999952,0.12000000000000455
+matron,91,"the matron,","the matron,",-,Elvis,Jack_Elvis,<unk>,197.609999,198.049999,0.11999899999997865,0.44000000000002615
+who,92,"who had been watching me and had a look as cold as ice,","who had been watching me and had a look as cold as ice,",relative clause,Elvis,Jack_Elvis,who,198.389999,198.609999,0.7800000000000011,0.21999999999999886
+had,92,"who had been watching me and had a look as cold as ice,","who had been watching me and had a look as cold as ice,",relative clause,Elvis,Jack_Elvis,had,198.61,198.68,0.22000100000002476,0.06999999999999318
+been,92,"who had been watching me and had a look as cold as ice,","who had been watching me and had a look as cold as ice,",relative clause,Elvis,Jack_Elvis,been,198.68,198.83,0.06999999999999318,0.15000000000000568
+watching,92,"who had been watching me and had a look as cold as ice,","who had been watching me and had a look as cold as ice,",relative clause,Elvis,Jack_Elvis,watching,198.83,199.18,0.15000000000000568,0.3499999999999943
+me,92,"who had been watching me and had a look as cold as ice,","who had been watching me and had a look as cold as ice,",relative clause,Elvis,Jack_Elvis,me,199.18,199.4,0.3499999999999943,0.21999999999999886
+and,92,"who had been watching me and had a look as cold as ice,","who had been watching me and had a look as cold as ice,",relative clause,Elvis,Jack_Elvis,and,200.09,200.23,0.9099999999999966,0.13999999999998636
+had,92,"who had been watching me and had a look as cold as ice,","who had been watching me and had a look as cold as ice,",relative clause,Elvis,Jack_Elvis,had,200.23,200.35,0.13999999999998636,0.12000000000000455
+a,92,"who had been watching me and had a look as cold as ice,","who had been watching me and had a look as cold as ice,",relative clause,Elvis,Jack_Elvis,a,200.35,200.39,0.12000000000000455,0.03999999999999204
+look,92,"who had been watching me and had a look as cold as ice,","who had been watching me and had a look as cold as ice,",relative clause,Elvis,Jack_Elvis,look,200.39,200.68,0.03999999999999204,0.29000000000002046
+as,92,"who had been watching me and had a look as cold as ice,","who had been watching me and had a look as cold as ice,",relative clause,Elvis,Jack_Elvis,as,200.75,200.92,0.36000000000001364,0.1699999999999875
+cold,92,"who had been watching me and had a look as cold as ice,","who had been watching me and had a look as cold as ice,",relative clause,Elvis,Jack_Elvis,cold,200.92,201.31,0.1699999999999875,0.3900000000000148
+as,92,"who had been watching me and had a look as cold as ice,","who had been watching me and had a look as cold as ice,",relative clause,Elvis,Jack_Elvis,as,201.31,201.48,0.3900000000000148,0.1699999999999875
+ice,92,"who had been watching me and had a look as cold as ice,","who had been watching me and had a look as cold as ice,",relative clause,Elvis,Jack_Elvis,ice,201.48,201.86,0.1699999999999875,0.3800000000000239
+motioned,93,motioned for him,motioned for him,-,Elvis,Jack_Elvis,<unk>,202.66,202.99,1.1800000000000068,0.3300000000000125
+for,93,motioned for him,motioned for him,-,Elvis,Jack_Elvis,for,203.0,203.1,0.3400000000000034,0.09999999999999432
+him,93,motioned for him,motioned for him,-,Elvis,Jack_Elvis,him,203.1,203.26,0.09999999999999432,0.1599999999999966
+to,94,to come over to where she was standing.,to come over to where she was standing.,infinitival phrase; >maximal segment,Elvis,Jack_Elvis,to,203.26,203.36,0.1599999999999966,0.10000000000002274
+come,94,to come over to where she was standing.,to come over to where she was standing.,infinitival phrase; >maximal segment,Elvis,Jack_Elvis,come,203.36,203.59,0.10000000000002274,0.22999999999998977
+over,94,to come over to where she was standing.,to come over to where she was standing.,infinitival phrase; >maximal segment,Elvis,Jack_Elvis,over,203.59,203.82,0.22999999999998977,0.22999999999998977
+to,94,to come over to where she was standing.,to come over to where she was standing.,infinitival phrase; >maximal segment,Elvis,Jack_Elvis,to,203.82,203.97,0.22999999999998977,0.15000000000000568
+where,94,to come over to where she was standing.,to come over to where she was standing.,infinitival phrase; >maximal segment,Elvis,Jack_Elvis,where,203.97,204.12,0.15000000000000568,0.15000000000000568
+she,94,to come over to where she was standing.,to come over to where she was standing.,infinitival phrase; >maximal segment,Elvis,Jack_Elvis,she,204.12,204.27,0.15000000000000568,0.15000000000000568
+was,94,to come over to where she was standing.,to come over to where she was standing.,infinitival phrase; >maximal segment,Elvis,Jack_Elvis,was,204.27,204.41,0.15000000000000568,0.13999999999998636
+standing,94,to come over to where she was standing.,to come over to where she was standing.,infinitival phrase; >maximal segment,Elvis,Jack_Elvis,standing,204.41,204.87,0.13999999999998636,0.46000000000000796
+She,95,She whispered something into his ear,She whispered something into his ear,-,Elvis,Jack_Elvis,she,206.17,206.32,1.759999999999991,0.15000000000000568
+whispered,95,She whispered something into his ear,She whispered something into his ear,-,Elvis,Jack_Elvis,whispered,206.32,206.7,0.15000000000000568,0.37999999999999545
+something,95,She whispered something into his ear,She whispered something into his ear,-,Elvis,Jack_Elvis,something,206.7,207.05,0.37999999999999545,0.35000000000002274
+into,95,She whispered something into his ear,She whispered something into his ear,-,Elvis,Jack_Elvis,into,207.05,207.29,0.35000000000002274,0.23999999999998067
+his,95,She whispered something into his ear,She whispered something into his ear,-,Elvis,Jack_Elvis,his,207.29,207.45,0.23999999999998067,0.1599999999999966
+ear,95,She whispered something into his ear,She whispered something into his ear,-,Elvis,Jack_Elvis,ear,207.45,207.77,0.1599999999999966,0.3200000000000216
+that,96,that caused the barber,that caused the barber,relative clause,Elvis,Jack_Elvis,that,208.4,208.56,0.950000000000017,0.1599999999999966
+caused,96,that caused the barber,that caused the barber,relative clause,Elvis,Jack_Elvis,caused,208.559999,208.859999,0.15999899999999911,0.29999999999998295
+the,96,that caused the barber,that caused the barber,relative clause,Elvis,Jack_Elvis,the,208.889999,208.989999,0.3299999999999841,0.10000000000002274
+barber,96,that caused the barber,that caused the barber,relative clause,Elvis,Jack_Elvis,barber,208.99,209.25,0.10000100000002021,0.2599999999999909
+to,97,"to shake his head,","to shake his head,",infinitival phrase,Elvis,Jack_Elvis,to,209.25,209.37,0.2599999999999909,0.12000000000000455
+shake,97,"to shake his head,","to shake his head,",infinitival phrase,Elvis,Jack_Elvis,shake,209.37,209.65,0.12000000000000455,0.28000000000000114
+his,97,"to shake his head,","to shake his head,",infinitival phrase,Elvis,Jack_Elvis,his,209.65,209.78,0.28000000000000114,0.12999999999999545
+head,97,"to shake his head,","to shake his head,",infinitival phrase,Elvis,Jack_Elvis,head,209.78,210.16,0.12999999999999545,0.37999999999999545
+like,98,"like he was telling her, 'No'.","like he was telling her, 'No'.",nonrestrictive clause; >maximal segment,Elvis,Jack_Elvis,like,210.34,210.5,0.5600000000000023,0.1599999999999966
+he,98,"like he was telling her, 'No'.","like he was telling her, 'No'.",nonrestrictive clause; >maximal segment,Elvis,Jack_Elvis,he,210.5,210.61,0.1599999999999966,0.11000000000001364
+was,98,"like he was telling her, 'No'.","like he was telling her, 'No'.",nonrestrictive clause; >maximal segment,Elvis,Jack_Elvis,was,210.61,210.75,0.11000000000001364,0.13999999999998636
+telling,98,"like he was telling her, 'No'.","like he was telling her, 'No'.",nonrestrictive clause; >maximal segment,Elvis,Jack_Elvis,telling,210.75,211.05,0.13999999999998636,0.30000000000001137
+her,98,"like he was telling her, 'No'.","like he was telling her, 'No'.",nonrestrictive clause; >maximal segment,Elvis,Jack_Elvis,her,211.049999,211.229999,0.2999990000000139,0.1799999999999784
+'No',98,"like he was telling her, 'No'.","like he was telling her, 'No'.",nonrestrictive clause; >maximal segment,Elvis,Jack_Elvis,,211.229999,,,
+In,99,"In response, the matron walked over to a little man","In response, the matron walked over to a little man",-,Elvis,Jack_Elvis,in,213.45,213.54,,0.09000000000000341
+response,99,"In response, the matron walked over to a little man","In response, the matron walked over to a little man",-,Elvis,Jack_Elvis,response,213.54,214.1,0.09000000000000341,0.5600000000000023
+the,99,"In response, the matron walked over to a little man","In response, the matron walked over to a little man",-,Elvis,Jack_Elvis,the,214.91,215.03,1.3700000000000045,0.12000000000000455
+matron,99,"In response, the matron walked over to a little man","In response, the matron walked over to a little man",-,Elvis,Jack_Elvis,<unk>,215.029999,215.289999,0.11999900000000707,0.2599999999999909
+walked,99,"In response, the matron walked over to a little man","In response, the matron walked over to a little man",-,Elvis,Jack_Elvis,walked,215.299999,215.589999,0.27000000000001023,0.28999999999999204
+over,99,"In response, the matron walked over to a little man","In response, the matron walked over to a little man",-,Elvis,Jack_Elvis,over,215.59,215.81,0.2900009999999895,0.21999999999999886
+to,99,"In response, the matron walked over to a little man","In response, the matron walked over to a little man",-,Elvis,Jack_Elvis,to,215.809999,215.969999,0.2199990000000014,0.1599999999999966
+a,99,"In response, the matron walked over to a little man","In response, the matron walked over to a little man",-,Elvis,Jack_Elvis,a,215.969999,216.039999,0.1599999999999966,0.06999999999999318
+little,99,"In response, the matron walked over to a little man","In response, the matron walked over to a little man",-,Elvis,Jack_Elvis,little,216.039999,216.279999,0.06999999999999318,0.2400000000000091
+man,99,"In response, the matron walked over to a little man","In response, the matron walked over to a little man",-,Elvis,Jack_Elvis,man,216.28,216.6,0.24000100000000657,0.3199999999999932
+sitting,100,sitting in an office chair,sitting in an office chair,nonfinite clause,Elvis,Jack_Elvis,sitting,216.63,216.93,0.3499999999999943,0.30000000000001137
+in,100,sitting in an office chair,sitting in an office chair,nonfinite clause,Elvis,Jack_Elvis,in,216.93,217.01,0.30000000000001137,0.07999999999998408
+an,100,sitting in an office chair,sitting in an office chair,nonfinite clause,Elvis,Jack_Elvis,an,217.01,217.14,0.07999999999998408,0.12999999999999545
+office,100,sitting in an office chair,sitting in an office chair,nonfinite clause,Elvis,Jack_Elvis,office,217.15,217.54,0.14000000000001478,0.38999999999998636
+chair,100,sitting in an office chair,sitting in an office chair,nonfinite clause,Elvis,Jack_Elvis,chair,217.54,217.81,0.38999999999998636,0.27000000000001023
+that,101,that squeaked as it rolled around the floor,that squeaked as it rolled around the floor,relative clause,Elvis,Jack_Elvis,that,217.81,218.01,0.27000000000001023,0.19999999999998863
+squeaked,101,that squeaked as it rolled around the floor,that squeaked as it rolled around the floor,relative clause,Elvis,Jack_Elvis,squeaked,218.02,218.5,0.21000000000000796,0.47999999999998977
+as,101,that squeaked as it rolled around the floor,that squeaked as it rolled around the floor,relative clause,Elvis,Jack_Elvis,as,218.55,218.69,0.5300000000000011,0.13999999999998636
+it,101,that squeaked as it rolled around the floor,that squeaked as it rolled around the floor,relative clause,Elvis,Jack_Elvis,it,218.69,218.83,0.13999999999998636,0.14000000000001478
+rolled,101,that squeaked as it rolled around the floor,that squeaked as it rolled around the floor,relative clause,Elvis,Jack_Elvis,rolled,218.83,219.13,0.14000000000001478,0.29999999999998295
+around,101,that squeaked as it rolled around the floor,that squeaked as it rolled around the floor,relative clause,Elvis,Jack_Elvis,around,219.13,219.37,0.29999999999998295,0.2400000000000091
+the,101,that squeaked as it rolled around the floor,that squeaked as it rolled around the floor,relative clause,Elvis,Jack_Elvis,the,219.37,219.46,0.2400000000000091,0.09000000000000341
+floor,101,that squeaked as it rolled around the floor,that squeaked as it rolled around the floor,relative clause,Elvis,Jack_Elvis,floor,219.46,219.77,0.09000000000000341,0.3100000000000023
+and,102,and spoke to him.,and spoke to him.,>maximal segment,Elvis,Jack_Elvis,and,219.77,219.91,0.3100000000000023,0.13999999999998636
+spoke,102,and spoke to him.,and spoke to him.,>maximal segment,Elvis,Jack_Elvis,spoke,219.91,220.19,0.13999999999998636,0.28000000000000114
+to,102,and spoke to him.,and spoke to him.,>maximal segment,Elvis,Jack_Elvis,to,220.19,220.3,0.28000000000000114,0.11000000000001364
+him,102,and spoke to him.,and spoke to him.,>maximal segment,Elvis,Jack_Elvis,him,220.3,220.56,0.11000000000001364,0.2599999999999909
+It,103,It was the little man,It was the little man,-,Elvis,Jack_Elvis,it,221.86,222.01,1.5600000000000023,0.14999999999997726
+was,103,It was the little man,It was the little man,-,Elvis,Jack_Elvis,was,222.01,222.16,0.14999999999997726,0.15000000000000568
+the,103,It was the little man,It was the little man,-,Elvis,Jack_Elvis,the,222.16,222.26,0.15000000000000568,0.09999999999999432
+little,103,It was the little man,It was the little man,-,Elvis,Jack_Elvis,little,222.26,222.54,0.09999999999999432,0.28000000000000114
+man,103,It was the little man,It was the little man,-,Elvis,Jack_Elvis,man,222.54,222.87,0.28000000000000114,0.3300000000000125
+who,104,who then walked over and said something to the man,who then walked over and said something to the man,relative clause,Elvis,Jack_Elvis,who,222.88,223.02,0.3400000000000034,0.14000000000001478
+then,104,who then walked over and said something to the man,who then walked over and said something to the man,relative clause,Elvis,Jack_Elvis,then,223.02,223.16,0.14000000000001478,0.13999999999998636
+walked,104,who then walked over and said something to the man,who then walked over and said something to the man,relative clause,Elvis,Jack_Elvis,walked,223.17,223.5,0.14999999999997726,0.3300000000000125
+over,104,who then walked over and said something to the man,who then walked over and said something to the man,relative clause,Elvis,Jack_Elvis,over,223.51,223.85,0.3400000000000034,0.3400000000000034
+and,104,who then walked over and said something to the man,who then walked over and said something to the man,relative clause,Elvis,Jack_Elvis,and,223.88,224.07,0.37000000000000455,0.18999999999999773
+said,104,who then walked over and said something to the man,who then walked over and said something to the man,relative clause,Elvis,Jack_Elvis,said,224.07,224.3,0.18999999999999773,0.2300000000000182
+something,104,who then walked over and said something to the man,who then walked over and said something to the man,relative clause,Elvis,Jack_Elvis,something,224.3,224.63,0.2300000000000182,0.3299999999999841
+to,104,who then walked over and said something to the man,who then walked over and said something to the man,relative clause,Elvis,Jack_Elvis,to,224.63,224.73,0.3299999999999841,0.09999999999999432
+the,104,who then walked over and said something to the man,who then walked over and said something to the man,relative clause,Elvis,Jack_Elvis,the,224.73,224.81,0.09999999999999432,0.0800000000000125
+man,104,who then walked over and said something to the man,who then walked over and said something to the man,relative clause,Elvis,Jack_Elvis,man,224.809999,225.079999,0.07999900000001503,0.2699999999999818
+who,105,who was cutting my hair.,who was cutting my hair.,relative clause; >maximal segment,Elvis,Jack_Elvis,who,225.09,225.18,0.2800009999999986,0.09000000000000341
+was,105,who was cutting my hair.,who was cutting my hair.,relative clause; >maximal segment,Elvis,Jack_Elvis,was,225.179999,225.309999,0.08999900000000594,0.12999999999999545
+cutting,105,who was cutting my hair.,who was cutting my hair.,relative clause; >maximal segment,Elvis,Jack_Elvis,cutting,225.309999,225.589999,0.12999999999999545,0.28000000000000114
+my,105,who was cutting my hair.,who was cutting my hair.,relative clause; >maximal segment,Elvis,Jack_Elvis,my,225.59,225.71,0.2800009999999986,0.12000000000000455
+hair,105,who was cutting my hair.,who was cutting my hair.,relative clause; >maximal segment,Elvis,Jack_Elvis,hair,225.71,226.11,0.12000000000000455,0.4000000000000057
+The,106,"The next thing I knew,","The next thing I knew,",positioning element,Elvis,Jack_Elvis,the,227.75,227.87,2.039999999999992,0.12000000000000455
+next,106,"The next thing I knew,","The next thing I knew,",positioning element,Elvis,Jack_Elvis,next,227.87,228.04,0.12000000000000455,0.1699999999999875
+thing,106,"The next thing I knew,","The next thing I knew,",positioning element,Elvis,Jack_Elvis,thing,228.04,228.22,0.1699999999999875,0.18000000000000682
+I,106,"The next thing I knew,","The next thing I knew,",positioning element,Elvis,Jack_Elvis,i,228.219999,228.299999,0.17999900000000935,0.0800000000000125
+knew,106,"The next thing I knew,","The next thing I knew,",positioning element,Elvis,Jack_Elvis,knew,228.3,228.66000000000005,0.08000100000000998,0.36000000000004206
+the,107,the man,the man,-,Elvis,Jack_Elvis,the,229.52,229.63,1.2199999999999989,0.10999999999998522
+man,107,the man,the man,-,Elvis,Jack_Elvis,man,229.63,229.81,0.10999999999998522,0.18000000000000682
+who,108,who was cutting my hair told me,who was cutting my hair told me,relative clause,Elvis,Jack_Elvis,who,229.809999,229.909999,0.17999900000000935,0.09999999999999432
+was,108,who was cutting my hair told me,who was cutting my hair told me,relative clause,Elvis,Jack_Elvis,was,229.91,230.05,0.10000099999999179,0.14000000000001478
+cutting,108,who was cutting my hair told me,who was cutting my hair told me,relative clause,Elvis,Jack_Elvis,cutting,230.049999,230.339999,0.1399990000000173,0.28999999999999204
+my,108,who was cutting my hair told me,who was cutting my hair told me,relative clause,Elvis,Jack_Elvis,my,230.34,230.45,0.2900009999999895,0.10999999999998522
+hair,108,who was cutting my hair told me,who was cutting my hair told me,relative clause,Elvis,Jack_Elvis,hair,230.45,230.66,0.10999999999998522,0.21000000000000796
+told,108,who was cutting my hair told me,who was cutting my hair told me,relative clause,Elvis,Jack_Elvis,told,230.66,230.89,0.21000000000000796,0.22999999999998977
+me,108,who was cutting my hair told me,who was cutting my hair told me,relative clause,Elvis,Jack_Elvis,me,230.889999,231.009999,0.2299989999999923,0.12000000000000455
+that,109,that he was no longer allowed,that he was no longer allowed,complementizer,Elvis,Jack_Elvis,that,231.009999,231.059999,0.12000000000000455,0.05000000000001137
+he,109,that he was no longer allowed,that he was no longer allowed,complementizer,Elvis,Jack_Elvis,he,231.07,231.23,0.06000099999999975,0.1599999999999966
+was,109,that he was no longer allowed,that he was no longer allowed,complementizer,Elvis,Jack_Elvis,was,231.23,231.44,0.1599999999999966,0.21000000000000796
+no,109,that he was no longer allowed,that he was no longer allowed,complementizer,Elvis,Jack_Elvis,no,231.5,231.75,0.27000000000001023,0.25
+longer,109,that he was no longer allowed,that he was no longer allowed,complementizer,Elvis,Jack_Elvis,longer,231.75,232.08,0.25,0.3300000000000125
+allowed,109,that he was no longer allowed,that he was no longer allowed,complementizer,Elvis,Jack_Elvis,allowed,232.08,232.45,0.3300000000000125,0.3699999999999761
+to,110,to give me an Elvis cut.,to give me an Elvis cut.,infinitival phrase; >maximal segment,Elvis,Jack_Elvis,to,232.449999,232.529999,0.36999899999997865,0.0800000000000125
+give,110,to give me an Elvis cut.,to give me an Elvis cut.,infinitival phrase; >maximal segment,Elvis,Jack_Elvis,give,232.539999,232.729999,0.09000000000000341,0.18999999999999773
+me,110,to give me an Elvis cut.,to give me an Elvis cut.,infinitival phrase; >maximal segment,Elvis,Jack_Elvis,me,232.73,232.85,0.1900009999999952,0.12000000000000455
+an,110,to give me an Elvis cut.,to give me an Elvis cut.,infinitival phrase; >maximal segment,Elvis,Jack_Elvis,an,232.85,232.94,0.12000000000000455,0.09000000000000341
+Elvis,110,to give me an Elvis cut.,to give me an Elvis cut.,infinitival phrase; >maximal segment,Elvis,Jack_Elvis,elvis,232.940001,233.270001,0.09000100000000089,0.3300000000000125
+cut,110,to give me an Elvis cut.,to give me an Elvis cut.,infinitival phrase; >maximal segment,Elvis,Jack_Elvis,cut,233.27,233.52,0.32999900000001503,0.25
+'Why,111,'Why not?' I cried desperately.,'Why not?' I cried desperately.,quotation; >maximal segment,Elvis,Jack_Elvis,<unk>,234.66,234.86,1.3899999999999864,0.20000000000001705
+not,111,'Why not?' I cried desperately.,'Why not?' I cried desperately.,quotation; >maximal segment,Elvis,Jack_Elvis,not,234.86,235.29,0.20000000000001705,0.4299999999999784
+',111,'Why not?' I cried desperately.,'Why not?' I cried desperately.,quotation; >maximal segment,Elvis,Jack_Elvis,,235.29,,,
+I,111,'Why not?' I cried desperately.,'Why not?' I cried desperately.,quotation; >maximal segment,Elvis,Jack_Elvis,i,236.26,236.4,,0.14000000000001478
+cried,111,'Why not?' I cried desperately.,'Why not?' I cried desperately.,quotation; >maximal segment,Elvis,Jack_Elvis,cried,236.4,236.67,0.14000000000001478,0.2699999999999818
+desperately,111,'Why not?' I cried desperately.,'Why not?' I cried desperately.,quotation; >maximal segment,Elvis,Jack_Elvis,desperately,236.67,237.33,0.2699999999999818,0.660000000000025
+The,112,The kindly barber,The kindly barber,-,Elvis,Jack_Elvis,the,238.42,238.55,1.75,0.13000000000002387
+kindly,112,The kindly barber,The kindly barber,-,Elvis,Jack_Elvis,kindly,238.55,238.91000000000005,0.13000000000002387,0.36000000000004206
+barber,112,The kindly barber,The kindly barber,-,Elvis,Jack_Elvis,barber,238.91,239.18,0.3599999999999852,0.27000000000001023
+stopped,113,stopped by the matron,stopped by the matron,nonrestrictive clause,Elvis,Jack_Elvis,stopped,239.18,239.54,0.27000000000001023,0.3599999999999852
+by,113,stopped by the matron,stopped by the matron,nonrestrictive clause,Elvis,Jack_Elvis,by,239.54,239.65,0.3599999999999852,0.11000000000001364
+the,113,stopped by the matron,stopped by the matron,nonrestrictive clause,Elvis,Jack_Elvis,the,239.65,239.77,0.11000000000001364,0.12000000000000455
+matron,113,stopped by the matron,stopped by the matron,nonrestrictive clause,Elvis,Jack_Elvis,<unk>,239.77,240.07,0.12000000000000455,0.29999999999998295
+did,114,"did not answer,","did not answer,",-,Elvis,Jack_Elvis,did,240.08,240.22,0.3100000000000023,0.13999999999998636
+not,114,"did not answer,","did not answer,",-,Elvis,Jack_Elvis,not,240.22,240.4,0.13999999999998636,0.18000000000000682
+answer,114,"did not answer,","did not answer,",-,Elvis,Jack_Elvis,answer,240.41,240.88,0.18999999999999773,0.46999999999999886
+but,115,"but from his expression, I could tell","but from his expression, I could tell",conjunction,Elvis,Jack_Elvis,but,241.0,241.24,0.5900000000000034,0.2400000000000091
+from,115,"but from his expression, I could tell","but from his expression, I could tell",conjunction,Elvis,Jack_Elvis,from,241.25,241.48,0.25,0.22999999999998977
+his,115,"but from his expression, I could tell","but from his expression, I could tell",conjunction,Elvis,Jack_Elvis,his,241.48,241.62,0.22999999999998977,0.14000000000001478
+expression,115,"but from his expression, I could tell","but from his expression, I could tell",conjunction,Elvis,Jack_Elvis,expression,241.62,242.25,0.14000000000001478,0.6299999999999955
+I,115,"but from his expression, I could tell","but from his expression, I could tell",conjunction,Elvis,Jack_Elvis,i,242.41,242.52,0.789999999999992,0.11000000000001364
+could,115,"but from his expression, I could tell","but from his expression, I could tell",conjunction,Elvis,Jack_Elvis,could,242.52,242.68,0.11000000000001364,0.1599999999999966
+tell,115,"but from his expression, I could tell","but from his expression, I could tell",conjunction,Elvis,Jack_Elvis,tell,242.679999,242.859999,0.15999899999999911,0.1799999999999784
+that,116,that he wished,that he wished,complementizer,Elvis,Jack_Elvis,that,242.86,242.97000000000003,0.1800010000000043,0.11000000000001364
+he,116,that he wished,that he wished,complementizer,Elvis,Jack_Elvis,he,242.97,243.1,0.10999999999998522,0.12999999999999545
+wished,116,that he wished,that he wished,complementizer,Elvis,Jack_Elvis,wished,243.099999,243.419999,0.12999899999999798,0.3199999999999932
+he,117,he could cut it as I had asked.,he could cut it as I had asked.,complementizer; >maximal segment,Elvis,Jack_Elvis,he,243.42,243.57,0.32000099999999065,0.15000000000000568
+could,117,he could cut it as I had asked.,he could cut it as I had asked.,complementizer; >maximal segment,Elvis,Jack_Elvis,could,243.57,243.72,0.15000000000000568,0.15000000000000568
+cut,117,he could cut it as I had asked.,he could cut it as I had asked.,complementizer; >maximal segment,Elvis,Jack_Elvis,cut,243.719999,243.909999,0.1499990000000082,0.18999999999999773
+it,117,he could cut it as I had asked.,he could cut it as I had asked.,complementizer; >maximal segment,Elvis,Jack_Elvis,it,243.91,244.02,0.1900009999999952,0.11000000000001364
+as,117,he could cut it as I had asked.,he could cut it as I had asked.,complementizer; >maximal segment,Elvis,Jack_Elvis,as,244.03,244.2,0.12000000000000455,0.1699999999999875
+I,117,he could cut it as I had asked.,he could cut it as I had asked.,complementizer; >maximal segment,Elvis,Jack_Elvis,i,244.2,244.28,0.1699999999999875,0.0800000000000125
+had,117,he could cut it as I had asked.,he could cut it as I had asked.,complementizer; >maximal segment,Elvis,Jack_Elvis,had,244.29,244.46,0.09000000000000341,0.17000000000001592
+asked,117,he could cut it as I had asked.,he could cut it as I had asked.,complementizer; >maximal segment,Elvis,Jack_Elvis,asked,244.46,244.96,0.17000000000001592,0.5
+Within,118,"Within a few minutes,","Within a few minutes,",positioning element,Elvis,Jack_Elvis,within,246.17,246.52,1.7099999999999795,0.35000000000002274
+a,118,"Within a few minutes,","Within a few minutes,",positioning element,Elvis,Jack_Elvis,a,246.52,246.58,0.35000000000002274,0.060000000000002274
+few,118,"Within a few minutes,","Within a few minutes,",positioning element,Elvis,Jack_Elvis,few,246.58,246.8,0.060000000000002274,0.21999999999999886
+minutes,118,"Within a few minutes,","Within a few minutes,",positioning element,Elvis,Jack_Elvis,minutes,246.799999,247.199999,0.2199990000000014,0.39999999999997726
+it,119,"it wasn't an Elvis haircut, but a short buzz cut","it wasn't an Elvis haircut, but a short buzz cut",-,Elvis,Jack_Elvis,it,247.389999,247.539999,0.589999999999975,0.15000000000000568
+wasn't,119,"it wasn't an Elvis haircut, but a short buzz cut","it wasn't an Elvis haircut, but a short buzz cut",-,Elvis,Jack_Elvis,wasn't,247.54,247.9,0.15000100000000316,0.36000000000001364
+an,119,"it wasn't an Elvis haircut, but a short buzz cut","it wasn't an Elvis haircut, but a short buzz cut",-,Elvis,Jack_Elvis,an,247.9,247.99,0.36000000000001364,0.09000000000000341
+Elvis,119,"it wasn't an Elvis haircut, but a short buzz cut","it wasn't an Elvis haircut, but a short buzz cut",-,Elvis,Jack_Elvis,elvis,247.99,248.27,0.09000000000000341,0.28000000000000114
+haircut,119,"it wasn't an Elvis haircut, but a short buzz cut","it wasn't an Elvis haircut, but a short buzz cut",-,Elvis,Jack_Elvis,haircut,248.27,248.75,0.28000000000000114,0.47999999999998977
+but,119,"it wasn't an Elvis haircut, but a short buzz cut","it wasn't an Elvis haircut, but a short buzz cut",-,Elvis,Jack_Elvis,but,249.5,249.64,1.2299999999999898,0.13999999999998636
+a,119,"it wasn't an Elvis haircut, but a short buzz cut","it wasn't an Elvis haircut, but a short buzz cut",-,Elvis,Jack_Elvis,a,249.639999,249.679999,0.13999899999998888,0.040000000000020464
+short,119,"it wasn't an Elvis haircut, but a short buzz cut","it wasn't an Elvis haircut, but a short buzz cut",-,Elvis,Jack_Elvis,short,249.679999,250.029999,0.040000000000020464,0.3499999999999943
+buzz,119,"it wasn't an Elvis haircut, but a short buzz cut","it wasn't an Elvis haircut, but a short buzz cut",-,Elvis,Jack_Elvis,buzz,250.029999,250.279999,0.3499999999999943,0.25
+cut,119,"it wasn't an Elvis haircut, but a short buzz cut","it wasn't an Elvis haircut, but a short buzz cut",-,Elvis,Jack_Elvis,cut,250.279999,250.509999,0.25,0.22999999999998977
+that,120,that the barber had given me.,that the barber had given me.,relative clause; >maximal segment,Elvis,Jack_Elvis,that,250.52,250.68,0.24000100000000657,0.1599999999999966
+the,120,that the barber had given me.,that the barber had given me.,relative clause; >maximal segment,Elvis,Jack_Elvis,the,250.68,250.76,0.1599999999999966,0.07999999999998408
+barber,120,that the barber had given me.,that the barber had given me.,relative clause; >maximal segment,Elvis,Jack_Elvis,barber,250.76,251.08,0.07999999999998408,0.3200000000000216
+had,120,that the barber had given me.,that the barber had given me.,relative clause; >maximal segment,Elvis,Jack_Elvis,had,251.08,251.23,0.3200000000000216,0.14999999999997726
+given,120,that the barber had given me.,that the barber had given me.,relative clause; >maximal segment,Elvis,Jack_Elvis,given,251.23,251.5,0.14999999999997726,0.27000000000001023
+me,120,that the barber had given me.,that the barber had given me.,relative clause; >maximal segment,Elvis,Jack_Elvis,me,251.5,251.71,0.27000000000001023,0.21000000000000796
+When,121,When he finished,When he finished,positioning element,Elvis,Jack_Elvis,when,252.51,252.66,1.009999999999991,0.15000000000000568
+he,121,When he finished,When he finished,positioning element,Elvis,Jack_Elvis,he,252.66,252.78,0.15000000000000568,0.12000000000000455
+finished,121,When he finished,When he finished,positioning element,Elvis,Jack_Elvis,finished,252.78,253.13,0.12000000000000455,0.3499999999999943
+shaving,122,shaving off all my hair,shaving off all my hair,nonfinite clause,Elvis,Jack_Elvis,shaving,253.14,253.51,0.3599999999999852,0.37000000000000455
+off,122,shaving off all my hair,shaving off all my hair,nonfinite clause,Elvis,Jack_Elvis,off,253.51,253.53,0.37000000000000455,0.020000000000010232
+all,122,shaving off all my hair,shaving off all my hair,nonfinite clause,Elvis,Jack_Elvis,all,253.54,253.74,0.030000000000001137,0.20000000000001705
+my,122,shaving off all my hair,shaving off all my hair,nonfinite clause,Elvis,Jack_Elvis,my,253.74,253.9,0.20000000000001705,0.1599999999999966
+hair,122,shaving off all my hair,shaving off all my hair,nonfinite clause,Elvis,Jack_Elvis,hair,253.9,254.27,0.1599999999999966,0.37000000000000455
+and,123,"and made me smell real good with his powder,","and made me smell real good with his powder,",-,Elvis,Jack_Elvis,and,255.07,255.21,1.1699999999999875,0.14000000000001478
+made,123,"and made me smell real good with his powder,","and made me smell real good with his powder,",-,Elvis,Jack_Elvis,made,255.21,255.38,0.14000000000001478,0.1699999999999875
+me,123,"and made me smell real good with his powder,","and made me smell real good with his powder,",-,Elvis,Jack_Elvis,me,255.38,255.49,0.1699999999999875,0.11000000000001364
+smell,123,"and made me smell real good with his powder,","and made me smell real good with his powder,",-,Elvis,Jack_Elvis,smell,255.49,255.75,0.11000000000001364,0.2599999999999909
+real,123,"and made me smell real good with his powder,","and made me smell real good with his powder,",-,Elvis,Jack_Elvis,real,255.75,256.02,0.2599999999999909,0.2699999999999818
+good,123,"and made me smell real good with his powder,","and made me smell real good with his powder,",-,Elvis,Jack_Elvis,good,256.02,256.24,0.2699999999999818,0.22000000000002728
+with,123,"and made me smell real good with his powder,","and made me smell real good with his powder,",-,Elvis,Jack_Elvis,with,256.24,256.35,0.22000000000002728,0.11000000000001364
+his,123,"and made me smell real good with his powder,","and made me smell real good with his powder,",-,Elvis,Jack_Elvis,his,256.35,256.55,0.11000000000001364,0.19999999999998863
+powder,123,"and made me smell real good with his powder,","and made me smell real good with his powder,",-,Elvis,Jack_Elvis,powder,256.55,257.01,0.19999999999998863,0.45999999999997954
+the,124,the barber handed me a nickel and told me,the barber handed me a nickel and told me,conjunction (then...),Elvis,Jack_Elvis,the,257.76,257.86,1.2099999999999795,0.10000000000002274
+barber,124,the barber handed me a nickel and told me,the barber handed me a nickel and told me,conjunction (then...),Elvis,Jack_Elvis,barber,257.86,258.11,0.10000000000002274,0.25
+handed,124,the barber handed me a nickel and told me,the barber handed me a nickel and told me,conjunction (then...),Elvis,Jack_Elvis,handed,258.11,258.44,0.25,0.3299999999999841
+me,124,the barber handed me a nickel and told me,the barber handed me a nickel and told me,conjunction (then...),Elvis,Jack_Elvis,me,258.44,258.55,0.3299999999999841,0.11000000000001364
+a,124,the barber handed me a nickel and told me,the barber handed me a nickel and told me,conjunction (then...),Elvis,Jack_Elvis,a,258.55,258.6,0.11000000000001364,0.05000000000001137
+nickel,124,the barber handed me a nickel and told me,the barber handed me a nickel and told me,conjunction (then...),Elvis,Jack_Elvis,nickel,258.6,259.01000000000005,0.05000000000001137,0.410000000000025
+and,124,the barber handed me a nickel and told me,the barber handed me a nickel and told me,conjunction (then...),Elvis,Jack_Elvis,and,259.03,259.17999999999995,0.42999999999995,0.14999999999997726
+told,124,the barber handed me a nickel and told me,the barber handed me a nickel and told me,conjunction (then...),Elvis,Jack_Elvis,told,259.18,259.36,0.1500000000000341,0.18000000000000682
+me,124,the barber handed me a nickel and told me,the barber handed me a nickel and told me,conjunction (then...),Elvis,Jack_Elvis,me,259.36,259.46000000000004,0.18000000000000682,0.10000000000002274
+to,125,to go outside to the snack machine and buy myself a candy bar.,to go outside to the snack machine and buy myself a candy bar.,infinitival phrase; >maximal segment,Elvis,Jack_Elvis,to,259.46,259.58,0.0999999999999659,0.12000000000000455
+go,125,to go outside to the snack machine and buy myself a candy bar.,to go outside to the snack machine and buy myself a candy bar.,infinitival phrase; >maximal segment,Elvis,Jack_Elvis,go,259.58,259.76,0.12000000000000455,0.18000000000000682
+outside,125,to go outside to the snack machine and buy myself a candy bar.,to go outside to the snack machine and buy myself a candy bar.,infinitival phrase; >maximal segment,Elvis,Jack_Elvis,outside,259.76,260.2,0.18000000000000682,0.4399999999999977
+to,125,to go outside to the snack machine and buy myself a candy bar.,to go outside to the snack machine and buy myself a candy bar.,infinitival phrase; >maximal segment,Elvis,Jack_Elvis,to,260.2,260.28,0.4399999999999977,0.07999999999998408
+the,125,to go outside to the snack machine and buy myself a candy bar.,to go outside to the snack machine and buy myself a candy bar.,infinitival phrase; >maximal segment,Elvis,Jack_Elvis,the,260.28,260.38,0.07999999999998408,0.10000000000002274
+snack,125,to go outside to the snack machine and buy myself a candy bar.,to go outside to the snack machine and buy myself a candy bar.,infinitival phrase; >maximal segment,Elvis,Jack_Elvis,snack,260.38,260.67,0.10000000000002274,0.29000000000002046
+machine,125,to go outside to the snack machine and buy myself a candy bar.,to go outside to the snack machine and buy myself a candy bar.,infinitival phrase; >maximal segment,Elvis,Jack_Elvis,machine,260.69,261.15,0.3100000000000023,0.45999999999997954
+and,125,to go outside to the snack machine and buy myself a candy bar.,to go outside to the snack machine and buy myself a candy bar.,infinitival phrase; >maximal segment,Elvis,Jack_Elvis,and,261.23,261.39000000000004,0.5400000000000205,0.160000000000025
+buy,125,to go outside to the snack machine and buy myself a candy bar.,to go outside to the snack machine and buy myself a candy bar.,infinitival phrase; >maximal segment,Elvis,Jack_Elvis,buy,261.4,261.56,0.16999999999995907,0.160000000000025
+myself,125,to go outside to the snack machine and buy myself a candy bar.,to go outside to the snack machine and buy myself a candy bar.,infinitival phrase; >maximal segment,Elvis,Jack_Elvis,myself,261.559999,261.959999,0.15999900000002754,0.39999999999997726
+a,125,to go outside to the snack machine and buy myself a candy bar.,to go outside to the snack machine and buy myself a candy bar.,infinitival phrase; >maximal segment,Elvis,Jack_Elvis,a,261.96,262.01,0.40000099999997474,0.05000000000001137
+candy,125,to go outside to the snack machine and buy myself a candy bar.,to go outside to the snack machine and buy myself a candy bar.,infinitival phrase; >maximal segment,Elvis,Jack_Elvis,candy,262.01,262.39,0.05000000000001137,0.37999999999999545
+bar,125,to go outside to the snack machine and buy myself a candy bar.,to go outside to the snack machine and buy myself a candy bar.,infinitival phrase; >maximal segment,Elvis,Jack_Elvis,bar,262.389999,262.689999,0.379998999999998,0.30000000000001137
+I,126,I handed him the nickel back and told him,I handed him the nickel back and told him,-,Elvis,Jack_Elvis,i,264.49,264.62,2.10000100000002,0.12999999999999545
+handed,126,I handed him the nickel back and told him,I handed him the nickel back and told him,-,Elvis,Jack_Elvis,handed,264.62,264.95,0.12999999999999545,0.3299999999999841
+him,126,I handed him the nickel back and told him,I handed him the nickel back and told him,-,Elvis,Jack_Elvis,him,264.95,265.12,0.3299999999999841,0.17000000000001592
+the,126,I handed him the nickel back and told him,I handed him the nickel back and told him,-,Elvis,Jack_Elvis,the,265.12,265.21,0.17000000000001592,0.08999999999997499
+nickel,126,I handed him the nickel back and told him,I handed him the nickel back and told him,-,Elvis,Jack_Elvis,nickel,265.21,265.48999999999995,0.08999999999997499,0.2799999999999727
+back,126,I handed him the nickel back and told him,I handed him the nickel back and told him,-,Elvis,Jack_Elvis,back,265.49,265.89,0.28000000000002956,0.39999999999997726
+and,126,I handed him the nickel back and told him,I handed him the nickel back and told him,-,Elvis,Jack_Elvis,and,266.219999,266.36999899999995,0.7299989999999639,0.14999999999997726
+told,126,I handed him the nickel back and told him,I handed him the nickel back and told him,-,Elvis,Jack_Elvis,told,266.37,266.58,0.15000100000003158,0.20999999999997954
+him,126,I handed him the nickel back and told him,I handed him the nickel back and told him,-,Elvis,Jack_Elvis,him,266.58,266.72,0.20999999999997954,0.1400000000000432
+that,127,that I was not hungry.,that I was not hungry.,complementizer; >maximal segment,Elvis,Jack_Elvis,that,266.719999,266.939999,0.13999899999998888,0.22000000000002728
+I,127,that I was not hungry.,that I was not hungry.,complementizer; >maximal segment,Elvis,Jack_Elvis,i,267.02,267.15,0.30000100000000884,0.12999999999999545
+was,127,that I was not hungry.,that I was not hungry.,complementizer; >maximal segment,Elvis,Jack_Elvis,was,267.15,267.33,0.12999999999999545,0.18000000000000682
+not,127,that I was not hungry.,that I was not hungry.,complementizer; >maximal segment,Elvis,Jack_Elvis,not,267.33,267.57,0.18000000000000682,0.2400000000000091
+hungry,127,that I was not hungry.,that I was not hungry.,complementizer; >maximal segment,Elvis,Jack_Elvis,hungry,267.57,267.98,0.2400000000000091,0.410000000000025
+'I'm,128,"'I'm so sorry, baby,' he said,","'I'm so sorry, baby,' he said,",quotation,Elvis,Jack_Elvis,<unk>,269.35,269.49,1.7800000000000296,0.13999999999998636
+so,128,"'I'm so sorry, baby,' he said,","'I'm so sorry, baby,' he said,",quotation,Elvis,Jack_Elvis,so,269.51,269.72,0.15999999999996817,0.21000000000003638
+sorry,128,"'I'm so sorry, baby,' he said,","'I'm so sorry, baby,' he said,",quotation,Elvis,Jack_Elvis,sorry,269.71999900000003,270.049999,0.2099990000000389,0.3299999999999841
+baby,128,"'I'm so sorry, baby,' he said,","'I'm so sorry, baby,' he said,",quotation,Elvis,Jack_Elvis,baby,270.049999,270.619999,0.3299999999999841,0.5699999999999932
+',128,"'I'm so sorry, baby,' he said,","'I'm so sorry, baby,' he said,",quotation,Elvis,Jack_Elvis,,270.619999,,,
+he,128,"'I'm so sorry, baby,' he said,","'I'm so sorry, baby,' he said,",quotation,Elvis,Jack_Elvis,he,270.88,271.09,,0.20999999999997954
+said,128,"'I'm so sorry, baby,' he said,","'I'm so sorry, baby,' he said,",quotation,Elvis,Jack_Elvis,said,271.09,271.44,0.20999999999997954,0.35000000000002274
+as,129,as I climbed out of his barber chair.,as I climbed out of his barber chair.,conjunction; >maximal segment,Elvis,Jack_Elvis,as,271.89,272.07,0.8000000000000114,0.18000000000000682
+I,129,as I climbed out of his barber chair.,as I climbed out of his barber chair.,conjunction; >maximal segment,Elvis,Jack_Elvis,i,272.07,272.13,0.18000000000000682,0.060000000000002274
+climbed,129,as I climbed out of his barber chair.,as I climbed out of his barber chair.,conjunction; >maximal segment,Elvis,Jack_Elvis,climbed,272.13,272.41,0.060000000000002274,0.28000000000002956
+out,129,as I climbed out of his barber chair.,as I climbed out of his barber chair.,conjunction; >maximal segment,Elvis,Jack_Elvis,out,272.41,272.5,0.28000000000002956,0.08999999999997499
+of,129,as I climbed out of his barber chair.,as I climbed out of his barber chair.,conjunction; >maximal segment,Elvis,Jack_Elvis,of,272.5,272.62,0.08999999999997499,0.12000000000000455
+his,129,as I climbed out of his barber chair.,as I climbed out of his barber chair.,conjunction; >maximal segment,Elvis,Jack_Elvis,his,272.62,272.76,0.12000000000000455,0.13999999999998636
+barber,129,as I climbed out of his barber chair.,as I climbed out of his barber chair.,conjunction; >maximal segment,Elvis,Jack_Elvis,barber,272.76,273.05,0.13999999999998636,0.29000000000002046
+chair,129,as I climbed out of his barber chair.,as I climbed out of his barber chair.,conjunction; >maximal segment,Elvis,Jack_Elvis,chair,273.05,273.39,0.29000000000002046,0.339999999999975
+'I,130,"'I am not a baby,' I said,","'I am not a baby,' I said,",-,Elvis,Jack_Elvis,<unk>,273.4,273.41,0.3499999999999659,0.010000000000047748
+am,130,"'I am not a baby,' I said,","'I am not a baby,' I said,",-,Elvis,Jack_Elvis,am,274.83,274.96,1.4300000000000068,0.12999999999999545
+not,130,"'I am not a baby,' I said,","'I am not a baby,' I said,",-,Elvis,Jack_Elvis,not,274.96,275.18,0.12999999999999545,0.22000000000002728
+a,130,"'I am not a baby,' I said,","'I am not a baby,' I said,",-,Elvis,Jack_Elvis,a,275.18,275.22,0.22000000000002728,0.040000000000020464
+baby,130,"'I am not a baby,' I said,","'I am not a baby,' I said,",-,Elvis,Jack_Elvis,baby,275.22,275.76000000000005,0.040000000000020464,0.5400000000000205
+',130,"'I am not a baby,' I said,","'I am not a baby,' I said,",-,Elvis,Jack_Elvis,,275.76000000000005,,,
+I,130,"'I am not a baby,' I said,","'I am not a baby,' I said,",-,Elvis,Jack_Elvis,i,276.78,276.96,,0.18000000000000682
+said,130,"'I am not a baby,' I said,","'I am not a baby,' I said,",-,Elvis,Jack_Elvis,said,276.97,277.38000000000005,0.19000000000005457,0.410000000000025
+as,131,as I wiped the tears from my eyes.,as I wiped the tears from my eyes.,conjunction; >maximal segment,Elvis,Jack_Elvis,as,277.55,277.73,0.5799999999999841,0.18000000000000682
+I,131,as I wiped the tears from my eyes.,as I wiped the tears from my eyes.,conjunction; >maximal segment,Elvis,Jack_Elvis,i,277.73,277.79,0.18000000000000682,0.060000000000002274
+wiped,131,as I wiped the tears from my eyes.,as I wiped the tears from my eyes.,conjunction; >maximal segment,Elvis,Jack_Elvis,wiped,277.8,278.08,0.06999999999999318,0.2799999999999727
+the,131,as I wiped the tears from my eyes.,as I wiped the tears from my eyes.,conjunction; >maximal segment,Elvis,Jack_Elvis,the,278.09,278.23,0.2899999999999636,0.1400000000000432
+tears,131,as I wiped the tears from my eyes.,as I wiped the tears from my eyes.,conjunction; >maximal segment,Elvis,Jack_Elvis,tears,278.23,278.5,0.1400000000000432,0.2699999999999818
+from,131,as I wiped the tears from my eyes.,as I wiped the tears from my eyes.,conjunction; >maximal segment,Elvis,Jack_Elvis,from,278.5,278.64,0.2699999999999818,0.13999999999998636
+my,131,as I wiped the tears from my eyes.,as I wiped the tears from my eyes.,conjunction; >maximal segment,Elvis,Jack_Elvis,my,278.639999,278.819999,0.13999899999998888,0.18000000000000682
+eyes,131,as I wiped the tears from my eyes.,as I wiped the tears from my eyes.,conjunction; >maximal segment,Elvis,Jack_Elvis,eyes,278.82,279.21,0.1800010000000043,0.38999999999998636
+I,132,I then sat down on the floor and brushed away the hair,I then sat down on the floor and brushed away the hair,-,Elvis,Jack_Elvis,i,280.55,280.64,1.7300000000000182,0.08999999999997499
+then,132,I then sat down on the floor and brushed away the hair,I then sat down on the floor and brushed away the hair,-,Elvis,Jack_Elvis,then,280.67,280.87,0.12000000000000455,0.19999999999998863
+sat,132,I then sat down on the floor and brushed away the hair,I then sat down on the floor and brushed away the hair,-,Elvis,Jack_Elvis,sat,280.88,281.13,0.20999999999997954,0.25
+down,132,I then sat down on the floor and brushed away the hair,I then sat down on the floor and brushed away the hair,-,Elvis,Jack_Elvis,down,281.13,281.36,0.25,0.2300000000000182
+on,132,I then sat down on the floor and brushed away the hair,I then sat down on the floor and brushed away the hair,-,Elvis,Jack_Elvis,on,281.36,281.45,0.2300000000000182,0.08999999999997499
+the,132,I then sat down on the floor and brushed away the hair,I then sat down on the floor and brushed away the hair,-,Elvis,Jack_Elvis,the,281.45,281.53,0.08999999999997499,0.07999999999998408
+floor,132,I then sat down on the floor and brushed away the hair,I then sat down on the floor and brushed away the hair,-,Elvis,Jack_Elvis,floor,281.53,281.95,0.07999999999998408,0.4200000000000159
+and,132,I then sat down on the floor and brushed away the hair,I then sat down on the floor and brushed away the hair,-,Elvis,Jack_Elvis,and,282.67,282.84000000000003,1.1400000000000432,0.17000000000001592
+brushed,132,I then sat down on the floor and brushed away the hair,I then sat down on the floor and brushed away the hair,-,Elvis,Jack_Elvis,brushed,282.84,283.11999999999995,0.16999999999995907,0.2799999999999727
+away,132,I then sat down on the floor and brushed away the hair,I then sat down on the floor and brushed away the hair,-,Elvis,Jack_Elvis,away,283.12,283.35,0.28000000000002956,0.2300000000000182
+the,132,I then sat down on the floor and brushed away the hair,I then sat down on the floor and brushed away the hair,-,Elvis,Jack_Elvis,the,283.349999,283.45999900000004,0.22999900000002071,0.11000000000001364
+hair,132,I then sat down on the floor and brushed away the hair,I then sat down on the floor and brushed away the hair,-,Elvis,Jack_Elvis,hair,283.46,283.67,0.11000099999995427,0.21000000000003638
+that,133,that had accumulated on my shiny new Buster Brown shoes.,that had accumulated on my shiny new Buster Brown shoes.,relative clause; >maximal segment,Elvis,Jack_Elvis,that,283.67,283.8,0.21000000000003638,0.12999999999999545
+had,133,that had accumulated on my shiny new Buster Brown shoes.,that had accumulated on my shiny new Buster Brown shoes.,relative clause; >maximal segment,Elvis,Jack_Elvis,had,283.799999,283.929999,0.12999899999999798,0.12999999999999545
+accumulated,133,that had accumulated on my shiny new Buster Brown shoes.,that had accumulated on my shiny new Buster Brown shoes.,relative clause; >maximal segment,Elvis,Jack_Elvis,accumulated,284.02,284.83,0.22000099999996792,0.8100000000000023
+on,133,that had accumulated on my shiny new Buster Brown shoes.,that had accumulated on my shiny new Buster Brown shoes.,relative clause; >maximal segment,Elvis,Jack_Elvis,on,285.03,285.17,1.009999999999991,0.1400000000000432
+my,133,that had accumulated on my shiny new Buster Brown shoes.,that had accumulated on my shiny new Buster Brown shoes.,relative clause; >maximal segment,Elvis,Jack_Elvis,my,285.17,285.28000000000003,0.1400000000000432,0.11000000000001364
+shiny,133,that had accumulated on my shiny new Buster Brown shoes.,that had accumulated on my shiny new Buster Brown shoes.,relative clause; >maximal segment,Elvis,Jack_Elvis,shiny,285.28,285.66,0.1099999999999568,0.3800000000000523
+new,133,that had accumulated on my shiny new Buster Brown shoes.,that had accumulated on my shiny new Buster Brown shoes.,relative clause; >maximal segment,Elvis,Jack_Elvis,new,285.66,285.87,0.3800000000000523,0.20999999999997954
+Buster,133,that had accumulated on my shiny new Buster Brown shoes.,that had accumulated on my shiny new Buster Brown shoes.,relative clause; >maximal segment,Elvis,Jack_Elvis,buster,285.87,286.22,0.20999999999997954,0.35000000000002274
+Brown,133,that had accumulated on my shiny new Buster Brown shoes.,that had accumulated on my shiny new Buster Brown shoes.,relative clause; >maximal segment,Elvis,Jack_Elvis,brown,286.21999900000003,286.499999,0.34999900000002526,0.2799999999999727
+shoes,133,that had accumulated on my shiny new Buster Brown shoes.,that had accumulated on my shiny new Buster Brown shoes.,relative clause; >maximal segment,Elvis,Jack_Elvis,shoes,286.51,286.95,0.2900009999999611,0.4399999999999977
+My,134,"My head was no longer in the clouds,","My head was no longer in the clouds,",-,Elvis,Jack_Elvis,my,288.4,288.52,1.8899999999999864,0.12000000000000455
+head,134,"My head was no longer in the clouds,","My head was no longer in the clouds,",-,Elvis,Jack_Elvis,head,288.52,288.74,0.12000000000000455,0.22000000000002728
+was,134,"My head was no longer in the clouds,","My head was no longer in the clouds,",-,Elvis,Jack_Elvis,was,288.75,288.94,0.2300000000000182,0.18999999999999773
+no,134,"My head was no longer in the clouds,","My head was no longer in the clouds,",-,Elvis,Jack_Elvis,no,288.95,289.15,0.19999999999998863,0.19999999999998863
+longer,134,"My head was no longer in the clouds,","My head was no longer in the clouds,",-,Elvis,Jack_Elvis,longer,289.15,289.48999999999995,0.19999999999998863,0.339999999999975
+in,134,"My head was no longer in the clouds,","My head was no longer in the clouds,",-,Elvis,Jack_Elvis,in,289.49,289.59000000000003,0.34000000000003183,0.10000000000002274
+the,134,"My head was no longer in the clouds,","My head was no longer in the clouds,",-,Elvis,Jack_Elvis,the,289.59,289.7,0.0999999999999659,0.11000000000001364
+clouds,134,"My head was no longer in the clouds,","My head was no longer in the clouds,",-,Elvis,Jack_Elvis,clouds,289.7,290.23,0.11000000000001364,0.5300000000000296
+and,135,"and I got up off the floor, brushed off my short pants, and walked sullenly towards the door.","and I got up off the floor, brushed off my short pants, and walked sullenly towards the door.",conjunction; >maximal segment,Elvis,Jack_Elvis,and,291.2,291.36,1.5,0.160000000000025
+I,135,"and I got up off the floor, brushed off my short pants, and walked sullenly towards the door.","and I got up off the floor, brushed off my short pants, and walked sullenly towards the door.",conjunction; >maximal segment,Elvis,Jack_Elvis,i,291.36,291.43,0.160000000000025,0.06999999999999318
+got,135,"and I got up off the floor, brushed off my short pants, and walked sullenly towards the door.","and I got up off the floor, brushed off my short pants, and walked sullenly towards the door.",conjunction; >maximal segment,Elvis,Jack_Elvis,got,291.43,291.63,0.06999999999999318,0.19999999999998863
+up,135,"and I got up off the floor, brushed off my short pants, and walked sullenly towards the door.","and I got up off the floor, brushed off my short pants, and walked sullenly towards the door.",conjunction; >maximal segment,Elvis,Jack_Elvis,up,291.63,291.77,0.19999999999998863,0.13999999999998636
+off,135,"and I got up off the floor, brushed off my short pants, and walked sullenly towards the door.","and I got up off the floor, brushed off my short pants, and walked sullenly towards the door.",conjunction; >maximal segment,Elvis,Jack_Elvis,off,291.77,291.91,0.13999999999998636,0.1400000000000432
+the,135,"and I got up off the floor, brushed off my short pants, and walked sullenly towards the door.","and I got up off the floor, brushed off my short pants, and walked sullenly towards the door.",conjunction; >maximal segment,Elvis,Jack_Elvis,the,291.91,292.01000000000005,0.1400000000000432,0.10000000000002274
+floor,135,"and I got up off the floor, brushed off my short pants, and walked sullenly towards the door.","and I got up off the floor, brushed off my short pants, and walked sullenly towards the door.",conjunction; >maximal segment,Elvis,Jack_Elvis,floor,292.01,292.39,0.0999999999999659,0.37999999999999545
+brushed,135,"and I got up off the floor, brushed off my short pants, and walked sullenly towards the door.","and I got up off the floor, brushed off my short pants, and walked sullenly towards the door.",conjunction; >maximal segment,Elvis,Jack_Elvis,brushed,293.38,293.7,1.3700000000000045,0.3199999999999932
+off,135,"and I got up off the floor, brushed off my short pants, and walked sullenly towards the door.","and I got up off the floor, brushed off my short pants, and walked sullenly towards the door.",conjunction; >maximal segment,Elvis,Jack_Elvis,off,293.7,293.92,0.3199999999999932,0.22000000000002728
+my,135,"and I got up off the floor, brushed off my short pants, and walked sullenly towards the door.","and I got up off the floor, brushed off my short pants, and walked sullenly towards the door.",conjunction; >maximal segment,Elvis,Jack_Elvis,my,293.92,294.07,0.22000000000002728,0.14999999999997726
+short,135,"and I got up off the floor, brushed off my short pants, and walked sullenly towards the door.","and I got up off the floor, brushed off my short pants, and walked sullenly towards the door.",conjunction; >maximal segment,Elvis,Jack_Elvis,short,294.07,294.37,0.14999999999997726,0.30000000000001137
+pants,135,"and I got up off the floor, brushed off my short pants, and walked sullenly towards the door.","and I got up off the floor, brushed off my short pants, and walked sullenly towards the door.",conjunction; >maximal segment,Elvis,Jack_Elvis,pants,294.37,294.83,0.30000000000001137,0.45999999999997954
+and,135,"and I got up off the floor, brushed off my short pants, and walked sullenly towards the door.","and I got up off the floor, brushed off my short pants, and walked sullenly towards the door.",conjunction; >maximal segment,Elvis,Jack_Elvis,and,295.77,295.94,1.3999999999999773,0.17000000000001592
+walked,135,"and I got up off the floor, brushed off my short pants, and walked sullenly towards the door.","and I got up off the floor, brushed off my short pants, and walked sullenly towards the door.",conjunction; >maximal segment,Elvis,Jack_Elvis,walked,295.94,296.1,0.17000000000001592,0.160000000000025
+sullenly,135,"and I got up off the floor, brushed off my short pants, and walked sullenly towards the door.","and I got up off the floor, brushed off my short pants, and walked sullenly towards the door.",conjunction; >maximal segment,Elvis,Jack_Elvis,<unk>,296.099999,296.64999900000004,0.15999900000002754,0.5500000000000114
+towards,135,"and I got up off the floor, brushed off my short pants, and walked sullenly towards the door.","and I got up off the floor, brushed off my short pants, and walked sullenly towards the door.",conjunction; >maximal segment,Elvis,Jack_Elvis,towards,296.66,296.94,0.5600009999999997,0.2799999999999727
+the,135,"and I got up off the floor, brushed off my short pants, and walked sullenly towards the door.","and I got up off the floor, brushed off my short pants, and walked sullenly towards the door.",conjunction; >maximal segment,Elvis,Jack_Elvis,the,296.94,297.04,0.2799999999999727,0.10000000000002274
+door,135,"and I got up off the floor, brushed off my short pants, and walked sullenly towards the door.","and I got up off the floor, brushed off my short pants, and walked sullenly towards the door.",conjunction; >maximal segment,Elvis,Jack_Elvis,door,297.04,297.35,0.10000000000002274,0.3100000000000023
+The,136,The matron was smiling at me sort of funny like.,The matron was smiling at me sort of funny like.,>maximal segment,Elvis,Jack_Elvis,the,299.0,299.11,1.9599999999999795,0.11000000000001364
+matron,136,The matron was smiling at me sort of funny like.,The matron was smiling at me sort of funny like.,>maximal segment,Elvis,Jack_Elvis,<unk>,299.11,299.43,0.11000000000001364,0.3199999999999932
+was,136,The matron was smiling at me sort of funny like.,The matron was smiling at me sort of funny like.,>maximal segment,Elvis,Jack_Elvis,was,299.44,299.74,0.3299999999999841,0.30000000000001137
+smiling,136,The matron was smiling at me sort of funny like.,The matron was smiling at me sort of funny like.,>maximal segment,Elvis,Jack_Elvis,smiling,299.82,300.34,0.37999999999999545,0.5199999999999818
+at,136,The matron was smiling at me sort of funny like.,The matron was smiling at me sort of funny like.,>maximal segment,Elvis,Jack_Elvis,at,300.34,300.46,0.5199999999999818,0.12000000000000455
+me,136,The matron was smiling at me sort of funny like.,The matron was smiling at me sort of funny like.,>maximal segment,Elvis,Jack_Elvis,me,300.46,300.69,0.12000000000000455,0.2300000000000182
+sort,136,The matron was smiling at me sort of funny like.,The matron was smiling at me sort of funny like.,>maximal segment,Elvis,Jack_Elvis,sort,300.809999,301.079999,0.34999900000002526,0.2699999999999818
+of,136,The matron was smiling at me sort of funny like.,The matron was smiling at me sort of funny like.,>maximal segment,Elvis,Jack_Elvis,of,301.08,301.2,0.2700009999999793,0.12000000000000455
+funny,136,The matron was smiling at me sort of funny like.,The matron was smiling at me sort of funny like.,>maximal segment,Elvis,Jack_Elvis,funny,301.2,301.49,0.12000000000000455,0.29000000000002046
+like,136,The matron was smiling at me sort of funny like.,The matron was smiling at me sort of funny like.,>maximal segment,Elvis,Jack_Elvis,like,301.49,301.93,0.29000000000002046,0.4399999999999977
+The,137,The barber,The barber,-,Elvis,Jack_Elvis,the,303.559999,303.679999,2.0699989999999957,0.12000000000000455
+barber,137,The barber,The barber,-,Elvis,Jack_Elvis,barber,303.679999,304.079999,0.12000000000000455,0.39999999999997726
+upset,138,upset by the matron,upset by the matron,nonrestrictive clause,Elvis,Jack_Elvis,upset,304.35,304.78000000000003,0.6700010000000134,0.4300000000000068
+by,138,upset by the matron,upset by the matron,nonrestrictive clause,Elvis,Jack_Elvis,by,304.779999,304.879999,0.4299989999999525,0.10000000000002274
+the,138,upset by the matron,upset by the matron,nonrestrictive clause,Elvis,Jack_Elvis,the,304.879999,304.999999,0.10000000000002274,0.12000000000000455
+matron,138,upset by the matron,upset by the matron,nonrestrictive clause,Elvis,Jack_Elvis,<unk>,305.0,305.52,0.12000100000000202,0.5199999999999818
+said,139,"said to her, 'You are just a damn bitch, lady.'","said to her, 'You are just a damn bitch, lady.'",>maximal segment,Elvis,Jack_Elvis,said,305.66,305.91,0.660000000000025,0.25
+to,139,"said to her, 'You are just a damn bitch, lady.'","said to her, 'You are just a damn bitch, lady.'",>maximal segment,Elvis,Jack_Elvis,to,305.91,306.03000000000003,0.25,0.12000000000000455
+her,139,"said to her, 'You are just a damn bitch, lady.'","said to her, 'You are just a damn bitch, lady.'",>maximal segment,Elvis,Jack_Elvis,her,306.029999,306.319999,0.11999899999995023,0.29000000000002046
+'You,139,"said to her, 'You are just a damn bitch, lady.'","said to her, 'You are just a damn bitch, lady.'",>maximal segment,Elvis,Jack_Elvis,<unk>,306.83,307.03,0.8000010000000088,0.19999999999998863
+are,139,"said to her, 'You are just a damn bitch, lady.'","said to her, 'You are just a damn bitch, lady.'",>maximal segment,Elvis,Jack_Elvis,are,307.03,307.07,0.19999999999998863,0.040000000000020464
+just,139,"said to her, 'You are just a damn bitch, lady.'","said to her, 'You are just a damn bitch, lady.'",>maximal segment,Elvis,Jack_Elvis,just,307.07,307.31,0.040000000000020464,0.2400000000000091
+a,139,"said to her, 'You are just a damn bitch, lady.'","said to her, 'You are just a damn bitch, lady.'",>maximal segment,Elvis,Jack_Elvis,a,307.31,307.43,0.2400000000000091,0.12000000000000455
+damn,139,"said to her, 'You are just a damn bitch, lady.'","said to her, 'You are just a damn bitch, lady.'",>maximal segment,Elvis,Jack_Elvis,damn,307.49,307.82,0.18000000000000682,0.3299999999999841
+bitch,139,"said to her, 'You are just a damn bitch, lady.'","said to her, 'You are just a damn bitch, lady.'",>maximal segment,Elvis,Jack_Elvis,bitch,307.82,308.2,0.3299999999999841,0.37999999999999545
+lady,139,"said to her, 'You are just a damn bitch, lady.'","said to her, 'You are just a damn bitch, lady.'",>maximal segment,Elvis,Jack_Elvis,lady,308.2,308.61,0.37999999999999545,0.410000000000025
+',139,"said to her, 'You are just a damn bitch, lady.'","said to her, 'You are just a damn bitch, lady.'",>maximal segment,Elvis,Jack_Elvis,,308.61,,,
+She,140,"She yelled back at him at the top of her lungs,","She yelled back at him at the top of her lungs,",-,Elvis,Jack_Elvis,she,310.08,310.32,,0.2400000000000091
+yelled,140,"She yelled back at him at the top of her lungs,","She yelled back at him at the top of her lungs,",-,Elvis,Jack_Elvis,yelled,310.32,310.59,0.2400000000000091,0.2699999999999818
+back,140,"She yelled back at him at the top of her lungs,","She yelled back at him at the top of her lungs,",-,Elvis,Jack_Elvis,back,310.61,310.85,0.29000000000002046,0.2400000000000091
+at,140,"She yelled back at him at the top of her lungs,","She yelled back at him at the top of her lungs,",-,Elvis,Jack_Elvis,at,310.85,310.96000000000004,0.2400000000000091,0.11000000000001364
+him,140,"She yelled back at him at the top of her lungs,","She yelled back at him at the top of her lungs,",-,Elvis,Jack_Elvis,him,310.96,311.27,0.1099999999999568,0.3100000000000023
+at,140,"She yelled back at him at the top of her lungs,","She yelled back at him at the top of her lungs,",-,Elvis,Jack_Elvis,at,311.37,311.51,0.410000000000025,0.13999999999998636
+the,140,"She yelled back at him at the top of her lungs,","She yelled back at him at the top of her lungs,",-,Elvis,Jack_Elvis,the,311.51,311.59,0.13999999999998636,0.07999999999998408
+top,140,"She yelled back at him at the top of her lungs,","She yelled back at him at the top of her lungs,",-,Elvis,Jack_Elvis,top,311.59,311.9,0.07999999999998408,0.3100000000000023
+of,140,"She yelled back at him at the top of her lungs,","She yelled back at him at the top of her lungs,",-,Elvis,Jack_Elvis,of,311.9,312.02,0.3100000000000023,0.12000000000000455
+her,140,"She yelled back at him at the top of her lungs,","She yelled back at him at the top of her lungs,",-,Elvis,Jack_Elvis,her,312.02,312.19,0.12000000000000455,0.17000000000001592
+lungs,140,"She yelled back at him at the top of her lungs,","She yelled back at him at the top of her lungs,",-,Elvis,Jack_Elvis,lungs,312.19,312.59,0.17000000000001592,0.39999999999997726
+before,141,"before walking toward the office, as fast as she could.","before walking toward the office, as fast as she could.",positioning element; >maximal segment,Elvis,Jack_Elvis,before,312.88,313.18,0.6899999999999977,0.30000000000001137
+walking,141,"before walking toward the office, as fast as she could.","before walking toward the office, as fast as she could.",positioning element; >maximal segment,Elvis,Jack_Elvis,walking,313.18,313.56,0.30000000000001137,0.37999999999999545
+toward,141,"before walking toward the office, as fast as she could.","before walking toward the office, as fast as she could.",positioning element; >maximal segment,Elvis,Jack_Elvis,toward,313.56,313.84,0.37999999999999545,0.2799999999999727
+the,141,"before walking toward the office, as fast as she could.","before walking toward the office, as fast as she could.",positioning element; >maximal segment,Elvis,Jack_Elvis,the,313.84,313.94,0.2799999999999727,0.10000000000002274
+office,141,"before walking toward the office, as fast as she could.","before walking toward the office, as fast as she could.",positioning element; >maximal segment,Elvis,Jack_Elvis,office,313.94,314.44,0.10000000000002274,0.5
+as,141,"before walking toward the office, as fast as she could.","before walking toward the office, as fast as she could.",positioning element; >maximal segment,Elvis,Jack_Elvis,as,314.809999,314.959999,0.8699990000000071,0.14999999999997726
+fast,141,"before walking toward the office, as fast as she could.","before walking toward the office, as fast as she could.",positioning element; >maximal segment,Elvis,Jack_Elvis,fast,314.96,315.33,0.15000099999997474,0.37000000000000455
+as,141,"before walking toward the office, as fast as she could.","before walking toward the office, as fast as she could.",positioning element; >maximal segment,Elvis,Jack_Elvis,as,315.33,315.42,0.37000000000000455,0.09000000000003183
+she,141,"before walking toward the office, as fast as she could.","before walking toward the office, as fast as she could.",positioning element; >maximal segment,Elvis,Jack_Elvis,she,315.42,315.63,0.09000000000003183,0.20999999999997954
+could,141,"before walking toward the office, as fast as she could.","before walking toward the office, as fast as she could.",positioning element; >maximal segment,Elvis,Jack_Elvis,could,315.63,315.99,0.20999999999997954,0.36000000000001364
+To,142,"To show his anger,","To show his anger,",nonrestrictive clause,Elvis,Jack_Elvis,to,317.36,317.46000000000004,1.7300000000000182,0.10000000000002274
+show,142,"To show his anger,","To show his anger,",nonrestrictive clause,Elvis,Jack_Elvis,show,317.46,317.67,0.0999999999999659,0.21000000000003638
+his,142,"To show his anger,","To show his anger,",nonrestrictive clause,Elvis,Jack_Elvis,his,317.67,317.88,0.21000000000003638,0.20999999999997954
+anger,142,"To show his anger,","To show his anger,",nonrestrictive clause,Elvis,Jack_Elvis,anger,317.88,318.37,0.20999999999997954,0.4900000000000091
+the,143,the man hit the wall with his hand and then walked outside,the man hit the wall with his hand and then walked outside,-,Elvis,Jack_Elvis,the,318.929999,319.049999,1.049999000000014,0.12000000000000455
+man,143,the man hit the wall with his hand and then walked outside,the man hit the wall with his hand and then walked outside,-,Elvis,Jack_Elvis,man,319.049999,319.249999,0.12000000000000455,0.19999999999998863
+hit,143,the man hit the wall with his hand and then walked outside,the man hit the wall with his hand and then walked outside,-,Elvis,Jack_Elvis,hit,319.25,319.45,0.2000009999999861,0.19999999999998863
+the,143,the man hit the wall with his hand and then walked outside,the man hit the wall with his hand and then walked outside,-,Elvis,Jack_Elvis,the,319.45,319.54,0.19999999999998863,0.09000000000003183
+wall,143,the man hit the wall with his hand and then walked outside,the man hit the wall with his hand and then walked outside,-,Elvis,Jack_Elvis,wall,319.54,319.76000000000005,0.09000000000003183,0.22000000000002728
+with,143,the man hit the wall with his hand and then walked outside,the man hit the wall with his hand and then walked outside,-,Elvis,Jack_Elvis,with,319.759999,319.889999,0.21999899999997297,0.12999999999999545
+his,143,the man hit the wall with his hand and then walked outside,the man hit the wall with his hand and then walked outside,-,Elvis,Jack_Elvis,his,319.889999,320.059999,0.12999999999999545,0.17000000000001592
+hand,143,the man hit the wall with his hand and then walked outside,the man hit the wall with his hand and then walked outside,-,Elvis,Jack_Elvis,hand,320.059999,320.509999,0.17000000000001592,0.44999999999998863
+and,143,the man hit the wall with his hand and then walked outside,the man hit the wall with his hand and then walked outside,-,Elvis,Jack_Elvis,and,320.759999,320.889999,0.6999999999999886,0.12999999999999545
+then,143,the man hit the wall with his hand and then walked outside,the man hit the wall with his hand and then walked outside,-,Elvis,Jack_Elvis,then,320.889999,320.999999,0.12999999999999545,0.11000000000001364
+walked,143,the man hit the wall with his hand and then walked outside,the man hit the wall with his hand and then walked outside,-,Elvis,Jack_Elvis,walked,321.0,321.31,0.11000100000001112,0.3100000000000023
+outside,143,the man hit the wall with his hand and then walked outside,the man hit the wall with his hand and then walked outside,-,Elvis,Jack_Elvis,outside,321.309999,321.77999900000003,0.3099990000000048,0.4700000000000273
+where,144,"where he stood against the brick wall,","where he stood against the brick wall,",relative clause,Elvis,Jack_Elvis,where,321.78,321.88,0.4700009999999679,0.10000000000002274
+he,144,"where he stood against the brick wall,","where he stood against the brick wall,",relative clause,Elvis,Jack_Elvis,he,321.88,322.03,0.10000000000002274,0.14999999999997726
+stood,144,"where he stood against the brick wall,","where he stood against the brick wall,",relative clause,Elvis,Jack_Elvis,stood,322.029999,322.269999,0.1499989999999798,0.2400000000000091
+against,144,"where he stood against the brick wall,","where he stood against the brick wall,",relative clause,Elvis,Jack_Elvis,against,322.27,322.54,0.24000100000000657,0.27000000000003865
+the,144,"where he stood against the brick wall,","where he stood against the brick wall,",relative clause,Elvis,Jack_Elvis,the,322.539999,322.64999900000004,0.2699990000000412,0.11000000000001364
+brick,144,"where he stood against the brick wall,","where he stood against the brick wall,",relative clause,Elvis,Jack_Elvis,brick,322.66,322.89000000000004,0.12000100000000202,0.2300000000000182
+wall,144,"where he stood against the brick wall,","where he stood against the brick wall,",relative clause,Elvis,Jack_Elvis,wall,322.889999,323.249999,0.22999899999996387,0.36000000000001364
+smoking,145,smoking a cigarette.,smoking a cigarette.,nonfinite clause; >maximal segment,Elvis,Jack_Elvis,smoking,323.459999,323.869999,0.5699999999999932,0.410000000000025
+a,145,smoking a cigarette.,smoking a cigarette.,nonfinite clause; >maximal segment,Elvis,Jack_Elvis,a,323.869999,323.929999,0.410000000000025,0.060000000000002274
+cigarette,145,smoking a cigarette.,smoking a cigarette.,nonfinite clause; >maximal segment,Elvis,Jack_Elvis,cigarette,323.93,324.39,0.06000099999999975,0.45999999999997954
+I,146,I understood right there,I understood right there,-,Elvis,Jack_Elvis,i,326.17,326.31,2.240000000000009,0.13999999999998636
+understood,146,I understood right there,I understood right there,-,Elvis,Jack_Elvis,understood,326.31,326.77,0.13999999999998636,0.45999999999997954
+right,146,I understood right there,I understood right there,-,Elvis,Jack_Elvis,right,326.77,327.02,0.45999999999997954,0.25
+there,146,I understood right there,I understood right there,-,Elvis,Jack_Elvis,there,327.02,327.36,0.25,0.34000000000003183
+my,147,my haircut was something,my haircut was something,complementizer (that...),Elvis,Jack_Elvis,my,327.82,328.01,0.8000000000000114,0.18999999999999773
+haircut,147,my haircut was something,my haircut was something,complementizer (that...),Elvis,Jack_Elvis,haircut,328.01,328.37,0.18999999999999773,0.36000000000001364
+was,147,my haircut was something,my haircut was something,complementizer (that...),Elvis,Jack_Elvis,was,328.37,328.67,0.36000000000001364,0.30000000000001137
+something,147,my haircut was something,my haircut was something,complementizer (that...),Elvis,Jack_Elvis,something,328.68,329.06,0.3100000000000023,0.37999999999999545
+that,148,that had been out of the power of the barber,that had been out of the power of the barber,relative clause,Elvis,Jack_Elvis,that,329.06,329.17,0.37999999999999545,0.11000000000001364
+had,148,that had been out of the power of the barber,that had been out of the power of the barber,relative clause,Elvis,Jack_Elvis,had,329.17,329.31,0.11000000000001364,0.13999999999998636
+been,148,that had been out of the power of the barber,that had been out of the power of the barber,relative clause,Elvis,Jack_Elvis,been,329.31,329.74,0.13999999999998636,0.4300000000000068
+out,148,that had been out of the power of the barber,that had been out of the power of the barber,relative clause,Elvis,Jack_Elvis,out,329.77,329.98,0.45999999999997954,0.21000000000003638
+of,148,that had been out of the power of the barber,that had been out of the power of the barber,relative clause,Elvis,Jack_Elvis,of,329.98,330.11,0.21000000000003638,0.12999999999999545
+the,148,that had been out of the power of the barber,that had been out of the power of the barber,relative clause,Elvis,Jack_Elvis,the,330.11,330.19,0.12999999999999545,0.07999999999998408
+power,148,that had been out of the power of the barber,that had been out of the power of the barber,relative clause,Elvis,Jack_Elvis,power,330.19,330.54,0.07999999999998408,0.35000000000002274
+of,148,that had been out of the power of the barber,that had been out of the power of the barber,relative clause,Elvis,Jack_Elvis,of,330.54,330.66,0.35000000000002274,0.12000000000000455
+the,148,that had been out of the power of the barber,that had been out of the power of the barber,relative clause,Elvis,Jack_Elvis,the,330.66,330.73,0.12000000000000455,0.06999999999999318
+barber,148,that had been out of the power of the barber,that had been out of the power of the barber,relative clause,Elvis,Jack_Elvis,barber,330.73,331.18,0.06999999999999318,0.44999999999998863
+and,149,and then I slowly walked outside,and then I slowly walked outside,conjunction,Elvis,Jack_Elvis,and,331.71,331.83,0.9799999999999613,0.12000000000000455
+then,149,and then I slowly walked outside,and then I slowly walked outside,conjunction,Elvis,Jack_Elvis,then,331.83,331.95,0.12000000000000455,0.12000000000000455
+I,149,and then I slowly walked outside,and then I slowly walked outside,conjunction,Elvis,Jack_Elvis,i,331.95,332.01,0.12000000000000455,0.060000000000002274
+slowly,149,and then I slowly walked outside,and then I slowly walked outside,conjunction,Elvis,Jack_Elvis,slowly,332.01,332.38,0.060000000000002274,0.37000000000000455
+walked,149,and then I slowly walked outside,and then I slowly walked outside,conjunction,Elvis,Jack_Elvis,walked,332.38,332.68,0.37000000000000455,0.30000000000001137
+outside,149,and then I slowly walked outside,and then I slowly walked outside,conjunction,Elvis,Jack_Elvis,outside,332.679999,333.08999900000003,0.2999990000000139,0.410000000000025
+to,150,to join the man.,to join the man.,infinitival phrase; >maximal segment,Elvis,Jack_Elvis,to,333.099999,333.21999900000003,0.4200000000000159,0.12000000000000455
+join,150,to join the man.,to join the man.,infinitival phrase; >maximal segment,Elvis,Jack_Elvis,join,333.22,333.49,0.12000100000000202,0.2699999999999818
+the,150,to join the man.,to join the man.,infinitival phrase; >maximal segment,Elvis,Jack_Elvis,the,333.49,333.59000000000003,0.2699999999999818,0.10000000000002274
+man,150,to join the man.,to join the man.,infinitival phrase; >maximal segment,Elvis,Jack_Elvis,man,333.59,333.92,0.0999999999999659,0.3300000000000409
+He,151,"He looked down, smiled at me, then he patted me on the top of my bald as a coot head.","He looked down, smiled at me, then he patted me on the top of my bald as a coot head.",>maximal segment,Elvis,Jack_Elvis,he,335.309999,335.499999,1.7199990000000298,0.18999999999999773
+looked,151,"He looked down, smiled at me, then he patted me on the top of my bald as a coot head.","He looked down, smiled at me, then he patted me on the top of my bald as a coot head.",>maximal segment,Elvis,Jack_Elvis,looked,335.5,335.77,0.1900009999999952,0.2699999999999818
+down,151,"He looked down, smiled at me, then he patted me on the top of my bald as a coot head.","He looked down, smiled at me, then he patted me on the top of my bald as a coot head.",>maximal segment,Elvis,Jack_Elvis,down,335.77,336.13,0.2699999999999818,0.36000000000001364
+smiled,151,"He looked down, smiled at me, then he patted me on the top of my bald as a coot head.","He looked down, smiled at me, then he patted me on the top of my bald as a coot head.",>maximal segment,Elvis,Jack_Elvis,smiled,336.78,337.16,1.009999999999991,0.3800000000000523
+at,151,"He looked down, smiled at me, then he patted me on the top of my bald as a coot head.","He looked down, smiled at me, then he patted me on the top of my bald as a coot head.",>maximal segment,Elvis,Jack_Elvis,at,337.16,337.32000000000005,0.3800000000000523,0.160000000000025
+me,151,"He looked down, smiled at me, then he patted me on the top of my bald as a coot head.","He looked down, smiled at me, then he patted me on the top of my bald as a coot head.",>maximal segment,Elvis,Jack_Elvis,me,337.32,337.59,0.15999999999996817,0.2699999999999818
+then,151,"He looked down, smiled at me, then he patted me on the top of my bald as a coot head.","He looked down, smiled at me, then he patted me on the top of my bald as a coot head.",>maximal segment,Elvis,Jack_Elvis,then,338.16,338.33000000000004,0.8400000000000318,0.17000000000001592
+he,151,"He looked down, smiled at me, then he patted me on the top of my bald as a coot head.","He looked down, smiled at me, then he patted me on the top of my bald as a coot head.",>maximal segment,Elvis,Jack_Elvis,he,338.33,338.44,0.16999999999995907,0.11000000000001364
+patted,151,"He looked down, smiled at me, then he patted me on the top of my bald as a coot head.","He looked down, smiled at me, then he patted me on the top of my bald as a coot head.",>maximal segment,Elvis,Jack_Elvis,patted,338.44,338.81,0.11000000000001364,0.37000000000000455
+me,151,"He looked down, smiled at me, then he patted me on the top of my bald as a coot head.","He looked down, smiled at me, then he patted me on the top of my bald as a coot head.",>maximal segment,Elvis,Jack_Elvis,me,338.809999,339.109999,0.36999900000000707,0.30000000000001137
+on,151,"He looked down, smiled at me, then he patted me on the top of my bald as a coot head.","He looked down, smiled at me, then he patted me on the top of my bald as a coot head.",>maximal segment,Elvis,Jack_Elvis,on,339.45,339.58,0.6400009999999838,0.12999999999999545
+the,151,"He looked down, smiled at me, then he patted me on the top of my bald as a coot head.","He looked down, smiled at me, then he patted me on the top of my bald as a coot head.",>maximal segment,Elvis,Jack_Elvis,the,339.58,339.66,0.12999999999999545,0.08000000000004093
+top,151,"He looked down, smiled at me, then he patted me on the top of my bald as a coot head.","He looked down, smiled at me, then he patted me on the top of my bald as a coot head.",>maximal segment,Elvis,Jack_Elvis,top,339.66,339.89000000000004,0.08000000000004093,0.2300000000000182
+of,151,"He looked down, smiled at me, then he patted me on the top of my bald as a coot head.","He looked down, smiled at me, then he patted me on the top of my bald as a coot head.",>maximal segment,Elvis,Jack_Elvis,of,339.889999,340.019999,0.22999899999996387,0.12999999999999545
+my,151,"He looked down, smiled at me, then he patted me on the top of my bald as a coot head.","He looked down, smiled at me, then he patted me on the top of my bald as a coot head.",>maximal segment,Elvis,Jack_Elvis,my,340.02,340.16,0.13000099999999293,0.1400000000000432
+bald,151,"He looked down, smiled at me, then he patted me on the top of my bald as a coot head.","He looked down, smiled at me, then he patted me on the top of my bald as a coot head.",>maximal segment,Elvis,Jack_Elvis,bald,340.16,340.59000000000003,0.1400000000000432,0.4300000000000068
+as,151,"He looked down, smiled at me, then he patted me on the top of my bald as a coot head.","He looked down, smiled at me, then he patted me on the top of my bald as a coot head.",>maximal segment,Elvis,Jack_Elvis,as,340.609999,340.759999,0.44999899999999116,0.14999999999997726
+a,151,"He looked down, smiled at me, then he patted me on the top of my bald as a coot head.","He looked down, smiled at me, then he patted me on the top of my bald as a coot head.",>maximal segment,Elvis,Jack_Elvis,a,340.76,340.86,0.15000099999997474,0.10000000000002274
+coot,151,"He looked down, smiled at me, then he patted me on the top of my bald as a coot head.","He looked down, smiled at me, then he patted me on the top of my bald as a coot head.",>maximal segment,Elvis,Jack_Elvis,coot,340.91,341.23,0.1500000000000341,0.3199999999999932
+head,151,"He looked down, smiled at me, then he patted me on the top of my bald as a coot head.","He looked down, smiled at me, then he patted me on the top of my bald as a coot head.",>maximal segment,Elvis,Jack_Elvis,head,341.23,341.63,0.3199999999999932,0.39999999999997726
+It,152,It was a fact of my life,It was a fact of my life,-,Elvis,Jack_Elvis,it,343.379999,343.469999,2.14999899999998,0.08999999999997499
+was,152,It was a fact of my life,It was a fact of my life,-,Elvis,Jack_Elvis,was,343.46999900000003,343.599999,0.09000000000003183,0.12999999999999545
+a,152,It was a fact of my life,It was a fact of my life,-,Elvis,Jack_Elvis,a,343.59,343.67,0.12000099999994518,0.08000000000004093
+fact,152,It was a fact of my life,It was a fact of my life,-,Elvis,Jack_Elvis,fact,343.67,344.02000000000004,0.08000000000004093,0.35000000000002274
+of,152,It was a fact of my life,It was a fact of my life,-,Elvis,Jack_Elvis,of,344.05,344.24,0.37999999999999545,0.18999999999999773
+my,152,It was a fact of my life,It was a fact of my life,-,Elvis,Jack_Elvis,my,344.24,344.41,0.18999999999999773,0.17000000000001592
+life,152,It was a fact of my life,It was a fact of my life,-,Elvis,Jack_Elvis,life,344.41,344.78000000000003,0.17000000000001592,0.37000000000000455
+that,153,that I was not gonna have hair,that I was not gonna have hair,relative clause,Elvis,Jack_Elvis,that,344.81,344.97,0.39999999999997726,0.160000000000025
+I,153,that I was not gonna have hair,that I was not gonna have hair,relative clause,Elvis,Jack_Elvis,i,344.97,345.02000000000004,0.160000000000025,0.05000000000001137
+was,153,that I was not gonna have hair,that I was not gonna have hair,relative clause,Elvis,Jack_Elvis,was,345.02,345.16,0.049999999999954525,0.1400000000000432
+not,153,that I was not gonna have hair,that I was not gonna have hair,relative clause,Elvis,Jack_Elvis,not,345.17,345.45,0.1500000000000341,0.2799999999999727
+gonna,153,that I was not gonna have hair,that I was not gonna have hair,relative clause,Elvis,Jack_Elvis,gonna,345.45,345.59,0.2799999999999727,0.13999999999998636
+have,153,that I was not gonna have hair,that I was not gonna have hair,relative clause,Elvis,Jack_Elvis,have,345.6,345.84000000000003,0.1500000000000341,0.2400000000000091
+hair,153,that I was not gonna have hair,that I was not gonna have hair,relative clause,Elvis,Jack_Elvis,hair,345.84,346.11,0.23999999999995225,0.27000000000003865
+that,154,that was anything like Elvis's anytime soon.,that was anything like Elvis's anytime soon.,relative clause; >maximal segment,Elvis,Jack_Elvis,that,346.14,346.29,0.30000000000001137,0.1500000000000341
+was,154,that was anything like Elvis's anytime soon.,that was anything like Elvis's anytime soon.,relative clause; >maximal segment,Elvis,Jack_Elvis,was,346.29,346.45000000000005,0.1500000000000341,0.160000000000025
+anything,154,that was anything like Elvis's anytime soon.,that was anything like Elvis's anytime soon.,relative clause; >maximal segment,Elvis,Jack_Elvis,anything,346.48,346.93,0.18999999999999773,0.44999999999998863
+like,154,that was anything like Elvis's anytime soon.,that was anything like Elvis's anytime soon.,relative clause; >maximal segment,Elvis,Jack_Elvis,like,346.93,347.15000000000003,0.44999999999998863,0.22000000000002728
+Elvis's,154,that was anything like Elvis's anytime soon.,that was anything like Elvis's anytime soon.,relative clause; >maximal segment,Elvis,Jack_Elvis,elvis's,347.16,347.77000000000004,0.2300000000000182,0.6100000000000136
+anytime,154,that was anything like Elvis's anytime soon.,that was anything like Elvis's anytime soon.,relative clause; >maximal segment,Elvis,Jack_Elvis,anytime,347.93,348.53000000000003,0.7699999999999818,0.6000000000000227
+soon,154,that was anything like Elvis's anytime soon.,that was anything like Elvis's anytime soon.,relative clause; >maximal segment,Elvis,Jack_Elvis,soon,348.53,348.92,0.5999999999999659,0.3900000000000432
+I,155,I then looked up at the barber with my wet red eyes,I then looked up at the barber with my wet red eyes,-,Elvis,Jack_Elvis,i,349.83,349.94,1.3000000000000114,0.11000000000001364
+then,155,I then looked up at the barber with my wet red eyes,I then looked up at the barber with my wet red eyes,-,Elvis,Jack_Elvis,then,349.95,350.22,0.12000000000000455,0.27000000000003865
+looked,155,I then looked up at the barber with my wet red eyes,I then looked up at the barber with my wet red eyes,-,Elvis,Jack_Elvis,looked,350.22,350.47,0.27000000000003865,0.25
+up,155,I then looked up at the barber with my wet red eyes,I then looked up at the barber with my wet red eyes,-,Elvis,Jack_Elvis,up,350.51,350.69,0.2899999999999636,0.18000000000000682
+at,155,I then looked up at the barber with my wet red eyes,I then looked up at the barber with my wet red eyes,-,Elvis,Jack_Elvis,at,350.74,350.86,0.2300000000000182,0.12000000000000455
+the,155,I then looked up at the barber with my wet red eyes,I then looked up at the barber with my wet red eyes,-,Elvis,Jack_Elvis,the,350.86,350.97,0.12000000000000455,0.11000000000001364
+barber,155,I then looked up at the barber with my wet red eyes,I then looked up at the barber with my wet red eyes,-,Elvis,Jack_Elvis,barber,350.97,351.41,0.11000000000001364,0.4399999999999977
+with,155,I then looked up at the barber with my wet red eyes,I then looked up at the barber with my wet red eyes,-,Elvis,Jack_Elvis,with,351.44,351.63,0.46999999999997044,0.18999999999999773
+my,155,I then looked up at the barber with my wet red eyes,I then looked up at the barber with my wet red eyes,-,Elvis,Jack_Elvis,my,351.63,351.77,0.18999999999999773,0.13999999999998636
+wet,155,I then looked up at the barber with my wet red eyes,I then looked up at the barber with my wet red eyes,-,Elvis,Jack_Elvis,wet,351.77,352.04,0.13999999999998636,0.27000000000003865
+red,155,I then looked up at the barber with my wet red eyes,I then looked up at the barber with my wet red eyes,-,Elvis,Jack_Elvis,red,352.07,352.39,0.30000000000001137,0.3199999999999932
+eyes,155,I then looked up at the barber with my wet red eyes,I then looked up at the barber with my wet red eyes,-,Elvis,Jack_Elvis,eyes,352.389999,352.839999,0.3199989999999957,0.44999999999998863
+and,156,"and asked, 'Do you know if Elvis Presley has green bones?'","and asked, 'Do you know if Elvis Presley has green bones?'",quotation; >maximal segment,Elvis,Jack_Elvis,and,352.91,353.11,0.5200010000000361,0.19999999999998863
+asked,156,"and asked, 'Do you know if Elvis Presley has green bones?'","and asked, 'Do you know if Elvis Presley has green bones?'",quotation; >maximal segment,Elvis,Jack_Elvis,asked,353.13,353.68,0.21999999999997044,0.5500000000000114
+'Do,156,"and asked, 'Do you know if Elvis Presley has green bones?'","and asked, 'Do you know if Elvis Presley has green bones?'",quotation; >maximal segment,Elvis,Jack_Elvis,<unk>,354.19,354.2,1.0600000000000023,0.009999999999990905
+you,156,"and asked, 'Do you know if Elvis Presley has green bones?'","and asked, 'Do you know if Elvis Presley has green bones?'",quotation; >maximal segment,Elvis,Jack_Elvis,you,354.21,354.38,0.01999999999998181,0.17000000000001592
+know,156,"and asked, 'Do you know if Elvis Presley has green bones?'","and asked, 'Do you know if Elvis Presley has green bones?'",quotation; >maximal segment,Elvis,Jack_Elvis,know,354.38,354.51,0.17000000000001592,0.12999999999999545
+if,156,"and asked, 'Do you know if Elvis Presley has green bones?'","and asked, 'Do you know if Elvis Presley has green bones?'",quotation; >maximal segment,Elvis,Jack_Elvis,if,354.509999,354.629999,0.12999899999999798,0.12000000000000455
+Elvis,156,"and asked, 'Do you know if Elvis Presley has green bones?'","and asked, 'Do you know if Elvis Presley has green bones?'",quotation; >maximal segment,Elvis,Jack_Elvis,elvis,354.65,354.97,0.14000099999998383,0.32000000000005
+Presley,156,"and asked, 'Do you know if Elvis Presley has green bones?'","and asked, 'Do you know if Elvis Presley has green bones?'",quotation; >maximal segment,Elvis,Jack_Elvis,presley,354.99,355.38,0.34000000000003183,0.38999999999998636
+has,156,"and asked, 'Do you know if Elvis Presley has green bones?'","and asked, 'Do you know if Elvis Presley has green bones?'",quotation; >maximal segment,Elvis,Jack_Elvis,has,355.389999,355.619999,0.3999989999999798,0.2300000000000182
+green,156,"and asked, 'Do you know if Elvis Presley has green bones?'","and asked, 'Do you know if Elvis Presley has green bones?'",quotation; >maximal segment,Elvis,Jack_Elvis,green,355.62,355.9,0.23000100000001567,0.2799999999999727
+bones,156,"and asked, 'Do you know if Elvis Presley has green bones?'","and asked, 'Do you know if Elvis Presley has green bones?'",quotation; >maximal segment,Elvis,Jack_Elvis,bones,355.9,356.44,0.2799999999999727,0.5400000000000205
+',156,"and asked, 'Do you know if Elvis Presley has green bones?'","and asked, 'Do you know if Elvis Presley has green bones?'",quotation; >maximal segment,Elvis,Jack_Elvis,,356.44,,,

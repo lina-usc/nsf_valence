@@ -1,0 +1,995 @@
+word,idx_segment,segment,segment_raw,reason,story,audio,word_gentle,onset,offset,flag_onset,duration
+A,0,A clear and joyous day it was,A clear and joyous day it was,positioning element,Aqua,Jacob_Aqua,a,3.24,3.41,,0.16999999999999993
+clear,0,A clear and joyous day it was,A clear and joyous day it was,positioning element,Aqua,Jacob_Aqua,clear,3.45,3.83,0.20999999999999996,0.3799999999999999
+and,0,A clear and joyous day it was,A clear and joyous day it was,positioning element,Aqua,Jacob_Aqua,and,3.83,4.0,0.3799999999999999,0.16999999999999993
+joyous,0,A clear and joyous day it was,A clear and joyous day it was,positioning element,Aqua,Jacob_Aqua,joyous,4.0,4.39,0.16999999999999993,0.3899999999999997
+day,0,A clear and joyous day it was,A clear and joyous day it was,positioning element,Aqua,Jacob_Aqua,day,4.39,4.59,0.3899999999999997,0.20000000000000018
+it,0,A clear and joyous day it was,A clear and joyous day it was,positioning element,Aqua,Jacob_Aqua,it,4.59,4.68,0.20000000000000018,0.08999999999999986
+was,0,A clear and joyous day it was,A clear and joyous day it was,positioning element,Aqua,Jacob_Aqua,was,4.68,5.109999999999999,0.08999999999999986,0.4299999999999997
+and,1,"and out on the wide open sea,","and out on the wide open sea,",positioning element,Aqua,Jacob_Aqua,and,5.55,5.74,0.8700000000000001,0.1900000000000004
+out,1,"and out on the wide open sea,","and out on the wide open sea,",positioning element,Aqua,Jacob_Aqua,out,5.75,5.92,0.20000000000000018,0.16999999999999993
+on,1,"and out on the wide open sea,","and out on the wide open sea,",positioning element,Aqua,Jacob_Aqua,on,5.94,6.07,0.1900000000000004,0.1299999999999999
+the,1,"and out on the wide open sea,","and out on the wide open sea,",positioning element,Aqua,Jacob_Aqua,the,6.07,6.180000000000001,0.1299999999999999,0.11000000000000032
+wide,1,"and out on the wide open sea,","and out on the wide open sea,",positioning element,Aqua,Jacob_Aqua,wide,6.18,6.489999999999999,0.10999999999999943,0.3099999999999996
+open,1,"and out on the wide open sea,","and out on the wide open sea,",positioning element,Aqua,Jacob_Aqua,open,6.49,6.87,0.3100000000000005,0.3799999999999999
+sea,1,"and out on the wide open sea,","and out on the wide open sea,",positioning element,Aqua,Jacob_Aqua,sea,6.87,7.27,0.3799999999999999,0.39999999999999947
+thousands,2,"thousands upon thousands of sparkling water drops,","thousands upon thousands of sparkling water drops,",-,Aqua,Jacob_Aqua,thousands,7.47,7.939999999999999,0.5999999999999996,0.46999999999999886
+upon,2,"thousands upon thousands of sparkling water drops,","thousands upon thousands of sparkling water drops,",-,Aqua,Jacob_Aqua,upon,7.94,8.25,0.47000000000000064,0.3099999999999996
+thousands,2,"thousands upon thousands of sparkling water drops,","thousands upon thousands of sparkling water drops,",-,Aqua,Jacob_Aqua,thousands,8.25,8.78,0.3099999999999996,0.5299999999999994
+of,2,"thousands upon thousands of sparkling water drops,","thousands upon thousands of sparkling water drops,",-,Aqua,Jacob_Aqua,of,8.8,8.96,0.5500000000000007,0.16000000000000014
+sparkling,2,"thousands upon thousands of sparkling water drops,","thousands upon thousands of sparkling water drops,",-,Aqua,Jacob_Aqua,sparkling,8.96,9.52,0.16000000000000014,0.5599999999999987
+water,2,"thousands upon thousands of sparkling water drops,","thousands upon thousands of sparkling water drops,",-,Aqua,Jacob_Aqua,water,9.53,9.84,0.5699999999999985,0.3100000000000005
+drops,2,"thousands upon thousands of sparkling water drops,","thousands upon thousands of sparkling water drops,",-,Aqua,Jacob_Aqua,drops,9.84,10.33,0.3100000000000005,0.4900000000000002
+excited,3,excited by,excited by,nonrestrictive clause,Aqua,Jacob_Aqua,excited,10.389999,10.989999,0.5499989999999997,0.5999999999999996
+by,3,excited by,excited by,nonrestrictive clause,Aqua,Jacob_Aqua,by,10.99,11.13,0.6000010000000007,0.14000000000000057
+getting,4,"getting to play in the ocean,","getting to play in the ocean,",nonfinite clause,Aqua,Jacob_Aqua,getting,11.15,11.44,0.16000000000000014,0.28999999999999915
+to,4,"getting to play in the ocean,","getting to play in the ocean,",nonfinite clause,Aqua,Jacob_Aqua,to,11.44,11.56,0.28999999999999915,0.120000000000001
+play,4,"getting to play in the ocean,","getting to play in the ocean,",nonfinite clause,Aqua,Jacob_Aqua,play,11.559999,11.779999,0.11999899999999997,0.22000000000000064
+in,4,"getting to play in the ocean,","getting to play in the ocean,",nonfinite clause,Aqua,Jacob_Aqua,in,11.78,11.85,0.2200009999999999,0.07000000000000028
+the,4,"getting to play in the ocean,","getting to play in the ocean,",nonfinite clause,Aqua,Jacob_Aqua,the,11.849999,11.999999,0.06999900000000103,0.15000000000000036
+ocean,4,"getting to play in the ocean,","getting to play in the ocean,",nonfinite clause,Aqua,Jacob_Aqua,ocean,12.009999,12.569999,0.16000000000000014,0.5599999999999987
+danced,5,danced all around.,danced all around.,>maximal segment,Aqua,Jacob_Aqua,danced,12.83,13.23,0.8200009999999995,0.40000000000000036
+all,5,danced all around.,danced all around.,>maximal segment,Aqua,Jacob_Aqua,all,13.24,13.53,0.41000000000000014,0.28999999999999915
+around,5,danced all around.,danced all around.,>maximal segment,Aqua,Jacob_Aqua,around,13.53,14.0,0.28999999999999915,0.47000000000000064
+One,6,"One of these was a merry little fellow named Aqua,","One of these was a merry little fellow named Aqua,",-,Aqua,Jacob_Aqua,one,15.02,15.26,1.4900000000000002,0.2400000000000002
+of,6,"One of these was a merry little fellow named Aqua,","One of these was a merry little fellow named Aqua,",-,Aqua,Jacob_Aqua,of,15.259999,15.389999,0.23999900000000096,0.129999999999999
+these,6,"One of these was a merry little fellow named Aqua,","One of these was a merry little fellow named Aqua,",-,Aqua,Jacob_Aqua,these,15.389999,15.609999,0.129999999999999,0.22000000000000064
+was,6,"One of these was a merry little fellow named Aqua,","One of these was a merry little fellow named Aqua,",-,Aqua,Jacob_Aqua,was,15.61,15.79,0.2200009999999999,0.17999999999999972
+a,6,"One of these was a merry little fellow named Aqua,","One of these was a merry little fellow named Aqua,",-,Aqua,Jacob_Aqua,a,15.79,15.89,0.17999999999999972,0.10000000000000142
+merry,6,"One of these was a merry little fellow named Aqua,","One of these was a merry little fellow named Aqua,",-,Aqua,Jacob_Aqua,merry,15.889999,16.279999,0.0999990000000004,0.39000000000000057
+little,6,"One of these was a merry little fellow named Aqua,","One of these was a merry little fellow named Aqua,",-,Aqua,Jacob_Aqua,little,16.279999,16.549999,0.39000000000000057,0.2699999999999996
+fellow,6,"One of these was a merry little fellow named Aqua,","One of these was a merry little fellow named Aqua,",-,Aqua,Jacob_Aqua,fellow,16.559999,16.959999,0.28000000000000114,0.3999999999999986
+named,6,"One of these was a merry little fellow named Aqua,","One of these was a merry little fellow named Aqua,",-,Aqua,Jacob_Aqua,named,16.959999,17.249999,0.3999999999999986,0.28999999999999915
+Aqua,6,"One of these was a merry little fellow named Aqua,","One of these was a merry little fellow named Aqua,",-,Aqua,Jacob_Aqua,aqua,17.289999,17.909999000000003,0.33000000000000185,0.620000000000001
+who,7,who danced on the silver backs of the fishes,who danced on the silver backs of the fishes,relative clause,Aqua,Jacob_Aqua,who,18.449999,18.619999,1.1599999999999966,0.1700000000000017
+danced,7,who danced on the silver backs of the fishes,who danced on the silver backs of the fishes,relative clause,Aqua,Jacob_Aqua,danced,18.63,19.0,0.18000100000000074,0.370000000000001
+on,7,who danced on the silver backs of the fishes,who danced on the silver backs of the fishes,relative clause,Aqua,Jacob_Aqua,on,19.0,19.12,0.370000000000001,0.120000000000001
+the,7,who danced on the silver backs of the fishes,who danced on the silver backs of the fishes,relative clause,Aqua,Jacob_Aqua,the,19.12,19.23,0.120000000000001,0.10999999999999943
+silver,7,who danced on the silver backs of the fishes,who danced on the silver backs of the fishes,relative clause,Aqua,Jacob_Aqua,silver,19.23,19.63,0.10999999999999943,0.3999999999999986
+backs,7,who danced on the silver backs of the fishes,who danced on the silver backs of the fishes,relative clause,Aqua,Jacob_Aqua,backs,19.64,19.99,0.41000000000000014,0.34999999999999787
+of,7,who danced on the silver backs of the fishes,who danced on the silver backs of the fishes,relative clause,Aqua,Jacob_Aqua,of,20.0,20.17,0.35999999999999943,0.1700000000000017
+the,7,who danced on the silver backs of the fishes,who danced on the silver backs of the fishes,relative clause,Aqua,Jacob_Aqua,the,20.17,20.26,0.1700000000000017,0.08999999999999986
+fishes,7,who danced on the silver backs of the fishes,who danced on the silver backs of the fishes,relative clause,Aqua,Jacob_Aqua,fishes,20.26,20.87,0.08999999999999986,0.6099999999999994
+as,8,"as they plunged up and down in the waves,","as they plunged up and down in the waves,",conjunction,Aqua,Jacob_Aqua,as,21.08,21.34,0.8199999999999967,0.26000000000000156
+they,8,"as they plunged up and down in the waves,","as they plunged up and down in the waves,",conjunction,Aqua,Jacob_Aqua,they,21.34,21.5,0.26000000000000156,0.16000000000000014
+plunged,8,"as they plunged up and down in the waves,","as they plunged up and down in the waves,",conjunction,Aqua,Jacob_Aqua,plunged,21.5,21.94,0.16000000000000014,0.4400000000000013
+up,8,"as they plunged up and down in the waves,","as they plunged up and down in the waves,",conjunction,Aqua,Jacob_Aqua,up,21.94,22.110000000000003,0.4400000000000013,0.1700000000000017
+and,8,"as they plunged up and down in the waves,","as they plunged up and down in the waves,",conjunction,Aqua,Jacob_Aqua,and,22.11,22.25,0.16999999999999815,0.14000000000000057
+down,8,"as they plunged up and down in the waves,","as they plunged up and down in the waves,",conjunction,Aqua,Jacob_Aqua,down,22.25,22.52,0.14000000000000057,0.2699999999999996
+in,8,"as they plunged up and down in the waves,","as they plunged up and down in the waves,",conjunction,Aqua,Jacob_Aqua,in,22.52,22.63,0.2699999999999996,0.10999999999999943
+the,8,"as they plunged up and down in the waves,","as they plunged up and down in the waves,",conjunction,Aqua,Jacob_Aqua,the,22.63,22.75,0.10999999999999943,0.120000000000001
+waves,8,"as they plunged up and down in the waves,","as they plunged up and down in the waves,",conjunction,Aqua,Jacob_Aqua,waves,22.75,23.29,0.120000000000001,0.5399999999999991
+and,9,"and, no matter how high he sprung,","and, no matter how high he sprung,",conjunction / nonrestrictive clause,Aqua,Jacob_Aqua,and,23.47,23.95,0.7199999999999989,0.4800000000000004
+no,9,"and, no matter how high he sprung,","and, no matter how high he sprung,",conjunction / nonrestrictive clause,Aqua,Jacob_Aqua,no,24.2,24.35,0.7300000000000004,0.15000000000000213
+matter,9,"and, no matter how high he sprung,","and, no matter how high he sprung,",conjunction / nonrestrictive clause,Aqua,Jacob_Aqua,matter,24.35,24.65,0.15000000000000213,0.29999999999999716
+how,9,"and, no matter how high he sprung,","and, no matter how high he sprung,",conjunction / nonrestrictive clause,Aqua,Jacob_Aqua,how,24.65,24.84,0.29999999999999716,0.19000000000000128
+high,9,"and, no matter how high he sprung,","and, no matter how high he sprung,",conjunction / nonrestrictive clause,Aqua,Jacob_Aqua,high,24.84,25.09,0.19000000000000128,0.25
+he,9,"and, no matter how high he sprung,","and, no matter how high he sprung,",conjunction / nonrestrictive clause,Aqua,Jacob_Aqua,he,25.1,25.28,0.26000000000000156,0.17999999999999972
+sprung,9,"and, no matter how high he sprung,","and, no matter how high he sprung,",conjunction / nonrestrictive clause,Aqua,Jacob_Aqua,sprung,25.28,25.86,0.17999999999999972,0.5799999999999983
+he,10,he always came down again into his mother's lap.,he always came down again into his mother's lap.,conjunction cont.; >maximal segment,Aqua,Jacob_Aqua,he,26.29,26.48,1.009999999999998,0.19000000000000128
+always,10,he always came down again into his mother's lap.,he always came down again into his mother's lap.,conjunction cont.; >maximal segment,Aqua,Jacob_Aqua,always,26.48,26.76,0.19000000000000128,0.28000000000000114
+came,10,he always came down again into his mother's lap.,he always came down again into his mother's lap.,conjunction cont.; >maximal segment,Aqua,Jacob_Aqua,came,26.76,27.05,0.28000000000000114,0.28999999999999915
+down,10,he always came down again into his mother's lap.,he always came down again into his mother's lap.,conjunction cont.; >maximal segment,Aqua,Jacob_Aqua,down,27.05,27.29,0.28999999999999915,0.23999999999999844
+again,10,he always came down again into his mother's lap.,he always came down again into his mother's lap.,conjunction cont.; >maximal segment,Aqua,Jacob_Aqua,again,27.29,27.66,0.23999999999999844,0.370000000000001
+into,10,he always came down again into his mother's lap.,he always came down again into his mother's lap.,conjunction cont.; >maximal segment,Aqua,Jacob_Aqua,into,27.69,28.08,0.40000000000000213,0.389999999999997
+his,10,he always came down again into his mother's lap.,he always came down again into his mother's lap.,conjunction cont.; >maximal segment,Aqua,Jacob_Aqua,his,28.08,28.28,0.389999999999997,0.20000000000000284
+mother's,10,he always came down again into his mother's lap.,he always came down again into his mother's lap.,conjunction cont.; >maximal segment,Aqua,Jacob_Aqua,mother's,28.28,28.69,0.20000000000000284,0.41000000000000014
+lap,10,he always came down again into his mother's lap.,he always came down again into his mother's lap.,conjunction cont.; >maximal segment,Aqua,Jacob_Aqua,lap,28.69,28.99,0.41000000000000014,0.29999999999999716
+His,11,"His mother, you know, was the ocean,","His mother, you know, was the ocean,",-,Aqua,Jacob_Aqua,his,30.12,30.36,1.4299999999999997,0.23999999999999844
+mother,11,"His mother, you know, was the ocean,","His mother, you know, was the ocean,",-,Aqua,Jacob_Aqua,mother,30.36,30.85,0.23999999999999844,0.490000000000002
+you,11,"His mother, you know, was the ocean,","His mother, you know, was the ocean,",-,Aqua,Jacob_Aqua,you,31.139999,31.399999,0.7799990000000001,0.26000000000000156
+know,11,"His mother, you know, was the ocean,","His mother, you know, was the ocean,",-,Aqua,Jacob_Aqua,know,31.4,31.75,0.26000099999999904,0.3500000000000014
+was,11,"His mother, you know, was the ocean,","His mother, you know, was the ocean,",-,Aqua,Jacob_Aqua,was,32.25,32.5,0.8500000000000014,0.25
+the,11,"His mother, you know, was the ocean,","His mother, you know, was the ocean,",-,Aqua,Jacob_Aqua,the,32.5,32.65,0.25,0.14999999999999858
+ocean,11,"His mother, you know, was the ocean,","His mother, you know, was the ocean,",-,Aqua,Jacob_Aqua,ocean,32.65,33.129999999999995,0.14999999999999858,0.4799999999999969
+and,12,and very beautiful she looked,and very beautiful she looked,conjunction,Aqua,Jacob_Aqua,and,33.32,33.53,0.6700000000000017,0.21000000000000085
+very,12,and very beautiful she looked,and very beautiful she looked,conjunction,Aqua,Jacob_Aqua,very,33.53,33.85,0.21000000000000085,0.3200000000000003
+beautiful,12,and very beautiful she looked,and very beautiful she looked,conjunction,Aqua,Jacob_Aqua,beautiful,33.849999,34.359998999999995,0.3199989999999957,0.509999999999998
+she,12,and very beautiful she looked,and very beautiful she looked,conjunction,Aqua,Jacob_Aqua,she,34.359999,34.579999,0.5100000000000051,0.21999999999999886
+looked,12,and very beautiful she looked,and very beautiful she looked,conjunction,Aqua,Jacob_Aqua,looked,34.58,34.82,0.22000099999999634,0.240000000000002
+that,13,that summer day,that summer day,positioning element,Aqua,Jacob_Aqua,that,34.83,35.04,0.25,0.21000000000000085
+summer,13,that summer day,that summer day,positioning element,Aqua,Jacob_Aqua,summer,35.039999,35.359999,0.20999900000000338,0.3200000000000003
+day,13,that summer day,that summer day,positioning element,Aqua,Jacob_Aqua,day,35.359999,35.739999000000005,0.3200000000000003,0.38000000000000256
+in,14,in her dark blue dress and white ruffles.,in her dark blue dress and white ruffles.,>maximal segment,Aqua,Jacob_Aqua,in,36.029999,36.199999000000005,0.6699999999999946,0.1700000000000088
+her,14,in her dark blue dress and white ruffles.,in her dark blue dress and white ruffles.,>maximal segment,Aqua,Jacob_Aqua,her,36.199999,36.349999,0.1700000000000017,0.14999999999999858
+dark,14,in her dark blue dress and white ruffles.,in her dark blue dress and white ruffles.,>maximal segment,Aqua,Jacob_Aqua,dark,36.35,36.7,0.15000100000000316,0.3500000000000014
+blue,14,in her dark blue dress and white ruffles.,in her dark blue dress and white ruffles.,>maximal segment,Aqua,Jacob_Aqua,blue,36.7,36.940000000000005,0.3500000000000014,0.240000000000002
+dress,14,in her dark blue dress and white ruffles.,in her dark blue dress and white ruffles.,>maximal segment,Aqua,Jacob_Aqua,dress,36.94,37.39,0.23999999999999488,0.45000000000000284
+and,14,in her dark blue dress and white ruffles.,in her dark blue dress and white ruffles.,>maximal segment,Aqua,Jacob_Aqua,and,37.41,37.63999999999999,0.46999999999999886,0.22999999999999687
+white,14,in her dark blue dress and white ruffles.,in her dark blue dress and white ruffles.,>maximal segment,Aqua,Jacob_Aqua,white,37.64,37.88,0.23000000000000398,0.240000000000002
+ruffles,14,in her dark blue dress and white ruffles.,in her dark blue dress and white ruffles.,>maximal segment,Aqua,Jacob_Aqua,ruffles,37.89,38.55,0.25,0.6599999999999966
+By,15,"By and by,","By and by,",positioning element,Aqua,Jacob_Aqua,by,39.36,39.64,1.4699999999999989,0.28000000000000114
+and,15,"By and by,","By and by,",positioning element,Aqua,Jacob_Aqua,and,39.64,39.8,0.28000000000000114,0.1599999999999966
+by,15,"By and by,","By and by,",positioning element,Aqua,Jacob_Aqua,by,39.8,40.22,0.1599999999999966,0.4200000000000017
+the,16,"the happy water drop tired of his play,","the happy water drop tired of his play,",narrative advancement,Aqua,Jacob_Aqua,the,40.66,40.83,0.8599999999999994,0.1700000000000017
+happy,16,"the happy water drop tired of his play,","the happy water drop tired of his play,",narrative advancement,Aqua,Jacob_Aqua,happy,40.83,41.14,0.1700000000000017,0.3100000000000023
+water,16,"the happy water drop tired of his play,","the happy water drop tired of his play,",narrative advancement,Aqua,Jacob_Aqua,water,41.14,41.45,0.3100000000000023,0.3100000000000023
+drop,16,"the happy water drop tired of his play,","the happy water drop tired of his play,",narrative advancement,Aqua,Jacob_Aqua,drop,41.45,41.75,0.3100000000000023,0.29999999999999716
+tired,16,"the happy water drop tired of his play,","the happy water drop tired of his play,",narrative advancement,Aqua,Jacob_Aqua,tired,41.75,42.09,0.29999999999999716,0.3400000000000034
+of,16,"the happy water drop tired of his play,","the happy water drop tired of his play,",narrative advancement,Aqua,Jacob_Aqua,of,42.09,42.21,0.3400000000000034,0.11999999999999744
+his,16,"the happy water drop tired of his play,","the happy water drop tired of his play,",narrative advancement,Aqua,Jacob_Aqua,his,42.21,42.37,0.11999999999999744,0.1599999999999966
+play,16,"the happy water drop tired of his play,","the happy water drop tired of his play,",narrative advancement,Aqua,Jacob_Aqua,play,42.37,42.8,0.1599999999999966,0.4299999999999997
+and,17,"and looking up to the clear sky above him,","and looking up to the clear sky above him,",conjunction / nonfinite clause,Aqua,Jacob_Aqua,and,43.2,43.42,0.8300000000000054,0.21999999999999886
+looking,17,"and looking up to the clear sky above him,","and looking up to the clear sky above him,",conjunction / nonfinite clause,Aqua,Jacob_Aqua,looking,43.42,43.7,0.21999999999999886,0.28000000000000114
+up,17,"and looking up to the clear sky above him,","and looking up to the clear sky above him,",conjunction / nonfinite clause,Aqua,Jacob_Aqua,up,43.7,43.830000000000005,0.28000000000000114,0.13000000000000256
+to,17,"and looking up to the clear sky above him,","and looking up to the clear sky above him,",conjunction / nonfinite clause,Aqua,Jacob_Aqua,to,43.83,43.98,0.12999999999999545,0.14999999999999858
+the,17,"and looking up to the clear sky above him,","and looking up to the clear sky above him,",conjunction / nonfinite clause,Aqua,Jacob_Aqua,the,43.98,44.13,0.14999999999999858,0.15000000000000568
+clear,17,"and looking up to the clear sky above him,","and looking up to the clear sky above him,",conjunction / nonfinite clause,Aqua,Jacob_Aqua,clear,44.13,44.43,0.15000000000000568,0.29999999999999716
+sky,17,"and looking up to the clear sky above him,","and looking up to the clear sky above him,",conjunction / nonfinite clause,Aqua,Jacob_Aqua,sky,44.429999,44.719999,0.2999989999999997,0.28999999999999915
+above,17,"and looking up to the clear sky above him,","and looking up to the clear sky above him,",conjunction / nonfinite clause,Aqua,Jacob_Aqua,above,44.72,45.04,0.2900009999999966,0.3200000000000003
+him,17,"and looking up to the clear sky above him,","and looking up to the clear sky above him,",conjunction / nonfinite clause,Aqua,Jacob_Aqua,him,45.04,45.35,0.3200000000000003,0.3100000000000023
+thought,18,"thought he would like to have a sail on one of the white, marshmallow-like clouds,","thought he would like to have a sail on one of the white, marshmallow-like clouds,",conjunction cont.,Aqua,Jacob_Aqua,thought,45.73,46.00000000000001,0.6899999999999977,0.27000000000001023
+he,18,"thought he would like to have a sail on one of the white, marshmallow-like clouds,","thought he would like to have a sail on one of the white, marshmallow-like clouds,",conjunction cont.,Aqua,Jacob_Aqua,he,46.01,46.17,0.28000000000000114,0.1600000000000037
+would,18,"thought he would like to have a sail on one of the white, marshmallow-like clouds,","thought he would like to have a sail on one of the white, marshmallow-like clouds,",conjunction cont.,Aqua,Jacob_Aqua,would,46.17,46.36,0.1600000000000037,0.18999999999999773
+like,18,"thought he would like to have a sail on one of the white, marshmallow-like clouds,","thought he would like to have a sail on one of the white, marshmallow-like clouds,",conjunction cont.,Aqua,Jacob_Aqua,like,46.36,46.55,0.18999999999999773,0.18999999999999773
+to,18,"thought he would like to have a sail on one of the white, marshmallow-like clouds,","thought he would like to have a sail on one of the white, marshmallow-like clouds,",conjunction cont.,Aqua,Jacob_Aqua,to,46.55,46.68,0.18999999999999773,0.13000000000000256
+have,18,"thought he would like to have a sail on one of the white, marshmallow-like clouds,","thought he would like to have a sail on one of the white, marshmallow-like clouds,",conjunction cont.,Aqua,Jacob_Aqua,have,46.679999,46.929999,0.12999900000000508,0.25
+a,18,"thought he would like to have a sail on one of the white, marshmallow-like clouds,","thought he would like to have a sail on one of the white, marshmallow-like clouds,",conjunction cont.,Aqua,Jacob_Aqua,a,46.929999,47.019999000000006,0.25,0.09000000000000341
+sail,18,"thought he would like to have a sail on one of the white, marshmallow-like clouds,","thought he would like to have a sail on one of the white, marshmallow-like clouds,",conjunction cont.,Aqua,Jacob_Aqua,sail,47.02,47.42,0.09000100000000089,0.3999999999999986
+on,18,"thought he would like to have a sail on one of the white, marshmallow-like clouds,","thought he would like to have a sail on one of the white, marshmallow-like clouds,",conjunction cont.,Aqua,Jacob_Aqua,on,47.429999,47.609999,0.4099989999999991,0.17999999999999972
+one,18,"thought he would like to have a sail on one of the white, marshmallow-like clouds,","thought he would like to have a sail on one of the white, marshmallow-like clouds,",conjunction cont.,Aqua,Jacob_Aqua,one,47.61,47.84,0.1800009999999972,0.23000000000000398
+of,18,"thought he would like to have a sail on one of the white, marshmallow-like clouds,","thought he would like to have a sail on one of the white, marshmallow-like clouds,",conjunction cont.,Aqua,Jacob_Aqua,of,47.84,48.02,0.23000000000000398,0.17999999999999972
+the,18,"thought he would like to have a sail on one of the white, marshmallow-like clouds,","thought he would like to have a sail on one of the white, marshmallow-like clouds,",conjunction cont.,Aqua,Jacob_Aqua,the,48.02,48.12,0.17999999999999972,0.09999999999999432
+white,18,"thought he would like to have a sail on one of the white, marshmallow-like clouds,","thought he would like to have a sail on one of the white, marshmallow-like clouds,",conjunction cont.,Aqua,Jacob_Aqua,white,48.12,48.52,0.09999999999999432,0.4000000000000057
+marshmallow,18,"thought he would like to have a sail on one of the white, marshmallow-like clouds,","thought he would like to have a sail on one of the white, marshmallow-like clouds,",conjunction cont.,Aqua,Jacob_Aqua,marshmallow,48.55,49.36,0.4299999999999997,0.8100000000000023
+like,18,"thought he would like to have a sail on one of the white, marshmallow-like clouds,","thought he would like to have a sail on one of the white, marshmallow-like clouds,",conjunction cont.,Aqua,Jacob_Aqua,like,49.36,49.66,0.8100000000000023,0.29999999999999716
+clouds,18,"thought he would like to have a sail on one of the white, marshmallow-like clouds,","thought he would like to have a sail on one of the white, marshmallow-like clouds,",conjunction cont.,Aqua,Jacob_Aqua,clouds,49.66,50.4,0.29999999999999716,0.740000000000002
+instead,19,instead of spending his whole life in the ocean.,instead of spending his whole life in the ocean.,conjunction / nonfinite clause; >maximal segment,Aqua,Jacob_Aqua,instead,50.809999,51.149999,1.149999000000001,0.3400000000000034
+of,19,instead of spending his whole life in the ocean.,instead of spending his whole life in the ocean.,conjunction / nonfinite clause; >maximal segment,Aqua,Jacob_Aqua,of,51.15,51.3,0.3400010000000009,0.14999999999999858
+spending,19,instead of spending his whole life in the ocean.,instead of spending his whole life in the ocean.,conjunction / nonfinite clause; >maximal segment,Aqua,Jacob_Aqua,spending,51.299999,51.739999,0.1499990000000011,0.4399999999999977
+his,19,instead of spending his whole life in the ocean.,instead of spending his whole life in the ocean.,conjunction / nonfinite clause; >maximal segment,Aqua,Jacob_Aqua,his,51.74,51.9,0.4400010000000023,0.1599999999999966
+whole,19,instead of spending his whole life in the ocean.,instead of spending his whole life in the ocean.,conjunction / nonfinite clause; >maximal segment,Aqua,Jacob_Aqua,whole,51.9,52.18,0.1599999999999966,0.28000000000000114
+life,19,instead of spending his whole life in the ocean.,instead of spending his whole life in the ocean.,conjunction / nonfinite clause; >maximal segment,Aqua,Jacob_Aqua,life,52.18,52.47,0.28000000000000114,0.28999999999999915
+in,19,instead of spending his whole life in the ocean.,instead of spending his whole life in the ocean.,conjunction / nonfinite clause; >maximal segment,Aqua,Jacob_Aqua,in,52.469999,52.589999,0.28999900000000167,0.11999999999999744
+the,19,instead of spending his whole life in the ocean.,instead of spending his whole life in the ocean.,conjunction / nonfinite clause; >maximal segment,Aqua,Jacob_Aqua,the,52.59,52.77,0.12000100000000202,0.17999999999999972
+ocean,19,instead of spending his whole life in the ocean.,instead of spending his whole life in the ocean.,conjunction / nonfinite clause; >maximal segment,Aqua,Jacob_Aqua,ocean,52.77,53.27,0.17999999999999972,0.5
+Of,20,"Of the sky, little Aqua had always been afraid,","Of the sky, little Aqua had always been afraid,",-,Aqua,Jacob_Aqua,of,53.65,53.91,0.8799999999999955,0.259999999999998
+the,20,"Of the sky, little Aqua had always been afraid,","Of the sky, little Aqua had always been afraid,",-,Aqua,Jacob_Aqua,the,53.91,54.0,0.259999999999998,0.09000000000000341
+sky,20,"Of the sky, little Aqua had always been afraid,","Of the sky, little Aqua had always been afraid,",-,Aqua,Jacob_Aqua,sky,54.0,54.52,0.09000000000000341,0.5200000000000031
+little,20,"Of the sky, little Aqua had always been afraid,","Of the sky, little Aqua had always been afraid,",-,Aqua,Jacob_Aqua,little,54.95,55.25,0.9500000000000028,0.29999999999999716
+Aqua,20,"Of the sky, little Aqua had always been afraid,","Of the sky, little Aqua had always been afraid,",-,Aqua,Jacob_Aqua,aqua,55.25,55.63,0.29999999999999716,0.38000000000000256
+had,20,"Of the sky, little Aqua had always been afraid,","Of the sky, little Aqua had always been afraid,",-,Aqua,Jacob_Aqua,had,55.66,55.85,0.4099999999999966,0.19000000000000483
+always,20,"Of the sky, little Aqua had always been afraid,","Of the sky, little Aqua had always been afraid,",-,Aqua,Jacob_Aqua,always,55.86,56.29,0.20000000000000284,0.4299999999999997
+been,20,"Of the sky, little Aqua had always been afraid,","Of the sky, little Aqua had always been afraid,",-,Aqua,Jacob_Aqua,been,56.29,56.45,0.4299999999999997,0.1600000000000037
+afraid,20,"Of the sky, little Aqua had always been afraid,","Of the sky, little Aqua had always been afraid,",-,Aqua,Jacob_Aqua,afraid,56.45,56.99,0.1600000000000037,0.5399999999999991
+but,21,but he decided,but he decided,conjunction,Aqua,Jacob_Aqua,but,57.28,57.44,0.8299999999999983,0.1599999999999966
+he,21,but he decided,but he decided,conjunction,Aqua,Jacob_Aqua,he,57.44,57.54,0.1599999999999966,0.10000000000000142
+decided,21,but he decided,but he decided,conjunction,Aqua,Jacob_Aqua,decided,57.54,58.08,0.10000000000000142,0.5399999999999991
+to,22,to finally face his demons,to finally face his demons,infinitival phrase,Aqua,Jacob_Aqua,to,58.08,58.19,0.5399999999999991,0.10999999999999943
+finally,22,to finally face his demons,to finally face his demons,infinitival phrase,Aqua,Jacob_Aqua,finally,58.19,58.67,0.10999999999999943,0.480000000000004
+face,22,to finally face his demons,to finally face his demons,infinitival phrase,Aqua,Jacob_Aqua,face,58.67,58.96,0.480000000000004,0.28999999999999915
+his,22,to finally face his demons,to finally face his demons,infinitival phrase,Aqua,Jacob_Aqua,his,58.96,59.15,0.28999999999999915,0.18999999999999773
+demons,22,to finally face his demons,to finally face his demons,infinitival phrase,Aqua,Jacob_Aqua,demons,59.15,59.68,0.18999999999999773,0.5300000000000011
+and,23,and suggested a solution,and suggested a solution,conjunction,Aqua,Jacob_Aqua,and,60.07,60.29,0.9200000000000017,0.21999999999999886
+suggested,23,and suggested a solution,and suggested a solution,conjunction,Aqua,Jacob_Aqua,suggested,60.29,60.83,0.21999999999999886,0.5399999999999991
+a,23,and suggested a solution,and suggested a solution,conjunction,Aqua,Jacob_Aqua,a,60.83,60.92,0.5399999999999991,0.09000000000000341
+solution,23,and suggested a solution,and suggested a solution,conjunction,Aqua,Jacob_Aqua,solution,60.94,61.52,0.10999999999999943,0.5800000000000054
+involving,24,involving the sun,involving the sun,nonfinite clause,Aqua,Jacob_Aqua,involving,61.54,62.1,0.6000000000000014,0.5600000000000023
+the,24,involving the sun,involving the sun,nonfinite clause,Aqua,Jacob_Aqua,the,62.099999,62.239999,0.5599989999999977,0.14000000000000057
+sun,24,involving the sun,involving the sun,nonfinite clause,Aqua,Jacob_Aqua,sun,62.24,62.64,0.14000100000000515,0.3999999999999986
+carrying,25,carrying him up to the sky would be ideal.,carrying him up to the sky would be ideal.,nonfinite clause; >maximal segment,Aqua,Jacob_Aqua,carrying,62.639999,63.119999,0.3999990000000011,0.4799999999999969
+him,25,carrying him up to the sky would be ideal.,carrying him up to the sky would be ideal.,nonfinite clause; >maximal segment,Aqua,Jacob_Aqua,him,63.12,63.33,0.48000099999999435,0.21000000000000085
+up,25,carrying him up to the sky would be ideal.,carrying him up to the sky would be ideal.,nonfinite clause; >maximal segment,Aqua,Jacob_Aqua,up,63.36,63.59,0.240000000000002,0.23000000000000398
+to,25,carrying him up to the sky would be ideal.,carrying him up to the sky would be ideal.,nonfinite clause; >maximal segment,Aqua,Jacob_Aqua,to,63.59,63.720000000000006,0.23000000000000398,0.13000000000000256
+the,25,carrying him up to the sky would be ideal.,carrying him up to the sky would be ideal.,nonfinite clause; >maximal segment,Aqua,Jacob_Aqua,the,63.719999,63.879999,0.12999899999999798,0.1599999999999966
+sky,25,carrying him up to the sky would be ideal.,carrying him up to the sky would be ideal.,nonfinite clause; >maximal segment,Aqua,Jacob_Aqua,sky,63.88,64.27,0.16000100000000117,0.38999999999999346
+would,25,carrying him up to the sky would be ideal.,carrying him up to the sky would be ideal.,nonfinite clause; >maximal segment,Aqua,Jacob_Aqua,would,64.27,64.45,0.38999999999999346,0.18000000000000682
+be,25,carrying him up to the sky would be ideal.,carrying him up to the sky would be ideal.,nonfinite clause; >maximal segment,Aqua,Jacob_Aqua,be,64.46000000000001,64.65,0.19000000000001194,0.18999999999999773
+ideal,25,carrying him up to the sky would be ideal.,carrying him up to the sky would be ideal.,nonfinite clause; >maximal segment,Aqua,Jacob_Aqua,ideal,64.65,65.21000000000001,0.18999999999999773,0.5600000000000023
+The,26,The sun understood,The sun understood,-,Aqua,Jacob_Aqua,the,65.66,65.85,1.009999999999991,0.18999999999999773
+sun,26,The sun understood,The sun understood,-,Aqua,Jacob_Aqua,sun,65.849999,66.139999,0.18999900000000025,0.29000000000000625
+understood,26,The sun understood,The sun understood,-,Aqua,Jacob_Aqua,understood,66.15,66.78,0.30000100000000884,0.6299999999999955
+Aqua's,27,"Aqua's request came from his heart,","Aqua's request came from his heart,",complementizer (that...),Aqua,Jacob_Aqua,<unk>,66.78999999999999,66.8,0.6399999999999864,0.010000000000005116
+request,27,"Aqua's request came from his heart,","Aqua's request came from his heart,",complementizer (that...),Aqua,Jacob_Aqua,request,67.25,67.77,0.46000000000000796,0.519999999999996
+came,27,"Aqua's request came from his heart,","Aqua's request came from his heart,",complementizer (that...),Aqua,Jacob_Aqua,came,67.77,68.03999999999999,0.519999999999996,0.269999999999996
+from,27,"Aqua's request came from his heart,","Aqua's request came from his heart,",complementizer (that...),Aqua,Jacob_Aqua,from,68.03999999999999,68.22,0.269999999999996,0.18000000000000682
+his,27,"Aqua's request came from his heart,","Aqua's request came from his heart,",complementizer (that...),Aqua,Jacob_Aqua,his,68.219999,68.409999,0.17999900000000935,0.18999999999999773
+heart,27,"Aqua's request came from his heart,","Aqua's request came from his heart,",complementizer (that...),Aqua,Jacob_Aqua,heart,68.41,68.81,0.1900009999999952,0.4000000000000057
+so,28,"so he acquiesced and also took ever so many other drops,","so he acquiesced and also took ever so many other drops,",conjunction,Aqua,Jacob_Aqua,so,69.299999,69.549999,0.8899990000000031,0.25
+he,28,"so he acquiesced and also took ever so many other drops,","so he acquiesced and also took ever so many other drops,",conjunction,Aqua,Jacob_Aqua,he,69.549999,69.749999,0.25,0.20000000000000284
+acquiesced,28,"so he acquiesced and also took ever so many other drops,","so he acquiesced and also took ever so many other drops,",conjunction,Aqua,Jacob_Aqua,acquiesced,69.759999,70.659999,0.20999999999999375,0.9000000000000057
+and,28,"so he acquiesced and also took ever so many other drops,","so he acquiesced and also took ever so many other drops,",conjunction,Aqua,Jacob_Aqua,and,70.68,70.91000000000001,0.9200010000000134,0.23000000000000398
+also,28,"so he acquiesced and also took ever so many other drops,","so he acquiesced and also took ever so many other drops,",conjunction,Aqua,Jacob_Aqua,also,70.92,71.32000000000001,0.23999999999999488,0.4000000000000057
+took,28,"so he acquiesced and also took ever so many other drops,","so he acquiesced and also took ever so many other drops,",conjunction,Aqua,Jacob_Aqua,took,71.32,71.67999999999999,0.3999999999999915,0.35999999999999943
+ever,28,"so he acquiesced and also took ever so many other drops,","so he acquiesced and also took ever so many other drops,",conjunction,Aqua,Jacob_Aqua,ever,71.83,72.17,0.5100000000000051,0.3400000000000034
+so,28,"so he acquiesced and also took ever so many other drops,","so he acquiesced and also took ever so many other drops,",conjunction,Aqua,Jacob_Aqua,so,72.17,72.4,0.3400000000000034,0.23000000000000398
+many,28,"so he acquiesced and also took ever so many other drops,","so he acquiesced and also took ever so many other drops,",conjunction,Aqua,Jacob_Aqua,many,72.4,72.74000000000001,0.23000000000000398,0.3400000000000034
+other,28,"so he acquiesced and also took ever so many other drops,","so he acquiesced and also took ever so many other drops,",conjunction,Aqua,Jacob_Aqua,other,72.76,73.01,0.35999999999999943,0.25
+drops,28,"so he acquiesced and also took ever so many other drops,","so he acquiesced and also took ever so many other drops,",conjunction,Aqua,Jacob_Aqua,drops,73.02,73.53999999999999,0.2599999999999909,0.519999999999996
+so,29,so that Aqua might not be lonesome on the way.,so that Aqua might not be lonesome on the way.,conjunction; >maximal segment,Aqua,Jacob_Aqua,so,74.16,74.47999999999999,1.1400000000000006,0.3199999999999932
+that,29,so that Aqua might not be lonesome on the way.,so that Aqua might not be lonesome on the way.,conjunction; >maximal segment,Aqua,Jacob_Aqua,that,74.48,74.94,0.3200000000000074,0.45999999999999375
+Aqua,29,so that Aqua might not be lonesome on the way.,so that Aqua might not be lonesome on the way.,conjunction; >maximal segment,Aqua,Jacob_Aqua,aqua,75.09,75.56,0.6099999999999994,0.46999999999999886
+might,29,so that Aqua might not be lonesome on the way.,so that Aqua might not be lonesome on the way.,conjunction; >maximal segment,Aqua,Jacob_Aqua,might,75.56,75.81,0.46999999999999886,0.25
+not,29,so that Aqua might not be lonesome on the way.,so that Aqua might not be lonesome on the way.,conjunction; >maximal segment,Aqua,Jacob_Aqua,not,75.81,76.10000000000001,0.25,0.29000000000000625
+be,29,so that Aqua might not be lonesome on the way.,so that Aqua might not be lonesome on the way.,conjunction; >maximal segment,Aqua,Jacob_Aqua,be,76.1,76.42999999999999,0.28999999999999204,0.3299999999999983
+lonesome,29,so that Aqua might not be lonesome on the way.,so that Aqua might not be lonesome on the way.,conjunction; >maximal segment,Aqua,Jacob_Aqua,lonesome,76.53,77.01,0.4300000000000068,0.480000000000004
+on,29,so that Aqua might not be lonesome on the way.,so that Aqua might not be lonesome on the way.,conjunction; >maximal segment,Aqua,Jacob_Aqua,on,77.02,77.24,0.4899999999999949,0.21999999999999886
+the,29,so that Aqua might not be lonesome on the way.,so that Aqua might not be lonesome on the way.,conjunction; >maximal segment,Aqua,Jacob_Aqua,the,77.24,77.42,0.21999999999999886,0.18000000000000682
+way,29,so that Aqua might not be lonesome on the way.,so that Aqua might not be lonesome on the way.,conjunction; >maximal segment,Aqua,Jacob_Aqua,way,77.44,77.84,0.20000000000000284,0.4000000000000057
+It,30,It was only the sun,It was only the sun,-,Aqua,Jacob_Aqua,it,78.53,78.68,1.0900000000000034,0.15000000000000568
+was,30,It was only the sun,It was only the sun,-,Aqua,Jacob_Aqua,was,78.68,78.86000000000001,0.15000000000000568,0.18000000000000682
+only,30,It was only the sun,It was only the sun,-,Aqua,Jacob_Aqua,only,78.87,79.24000000000001,0.18999999999999773,0.37000000000000455
+the,30,It was only the sun,It was only the sun,-,Aqua,Jacob_Aqua,the,79.24,79.42,0.36999999999999034,0.18000000000000682
+sun,30,It was only the sun,It was only the sun,-,Aqua,Jacob_Aqua,sun,79.42,79.7,0.18000000000000682,0.28000000000000114
+that,31,"that knew this, however,","that knew this, however,",relative clause,Aqua,Jacob_Aqua,that,79.7,79.9,0.28000000000000114,0.20000000000000284
+knew,31,"that knew this, however,","that knew this, however,",relative clause,Aqua,Jacob_Aqua,knew,79.9,80.11,0.20000000000000284,0.20999999999999375
+this,31,"that knew this, however,","that knew this, however,",relative clause,Aqua,Jacob_Aqua,this,80.11,80.39,0.20999999999999375,0.28000000000000114
+however,31,"that knew this, however,","that knew this, however,",relative clause,Aqua,Jacob_Aqua,however,80.4,80.97,0.29000000000000625,0.5699999999999932
+for,32,for all the other drops had been changed into fine mist or vapor,for all the other drops had been changed into fine mist or vapor,conjunction,Aqua,Jacob_Aqua,for,81.28999999999999,81.44999999999999,0.8899999999999864,0.1599999999999966
+all,32,for all the other drops had been changed into fine mist or vapor,for all the other drops had been changed into fine mist or vapor,conjunction,Aqua,Jacob_Aqua,all,81.45,81.58,0.1600000000000108,0.12999999999999545
+the,32,for all the other drops had been changed into fine mist or vapor,for all the other drops had been changed into fine mist or vapor,conjunction,Aqua,Jacob_Aqua,the,81.58,81.73,0.12999999999999545,0.15000000000000568
+other,32,for all the other drops had been changed into fine mist or vapor,for all the other drops had been changed into fine mist or vapor,conjunction,Aqua,Jacob_Aqua,other,81.73,81.97,0.15000000000000568,0.23999999999999488
+drops,32,for all the other drops had been changed into fine mist or vapor,for all the other drops had been changed into fine mist or vapor,conjunction,Aqua,Jacob_Aqua,drops,81.98,82.39,0.25,0.4099999999999966
+had,32,for all the other drops had been changed into fine mist or vapor,for all the other drops had been changed into fine mist or vapor,conjunction,Aqua,Jacob_Aqua,had,82.389999,82.549999,0.4099989999999991,0.1599999999999966
+been,32,for all the other drops had been changed into fine mist or vapor,for all the other drops had been changed into fine mist or vapor,conjunction,Aqua,Jacob_Aqua,been,82.55,82.75999999999999,0.16000099999999406,0.20999999999999375
+changed,32,for all the other drops had been changed into fine mist or vapor,for all the other drops had been changed into fine mist or vapor,conjunction,Aqua,Jacob_Aqua,changed,82.76,83.2,0.21000000000000796,0.4399999999999977
+into,32,for all the other drops had been changed into fine mist or vapor,for all the other drops had been changed into fine mist or vapor,conjunction,Aqua,Jacob_Aqua,into,83.21000000000001,83.50000000000001,0.45000000000000284,0.29000000000000625
+fine,32,for all the other drops had been changed into fine mist or vapor,for all the other drops had been changed into fine mist or vapor,conjunction,Aqua,Jacob_Aqua,fine,83.5,83.89,0.28999999999999204,0.39000000000000057
+mist,32,for all the other drops had been changed into fine mist or vapor,for all the other drops had been changed into fine mist or vapor,conjunction,Aqua,Jacob_Aqua,mist,83.9,84.32000000000001,0.4000000000000057,0.4200000000000017
+or,32,for all the other drops had been changed into fine mist or vapor,for all the other drops had been changed into fine mist or vapor,conjunction,Aqua,Jacob_Aqua,or,84.349999,84.549999,0.44999899999999116,0.20000000000000284
+vapor,32,for all the other drops had been changed into fine mist or vapor,for all the other drops had been changed into fine mist or vapor,conjunction,Aqua,Jacob_Aqua,vapor,84.559999,85.119999,0.21000000000000796,0.5600000000000023
+and,33,and Aqua could not see them.,and Aqua could not see them.,conjunction; >maximal segment,Aqua,Jacob_Aqua,and,85.549999,85.729999,0.9899999999999949,0.18000000000000682
+Aqua,33,and Aqua could not see them.,and Aqua could not see them.,conjunction; >maximal segment,Aqua,Jacob_Aqua,aqua,85.74,86.08999999999999,0.1900009999999952,0.3499999999999943
+could,33,and Aqua could not see them.,and Aqua could not see them.,conjunction; >maximal segment,Aqua,Jacob_Aqua,could,86.09,86.28,0.3500000000000085,0.18999999999999773
+not,33,and Aqua could not see them.,and Aqua could not see them.,conjunction; >maximal segment,Aqua,Jacob_Aqua,not,86.28,86.51,0.18999999999999773,0.23000000000000398
+see,33,and Aqua could not see them.,and Aqua could not see them.,conjunction; >maximal segment,Aqua,Jacob_Aqua,see,86.509999,86.759999,0.2299989999999923,0.25
+them,33,and Aqua could not see them.,and Aqua could not see them.,conjunction; >maximal segment,Aqua,Jacob_Aqua,them,86.759999,87.08999899999999,0.25,0.3299999999999983
+Do,34,Do you know what vapor is?,Do you know what vapor is?,>maximal segment,Aqua,Jacob_Aqua,do,87.78999999999999,87.88999999999999,1.0300009999999986,0.09999999999999432
+you,34,Do you know what vapor is?,Do you know what vapor is?,>maximal segment,Aqua,Jacob_Aqua,you,87.889999,88.06999900000001,0.09999900000001105,0.18000000000000682
+know,34,Do you know what vapor is?,Do you know what vapor is?,>maximal segment,Aqua,Jacob_Aqua,know,88.1,88.27,0.21000099999999122,0.1700000000000017
+what,34,Do you know what vapor is?,Do you know what vapor is?,>maximal segment,Aqua,Jacob_Aqua,what,88.27,88.45,0.1700000000000017,0.18000000000000682
+vapor,34,Do you know what vapor is?,Do you know what vapor is?,>maximal segment,Aqua,Jacob_Aqua,vapor,88.44999899999999,88.80999899999999,0.17999899999999514,0.35999999999999943
+is,34,Do you know what vapor is?,Do you know what vapor is?,>maximal segment,Aqua,Jacob_Aqua,is,88.809999,89.20999900000001,0.36000000000001364,0.4000000000000057
+If,35,"If you breathe into the air,","If you breathe into the air,",-,Aqua,Jacob_Aqua,if,89.529999,89.729999,0.7199999999999989,0.20000000000000284
+you,35,"If you breathe into the air,","If you breathe into the air,",-,Aqua,Jacob_Aqua,you,89.73,89.88000000000001,0.20000100000000032,0.15000000000000568
+breathe,35,"If you breathe into the air,","If you breathe into the air,",-,Aqua,Jacob_Aqua,breathe,89.879999,90.209999,0.149998999999994,0.3299999999999983
+into,35,"If you breathe into the air,","If you breathe into the air,",-,Aqua,Jacob_Aqua,into,90.209999,90.439999,0.3299999999999983,0.23000000000000398
+the,35,"If you breathe into the air,","If you breathe into the air,",-,Aqua,Jacob_Aqua,the,90.440001,90.670001,0.23000199999999893,0.23000000000000398
+air,35,"If you breathe into the air,","If you breathe into the air,",-,Aqua,Jacob_Aqua,air,90.67,91.1,0.2299990000000065,0.4299999999999926
+when,36,"when it is cold enough,","when it is cold enough,",relative clause,Aqua,Jacob_Aqua,when,91.17,91.43,0.5,0.2600000000000051
+it,36,"when it is cold enough,","when it is cold enough,",relative clause,Aqua,Jacob_Aqua,it,91.43,91.54,0.2600000000000051,0.10999999999999943
+is,36,"when it is cold enough,","when it is cold enough,",relative clause,Aqua,Jacob_Aqua,is,91.54,91.69,0.10999999999999943,0.14999999999999147
+cold,36,"when it is cold enough,","when it is cold enough,",relative clause,Aqua,Jacob_Aqua,cold,91.69,91.97,0.14999999999999147,0.28000000000000114
+enough,36,"when it is cold enough,","when it is cold enough,",relative clause,Aqua,Jacob_Aqua,enough,91.97,92.43,0.28000000000000114,0.46000000000000796
+you,37,you will see it,you will see it,-,Aqua,Jacob_Aqua,you,92.85,93.04,0.8799999999999955,0.19000000000001194
+will,37,you will see it,you will see it,-,Aqua,Jacob_Aqua,will,93.04,93.2,0.19000000000001194,0.1599999999999966
+see,37,you will see it,you will see it,-,Aqua,Jacob_Aqua,see,93.2,93.48,0.1599999999999966,0.28000000000000114
+it,37,you will see it,you will see it,-,Aqua,Jacob_Aqua,it,93.48,93.6,0.28000000000000114,0.11999999999999034
+coming,38,coming out of your mouth thick and fast like steam.,coming out of your mouth thick and fast like steam.,nonfinite clause; >maximal segment,Aqua,Jacob_Aqua,coming,93.63,94.01,0.14999999999999147,0.38000000000000966
+out,38,coming out of your mouth thick and fast like steam.,coming out of your mouth thick and fast like steam.,nonfinite clause; >maximal segment,Aqua,Jacob_Aqua,out,94.03,94.22,0.4000000000000057,0.18999999999999773
+of,38,coming out of your mouth thick and fast like steam.,coming out of your mouth thick and fast like steam.,nonfinite clause; >maximal segment,Aqua,Jacob_Aqua,of,94.22,94.37,0.18999999999999773,0.15000000000000568
+your,38,coming out of your mouth thick and fast like steam.,coming out of your mouth thick and fast like steam.,nonfinite clause; >maximal segment,Aqua,Jacob_Aqua,your,94.37,94.51,0.15000000000000568,0.14000000000000057
+mouth,38,coming out of your mouth thick and fast like steam.,coming out of your mouth thick and fast like steam.,nonfinite clause; >maximal segment,Aqua,Jacob_Aqua,mouth,94.51,94.85,0.14000000000000057,0.3399999999999892
+thick,38,coming out of your mouth thick and fast like steam.,coming out of your mouth thick and fast like steam.,nonfinite clause; >maximal segment,Aqua,Jacob_Aqua,thick,94.86,95.17,0.3499999999999943,0.3100000000000023
+and,38,coming out of your mouth thick and fast like steam.,coming out of your mouth thick and fast like steam.,nonfinite clause; >maximal segment,Aqua,Jacob_Aqua,and,95.17,95.35,0.3100000000000023,0.1799999999999926
+fast,38,coming out of your mouth thick and fast like steam.,coming out of your mouth thick and fast like steam.,nonfinite clause; >maximal segment,Aqua,Jacob_Aqua,fast,95.35,95.77,0.1799999999999926,0.4200000000000017
+like,38,coming out of your mouth thick and fast like steam.,coming out of your mouth thick and fast like steam.,nonfinite clause; >maximal segment,Aqua,Jacob_Aqua,like,95.77,95.99,0.4200000000000017,0.21999999999999886
+steam,38,coming out of your mouth thick and fast like steam.,coming out of your mouth thick and fast like steam.,nonfinite clause; >maximal segment,Aqua,Jacob_Aqua,steam,95.99,96.54,0.21999999999999886,0.5500000000000114
+When,39,"When the vapor is quite near the earth,","When the vapor is quite near the earth,",relative clause,Aqua,Jacob_Aqua,when,96.9,97.11,0.9100000000000108,0.20999999999999375
+the,39,"When the vapor is quite near the earth,","When the vapor is quite near the earth,",relative clause,Aqua,Jacob_Aqua,the,97.11,97.22,0.20999999999999375,0.10999999999999943
+vapor,39,"When the vapor is quite near the earth,","When the vapor is quite near the earth,",relative clause,Aqua,Jacob_Aqua,vapor,97.22,97.61,0.10999999999999943,0.39000000000000057
+is,39,"When the vapor is quite near the earth,","When the vapor is quite near the earth,",relative clause,Aqua,Jacob_Aqua,is,97.61,97.8,0.39000000000000057,0.18999999999999773
+quite,39,"When the vapor is quite near the earth,","When the vapor is quite near the earth,",relative clause,Aqua,Jacob_Aqua,quite,97.8,98.2,0.18999999999999773,0.4000000000000057
+near,39,"When the vapor is quite near the earth,","When the vapor is quite near the earth,",relative clause,Aqua,Jacob_Aqua,near,98.2,98.46,0.4000000000000057,0.2599999999999909
+the,39,"When the vapor is quite near the earth,","When the vapor is quite near the earth,",relative clause,Aqua,Jacob_Aqua,the,98.46,98.69,0.2599999999999909,0.23000000000000398
+earth,39,"When the vapor is quite near the earth,","When the vapor is quite near the earth,",relative clause,Aqua,Jacob_Aqua,earth,98.69,98.94,0.23000000000000398,0.25
+we,40,we call it 'fog'.,we call it 'fog'.,>maximal segment,Aqua,Jacob_Aqua,we,99.04,99.26,0.3500000000000085,0.21999999999999886
+call,40,we call it 'fog'.,we call it 'fog'.,>maximal segment,Aqua,Jacob_Aqua,call,99.26,99.55,0.21999999999999886,0.28999999999999204
+it,40,we call it 'fog'.,we call it 'fog'.,>maximal segment,Aqua,Jacob_Aqua,it,99.55,99.69,0.28999999999999204,0.14000000000000057
+'fog',40,we call it 'fog'.,we call it 'fog'.,>maximal segment,Aqua,Jacob_Aqua,,99.69,100.639999,,
+Into,41,Into vapor the water drops,Into vapor the water drops,-,Aqua,Jacob_Aqua,into,100.639999,101.019999,,0.37999999999999545
+vapor,41,Into vapor the water drops,Into vapor the water drops,-,Aqua,Jacob_Aqua,vapor,101.02,101.39,0.38000099999999293,0.37000000000000455
+the,41,Into vapor the water drops,Into vapor the water drops,-,Aqua,Jacob_Aqua,the,101.389999,101.519999,0.36999900000000707,0.12999999999999545
+water,41,Into vapor the water drops,Into vapor the water drops,-,Aqua,Jacob_Aqua,water,101.52,101.92,0.13000099999999293,0.4000000000000057
+drops,41,Into vapor the water drops,Into vapor the water drops,-,Aqua,Jacob_Aqua,drops,101.929999,102.299999,0.4099989999999991,0.37000000000000455
+that,42,that danced in the ocean,that danced in the ocean,relative clause,Aqua,Jacob_Aqua,that,102.3,102.5,0.370001000000002,0.20000000000000284
+danced,42,that danced in the ocean,that danced in the ocean,relative clause,Aqua,Jacob_Aqua,danced,102.5,102.91,0.20000000000000284,0.4099999999999966
+in,42,that danced in the ocean,that danced in the ocean,relative clause,Aqua,Jacob_Aqua,in,102.91,103.01,0.4099999999999966,0.10000000000000853
+the,42,that danced in the ocean,that danced in the ocean,relative clause,Aqua,Jacob_Aqua,the,103.009999,103.189999,0.09999899999999684,0.18000000000000682
+ocean,42,that danced in the ocean,that danced in the ocean,relative clause,Aqua,Jacob_Aqua,ocean,103.21,103.65,0.20000100000000032,0.44000000000001194
+had,43,"had been changed,","had been changed,",-,Aqua,Jacob_Aqua,had,103.66,103.87,0.45000000000000284,0.21000000000000796
+been,43,"had been changed,","had been changed,",-,Aqua,Jacob_Aqua,been,103.87,104.09,0.21000000000000796,0.21999999999999886
+changed,43,"had been changed,","had been changed,",-,Aqua,Jacob_Aqua,changed,104.09,104.67,0.21999999999999886,0.5799999999999983
+because,44,because in their own shape they were too heavy for the sunbeams,because in their own shape they were too heavy for the sunbeams,conjunction,Aqua,Jacob_Aqua,because,105.16,105.56,1.0699999999999932,0.4000000000000057
+in,44,because in their own shape they were too heavy for the sunbeams,because in their own shape they were too heavy for the sunbeams,conjunction,Aqua,Jacob_Aqua,in,105.559999,105.739999,0.3999990000000082,0.1799999999999926
+their,44,because in their own shape they were too heavy for the sunbeams,because in their own shape they were too heavy for the sunbeams,conjunction,Aqua,Jacob_Aqua,their,105.74,106.0,0.18000099999999009,0.2600000000000051
+own,44,because in their own shape they were too heavy for the sunbeams,because in their own shape they were too heavy for the sunbeams,conjunction,Aqua,Jacob_Aqua,own,106.039999,106.369999,0.2999989999999997,0.3300000000000125
+shape,44,because in their own shape they were too heavy for the sunbeams,because in their own shape they were too heavy for the sunbeams,conjunction,Aqua,Jacob_Aqua,shape,106.369999,106.749999,0.3300000000000125,0.37999999999999545
+they,44,because in their own shape they were too heavy for the sunbeams,because in their own shape they were too heavy for the sunbeams,conjunction,Aqua,Jacob_Aqua,they,106.779999,106.979999,0.4099999999999966,0.20000000000000284
+were,44,because in their own shape they were too heavy for the sunbeams,because in their own shape they were too heavy for the sunbeams,conjunction,Aqua,Jacob_Aqua,were,106.98,107.15,0.20000100000000032,0.1700000000000017
+too,44,because in their own shape they were too heavy for the sunbeams,because in their own shape they were too heavy for the sunbeams,conjunction,Aqua,Jacob_Aqua,too,107.15,107.52,0.1700000000000017,0.36999999999999034
+heavy,44,because in their own shape they were too heavy for the sunbeams,because in their own shape they were too heavy for the sunbeams,conjunction,Aqua,Jacob_Aqua,heavy,107.529999,107.909999,0.379998999999998,0.37999999999999545
+for,44,because in their own shape they were too heavy for the sunbeams,because in their own shape they were too heavy for the sunbeams,conjunction,Aqua,Jacob_Aqua,for,107.91,108.07,0.38000099999999293,0.1599999999999966
+the,44,because in their own shape they were too heavy for the sunbeams,because in their own shape they were too heavy for the sunbeams,conjunction,Aqua,Jacob_Aqua,the,108.07,108.23,0.1599999999999966,0.1600000000000108
+sunbeams,44,because in their own shape they were too heavy for the sunbeams,because in their own shape they were too heavy for the sunbeams,conjunction,Aqua,Jacob_Aqua,<unk>,108.92,108.99,0.8500000000000085,0.06999999999999318
+that,45,that the sun let out,that the sun let out,relative clause,Aqua,Jacob_Aqua,that,109.26,109.49,0.3400000000000034,0.22999999999998977
+the,45,that the sun let out,that the sun let out,relative clause,Aqua,Jacob_Aqua,the,109.49,109.62,0.22999999999998977,0.13000000000000966
+sun,45,that the sun let out,that the sun let out,relative clause,Aqua,Jacob_Aqua,sun,109.62,109.96,0.13000000000000966,0.3399999999999892
+let,45,that the sun let out,that the sun let out,relative clause,Aqua,Jacob_Aqua,let,109.96,110.17,0.3399999999999892,0.21000000000000796
+out,45,that the sun let out,that the sun let out,relative clause,Aqua,Jacob_Aqua,out,110.17,110.35,0.21000000000000796,0.1799999999999926
+to,46,to carry.,to carry.,infinitival phrase; >maximal segment,Aqua,Jacob_Aqua,to,110.36,110.5,0.18999999999999773,0.14000000000000057
+carry,46,to carry.,to carry.,infinitival phrase; >maximal segment,Aqua,Jacob_Aqua,carry,110.5,111.01,0.14000000000000057,0.5100000000000051
+Higher,47,"Higher and higher they sailed,","Higher and higher they sailed,",-,Aqua,Jacob_Aqua,higher,111.9,112.26,1.4000000000000057,0.35999999999999943
+and,47,"Higher and higher they sailed,","Higher and higher they sailed,",-,Aqua,Jacob_Aqua,and,112.26,112.4,0.35999999999999943,0.14000000000000057
+higher,47,"Higher and higher they sailed,","Higher and higher they sailed,",-,Aqua,Jacob_Aqua,higher,112.41,112.78,0.14999999999999147,0.37000000000000455
+they,47,"Higher and higher they sailed,","Higher and higher they sailed,",-,Aqua,Jacob_Aqua,they,112.78,112.97,0.37000000000000455,0.18999999999999773
+sailed,47,"Higher and higher they sailed,","Higher and higher they sailed,",-,Aqua,Jacob_Aqua,sailed,112.97,113.47,0.18999999999999773,0.5
+and,48,"and though it was grand,","and though it was grand,",conjunction / nonrestrictive clause,Aqua,Jacob_Aqua,and,113.78,114.01,0.8100000000000023,0.23000000000000398
+though,48,"and though it was grand,","and though it was grand,",conjunction / nonrestrictive clause,Aqua,Jacob_Aqua,though,114.02,114.24,0.23999999999999488,0.21999999999999886
+it,48,"and though it was grand,","and though it was grand,",conjunction / nonrestrictive clause,Aqua,Jacob_Aqua,it,114.24,114.38,0.21999999999999886,0.14000000000000057
+was,48,"and though it was grand,","and though it was grand,",conjunction / nonrestrictive clause,Aqua,Jacob_Aqua,was,114.38,114.59,0.14000000000000057,0.21000000000000796
+grand,48,"and though it was grand,","and though it was grand,",conjunction / nonrestrictive clause,Aqua,Jacob_Aqua,grand,114.59,115.11,0.21000000000000796,0.519999999999996
+Aqua,49,"Aqua and his friends were like fish out of water,","Aqua and his friends were like fish out of water,",conjunction cont.,Aqua,Jacob_Aqua,aqua,115.35,115.71,0.7599999999999909,0.35999999999999943
+and,49,"Aqua and his friends were like fish out of water,","Aqua and his friends were like fish out of water,",conjunction cont.,Aqua,Jacob_Aqua,and,115.71,115.86,0.35999999999999943,0.15000000000000568
+his,49,"Aqua and his friends were like fish out of water,","Aqua and his friends were like fish out of water,",conjunction cont.,Aqua,Jacob_Aqua,his,115.86,116.08,0.15000000000000568,0.21999999999999886
+friends,49,"Aqua and his friends were like fish out of water,","Aqua and his friends were like fish out of water,",conjunction cont.,Aqua,Jacob_Aqua,friends,116.08,116.54,0.21999999999999886,0.46000000000000796
+were,49,"Aqua and his friends were like fish out of water,","Aqua and his friends were like fish out of water,",conjunction cont.,Aqua,Jacob_Aqua,were,116.54,116.71,0.46000000000000796,0.1699999999999875
+like,49,"Aqua and his friends were like fish out of water,","Aqua and his friends were like fish out of water,",conjunction cont.,Aqua,Jacob_Aqua,like,116.71,117.01,0.1699999999999875,0.30000000000001137
+fish,49,"Aqua and his friends were like fish out of water,","Aqua and his friends were like fish out of water,",conjunction cont.,Aqua,Jacob_Aqua,fish,117.01,117.37,0.30000000000001137,0.35999999999999943
+out,49,"Aqua and his friends were like fish out of water,","Aqua and his friends were like fish out of water,",conjunction cont.,Aqua,Jacob_Aqua,out,117.389999,117.539999,0.379998999999998,0.14999999999999147
+of,49,"Aqua and his friends were like fish out of water,","Aqua and his friends were like fish out of water,",conjunction cont.,Aqua,Jacob_Aqua,of,117.54,117.72,0.15000100000000316,0.1799999999999926
+water,49,"Aqua and his friends were like fish out of water,","Aqua and his friends were like fish out of water,",conjunction cont.,Aqua,Jacob_Aqua,water,117.719999,118.239999,0.17999899999999514,0.519999999999996
+so,50,so they grew quite dizzy.,so they grew quite dizzy.,conjunction; >maximal segment,Aqua,Jacob_Aqua,so,118.5,118.7,0.7800009999999986,0.20000000000000284
+they,50,so they grew quite dizzy.,so they grew quite dizzy.,conjunction; >maximal segment,Aqua,Jacob_Aqua,they,118.7,118.87,0.20000000000000284,0.1700000000000017
+grew,50,so they grew quite dizzy.,so they grew quite dizzy.,conjunction; >maximal segment,Aqua,Jacob_Aqua,grew,118.87,119.16,0.1700000000000017,0.28999999999999204
+quite,50,so they grew quite dizzy.,so they grew quite dizzy.,conjunction; >maximal segment,Aqua,Jacob_Aqua,quite,119.16,119.51,0.28999999999999204,0.3500000000000085
+dizzy,50,so they grew quite dizzy.,so they grew quite dizzy.,conjunction; >maximal segment,Aqua,Jacob_Aqua,dizzy,119.52,120.09,0.35999999999999943,0.5700000000000074
+They,51,They enjoyed,They enjoyed,-,Aqua,Jacob_Aqua,they,120.45,120.66,0.9300000000000068,0.20999999999999375
+enjoyed,51,They enjoyed,They enjoyed,-,Aqua,Jacob_Aqua,enjoyed,120.66,121.13,0.20999999999999375,0.46999999999999886
+looking,52,"looking down on the world below,","looking down on the world below,",nonfinite clause,Aqua,Jacob_Aqua,looking,121.13,121.47,0.46999999999999886,0.3400000000000034
+down,52,"looking down on the world below,","looking down on the world below,",nonfinite clause,Aqua,Jacob_Aqua,down,121.469999,121.729999,0.33999900000000594,0.2600000000000051
+on,52,"looking down on the world below,","looking down on the world below,",nonfinite clause,Aqua,Jacob_Aqua,on,121.73,121.83,0.2600010000000026,0.09999999999999432
+the,52,"looking down on the world below,","looking down on the world below,",nonfinite clause,Aqua,Jacob_Aqua,the,121.83,121.94,0.09999999999999432,0.10999999999999943
+world,52,"looking down on the world below,","looking down on the world below,",nonfinite clause,Aqua,Jacob_Aqua,world,121.94,122.4,0.10999999999999943,0.46000000000000796
+below,52,"looking down on the world below,","looking down on the world below,",nonfinite clause,Aqua,Jacob_Aqua,below,122.429999,122.919999,0.4899989999999974,0.4900000000000091
+while,53,"while the wind scattered them across the four corners of the earth,","while the wind scattered them across the four corners of the earth,",conjunction,Aqua,Jacob_Aqua,while,123.27,123.54,0.8400010000000009,0.27000000000001023
+the,53,"while the wind scattered them across the four corners of the earth,","while the wind scattered them across the four corners of the earth,",conjunction,Aqua,Jacob_Aqua,the,123.54,123.66,0.27000000000001023,0.11999999999999034
+wind,53,"while the wind scattered them across the four corners of the earth,","while the wind scattered them across the four corners of the earth,",conjunction,Aqua,Jacob_Aqua,wind,123.66,123.96,0.11999999999999034,0.29999999999999716
+scattered,53,"while the wind scattered them across the four corners of the earth,","while the wind scattered them across the four corners of the earth,",conjunction,Aqua,Jacob_Aqua,scattered,123.96,124.46,0.29999999999999716,0.5
+them,53,"while the wind scattered them across the four corners of the earth,","while the wind scattered them across the four corners of the earth,",conjunction,Aqua,Jacob_Aqua,them,124.459999,124.659999,0.4999990000000025,0.20000000000000284
+across,53,"while the wind scattered them across the four corners of the earth,","while the wind scattered them across the four corners of the earth,",conjunction,Aqua,Jacob_Aqua,across,124.66,125.08,0.20000100000000032,0.4200000000000017
+the,53,"while the wind scattered them across the four corners of the earth,","while the wind scattered them across the four corners of the earth,",conjunction,Aqua,Jacob_Aqua,the,125.08,125.19,0.4200000000000017,0.10999999999999943
+four,53,"while the wind scattered them across the four corners of the earth,","while the wind scattered them across the four corners of the earth,",conjunction,Aqua,Jacob_Aqua,four,125.190001,125.510001,0.1100009999999969,0.3200000000000074
+corners,53,"while the wind scattered them across the four corners of the earth,","while the wind scattered them across the four corners of the earth,",conjunction,Aqua,Jacob_Aqua,corners,125.51,125.94,0.3199990000000099,0.4299999999999926
+of,53,"while the wind scattered them across the four corners of the earth,","while the wind scattered them across the four corners of the earth,",conjunction,Aqua,Jacob_Aqua,of,125.940001,126.110001,0.4300009999999901,0.1700000000000017
+the,53,"while the wind scattered them across the four corners of the earth,","while the wind scattered them across the four corners of the earth,",conjunction,Aqua,Jacob_Aqua,the,126.109999,126.259999,0.16999800000000675,0.14999999999999147
+earth,53,"while the wind scattered them across the four corners of the earth,","while the wind scattered them across the four corners of the earth,",conjunction,Aqua,Jacob_Aqua,earth,126.28,126.6,0.17000099999999918,0.3199999999999932
+but,54,but after a while it grew nearly time for the sun,but after a while it grew nearly time for the sun,conjunction,Aqua,Jacob_Aqua,but,127.28,127.45,1.0,0.1700000000000017
+after,54,but after a while it grew nearly time for the sun,but after a while it grew nearly time for the sun,conjunction,Aqua,Jacob_Aqua,after,127.45,127.76,0.1700000000000017,0.3100000000000023
+a,54,but after a while it grew nearly time for the sun,but after a while it grew nearly time for the sun,conjunction,Aqua,Jacob_Aqua,a,127.76,127.84,0.3100000000000023,0.0799999999999983
+while,54,but after a while it grew nearly time for the sun,but after a while it grew nearly time for the sun,conjunction,Aqua,Jacob_Aqua,while,127.84,128.28,0.0799999999999983,0.4399999999999977
+it,54,but after a while it grew nearly time for the sun,but after a while it grew nearly time for the sun,conjunction,Aqua,Jacob_Aqua,it,128.32,128.5,0.47999999999998977,0.18000000000000682
+grew,54,but after a while it grew nearly time for the sun,but after a while it grew nearly time for the sun,conjunction,Aqua,Jacob_Aqua,grew,128.5,128.8,0.18000000000000682,0.30000000000001137
+nearly,54,but after a while it grew nearly time for the sun,but after a while it grew nearly time for the sun,conjunction,Aqua,Jacob_Aqua,nearly,128.8,129.17000000000002,0.30000000000001137,0.37000000000000455
+time,54,but after a while it grew nearly time for the sun,but after a while it grew nearly time for the sun,conjunction,Aqua,Jacob_Aqua,time,129.17,129.51999999999998,0.3699999999999761,0.3499999999999943
+for,54,but after a while it grew nearly time for the sun,but after a while it grew nearly time for the sun,conjunction,Aqua,Jacob_Aqua,for,129.52,129.64,0.35000000000002274,0.11999999999997613
+the,54,but after a while it grew nearly time for the sun,but after a while it grew nearly time for the sun,conjunction,Aqua,Jacob_Aqua,the,129.64,129.76,0.11999999999997613,0.12000000000000455
+sun,54,but after a while it grew nearly time for the sun,but after a while it grew nearly time for the sun,conjunction,Aqua,Jacob_Aqua,sun,129.76,129.98999999999998,0.12000000000000455,0.22999999999998977
+to,55,to go to bed.,to go to bed.,infinitival phrase; >maximal segment,Aqua,Jacob_Aqua,to,129.99,130.14,0.2300000000000182,0.14999999999997726
+go,55,to go to bed.,to go to bed.,infinitival phrase; >maximal segment,Aqua,Jacob_Aqua,go,130.14,130.27999999999997,0.14999999999997726,0.13999999999998636
+to,55,to go to bed.,to go to bed.,infinitival phrase; >maximal segment,Aqua,Jacob_Aqua,to,130.55,130.69,0.410000000000025,0.13999999999998636
+bed,55,to go to bed.,to go to bed.,infinitival phrase; >maximal segment,Aqua,Jacob_Aqua,bed,130.7,131.11999999999998,0.14999999999997726,0.4199999999999875
+He,56,"He became very red in the face,","He became very red in the face,",-,Aqua,Jacob_Aqua,he,131.43,131.63,0.7300000000000182,0.19999999999998863
+became,56,"He became very red in the face,","He became very red in the face,",-,Aqua,Jacob_Aqua,became,131.63,132.04,0.19999999999998863,0.4099999999999966
+very,56,"He became very red in the face,","He became very red in the face,",-,Aqua,Jacob_Aqua,very,132.04,132.41,0.4099999999999966,0.37000000000000455
+red,56,"He became very red in the face,","He became very red in the face,",-,Aqua,Jacob_Aqua,red,132.41,132.61,0.37000000000000455,0.20000000000001705
+in,56,"He became very red in the face,","He became very red in the face,",-,Aqua,Jacob_Aqua,in,132.61,132.70000000000002,0.20000000000001705,0.09000000000000341
+the,56,"He became very red in the face,","He became very red in the face,",-,Aqua,Jacob_Aqua,the,132.7,132.79999999999998,0.08999999999997499,0.09999999999999432
+face,56,"He became very red in the face,","He became very red in the face,",-,Aqua,Jacob_Aqua,face,132.8,133.26000000000002,0.10000000000002274,0.46000000000000796
+and,57,"and began to sink lower and lower,","and began to sink lower and lower,",conjunction,Aqua,Jacob_Aqua,and,133.64,133.86,0.839999999999975,0.22000000000002728
+began,57,"and began to sink lower and lower,","and began to sink lower and lower,",conjunction,Aqua,Jacob_Aqua,began,133.86,134.18,0.22000000000002728,0.3199999999999932
+to,57,"and began to sink lower and lower,","and began to sink lower and lower,",conjunction,Aqua,Jacob_Aqua,to,134.179999,134.32999900000002,0.3199989999999957,0.15000000000000568
+sink,57,"and began to sink lower and lower,","and began to sink lower and lower,",conjunction,Aqua,Jacob_Aqua,sink,134.33,134.62,0.15000100000000316,0.28999999999999204
+lower,57,"and began to sink lower and lower,","and began to sink lower and lower,",conjunction,Aqua,Jacob_Aqua,lower,134.63,134.97,0.29999999999998295,0.3400000000000034
+and,57,"and began to sink lower and lower,","and began to sink lower and lower,",conjunction,Aqua,Jacob_Aqua,and,134.97,135.14,0.3400000000000034,0.1699999999999875
+lower,57,"and began to sink lower and lower,","and began to sink lower and lower,",conjunction,Aqua,Jacob_Aqua,lower,135.139999,135.599999,0.16999899999999002,0.46000000000000796
+until,58,until suddenly he went clear out of sight!,until suddenly he went clear out of sight!,conjunction; >maximal segment,Aqua,Jacob_Aqua,until,135.929999,136.309999,0.7900000000000205,0.37999999999999545
+suddenly,58,until suddenly he went clear out of sight!,until suddenly he went clear out of sight!,conjunction; >maximal segment,Aqua,Jacob_Aqua,suddenly,136.309999,136.929999,0.37999999999999545,0.6200000000000045
+he,58,until suddenly he went clear out of sight!,until suddenly he went clear out of sight!,conjunction; >maximal segment,Aqua,Jacob_Aqua,he,136.929999,137.099999,0.6200000000000045,0.1699999999999875
+went,58,until suddenly he went clear out of sight!,until suddenly he went clear out of sight!,conjunction; >maximal segment,Aqua,Jacob_Aqua,went,137.099999,137.369999,0.1699999999999875,0.27000000000001023
+clear,58,until suddenly he went clear out of sight!,until suddenly he went clear out of sight!,conjunction; >maximal segment,Aqua,Jacob_Aqua,clear,137.37,137.69,0.2700010000000077,0.3199999999999932
+out,58,until suddenly he went clear out of sight!,until suddenly he went clear out of sight!,conjunction; >maximal segment,Aqua,Jacob_Aqua,out,137.69,137.8,0.3199999999999932,0.11000000000001364
+of,58,until suddenly he went clear out of sight!,until suddenly he went clear out of sight!,conjunction; >maximal segment,Aqua,Jacob_Aqua,of,137.8,137.95000000000002,0.11000000000001364,0.15000000000000568
+sight,58,until suddenly he went clear out of sight!,until suddenly he went clear out of sight!,conjunction; >maximal segment,Aqua,Jacob_Aqua,sight,137.95,138.45,0.14999999999997726,0.5
+Poor,59,"Poor little Aqua,","Poor little Aqua,",-,Aqua,Jacob_Aqua,poor,139.15,139.4,1.200000000000017,0.25
+little,59,"Poor little Aqua,","Poor little Aqua,",-,Aqua,Jacob_Aqua,little,139.4,139.67000000000002,0.25,0.27000000000001023
+Aqua,59,"Poor little Aqua,","Poor little Aqua,",-,Aqua,Jacob_Aqua,aqua,139.67,140.19,0.2699999999999818,0.5200000000000102
+frightened,60,"frightened by the impending cold and darkness,","frightened by the impending cold and darkness,",nonrestrictive clause,Aqua,Jacob_Aqua,frightened,140.849999,141.319999,1.1799990000000093,0.46999999999999886
+by,60,"frightened by the impending cold and darkness,","frightened by the impending cold and darkness,",nonrestrictive clause,Aqua,Jacob_Aqua,by,141.33,141.60000000000002,0.48000100000001567,0.27000000000001023
+the,60,"frightened by the impending cold and darkness,","frightened by the impending cold and darkness,",nonrestrictive clause,Aqua,Jacob_Aqua,the,141.61,141.8,0.28000000000000114,0.18999999999999773
+impending,60,"frightened by the impending cold and darkness,","frightened by the impending cold and darkness,",nonrestrictive clause,Aqua,Jacob_Aqua,impending,141.799999,142.34999900000005,0.18999900000000025,0.5500000000000398
+cold,60,"frightened by the impending cold and darkness,","frightened by the impending cold and darkness,",nonrestrictive clause,Aqua,Jacob_Aqua,cold,142.35,142.64,0.5500009999999804,0.28999999999999204
+and,60,"frightened by the impending cold and darkness,","frightened by the impending cold and darkness,",nonrestrictive clause,Aqua,Jacob_Aqua,and,142.639999,142.77999899999998,0.28999899999999457,0.13999999999998636
+darkness,60,"frightened by the impending cold and darkness,","frightened by the impending cold and darkness,",nonrestrictive clause,Aqua,Jacob_Aqua,darkness,142.779999,143.35999900000002,0.14000000000001478,0.5800000000000125
+wished,61,"wished he could sleep not in the sky, but somewhere closer to earth.","wished he could sleep not in the sky, but somewhere closer to earth.",>maximal segment,Aqua,Jacob_Aqua,wished,143.67000000000002,144.05,0.8900010000000123,0.37999999999999545
+he,61,"wished he could sleep not in the sky, but somewhere closer to earth.","wished he could sleep not in the sky, but somewhere closer to earth.",>maximal segment,Aqua,Jacob_Aqua,he,144.049999,144.15999900000003,0.379998999999998,0.11000000000001364
+could,61,"wished he could sleep not in the sky, but somewhere closer to earth.","wished he could sleep not in the sky, but somewhere closer to earth.",>maximal segment,Aqua,Jacob_Aqua,could,144.16,144.34,0.1100009999999827,0.18000000000000682
+sleep,61,"wished he could sleep not in the sky, but somewhere closer to earth.","wished he could sleep not in the sky, but somewhere closer to earth.",>maximal segment,Aqua,Jacob_Aqua,sleep,144.35,144.66,0.18999999999999773,0.3100000000000023
+not,61,"wished he could sleep not in the sky, but somewhere closer to earth.","wished he could sleep not in the sky, but somewhere closer to earth.",>maximal segment,Aqua,Jacob_Aqua,not,144.67000000000002,144.95000000000002,0.3200000000000216,0.28000000000000114
+in,61,"wished he could sleep not in the sky, but somewhere closer to earth.","wished he could sleep not in the sky, but somewhere closer to earth.",>maximal segment,Aqua,Jacob_Aqua,in,144.96,145.07000000000002,0.28999999999999204,0.11000000000001364
+the,61,"wished he could sleep not in the sky, but somewhere closer to earth.","wished he could sleep not in the sky, but somewhere closer to earth.",>maximal segment,Aqua,Jacob_Aqua,the,145.07,145.19,0.10999999999998522,0.12000000000000455
+sky,61,"wished he could sleep not in the sky, but somewhere closer to earth.","wished he could sleep not in the sky, but somewhere closer to earth.",>maximal segment,Aqua,Jacob_Aqua,sky,145.19,145.72,0.12000000000000455,0.5300000000000011
+but,61,"wished he could sleep not in the sky, but somewhere closer to earth.","wished he could sleep not in the sky, but somewhere closer to earth.",>maximal segment,Aqua,Jacob_Aqua,but,146.09,146.27,0.9000000000000057,0.18000000000000682
+somewhere,61,"wished he could sleep not in the sky, but somewhere closer to earth.","wished he could sleep not in the sky, but somewhere closer to earth.",>maximal segment,Aqua,Jacob_Aqua,somewhere,146.27,146.61,0.18000000000000682,0.3400000000000034
+closer,61,"wished he could sleep not in the sky, but somewhere closer to earth.","wished he could sleep not in the sky, but somewhere closer to earth.",>maximal segment,Aqua,Jacob_Aqua,closer,146.61,147.0,0.3400000000000034,0.38999999999998636
+to,61,"wished he could sleep not in the sky, but somewhere closer to earth.","wished he could sleep not in the sky, but somewhere closer to earth.",>maximal segment,Aqua,Jacob_Aqua,to,147.0,147.18,0.38999999999998636,0.18000000000000682
+earth,61,"wished he could sleep not in the sky, but somewhere closer to earth.","wished he could sleep not in the sky, but somewhere closer to earth.",>maximal segment,Aqua,Jacob_Aqua,earth,147.18,147.6,0.18000000000000682,0.4199999999999875
+Then,62,Then Aqua heard the wind blow and conjectured,Then Aqua heard the wind blow and conjectured,-,Aqua,Jacob_Aqua,then,148.34,148.66,1.1599999999999966,0.3199999999999932
+Aqua,62,Then Aqua heard the wind blow and conjectured,Then Aqua heard the wind blow and conjectured,-,Aqua,Jacob_Aqua,aqua,148.68,149.09,0.3400000000000034,0.4099999999999966
+heard,62,Then Aqua heard the wind blow and conjectured,Then Aqua heard the wind blow and conjectured,-,Aqua,Jacob_Aqua,heard,149.1,149.35,0.4199999999999875,0.25
+the,62,Then Aqua heard the wind blow and conjectured,Then Aqua heard the wind blow and conjectured,-,Aqua,Jacob_Aqua,the,149.37,149.52,0.27000000000001023,0.15000000000000568
+wind,62,Then Aqua heard the wind blow and conjectured,Then Aqua heard the wind blow and conjectured,-,Aqua,Jacob_Aqua,wind,149.52,149.84,0.15000000000000568,0.3199999999999932
+blow,62,Then Aqua heard the wind blow and conjectured,Then Aqua heard the wind blow and conjectured,-,Aqua,Jacob_Aqua,blow,149.84,150.27,0.3199999999999932,0.4300000000000068
+and,62,Then Aqua heard the wind blow and conjectured,Then Aqua heard the wind blow and conjectured,-,Aqua,Jacob_Aqua,and,150.34,150.56,0.5,0.21999999999999886
+conjectured,62,Then Aqua heard the wind blow and conjectured,Then Aqua heard the wind blow and conjectured,-,Aqua,Jacob_Aqua,<unk>,150.56,151.34,0.21999999999999886,0.7800000000000011
+that,63,that maybe the wind could take him back down to the ocean.,that maybe the wind could take him back down to the ocean.,complementizer; >maximal segment,Aqua,Jacob_Aqua,that,151.35,151.65,0.789999999999992,0.30000000000001137
+maybe,63,that maybe the wind could take him back down to the ocean.,that maybe the wind could take him back down to the ocean.,complementizer; >maximal segment,Aqua,Jacob_Aqua,maybe,151.66,152.09,0.3100000000000023,0.4300000000000068
+the,63,that maybe the wind could take him back down to the ocean.,that maybe the wind could take him back down to the ocean.,complementizer; >maximal segment,Aqua,Jacob_Aqua,the,152.09,152.24,0.4300000000000068,0.15000000000000568
+wind,63,that maybe the wind could take him back down to the ocean.,that maybe the wind could take him back down to the ocean.,complementizer; >maximal segment,Aqua,Jacob_Aqua,wind,152.24,152.66,0.15000000000000568,0.4199999999999875
+could,63,that maybe the wind could take him back down to the ocean.,that maybe the wind could take him back down to the ocean.,complementizer; >maximal segment,Aqua,Jacob_Aqua,could,152.71,152.94,0.46999999999999886,0.22999999999998977
+take,63,that maybe the wind could take him back down to the ocean.,that maybe the wind could take him back down to the ocean.,complementizer; >maximal segment,Aqua,Jacob_Aqua,take,152.94,153.25,0.22999999999998977,0.3100000000000023
+him,63,that maybe the wind could take him back down to the ocean.,that maybe the wind could take him back down to the ocean.,complementizer; >maximal segment,Aqua,Jacob_Aqua,him,153.25,153.43,0.3100000000000023,0.18000000000000682
+back,63,that maybe the wind could take him back down to the ocean.,that maybe the wind could take him back down to the ocean.,complementizer; >maximal segment,Aqua,Jacob_Aqua,back,153.44,153.72,0.18999999999999773,0.28000000000000114
+down,63,that maybe the wind could take him back down to the ocean.,that maybe the wind could take him back down to the ocean.,complementizer; >maximal segment,Aqua,Jacob_Aqua,down,153.75,154.09,0.3100000000000023,0.3400000000000034
+to,63,that maybe the wind could take him back down to the ocean.,that maybe the wind could take him back down to the ocean.,complementizer; >maximal segment,Aqua,Jacob_Aqua,to,154.11,154.25,0.36000000000001364,0.13999999999998636
+the,63,that maybe the wind could take him back down to the ocean.,that maybe the wind could take him back down to the ocean.,complementizer; >maximal segment,Aqua,Jacob_Aqua,the,154.25,154.41,0.13999999999998636,0.1599999999999966
+ocean,63,that maybe the wind could take him back down to the ocean.,that maybe the wind could take him back down to the ocean.,complementizer; >maximal segment,Aqua,Jacob_Aqua,ocean,154.41,154.94,0.1599999999999966,0.5300000000000011
+Indeed,64,"Indeed, the wind took pity on him and fanned him,","Indeed, the wind took pity on him and fanned him,",-,Aqua,Jacob_Aqua,indeed,155.36,156.05,0.950000000000017,0.6899999999999977
+the,64,"Indeed, the wind took pity on him and fanned him,","Indeed, the wind took pity on him and fanned him,",-,Aqua,Jacob_Aqua,the,156.16,156.32,0.799999999999983,0.1599999999999966
+wind,64,"Indeed, the wind took pity on him and fanned him,","Indeed, the wind took pity on him and fanned him,",-,Aqua,Jacob_Aqua,wind,156.32,156.54999999999998,0.1599999999999966,0.22999999999998977
+took,64,"Indeed, the wind took pity on him and fanned him,","Indeed, the wind took pity on him and fanned him,",-,Aqua,Jacob_Aqua,took,156.55,156.75,0.2300000000000182,0.19999999999998863
+pity,64,"Indeed, the wind took pity on him and fanned him,","Indeed, the wind took pity on him and fanned him,",-,Aqua,Jacob_Aqua,pity,156.75,157.1,0.19999999999998863,0.3499999999999943
+on,64,"Indeed, the wind took pity on him and fanned him,","Indeed, the wind took pity on him and fanned him,",-,Aqua,Jacob_Aqua,on,157.099999,157.259999,0.34999899999999684,0.1599999999999966
+him,64,"Indeed, the wind took pity on him and fanned him,","Indeed, the wind took pity on him and fanned him,",-,Aqua,Jacob_Aqua,him,157.259999,157.579999,0.1599999999999966,0.3199999999999932
+and,64,"Indeed, the wind took pity on him and fanned him,","Indeed, the wind took pity on him and fanned him,",-,Aqua,Jacob_Aqua,and,157.61,157.87,0.3500010000000202,0.2599999999999909
+fanned,64,"Indeed, the wind took pity on him and fanned him,","Indeed, the wind took pity on him and fanned him,",-,Aqua,Jacob_Aqua,fanned,157.87,158.23000000000002,0.2599999999999909,0.36000000000001364
+him,64,"Indeed, the wind took pity on him and fanned him,","Indeed, the wind took pity on him and fanned him,",-,Aqua,Jacob_Aqua,him,158.23,158.53,0.3599999999999852,0.30000000000001137
+together,65,"together with all of his brothers and sisters,","together with all of his brothers and sisters,",nonrestrictive clause,Aqua,Jacob_Aqua,together,158.99,159.46,0.7600000000000193,0.46999999999999886
+with,65,"together with all of his brothers and sisters,","together with all of his brothers and sisters,",nonrestrictive clause,Aqua,Jacob_Aqua,with,159.46,159.63,0.46999999999999886,0.1699999999999875
+all,65,"together with all of his brothers and sisters,","together with all of his brothers and sisters,",nonrestrictive clause,Aqua,Jacob_Aqua,all,159.639999,159.889999,0.17999899999998092,0.25
+of,65,"together with all of his brothers and sisters,","together with all of his brothers and sisters,",nonrestrictive clause,Aqua,Jacob_Aqua,of,159.889999,160.009999,0.25,0.12000000000000455
+his,65,"together with all of his brothers and sisters,","together with all of his brothers and sisters,",nonrestrictive clause,Aqua,Jacob_Aqua,his,160.01,160.20999999999998,0.12000100000000202,0.19999999999998863
+brothers,65,"together with all of his brothers and sisters,","together with all of his brothers and sisters,",nonrestrictive clause,Aqua,Jacob_Aqua,brothers,160.209999,160.589999,0.19999900000001958,0.37999999999999545
+and,65,"together with all of his brothers and sisters,","together with all of his brothers and sisters,",nonrestrictive clause,Aqua,Jacob_Aqua,and,160.59,160.76,0.38000099999999293,0.1699999999999875
+sisters,65,"together with all of his brothers and sisters,","together with all of his brothers and sisters,",nonrestrictive clause,Aqua,Jacob_Aqua,sisters,160.76,161.39999999999998,0.1699999999999875,0.6399999999999864
+into,66,"into a heavy gray cloud,","into a heavy gray cloud,",-,Aqua,Jacob_Aqua,into,161.799999,162.189999,1.039999000000023,0.38999999999998636
+a,66,"into a heavy gray cloud,","into a heavy gray cloud,",-,Aqua,Jacob_Aqua,a,162.190001,162.300001,0.3900019999999813,0.11000000000001364
+heavy,66,"into a heavy gray cloud,","into a heavy gray cloud,",-,Aqua,Jacob_Aqua,heavy,162.31,162.73,0.11999900000000707,0.4199999999999875
+gray,66,"into a heavy gray cloud,","into a heavy gray cloud,",-,Aqua,Jacob_Aqua,gray,162.73,163.04,0.4199999999999875,0.3100000000000023
+cloud,66,"into a heavy gray cloud,","into a heavy gray cloud,",-,Aqua,Jacob_Aqua,cloud,163.04,163.57,0.3100000000000023,0.5300000000000011
+after,67,after which he blew them apart and told them,after which he blew them apart and told them,conjunction,Aqua,Jacob_Aqua,after,164.02,164.43,0.9800000000000182,0.4099999999999966
+which,67,after which he blew them apart and told them,after which he blew them apart and told them,conjunction,Aqua,Jacob_Aqua,which,164.43,164.73000000000002,0.4099999999999966,0.30000000000001137
+he,67,after which he blew them apart and told them,after which he blew them apart and told them,conjunction,Aqua,Jacob_Aqua,he,164.73,164.89,0.29999999999998295,0.1599999999999966
+blew,67,after which he blew them apart and told them,after which he blew them apart and told them,conjunction,Aqua,Jacob_Aqua,blew,164.89,165.14999999999998,0.1599999999999966,0.2599999999999909
+them,67,after which he blew them apart and told them,after which he blew them apart and told them,conjunction,Aqua,Jacob_Aqua,them,165.15,165.34,0.2600000000000193,0.18999999999999773
+apart,67,after which he blew them apart and told them,after which he blew them apart and told them,conjunction,Aqua,Jacob_Aqua,apart,165.34,165.88,0.18999999999999773,0.539999999999992
+and,67,after which he blew them apart and told them,after which he blew them apart and told them,conjunction,Aqua,Jacob_Aqua,and,165.93,166.15,0.5900000000000034,0.21999999999999886
+told,67,after which he blew them apart and told them,after which he blew them apart and told them,conjunction,Aqua,Jacob_Aqua,told,166.15,166.39,0.21999999999999886,0.23999999999998067
+them,67,after which he blew them apart and told them,after which he blew them apart and told them,conjunction,Aqua,Jacob_Aqua,them,166.39,166.54999999999998,0.23999999999998067,0.1599999999999966
+to,68,"to hurry down,","to hurry down,",infinitival phrase,Aqua,Jacob_Aqua,to,166.55,166.67000000000002,0.160000000000025,0.12000000000000455
+hurry,68,"to hurry down,","to hurry down,",infinitival phrase,Aqua,Jacob_Aqua,hurry,166.67,167.07,0.11999999999997613,0.4000000000000057
+down,68,"to hurry down,","to hurry down,",infinitival phrase,Aqua,Jacob_Aqua,down,167.07,167.47,0.4000000000000057,0.4000000000000057
+fast,69,"fast and furious to the earth,","fast and furious to the earth,",nonrestrictive clause,Aqua,Jacob_Aqua,fast,168.19,168.57999999999998,1.1200000000000045,0.38999999999998636
+and,69,"fast and furious to the earth,","fast and furious to the earth,",nonrestrictive clause,Aqua,Jacob_Aqua,and,168.58,168.73000000000002,0.3900000000000148,0.15000000000000568
+furious,69,"fast and furious to the earth,","fast and furious to the earth,",nonrestrictive clause,Aqua,Jacob_Aqua,furious,168.73,169.31,0.14999999999997726,0.5800000000000125
+to,69,"fast and furious to the earth,","fast and furious to the earth,",nonrestrictive clause,Aqua,Jacob_Aqua,to,169.34,169.5,0.6100000000000136,0.1599999999999966
+the,69,"fast and furious to the earth,","fast and furious to the earth,",nonrestrictive clause,Aqua,Jacob_Aqua,the,169.5,169.74,0.1599999999999966,0.2400000000000091
+earth,69,"fast and furious to the earth,","fast and furious to the earth,",nonrestrictive clause,Aqua,Jacob_Aqua,earth,169.74,169.98000000000002,0.2400000000000091,0.2400000000000091
+so,70,so they could have a fighting chance of reaching the ocean.,so they could have a fighting chance of reaching the ocean.,conjunction; >maximal segment,Aqua,Jacob_Aqua,so,170.72,170.94,0.9799999999999898,0.21999999999999886
+they,70,so they could have a fighting chance of reaching the ocean.,so they could have a fighting chance of reaching the ocean.,conjunction; >maximal segment,Aqua,Jacob_Aqua,they,170.94,171.12,0.21999999999999886,0.18000000000000682
+could,70,so they could have a fighting chance of reaching the ocean.,so they could have a fighting chance of reaching the ocean.,conjunction; >maximal segment,Aqua,Jacob_Aqua,could,171.12,171.3,0.18000000000000682,0.18000000000000682
+have,70,so they could have a fighting chance of reaching the ocean.,so they could have a fighting chance of reaching the ocean.,conjunction; >maximal segment,Aqua,Jacob_Aqua,have,171.309999,171.549999,0.18999900000000025,0.2400000000000091
+a,70,so they could have a fighting chance of reaching the ocean.,so they could have a fighting chance of reaching the ocean.,conjunction; >maximal segment,Aqua,Jacob_Aqua,a,171.55,171.67000000000002,0.24000100000000657,0.12000000000000455
+fighting,70,so they could have a fighting chance of reaching the ocean.,so they could have a fighting chance of reaching the ocean.,conjunction; >maximal segment,Aqua,Jacob_Aqua,fighting,171.679999,172.089999,0.12999899999999798,0.4099999999999966
+chance,70,so they could have a fighting chance of reaching the ocean.,so they could have a fighting chance of reaching the ocean.,conjunction; >maximal segment,Aqua,Jacob_Aqua,chance,172.09,172.45000000000002,0.41000099999999406,0.36000000000001364
+of,70,so they could have a fighting chance of reaching the ocean.,so they could have a fighting chance of reaching the ocean.,conjunction; >maximal segment,Aqua,Jacob_Aqua,of,172.469999,172.629999,0.379998999999998,0.1599999999999966
+reaching,70,so they could have a fighting chance of reaching the ocean.,so they could have a fighting chance of reaching the ocean.,conjunction; >maximal segment,Aqua,Jacob_Aqua,reaching,172.639999,172.98999899999998,0.1699999999999875,0.3499999999999943
+the,70,so they could have a fighting chance of reaching the ocean.,so they could have a fighting chance of reaching the ocean.,conjunction; >maximal segment,Aqua,Jacob_Aqua,the,172.99,173.13,0.3500010000000202,0.13999999999998636
+ocean,70,so they could have a fighting chance of reaching the ocean.,so they could have a fighting chance of reaching the ocean.,conjunction; >maximal segment,Aqua,Jacob_Aqua,ocean,173.139999,173.719999,0.1499989999999798,0.5800000000000125
+Down,71,"Down they went,","Down they went,",positioning element,Aqua,Jacob_Aqua,down,174.179999,174.47999900000002,1.0400000000000205,0.30000000000001137
+they,71,"Down they went,","Down they went,",positioning element,Aqua,Jacob_Aqua,they,174.48,174.66,0.3000009999999804,0.18000000000000682
+went,71,"Down they went,","Down they went,",positioning element,Aqua,Jacob_Aqua,went,174.66,175.06,0.18000000000000682,0.4000000000000057
+rolling,72,rolling over each other,rolling over each other,nonfinite clause,Aqua,Jacob_Aqua,rolling,175.13,175.6,0.46999999999999886,0.46999999999999886
+over,72,rolling over each other,rolling over each other,nonfinite clause,Aqua,Jacob_Aqua,over,175.62,175.95000000000002,0.4900000000000091,0.3300000000000125
+each,72,rolling over each other,rolling over each other,nonfinite clause,Aqua,Jacob_Aqua,each,175.95,176.19,0.3299999999999841,0.2400000000000091
+other,72,rolling over each other,rolling over each other,nonfinite clause,Aqua,Jacob_Aqua,other,176.19,176.47,0.2400000000000091,0.28000000000000114
+until,73,"until with a patter and clatter and spatter they touched the ground,","until with a patter and clatter and spatter they touched the ground,",conjunction,Aqua,Jacob_Aqua,until,176.49,176.87,0.30000000000001137,0.37999999999999545
+with,73,"until with a patter and clatter and spatter they touched the ground,","until with a patter and clatter and spatter they touched the ground,",conjunction,Aqua,Jacob_Aqua,with,176.87,177.04,0.37999999999999545,0.1699999999999875
+a,73,"until with a patter and clatter and spatter they touched the ground,","until with a patter and clatter and spatter they touched the ground,",conjunction,Aqua,Jacob_Aqua,a,177.04,177.15,0.1699999999999875,0.11000000000001364
+patter,73,"until with a patter and clatter and spatter they touched the ground,","until with a patter and clatter and spatter they touched the ground,",conjunction,Aqua,Jacob_Aqua,patter,177.179999,177.60999900000002,0.1399990000000173,0.4300000000000068
+and,73,"until with a patter and clatter and spatter they touched the ground,","until with a patter and clatter and spatter they touched the ground,",conjunction,Aqua,Jacob_Aqua,and,177.61,177.64,0.4300010000000043,0.029999999999972715
+clatter,73,"until with a patter and clatter and spatter they touched the ground,","until with a patter and clatter and spatter they touched the ground,",conjunction,Aqua,Jacob_Aqua,<unk>,177.639999,178.08999899999998,0.02999899999997524,0.44999999999998863
+and,73,"until with a patter and clatter and spatter they touched the ground,","until with a patter and clatter and spatter they touched the ground,",conjunction,Aqua,Jacob_Aqua,and,179.57999999999998,179.61,1.9400009999999952,0.03000000000002956
+spatter,73,"until with a patter and clatter and spatter they touched the ground,","until with a patter and clatter and spatter they touched the ground,",conjunction,Aqua,Jacob_Aqua,<unk>,179.609999,179.70999899999998,0.02999900000000366,0.09999999999999432
+they,73,"until with a patter and clatter and spatter they touched the ground,","until with a patter and clatter and spatter they touched the ground,",conjunction,Aqua,Jacob_Aqua,they,179.709999,179.82999900000002,0.10000000000002274,0.12000000000000455
+touched,73,"until with a patter and clatter and spatter they touched the ground,","until with a patter and clatter and spatter they touched the ground,",conjunction,Aqua,Jacob_Aqua,touched,179.82999999999998,180.18,0.1200009999999736,0.35000000000002274
+the,73,"until with a patter and clatter and spatter they touched the ground,","until with a patter and clatter and spatter they touched the ground,",conjunction,Aqua,Jacob_Aqua,the,180.190001,180.310001,0.3600010000000111,0.12000000000000455
+ground,73,"until with a patter and clatter and spatter they touched the ground,","until with a patter and clatter and spatter they touched the ground,",conjunction,Aqua,Jacob_Aqua,ground,180.31,180.85,0.11999900000000707,0.539999999999992
+and,74,and all the people,and all the people,conjunction,Aqua,Jacob_Aqua,and,181.56,181.75,1.25,0.18999999999999773
+all,74,and all the people,and all the people,conjunction,Aqua,Jacob_Aqua,all,181.75,181.87,0.18999999999999773,0.12000000000000455
+the,74,and all the people,and all the people,conjunction,Aqua,Jacob_Aqua,the,181.87,182.01,0.12000000000000455,0.13999999999998636
+people,74,and all the people,and all the people,conjunction,Aqua,Jacob_Aqua,people,182.02,182.38,0.15000000000000568,0.3599999999999852
+that,75,that the raindrops fell on,that the raindrops fell on,relative clause,Aqua,Jacob_Aqua,that,182.38,182.56,0.3599999999999852,0.18000000000000682
+the,75,that the raindrops fell on,that the raindrops fell on,relative clause,Aqua,Jacob_Aqua,the,182.56,182.59,0.18000000000000682,0.030000000000001137
+raindrops,75,that the raindrops fell on,that the raindrops fell on,relative clause,Aqua,Jacob_Aqua,<unk>,182.59,183.3,0.030000000000001137,0.710000000000008
+fell,75,that the raindrops fell on,that the raindrops fell on,relative clause,Aqua,Jacob_Aqua,fell,183.3,183.54,0.710000000000008,0.23999999999998067
+on,75,that the raindrops fell on,that the raindrops fell on,relative clause,Aqua,Jacob_Aqua,on,183.54,183.7,0.23999999999998067,0.1599999999999966
+cried,76,"cried, 'It's raining', and took out their umbrellas.","cried, 'It's raining', and took out their umbrellas.",>maximal segment,Aqua,Jacob_Aqua,cried,183.7,184.15,0.1599999999999966,0.45000000000001705
+'It's,76,"cried, 'It's raining', and took out their umbrellas.","cried, 'It's raining', and took out their umbrellas.",>maximal segment,Aqua,Jacob_Aqua,<unk>,184.37,184.48,0.6700000000000159,0.10999999999998522
+raining',76,"cried, 'It's raining', and took out their umbrellas.","cried, 'It's raining', and took out their umbrellas.",>maximal segment,Aqua,Jacob_Aqua,,184.48,185.49,,
+and,76,"cried, 'It's raining', and took out their umbrellas.","cried, 'It's raining', and took out their umbrellas.",>maximal segment,Aqua,Jacob_Aqua,and,185.49,185.74,,0.25
+took,76,"cried, 'It's raining', and took out their umbrellas.","cried, 'It's raining', and took out their umbrellas.",>maximal segment,Aqua,Jacob_Aqua,took,185.74,185.94,0.25,0.19999999999998863
+out,76,"cried, 'It's raining', and took out their umbrellas.","cried, 'It's raining', and took out their umbrellas.",>maximal segment,Aqua,Jacob_Aqua,out,185.94,186.12,0.19999999999998863,0.18000000000000682
+their,76,"cried, 'It's raining', and took out their umbrellas.","cried, 'It's raining', and took out their umbrellas.",>maximal segment,Aqua,Jacob_Aqua,their,186.12,186.28,0.18000000000000682,0.1599999999999966
+umbrellas,76,"cried, 'It's raining', and took out their umbrellas.","cried, 'It's raining', and took out their umbrellas.",>maximal segment,Aqua,Jacob_Aqua,umbrellas,186.28,187.05,0.1599999999999966,0.7700000000000102
+Some,77,Some of the drops,Some of the drops,-,Aqua,Jacob_Aqua,some,187.72,187.96,1.4399999999999977,0.2400000000000091
+of,77,Some of the drops,Some of the drops,-,Aqua,Jacob_Aqua,of,187.96,188.05,0.2400000000000091,0.09000000000000341
+the,77,Some of the drops,Some of the drops,-,Aqua,Jacob_Aqua,the,188.05,188.2,0.09000000000000341,0.14999999999997726
+drops,77,Some of the drops,Some of the drops,-,Aqua,Jacob_Aqua,drops,188.21,188.63,0.1599999999999966,0.4199999999999875
+that,78,"that were the most fortunate,","that were the most fortunate,",relative clause,Aqua,Jacob_Aqua,that,188.63,188.82,0.4199999999999875,0.18999999999999773
+were,78,"that were the most fortunate,","that were the most fortunate,",relative clause,Aqua,Jacob_Aqua,were,188.82,188.96,0.18999999999999773,0.14000000000001478
+the,78,"that were the most fortunate,","that were the most fortunate,",relative clause,Aqua,Jacob_Aqua,the,188.96,189.06,0.14000000000001478,0.09999999999999432
+most,78,"that were the most fortunate,","that were the most fortunate,",relative clause,Aqua,Jacob_Aqua,most,189.059999,189.329999,0.09999899999999684,0.2699999999999818
+fortunate,78,"that were the most fortunate,","that were the most fortunate,",relative clause,Aqua,Jacob_Aqua,fortunate,189.33,190.03,0.2700010000000077,0.6999999999999886
+including,79,"including Aqua,","including Aqua,",nonrestrictive clause,Aqua,Jacob_Aqua,including,190.179999,190.739999,0.8499989999999968,0.5600000000000023
+Aqua,79,"including Aqua,","including Aqua,",nonrestrictive clause,Aqua,Jacob_Aqua,aqua,190.75,191.32,0.5700009999999907,0.5699999999999932
+fell,80,"fell on a mountainside,","fell on a mountainside,",-,Aqua,Jacob_Aqua,fell,191.69,191.94,0.9399999999999977,0.25
+on,80,"fell on a mountainside,","fell on a mountainside,",-,Aqua,Jacob_Aqua,on,191.94,192.06,0.25,0.12000000000000455
+a,80,"fell on a mountainside,","fell on a mountainside,",-,Aqua,Jacob_Aqua,a,192.059999,192.069999,0.11999900000000707,0.009999999999990905
+mountainside,80,"fell on a mountainside,","fell on a mountainside,",-,Aqua,Jacob_Aqua,mountainside,192.13,193.03,0.07000099999999065,0.9000000000000057
+and,81,and down the rocky cliff they ran.,and down the rocky cliff they ran.,conjunction; >maximal segment,Aqua,Jacob_Aqua,and,193.44,193.65,1.3100000000000023,0.21000000000000796
+down,81,and down the rocky cliff they ran.,and down the rocky cliff they ran.,conjunction; >maximal segment,Aqua,Jacob_Aqua,down,193.66,193.92,0.21999999999999886,0.2599999999999909
+the,81,and down the rocky cliff they ran.,and down the rocky cliff they ran.,conjunction; >maximal segment,Aqua,Jacob_Aqua,the,193.92,194.06,0.2599999999999909,0.14000000000001478
+rocky,81,and down the rocky cliff they ran.,and down the rocky cliff they ran.,conjunction; >maximal segment,Aqua,Jacob_Aqua,rocky,194.059999,194.429999,0.1399990000000173,0.37000000000000455
+cliff,81,and down the rocky cliff they ran.,and down the rocky cliff they ran.,conjunction; >maximal segment,Aqua,Jacob_Aqua,cliff,194.429999,194.729999,0.37000000000000455,0.29999999999998295
+they,81,and down the rocky cliff they ran.,and down the rocky cliff they ran.,conjunction; >maximal segment,Aqua,Jacob_Aqua,they,194.73,194.91,0.3000009999999804,0.18000000000000682
+ran,81,and down the rocky cliff they ran.,and down the rocky cliff they ran.,conjunction; >maximal segment,Aqua,Jacob_Aqua,ran,194.91,195.36,0.18000000000000682,0.45000000000001705
+Together,82,"Together they plunged into a mountain brook,","Together they plunged into a mountain brook,",-,Aqua,Jacob_Aqua,together,196.059999,196.529999,1.1499990000000082,0.46999999999999886
+they,82,"Together they plunged into a mountain brook,","Together they plunged into a mountain brook,",-,Aqua,Jacob_Aqua,they,196.529999,196.679999,0.46999999999999886,0.15000000000000568
+plunged,82,"Together they plunged into a mountain brook,","Together they plunged into a mountain brook,",-,Aqua,Jacob_Aqua,plunged,196.68,197.14,0.15000100000000316,0.45999999999997954
+into,82,"Together they plunged into a mountain brook,","Together they plunged into a mountain brook,",-,Aqua,Jacob_Aqua,into,197.139999,197.449999,0.45999899999998206,0.3100000000000023
+a,82,"Together they plunged into a mountain brook,","Together they plunged into a mountain brook,",-,Aqua,Jacob_Aqua,a,197.449999,197.539999,0.3100000000000023,0.09000000000000341
+mountain,82,"Together they plunged into a mountain brook,","Together they plunged into a mountain brook,",-,Aqua,Jacob_Aqua,mountain,197.549999,198.019999,0.10000000000002274,0.46999999999999886
+brook,82,"Together they plunged into a mountain brook,","Together they plunged into a mountain brook,",-,Aqua,Jacob_Aqua,brook,198.02,198.48,0.47000099999999634,0.45999999999997954
+which,83,"which came foaming and dashing along,","which came foaming and dashing along,",relative clause / nonfinite clause,Aqua,Jacob_Aqua,which,198.89,199.18,0.8699999999999761,0.29000000000002046
+came,83,"which came foaming and dashing along,","which came foaming and dashing along,",relative clause / nonfinite clause,Aqua,Jacob_Aqua,came,199.18,199.47,0.29000000000002046,0.28999999999999204
+foaming,83,"which came foaming and dashing along,","which came foaming and dashing along,",relative clause / nonfinite clause,Aqua,Jacob_Aqua,foaming,199.47,199.94,0.28999999999999204,0.46999999999999886
+and,83,"which came foaming and dashing along,","which came foaming and dashing along,",relative clause / nonfinite clause,Aqua,Jacob_Aqua,and,199.94,200.06,0.46999999999999886,0.12000000000000455
+dashing,83,"which came foaming and dashing along,","which came foaming and dashing along,",relative clause / nonfinite clause,Aqua,Jacob_Aqua,dashing,200.06,200.49,0.12000000000000455,0.4300000000000068
+along,83,"which came foaming and dashing along,","which came foaming and dashing along,",relative clause / nonfinite clause,Aqua,Jacob_Aqua,along,200.49,200.92,0.4300000000000068,0.4299999999999784
+leaping,84,leaping over rocks,leaping over rocks,nonfinite clause,Aqua,Jacob_Aqua,leaping,201.32,201.75,0.8299999999999841,0.4300000000000068
+over,84,leaping over rocks,leaping over rocks,nonfinite clause,Aqua,Jacob_Aqua,over,201.75,202.02,0.4300000000000068,0.27000000000001023
+rocks,84,leaping over rocks,leaping over rocks,nonfinite clause,Aqua,Jacob_Aqua,rocks,202.02,202.39,0.27000000000001023,0.3699999999999761
+and,85,"and rushing down the hillside,","and rushing down the hillside,",nonfinite clause,Aqua,Jacob_Aqua,and,202.42,202.63,0.39999999999997726,0.21000000000000796
+rushing,85,"and rushing down the hillside,","and rushing down the hillside,",nonfinite clause,Aqua,Jacob_Aqua,rushing,202.63,203.02,0.21000000000000796,0.3900000000000148
+down,85,"and rushing down the hillside,","and rushing down the hillside,",nonfinite clause,Aqua,Jacob_Aqua,down,203.02,203.28,0.3900000000000148,0.2599999999999909
+the,85,"and rushing down the hillside,","and rushing down the hillside,",nonfinite clause,Aqua,Jacob_Aqua,the,203.28,203.37,0.2599999999999909,0.09000000000000341
+hillside,85,"and rushing down the hillside,","and rushing down the hillside,",nonfinite clause,Aqua,Jacob_Aqua,hillside,203.37,203.96,0.09000000000000341,0.5900000000000034
+until,86,until in the valley below,until in the valley below,conjunction / positioning element,Aqua,Jacob_Aqua,until,204.4,204.85,1.0300000000000011,0.44999999999998863
+in,86,until in the valley below,until in the valley below,conjunction / positioning element,Aqua,Jacob_Aqua,in,204.85,204.96,0.44999999999998863,0.11000000000001364
+the,86,until in the valley below,until in the valley below,conjunction / positioning element,Aqua,Jacob_Aqua,the,204.96,205.07,0.11000000000001364,0.10999999999998522
+valley,86,until in the valley below,until in the valley below,conjunction / positioning element,Aqua,Jacob_Aqua,valley,205.07,205.48,0.10999999999998522,0.4099999999999966
+below,86,until in the valley below,until in the valley below,conjunction / positioning element,Aqua,Jacob_Aqua,below,205.48,205.92,0.4099999999999966,0.4399999999999977
+they,87,they heard the strangest clattering noise.,they heard the strangest clattering noise.,>maximal segment,Aqua,Jacob_Aqua,they,205.97,206.17,0.4900000000000091,0.19999999999998863
+heard,87,they heard the strangest clattering noise.,they heard the strangest clattering noise.,>maximal segment,Aqua,Jacob_Aqua,heard,206.17,206.48,0.19999999999998863,0.3100000000000023
+the,87,they heard the strangest clattering noise.,they heard the strangest clattering noise.,>maximal segment,Aqua,Jacob_Aqua,the,206.48,206.59,0.3100000000000023,0.11000000000001364
+strangest,87,they heard the strangest clattering noise.,they heard the strangest clattering noise.,>maximal segment,Aqua,Jacob_Aqua,strangest,206.59,207.23,0.11000000000001364,0.6399999999999864
+clattering,87,they heard the strangest clattering noise.,they heard the strangest clattering noise.,>maximal segment,Aqua,Jacob_Aqua,<unk>,207.26,207.82,0.6699999999999875,0.5600000000000023
+noise,87,they heard the strangest clattering noise.,they heard the strangest clattering noise.,>maximal segment,Aqua,Jacob_Aqua,noise,207.82,208.37,0.5600000000000023,0.5500000000000114
+The,88,The little water drops were then able,The little water drops were then able,-,Aqua,Jacob_Aqua,the,208.849999,208.999999,1.0299990000000037,0.15000000000000568
+little,88,The little water drops were then able,The little water drops were then able,-,Aqua,Jacob_Aqua,little,209.0,209.28,0.15000100000000316,0.28000000000000114
+water,88,The little water drops were then able,The little water drops were then able,-,Aqua,Jacob_Aqua,water,209.28,209.65,0.28000000000000114,0.37000000000000455
+drops,88,The little water drops were then able,The little water drops were then able,-,Aqua,Jacob_Aqua,drops,209.65,210.07,0.37000000000000455,0.4199999999999875
+were,88,The little water drops were then able,The little water drops were then able,-,Aqua,Jacob_Aqua,were,210.07,210.26,0.4199999999999875,0.18999999999999773
+then,88,The little water drops were then able,The little water drops were then able,-,Aqua,Jacob_Aqua,then,210.259999,210.529999,0.18999900000000025,0.27000000000001023
+able,88,The little water drops were then able,The little water drops were then able,-,Aqua,Jacob_Aqua,able,210.54,210.84,0.2800009999999986,0.30000000000001137
+to,89,to make out a flour mill,to make out a flour mill,infinitival phrase,Aqua,Jacob_Aqua,to,210.84,211.03,0.30000000000001137,0.18999999999999773
+make,89,to make out a flour mill,to make out a flour mill,infinitival phrase,Aqua,Jacob_Aqua,make,211.03,211.28,0.18999999999999773,0.25
+out,89,to make out a flour mill,to make out a flour mill,infinitival phrase,Aqua,Jacob_Aqua,out,211.28,211.5,0.25,0.21999999999999886
+a,89,to make out a flour mill,to make out a flour mill,infinitival phrase,Aqua,Jacob_Aqua,a,211.509999,211.649999,0.2299989999999923,0.14000000000001478
+flour,89,to make out a flour mill,to make out a flour mill,infinitival phrase,Aqua,Jacob_Aqua,flour,211.65,212.15,0.14000100000001225,0.5
+mill,89,to make out a flour mill,to make out a flour mill,infinitival phrase,Aqua,Jacob_Aqua,mill,212.15,212.48,0.5,0.3299999999999841
+that,90,that was standing on the bank.,that was standing on the bank.,relative clause; >maximal segment,Aqua,Jacob_Aqua,that,212.9,213.11,0.75,0.21000000000000796
+was,90,that was standing on the bank.,that was standing on the bank.,relative clause; >maximal segment,Aqua,Jacob_Aqua,was,213.11,213.26,0.21000000000000796,0.14999999999997726
+standing,90,that was standing on the bank.,that was standing on the bank.,relative clause; >maximal segment,Aqua,Jacob_Aqua,standing,213.259999,213.709999,0.1499989999999798,0.45000000000001705
+on,90,that was standing on the bank.,that was standing on the bank.,relative clause; >maximal segment,Aqua,Jacob_Aqua,on,213.71,213.83,0.45000100000001453,0.12000000000000455
+the,90,that was standing on the bank.,that was standing on the bank.,relative clause; >maximal segment,Aqua,Jacob_Aqua,the,213.83,213.94000000000003,0.12000000000000455,0.11000000000001364
+bank,90,that was standing on the bank.,that was standing on the bank.,relative clause; >maximal segment,Aqua,Jacob_Aqua,bank,213.95,214.43,0.11999999999997613,0.4800000000000182
+Inside,91,"Inside the mill,","Inside the mill,",positioning element,Aqua,Jacob_Aqua,inside,214.98,215.5,1.0300000000000011,0.5200000000000102
+the,91,"Inside the mill,","Inside the mill,",positioning element,Aqua,Jacob_Aqua,the,215.5,215.58,0.5200000000000102,0.0800000000000125
+mill,91,"Inside the mill,","Inside the mill,",positioning element,Aqua,Jacob_Aqua,mill,215.58,215.98,0.0800000000000125,0.39999999999997726
+the,92,"the water drops saw two great stones,","the water drops saw two great stones,",-,Aqua,Jacob_Aqua,the,216.09,216.24,0.5099999999999909,0.15000000000000568
+water,92,"the water drops saw two great stones,","the water drops saw two great stones,",-,Aqua,Jacob_Aqua,water,216.24,216.58,0.15000000000000568,0.3400000000000034
+drops,92,"the water drops saw two great stones,","the water drops saw two great stones,",-,Aqua,Jacob_Aqua,drops,216.59,216.92,0.3499999999999943,0.3299999999999841
+saw,92,"the water drops saw two great stones,","the water drops saw two great stones,",-,Aqua,Jacob_Aqua,saw,216.92,217.13,0.3299999999999841,0.21000000000000796
+two,92,"the water drops saw two great stones,","the water drops saw two great stones,",-,Aqua,Jacob_Aqua,two,217.13,217.47,0.21000000000000796,0.3400000000000034
+great,92,"the water drops saw two great stones,","the water drops saw two great stones,",-,Aqua,Jacob_Aqua,great,217.47,217.76,0.3400000000000034,0.28999999999999204
+stones,92,"the water drops saw two great stones,","the water drops saw two great stones,",-,Aqua,Jacob_Aqua,stones,217.76,218.36,0.28999999999999204,0.6000000000000227
+which,93,which the big wheel kept whizzing round and round.,which the big wheel kept whizzing round and round.,relative clause; >maximal segment,Aqua,Jacob_Aqua,which,218.74,219.01,0.9800000000000182,0.2699999999999818
+the,93,which the big wheel kept whizzing round and round.,which the big wheel kept whizzing round and round.,relative clause; >maximal segment,Aqua,Jacob_Aqua,the,219.01,219.15,0.2699999999999818,0.14000000000001478
+big,93,which the big wheel kept whizzing round and round.,which the big wheel kept whizzing round and round.,relative clause; >maximal segment,Aqua,Jacob_Aqua,big,219.16,219.45,0.15000000000000568,0.28999999999999204
+wheel,93,which the big wheel kept whizzing round and round.,which the big wheel kept whizzing round and round.,relative clause; >maximal segment,Aqua,Jacob_Aqua,wheel,219.45,219.71,0.28999999999999204,0.2600000000000193
+kept,93,which the big wheel kept whizzing round and round.,which the big wheel kept whizzing round and round.,relative clause; >maximal segment,Aqua,Jacob_Aqua,kept,219.71,219.99,0.2600000000000193,0.28000000000000114
+whizzing,93,which the big wheel kept whizzing round and round.,which the big wheel kept whizzing round and round.,relative clause; >maximal segment,Aqua,Jacob_Aqua,whizzing,219.99,220.39,0.28000000000000114,0.39999999999997726
+round,93,which the big wheel kept whizzing round and round.,which the big wheel kept whizzing round and round.,relative clause; >maximal segment,Aqua,Jacob_Aqua,round,220.4,220.77,0.4099999999999966,0.37000000000000455
+and,93,which the big wheel kept whizzing round and round.,which the big wheel kept whizzing round and round.,relative clause; >maximal segment,Aqua,Jacob_Aqua,and,220.77,220.97,0.37000000000000455,0.19999999999998863
+round,93,which the big wheel kept whizzing round and round.,which the big wheel kept whizzing round and round.,relative clause; >maximal segment,Aqua,Jacob_Aqua,round,220.97,221.49,0.19999999999998863,0.5200000000000102
+The,94,"The stones,","The stones,",-,Aqua,Jacob_Aqua,the,221.97,222.15,1.0,0.18000000000000682
+stones,94,"The stones,","The stones,",-,Aqua,Jacob_Aqua,stones,222.15,222.79,0.18000000000000682,0.6399999999999864
+smoothed,95,"smoothed by the spinning,","smoothed by the spinning,",nonrestrictive clause,Aqua,Jacob_Aqua,smoothed,222.98,223.6,0.8299999999999841,0.6200000000000045
+by,95,"smoothed by the spinning,","smoothed by the spinning,",nonrestrictive clause,Aqua,Jacob_Aqua,by,223.6,223.79,0.6200000000000045,0.18999999999999773
+the,95,"smoothed by the spinning,","smoothed by the spinning,",nonrestrictive clause,Aqua,Jacob_Aqua,the,223.8,223.94,0.20000000000001705,0.13999999999998636
+spinning,95,"smoothed by the spinning,","smoothed by the spinning,",nonrestrictive clause,Aqua,Jacob_Aqua,spinning,223.94,224.61,0.13999999999998636,0.6700000000000159
+were,96,were busy,were busy,-,Aqua,Jacob_Aqua,were,225.04,225.26,1.0999999999999943,0.21999999999999886
+busy,96,were busy,were busy,-,Aqua,Jacob_Aqua,busy,225.26,225.65,0.21999999999999886,0.3900000000000148
+grinding,97,grinding the wheat into flour and the corn into golden meal.,grinding the wheat into flour and the corn into golden meal.,nonfinite clause; >maximal segment,Aqua,Jacob_Aqua,grinding,225.65,226.15,0.3900000000000148,0.5
+the,97,grinding the wheat into flour and the corn into golden meal.,grinding the wheat into flour and the corn into golden meal.,nonfinite clause; >maximal segment,Aqua,Jacob_Aqua,the,226.15,226.29,0.5,0.13999999999998636
+wheat,97,grinding the wheat into flour and the corn into golden meal.,grinding the wheat into flour and the corn into golden meal.,nonfinite clause; >maximal segment,Aqua,Jacob_Aqua,wheat,226.29,226.6,0.13999999999998636,0.3100000000000023
+into,97,grinding the wheat into flour and the corn into golden meal.,grinding the wheat into flour and the corn into golden meal.,nonfinite clause; >maximal segment,Aqua,Jacob_Aqua,into,226.61,226.93,0.3200000000000216,0.3199999999999932
+flour,97,grinding the wheat into flour and the corn into golden meal.,grinding the wheat into flour and the corn into golden meal.,nonfinite clause; >maximal segment,Aqua,Jacob_Aqua,flour,226.929999,227.559999,0.3199989999999957,0.6299999999999955
+and,97,grinding the wheat into flour and the corn into golden meal.,grinding the wheat into flour and the corn into golden meal.,nonfinite clause; >maximal segment,Aqua,Jacob_Aqua,and,227.95,228.15,1.0200009999999793,0.20000000000001705
+the,97,grinding the wheat into flour and the corn into golden meal.,grinding the wheat into flour and the corn into golden meal.,nonfinite clause; >maximal segment,Aqua,Jacob_Aqua,the,228.15,228.25,0.20000000000001705,0.09999999999999432
+corn,97,grinding the wheat into flour and the corn into golden meal.,grinding the wheat into flour and the corn into golden meal.,nonfinite clause; >maximal segment,Aqua,Jacob_Aqua,corn,228.25,228.64,0.09999999999999432,0.38999999999998636
+into,97,grinding the wheat into flour and the corn into golden meal.,grinding the wheat into flour and the corn into golden meal.,nonfinite clause; >maximal segment,Aqua,Jacob_Aqua,into,228.65,228.92,0.4000000000000057,0.2699999999999818
+golden,97,grinding the wheat into flour and the corn into golden meal.,grinding the wheat into flour and the corn into golden meal.,nonfinite clause; >maximal segment,Aqua,Jacob_Aqua,golden,228.92,229.36,0.2699999999999818,0.44000000000002615
+meal,97,grinding the wheat into flour and the corn into golden meal.,grinding the wheat into flour and the corn into golden meal.,nonfinite clause; >maximal segment,Aqua,Jacob_Aqua,meal,229.36,229.81,0.44000000000002615,0.44999999999998863
+But,98,But what giant do you suppose it was,But what giant do you suppose it was,-,Aqua,Jacob_Aqua,but,230.45,230.61,1.089999999999975,0.160000000000025
+what,98,But what giant do you suppose it was,But what giant do you suppose it was,-,Aqua,Jacob_Aqua,what,230.61,230.87,0.160000000000025,0.2599999999999909
+giant,98,But what giant do you suppose it was,But what giant do you suppose it was,-,Aqua,Jacob_Aqua,giant,230.88,231.36,0.2699999999999818,0.4800000000000182
+do,98,But what giant do you suppose it was,But what giant do you suppose it was,-,Aqua,Jacob_Aqua,do,231.37,231.44,0.4900000000000091,0.06999999999999318
+you,98,But what giant do you suppose it was,But what giant do you suppose it was,-,Aqua,Jacob_Aqua,you,231.44,231.66,0.06999999999999318,0.21999999999999886
+suppose,98,But what giant do you suppose it was,But what giant do you suppose it was,-,Aqua,Jacob_Aqua,suppose,231.66,232.12,0.21999999999999886,0.46000000000000796
+it,98,But what giant do you suppose it was,But what giant do you suppose it was,-,Aqua,Jacob_Aqua,it,232.119999,232.229999,0.4599990000000105,0.10999999999998522
+was,98,But what giant do you suppose it was,But what giant do you suppose it was,-,Aqua,Jacob_Aqua,was,232.24,232.59,0.12000100000000202,0.3499999999999943
+who,99,who could turn and swing that tremendous wheel?,who could turn and swing that tremendous wheel?,relative clause; >maximal segment,Aqua,Jacob_Aqua,who,232.59,232.8,0.3499999999999943,0.21000000000000796
+could,99,who could turn and swing that tremendous wheel?,who could turn and swing that tremendous wheel?,relative clause; >maximal segment,Aqua,Jacob_Aqua,could,232.799999,233.019999,0.20999900000001048,0.21999999999999886
+turn,99,who could turn and swing that tremendous wheel?,who could turn and swing that tremendous wheel?,relative clause; >maximal segment,Aqua,Jacob_Aqua,turn,233.02,233.36,0.22000099999999634,0.3400000000000034
+and,99,who could turn and swing that tremendous wheel?,who could turn and swing that tremendous wheel?,relative clause; >maximal segment,Aqua,Jacob_Aqua,and,233.359999,233.549999,0.3399989999999775,0.19000000000002615
+swing,99,who could turn and swing that tremendous wheel?,who could turn and swing that tremendous wheel?,relative clause; >maximal segment,Aqua,Jacob_Aqua,swing,233.549999,233.929999,0.19000000000002615,0.37999999999999545
+that,99,who could turn and swing that tremendous wheel?,who could turn and swing that tremendous wheel?,relative clause; >maximal segment,Aqua,Jacob_Aqua,that,233.93,234.1,0.38000099999999293,0.1699999999999875
+tremendous,99,who could turn and swing that tremendous wheel?,who could turn and swing that tremendous wheel?,relative clause; >maximal segment,Aqua,Jacob_Aqua,tremendous,234.109999,234.709999,0.17999899999998092,0.6000000000000227
+wheel,99,who could turn and swing that tremendous wheel?,who could turn and swing that tremendous wheel?,relative clause; >maximal segment,Aqua,Jacob_Aqua,wheel,234.71,235.15,0.6000010000000202,0.4399999999999977
+No,100,No giant at all.,No giant at all.,>maximal segment,Aqua,Jacob_Aqua,no,235.78,236.09,1.0699999999999932,0.3100000000000023
+giant,100,No giant at all.,No giant at all.,>maximal segment,Aqua,Jacob_Aqua,giant,236.09,236.48,0.3100000000000023,0.38999999999998636
+at,100,No giant at all.,No giant at all.,>maximal segment,Aqua,Jacob_Aqua,at,236.51,236.69,0.4199999999999875,0.18000000000000682
+all,100,No giant at all.,No giant at all.,>maximal segment,Aqua,Jacob_Aqua,all,236.69,237.04,0.18000000000000682,0.3499999999999943
+It,101,"It was just our tiny little water drops,","It was just our tiny little water drops,",-,Aqua,Jacob_Aqua,it,237.66,237.84,0.9699999999999989,0.18000000000000682
+was,101,"It was just our tiny little water drops,","It was just our tiny little water drops,",-,Aqua,Jacob_Aqua,was,237.84,238.02,0.18000000000000682,0.18000000000000682
+just,101,"It was just our tiny little water drops,","It was just our tiny little water drops,",-,Aqua,Jacob_Aqua,just,238.02,238.23,0.18000000000000682,0.20999999999997954
+our,101,"It was just our tiny little water drops,","It was just our tiny little water drops,",-,Aqua,Jacob_Aqua,our,238.23,238.39,0.20999999999997954,0.1599999999999966
+tiny,101,"It was just our tiny little water drops,","It was just our tiny little water drops,",-,Aqua,Jacob_Aqua,tiny,238.39,238.81,0.1599999999999966,0.4200000000000159
+little,101,"It was just our tiny little water drops,","It was just our tiny little water drops,",-,Aqua,Jacob_Aqua,little,238.81,239.07,0.4200000000000159,0.2599999999999909
+water,101,"It was just our tiny little water drops,","It was just our tiny little water drops,",-,Aqua,Jacob_Aqua,water,239.07,239.4,0.2599999999999909,0.3300000000000125
+drops,101,"It was just our tiny little water drops,","It was just our tiny little water drops,",-,Aqua,Jacob_Aqua,drops,239.4,239.94,0.3300000000000125,0.539999999999992
+who,102,"who sprang on it by hundreds and thousands, and whirled it over and over.","who sprang on it by hundreds and thousands, and whirled it over and over.",relative clause; >maximal segment,Aqua,Jacob_Aqua,who,240.72,240.92,1.3199999999999932,0.19999999999998863
+sprang,102,"who sprang on it by hundreds and thousands, and whirled it over and over.","who sprang on it by hundreds and thousands, and whirled it over and over.",relative clause; >maximal segment,Aqua,Jacob_Aqua,sprang,240.92,241.37,0.19999999999998863,0.45000000000001705
+on,102,"who sprang on it by hundreds and thousands, and whirled it over and over.","who sprang on it by hundreds and thousands, and whirled it over and over.",relative clause; >maximal segment,Aqua,Jacob_Aqua,on,241.38,241.58,0.46000000000000796,0.20000000000001705
+it,102,"who sprang on it by hundreds and thousands, and whirled it over and over.","who sprang on it by hundreds and thousands, and whirled it over and over.",relative clause; >maximal segment,Aqua,Jacob_Aqua,it,241.58,241.73,0.20000000000001705,0.14999999999997726
+by,102,"who sprang on it by hundreds and thousands, and whirled it over and over.","who sprang on it by hundreds and thousands, and whirled it over and over.",relative clause; >maximal segment,Aqua,Jacob_Aqua,by,241.73,241.95,0.14999999999997726,0.21999999999999886
+hundreds,102,"who sprang on it by hundreds and thousands, and whirled it over and over.","who sprang on it by hundreds and thousands, and whirled it over and over.",relative clause; >maximal segment,Aqua,Jacob_Aqua,hundreds,241.96,242.49,0.2300000000000182,0.5300000000000011
+and,102,"who sprang on it by hundreds and thousands, and whirled it over and over.","who sprang on it by hundreds and thousands, and whirled it over and over.",relative clause; >maximal segment,Aqua,Jacob_Aqua,and,242.49,242.64,0.5300000000000011,0.14999999999997726
+thousands,102,"who sprang on it by hundreds and thousands, and whirled it over and over.","who sprang on it by hundreds and thousands, and whirled it over and over.",relative clause; >maximal segment,Aqua,Jacob_Aqua,thousands,242.639999,243.309999,0.1499989999999798,0.6700000000000159
+and,102,"who sprang on it by hundreds and thousands, and whirled it over and over.","who sprang on it by hundreds and thousands, and whirled it over and over.",relative clause; >maximal segment,Aqua,Jacob_Aqua,and,244.01,244.23,1.370001000000002,0.21999999999999886
+whirled,102,"who sprang on it by hundreds and thousands, and whirled it over and over.","who sprang on it by hundreds and thousands, and whirled it over and over.",relative clause; >maximal segment,Aqua,Jacob_Aqua,<unk>,244.23,244.56,0.21999999999999886,0.3300000000000125
+it,102,"who sprang on it by hundreds and thousands, and whirled it over and over.","who sprang on it by hundreds and thousands, and whirled it over and over.",relative clause; >maximal segment,Aqua,Jacob_Aqua,it,244.559999,244.639999,0.32999900000001503,0.07999999999998408
+over,102,"who sprang on it by hundreds and thousands, and whirled it over and over.","who sprang on it by hundreds and thousands, and whirled it over and over.",relative clause; >maximal segment,Aqua,Jacob_Aqua,over,244.66,244.99,0.10000099999999179,0.3300000000000125
+and,102,"who sprang on it by hundreds and thousands, and whirled it over and over.","who sprang on it by hundreds and thousands, and whirled it over and over.",relative clause; >maximal segment,Aqua,Jacob_Aqua,and,244.99,245.15,0.3300000000000125,0.1599999999999966
+over,102,"who sprang on it by hundreds and thousands, and whirled it over and over.","who sprang on it by hundreds and thousands, and whirled it over and over.",relative clause; >maximal segment,Aqua,Jacob_Aqua,over,245.16,245.67,0.1699999999999875,0.5099999999999909
+It,103,It was lucky for the water drops,It was lucky for the water drops,-,Aqua,Jacob_Aqua,it,246.08,246.26,0.9200000000000159,0.1799999999999784
+was,103,It was lucky for the water drops,It was lucky for the water drops,-,Aqua,Jacob_Aqua,was,246.259999,246.459999,0.17999899999998092,0.20000000000001705
+lucky,103,It was lucky for the water drops,It was lucky for the water drops,-,Aqua,Jacob_Aqua,lucky,246.46,246.8,0.20000100000001453,0.3400000000000034
+for,103,It was lucky for the water drops,It was lucky for the water drops,-,Aqua,Jacob_Aqua,for,246.799999,246.949999,0.33999900000000594,0.14999999999997726
+the,103,It was lucky for the water drops,It was lucky for the water drops,-,Aqua,Jacob_Aqua,the,246.95,247.06,0.15000099999997474,0.11000000000001364
+water,103,It was lucky for the water drops,It was lucky for the water drops,-,Aqua,Jacob_Aqua,water,247.059999,247.399999,0.10999900000001617,0.3400000000000034
+drops,103,It was lucky for the water drops,It was lucky for the water drops,-,Aqua,Jacob_Aqua,drops,247.4,247.79,0.3400010000000009,0.38999999999998636
+that,104,that the brook,that the brook,complementizer,Aqua,Jacob_Aqua,that,247.79,247.99,0.38999999999998636,0.20000000000001705
+the,104,that the brook,that the brook,complementizer,Aqua,Jacob_Aqua,the,247.99,248.11,0.20000000000001705,0.12000000000000455
+brook,104,that the brook,that the brook,complementizer,Aqua,Jacob_Aqua,brook,248.11,248.46,0.12000000000000455,0.3499999999999943
+where,105,where they were swimming,where they were swimming,relative clause,Aqua,Jacob_Aqua,where,248.46,248.65,0.3499999999999943,0.18999999999999773
+they,105,where they were swimming,where they were swimming,relative clause,Aqua,Jacob_Aqua,they,248.65,248.85,0.18999999999999773,0.19999999999998863
+were,105,where they were swimming,where they were swimming,relative clause,Aqua,Jacob_Aqua,were,248.849999,249.019999,0.19999899999999116,0.17000000000001592
+swimming,105,where they were swimming,where they were swimming,relative clause,Aqua,Jacob_Aqua,swimming,249.02,249.59,0.1700010000000134,0.5699999999999932
+next,106,next emptied into a beautiful pond,next emptied into a beautiful pond,-,Aqua,Jacob_Aqua,next,249.599999,250.109999,0.5799989999999866,0.5099999999999909
+emptied,106,next emptied into a beautiful pond,next emptied into a beautiful pond,-,Aqua,Jacob_Aqua,emptied,250.15,250.57,0.5500010000000088,0.4199999999999875
+into,106,next emptied into a beautiful pond,next emptied into a beautiful pond,-,Aqua,Jacob_Aqua,into,250.57,251.02,0.4199999999999875,0.45000000000001705
+a,106,next emptied into a beautiful pond,next emptied into a beautiful pond,-,Aqua,Jacob_Aqua,a,251.02,251.11,0.45000000000001705,0.09000000000000341
+beautiful,106,next emptied into a beautiful pond,next emptied into a beautiful pond,-,Aqua,Jacob_Aqua,beautiful,251.139999,251.659999,0.11999899999997865,0.5200000000000102
+pond,106,next emptied into a beautiful pond,next emptied into a beautiful pond,-,Aqua,Jacob_Aqua,pond,251.66,252.15,0.5200010000000077,0.4900000000000091
+where,107,where ducks and geese were living peacefully.,where ducks and geese were living peacefully.,relative clause; >maximal segment,Aqua,Jacob_Aqua,where,252.16,252.37,0.5,0.21000000000000796
+ducks,107,where ducks and geese were living peacefully.,where ducks and geese were living peacefully.,relative clause; >maximal segment,Aqua,Jacob_Aqua,ducks,252.4,252.72,0.2400000000000091,0.3199999999999932
+and,107,where ducks and geese were living peacefully.,where ducks and geese were living peacefully.,relative clause; >maximal segment,Aqua,Jacob_Aqua,and,252.72,252.95,0.3199999999999932,0.22999999999998977
+geese,107,where ducks and geese were living peacefully.,where ducks and geese were living peacefully.,relative clause; >maximal segment,Aqua,Jacob_Aqua,geese,252.95,253.23,0.22999999999998977,0.28000000000000114
+were,107,where ducks and geese were living peacefully.,where ducks and geese were living peacefully.,relative clause; >maximal segment,Aqua,Jacob_Aqua,were,253.23,253.42,0.28000000000000114,0.18999999999999773
+living,107,where ducks and geese were living peacefully.,where ducks and geese were living peacefully.,relative clause; >maximal segment,Aqua,Jacob_Aqua,living,253.42,253.91000000000005,0.18999999999999773,0.49000000000006594
+peacefully,107,where ducks and geese were living peacefully.,where ducks and geese were living peacefully.,relative clause; >maximal segment,Aqua,Jacob_Aqua,peacefully,253.99,254.78,0.5700000000000216,0.789999999999992
+Aqua,108,"Aqua liked to play hide-and-seek in this pond,","Aqua liked to play hide-and-seek in this pond,",-,Aqua,Jacob_Aqua,aqua,255.5,255.87,1.509999999999991,0.37000000000000455
+liked,108,"Aqua liked to play hide-and-seek in this pond,","Aqua liked to play hide-and-seek in this pond,",-,Aqua,Jacob_Aqua,liked,255.87,256.08,0.37000000000000455,0.20999999999997954
+to,108,"Aqua liked to play hide-and-seek in this pond,","Aqua liked to play hide-and-seek in this pond,",-,Aqua,Jacob_Aqua,to,256.09,256.2,0.21999999999997044,0.11000000000001364
+play,108,"Aqua liked to play hide-and-seek in this pond,","Aqua liked to play hide-and-seek in this pond,",-,Aqua,Jacob_Aqua,play,256.2,256.5,0.11000000000001364,0.30000000000001137
+hide,108,"Aqua liked to play hide-and-seek in this pond,","Aqua liked to play hide-and-seek in this pond,",-,Aqua,Jacob_Aqua,hide,256.5,256.68,0.30000000000001137,0.18000000000000682
+and,108,"Aqua liked to play hide-and-seek in this pond,","Aqua liked to play hide-and-seek in this pond,",-,Aqua,Jacob_Aqua,and,256.68,256.84000000000003,0.18000000000000682,0.160000000000025
+seek,108,"Aqua liked to play hide-and-seek in this pond,","Aqua liked to play hide-and-seek in this pond,",-,Aqua,Jacob_Aqua,seek,256.84,257.1,0.15999999999996817,0.26000000000004775
+in,108,"Aqua liked to play hide-and-seek in this pond,","Aqua liked to play hide-and-seek in this pond,",-,Aqua,Jacob_Aqua,in,257.1,257.20000000000005,0.26000000000004775,0.10000000000002274
+this,108,"Aqua liked to play hide-and-seek in this pond,","Aqua liked to play hide-and-seek in this pond,",-,Aqua,Jacob_Aqua,this,257.2,257.4,0.0999999999999659,0.19999999999998863
+pond,108,"Aqua liked to play hide-and-seek in this pond,","Aqua liked to play hide-and-seek in this pond,",-,Aqua,Jacob_Aqua,pond,257.41,257.85,0.21000000000003638,0.4399999999999977
+and,109,and it was his brother water drop,and it was his brother water drop,conjunction,Aqua,Jacob_Aqua,and,258.24,258.41,0.8299999999999841,0.17000000000001592
+it,109,and it was his brother water drop,and it was his brother water drop,conjunction,Aqua,Jacob_Aqua,it,258.41,258.51000000000005,0.17000000000001592,0.10000000000002274
+was,109,and it was his brother water drop,and it was his brother water drop,conjunction,Aqua,Jacob_Aqua,was,258.51,258.66,0.0999999999999659,0.1500000000000341
+his,109,and it was his brother water drop,and it was his brother water drop,conjunction,Aqua,Jacob_Aqua,his,258.66,258.86,0.1500000000000341,0.19999999999998863
+brother,109,and it was his brother water drop,and it was his brother water drop,conjunction,Aqua,Jacob_Aqua,brother,258.86,259.25,0.19999999999998863,0.38999999999998636
+water,109,and it was his brother water drop,and it was his brother water drop,conjunction,Aqua,Jacob_Aqua,water,259.25,259.64,0.38999999999998636,0.38999999999998636
+drop,109,and it was his brother water drop,and it was his brother water drop,conjunction,Aqua,Jacob_Aqua,drop,259.64,260.13,0.38999999999998636,0.4900000000000091
+who,110,who he fooled,who he fooled,relative clause,Aqua,Jacob_Aqua,who,260.139999,260.409999,0.4999990000000025,0.27000000000003865
+he,110,who he fooled,who he fooled,relative clause,Aqua,Jacob_Aqua,he,260.42,260.62,0.28000100000002703,0.19999999999998863
+fooled,110,who he fooled,who he fooled,relative clause,Aqua,Jacob_Aqua,fooled,260.62,261.01,0.19999999999998863,0.38999999999998636
+by,111,by swimming to a big pool of water,by swimming to a big pool of water,nonfinite clause,Aqua,Jacob_Aqua,by,261.02,261.21,0.39999999999997726,0.18999999999999773
+swimming,111,by swimming to a big pool of water,by swimming to a big pool of water,nonfinite clause,Aqua,Jacob_Aqua,swimming,261.21,261.64,0.18999999999999773,0.4300000000000068
+to,111,by swimming to a big pool of water,by swimming to a big pool of water,nonfinite clause,Aqua,Jacob_Aqua,to,261.639999,261.809999,0.42999900000000935,0.17000000000001592
+a,111,by swimming to a big pool of water,by swimming to a big pool of water,nonfinite clause,Aqua,Jacob_Aqua,a,261.809999,261.899999,0.17000000000001592,0.08999999999997499
+big,111,by swimming to a big pool of water,by swimming to a big pool of water,nonfinite clause,Aqua,Jacob_Aqua,big,261.94,262.19,0.13000099999999293,0.25
+pool,111,by swimming to a big pool of water,by swimming to a big pool of water,nonfinite clause,Aqua,Jacob_Aqua,pool,262.21,262.47,0.2699999999999818,0.26000000000004775
+of,111,by swimming to a big pool of water,by swimming to a big pool of water,nonfinite clause,Aqua,Jacob_Aqua,of,262.469999,262.61999899999995,0.25999899999999343,0.14999999999997726
+water,111,by swimming to a big pool of water,by swimming to a big pool of water,nonfinite clause,Aqua,Jacob_Aqua,water,262.62,263.07,0.15000100000003158,0.44999999999998863
+and,112,"and pretending to hide there,","and pretending to hide there,",nonfinite clause,Aqua,Jacob_Aqua,and,263.48,263.67,0.8600000000000136,0.18999999999999773
+pretending,112,"and pretending to hide there,","and pretending to hide there,",nonfinite clause,Aqua,Jacob_Aqua,pretending,263.67,264.14000000000004,0.18999999999999773,0.4700000000000273
+to,112,"and pretending to hide there,","and pretending to hide there,",nonfinite clause,Aqua,Jacob_Aqua,to,264.139999,264.249999,0.46999899999997297,0.11000000000001364
+hide,112,"and pretending to hide there,","and pretending to hide there,",nonfinite clause,Aqua,Jacob_Aqua,hide,264.25,264.58,0.11000100000001112,0.3299999999999841
+there,112,"and pretending to hide there,","and pretending to hide there,",nonfinite clause,Aqua,Jacob_Aqua,there,264.58,264.91,0.3299999999999841,0.3300000000000409
+but,113,but then sneaking under a rock into an obscured little puddle.,but then sneaking under a rock into an obscured little puddle.,conjunction; >maximal segment,Aqua,Jacob_Aqua,but,265.58,265.76,1.0,0.18000000000000682
+then,113,but then sneaking under a rock into an obscured little puddle.,but then sneaking under a rock into an obscured little puddle.,conjunction; >maximal segment,Aqua,Jacob_Aqua,then,265.759999,265.959999,0.17999900000000935,0.19999999999998863
+sneaking,113,but then sneaking under a rock into an obscured little puddle.,but then sneaking under a rock into an obscured little puddle.,conjunction; >maximal segment,Aqua,Jacob_Aqua,sneaking,265.96,266.45,0.2000009999999861,0.4900000000000091
+under,113,but then sneaking under a rock into an obscured little puddle.,but then sneaking under a rock into an obscured little puddle.,conjunction; >maximal segment,Aqua,Jacob_Aqua,under,266.48,266.84000000000003,0.5200000000000387,0.36000000000001364
+a,113,but then sneaking under a rock into an obscured little puddle.,but then sneaking under a rock into an obscured little puddle.,conjunction; >maximal segment,Aqua,Jacob_Aqua,a,266.839999,266.909999,0.3599989999999593,0.07000000000005002
+rock,113,but then sneaking under a rock into an obscured little puddle.,but then sneaking under a rock into an obscured little puddle.,conjunction; >maximal segment,Aqua,Jacob_Aqua,rock,266.91,267.24,0.0700010000000475,0.3299999999999841
+into,113,but then sneaking under a rock into an obscured little puddle.,but then sneaking under a rock into an obscured little puddle.,conjunction; >maximal segment,Aqua,Jacob_Aqua,into,267.25,267.54,0.339999999999975,0.29000000000002046
+an,113,but then sneaking under a rock into an obscured little puddle.,but then sneaking under a rock into an obscured little puddle.,conjunction; >maximal segment,Aqua,Jacob_Aqua,an,267.54,267.67,0.29000000000002046,0.12999999999999545
+obscured,113,but then sneaking under a rock into an obscured little puddle.,but then sneaking under a rock into an obscured little puddle.,conjunction; >maximal segment,Aqua,Jacob_Aqua,obscured,267.69,268.41,0.14999999999997726,0.7200000000000273
+little,113,but then sneaking under a rock into an obscured little puddle.,but then sneaking under a rock into an obscured little puddle.,conjunction; >maximal segment,Aqua,Jacob_Aqua,little,268.42,268.73,0.7300000000000182,0.3100000000000023
+puddle,113,but then sneaking under a rock into an obscured little puddle.,but then sneaking under a rock into an obscured little puddle.,conjunction; >maximal segment,Aqua,Jacob_Aqua,puddle,268.73,269.24,0.3100000000000023,0.5099999999999909
+His,114,His brother had blatantly peaked and even followed Aqua,His brother had blatantly peaked and even followed Aqua,-,Aqua,Jacob_Aqua,his,269.690001,269.910001,0.960000999999977,0.22000000000002728
+brother,114,His brother had blatantly peaked and even followed Aqua,His brother had blatantly peaked and even followed Aqua,-,Aqua,Jacob_Aqua,brother,269.91,270.28000000000003,0.2199990000000298,0.37000000000000455
+had,114,His brother had blatantly peaked and even followed Aqua,His brother had blatantly peaked and even followed Aqua,-,Aqua,Jacob_Aqua,had,270.289999,270.479999,0.379998999999998,0.18999999999999773
+blatantly,114,His brother had blatantly peaked and even followed Aqua,His brother had blatantly peaked and even followed Aqua,-,Aqua,Jacob_Aqua,blatantly,270.48,271.22,0.1900009999999952,0.7400000000000091
+peaked,114,His brother had blatantly peaked and even followed Aqua,His brother had blatantly peaked and even followed Aqua,-,Aqua,Jacob_Aqua,peaked,271.24,271.74,0.7599999999999909,0.5
+and,114,His brother had blatantly peaked and even followed Aqua,His brother had blatantly peaked and even followed Aqua,-,Aqua,Jacob_Aqua,and,271.74,271.98,0.5,0.2400000000000091
+even,114,His brother had blatantly peaked and even followed Aqua,His brother had blatantly peaked and even followed Aqua,-,Aqua,Jacob_Aqua,even,271.99,272.35,0.25,0.36000000000001364
+followed,114,His brother had blatantly peaked and even followed Aqua,His brother had blatantly peaked and even followed Aqua,-,Aqua,Jacob_Aqua,followed,272.36,272.75,0.37000000000000455,0.38999999999998636
+Aqua,114,His brother had blatantly peaked and even followed Aqua,His brother had blatantly peaked and even followed Aqua,-,Aqua,Jacob_Aqua,aqua,272.76,273.25,0.39999999999997726,0.4900000000000091
+as,115,"as he entered the big pool of water,","as he entered the big pool of water,",conjunction,Aqua,Jacob_Aqua,as,273.67,273.93,0.910000000000025,0.2599999999999909
+he,115,"as he entered the big pool of water,","as he entered the big pool of water,",conjunction,Aqua,Jacob_Aqua,he,273.93,274.14,0.2599999999999909,0.20999999999997954
+entered,115,"as he entered the big pool of water,","as he entered the big pool of water,",conjunction,Aqua,Jacob_Aqua,entered,274.16,274.56,0.2300000000000182,0.39999999999997726
+the,115,"as he entered the big pool of water,","as he entered the big pool of water,",conjunction,Aqua,Jacob_Aqua,the,274.56,274.66,0.39999999999997726,0.10000000000002274
+big,115,"as he entered the big pool of water,","as he entered the big pool of water,",conjunction,Aqua,Jacob_Aqua,big,274.67,274.95,0.11000000000001364,0.2799999999999727
+pool,115,"as he entered the big pool of water,","as he entered the big pool of water,",conjunction,Aqua,Jacob_Aqua,pool,274.99,275.28000000000003,0.3199999999999932,0.29000000000002046
+of,115,"as he entered the big pool of water,","as he entered the big pool of water,",conjunction,Aqua,Jacob_Aqua,of,275.28,275.42999999999995,0.2899999999999636,0.14999999999997726
+water,115,"as he entered the big pool of water,","as he entered the big pool of water,",conjunction,Aqua,Jacob_Aqua,water,275.43,275.93,0.1500000000000341,0.5
+so,116,"so when he searched there and could not find him,","so when he searched there and could not find him,",conjunction / relative clause,Aqua,Jacob_Aqua,so,276.3,276.66,0.8700000000000045,0.36000000000001364
+when,116,"so when he searched there and could not find him,","so when he searched there and could not find him,",conjunction / relative clause,Aqua,Jacob_Aqua,when,276.66,277.05,0.36000000000001364,0.38999999999998636
+he,116,"so when he searched there and could not find him,","so when he searched there and could not find him,",conjunction / relative clause,Aqua,Jacob_Aqua,he,277.06,277.36,0.39999999999997726,0.30000000000001137
+searched,116,"so when he searched there and could not find him,","so when he searched there and could not find him,",conjunction / relative clause,Aqua,Jacob_Aqua,searched,277.36,277.79,0.30000000000001137,0.4300000000000068
+there,116,"so when he searched there and could not find him,","so when he searched there and could not find him,",conjunction / relative clause,Aqua,Jacob_Aqua,there,277.81,278.19,0.44999999999998863,0.37999999999999545
+and,116,"so when he searched there and could not find him,","so when he searched there and could not find him,",conjunction / relative clause,Aqua,Jacob_Aqua,and,278.2,278.42,0.38999999999998636,0.22000000000002728
+could,116,"so when he searched there and could not find him,","so when he searched there and could not find him,",conjunction / relative clause,Aqua,Jacob_Aqua,could,278.42,278.59000000000003,0.22000000000002728,0.17000000000001592
+not,116,"so when he searched there and could not find him,","so when he searched there and could not find him,",conjunction / relative clause,Aqua,Jacob_Aqua,not,278.59,278.81,0.16999999999995907,0.22000000000002728
+find,116,"so when he searched there and could not find him,","so when he searched there and could not find him,",conjunction / relative clause,Aqua,Jacob_Aqua,find,278.809999,279.159999,0.2199990000000298,0.35000000000002274
+him,116,"so when he searched there and could not find him,","so when he searched there and could not find him,",conjunction / relative clause,Aqua,Jacob_Aqua,him,279.16,279.46000000000004,0.3500010000000202,0.30000000000001137
+he,117,he was extremely surprised and gave up.,he was extremely surprised and gave up.,conjunction cont.; >maximal segment,Aqua,Jacob_Aqua,he,279.92,280.11,0.7599999999999909,0.18999999999999773
+was,117,he was extremely surprised and gave up.,he was extremely surprised and gave up.,conjunction cont.; >maximal segment,Aqua,Jacob_Aqua,was,280.11,280.27000000000004,0.18999999999999773,0.160000000000025
+extremely,117,he was extremely surprised and gave up.,he was extremely surprised and gave up.,conjunction cont.; >maximal segment,Aqua,Jacob_Aqua,extremely,280.27,280.87,0.15999999999996817,0.6000000000000227
+surprised,117,he was extremely surprised and gave up.,he was extremely surprised and gave up.,conjunction cont.; >maximal segment,Aqua,Jacob_Aqua,surprised,280.87,281.48,0.6000000000000227,0.6100000000000136
+and,117,he was extremely surprised and gave up.,he was extremely surprised and gave up.,conjunction cont.; >maximal segment,Aqua,Jacob_Aqua,and,281.48,281.64000000000004,0.6100000000000136,0.160000000000025
+gave,117,he was extremely surprised and gave up.,he was extremely surprised and gave up.,conjunction cont.; >maximal segment,Aqua,Jacob_Aqua,gave,281.639999,281.889999,0.1599989999999707,0.25
+up,117,he was extremely surprised and gave up.,he was extremely surprised and gave up.,conjunction cont.; >maximal segment,Aqua,Jacob_Aqua,up,281.889999,282.079999,0.25,0.18999999999999773
+Aqua,118,"Aqua liked this pond where he could play all day,","Aqua liked this pond where he could play all day,",-,Aqua,Jacob_Aqua,aqua,283.099999,283.44999900000005,1.2100000000000364,0.35000000000002274
+liked,118,"Aqua liked this pond where he could play all day,","Aqua liked this pond where he could play all day,",-,Aqua,Jacob_Aqua,liked,283.49,283.75,0.39000099999998383,0.2599999999999909
+this,118,"Aqua liked this pond where he could play all day,","Aqua liked this pond where he could play all day,",-,Aqua,Jacob_Aqua,this,283.759999,283.969999,0.26999899999998433,0.20999999999997954
+pond,118,"Aqua liked this pond where he could play all day,","Aqua liked this pond where he could play all day,",-,Aqua,Jacob_Aqua,pond,283.98,284.35,0.22000100000002476,0.37000000000000455
+where,118,"Aqua liked this pond where he could play all day,","Aqua liked this pond where he could play all day,",-,Aqua,Jacob_Aqua,where,284.349999,284.50999900000005,0.36999900000000707,0.160000000000025
+he,118,"Aqua liked this pond where he could play all day,","Aqua liked this pond where he could play all day,",-,Aqua,Jacob_Aqua,he,284.509999,284.719999,0.15999999999996817,0.20999999999997954
+could,118,"Aqua liked this pond where he could play all day,","Aqua liked this pond where he could play all day,",-,Aqua,Jacob_Aqua,could,284.719999,284.899999,0.20999999999997954,0.18000000000000682
+play,118,"Aqua liked this pond where he could play all day,","Aqua liked this pond where he could play all day,",-,Aqua,Jacob_Aqua,play,284.9,285.22,0.1800010000000043,0.32000000000005
+all,118,"Aqua liked this pond where he could play all day,","Aqua liked this pond where he could play all day,",-,Aqua,Jacob_Aqua,all,285.219999,285.439999,0.3199989999999957,0.22000000000002728
+day,118,"Aqua liked this pond where he could play all day,","Aqua liked this pond where he could play all day,",-,Aqua,Jacob_Aqua,day,285.44,285.85,0.22000100000002476,0.410000000000025
+so,119,"so he stayed a good while,","so he stayed a good while,",conjunction,Aqua,Jacob_Aqua,so,286.21999900000003,286.44999900000005,0.7799990000000321,0.2300000000000182
+he,119,"so he stayed a good while,","so he stayed a good while,",conjunction,Aqua,Jacob_Aqua,he,286.449999,286.569999,0.22999999999996135,0.12000000000000455
+stayed,119,"so he stayed a good while,","so he stayed a good while,",conjunction,Aqua,Jacob_Aqua,stayed,286.57,286.9,0.12000100000000202,0.3299999999999841
+a,119,"so he stayed a good while,","so he stayed a good while,",conjunction,Aqua,Jacob_Aqua,a,286.9,286.95,0.3299999999999841,0.05000000000001137
+good,119,"so he stayed a good while,","so he stayed a good while,",conjunction,Aqua,Jacob_Aqua,good,286.949999,287.159999,0.04999900000001389,0.21000000000003638
+while,119,"so he stayed a good while,","so he stayed a good while,",conjunction,Aqua,Jacob_Aqua,while,287.16,287.6,0.21000100000003386,0.4399999999999977
+sailing,120,"sailing up and down,","sailing up and down,",nonfinite clause,Aqua,Jacob_Aqua,sailing,287.949999,288.479999,0.7899989999999661,0.5300000000000296
+up,120,"sailing up and down,","sailing up and down,",nonfinite clause,Aqua,Jacob_Aqua,up,288.48,288.73,0.530001000000027,0.25
+and,120,"sailing up and down,","sailing up and down,",nonfinite clause,Aqua,Jacob_Aqua,and,288.73,288.89000000000004,0.25,0.160000000000025
+down,120,"sailing up and down,","sailing up and down,",nonfinite clause,Aqua,Jacob_Aqua,down,288.89,289.32,0.15999999999996817,0.4300000000000068
+taking,121,"taking the ducks' backs for ships and the frogs for horses,","taking the ducks' backs for ships and the frogs for horses,",nonfinite clause,Aqua,Jacob_Aqua,taking,289.52,289.88,0.6299999999999955,0.36000000000001364
+the,121,"taking the ducks' backs for ships and the frogs for horses,","taking the ducks' backs for ships and the frogs for horses,",nonfinite clause,Aqua,Jacob_Aqua,the,289.88,290.0,0.36000000000001364,0.12000000000000455
+ducks',121,"taking the ducks' backs for ships and the frogs for horses,","taking the ducks' backs for ships and the frogs for horses,",nonfinite clause,Aqua,Jacob_Aqua,,290.0,290.37,,
+backs,121,"taking the ducks' backs for ships and the frogs for horses,","taking the ducks' backs for ships and the frogs for horses,",nonfinite clause,Aqua,Jacob_Aqua,backs,290.37,290.76,,0.38999999999998636
+for,121,"taking the ducks' backs for ships and the frogs for horses,","taking the ducks' backs for ships and the frogs for horses,",nonfinite clause,Aqua,Jacob_Aqua,for,290.76,290.92,0.38999999999998636,0.160000000000025
+ships,121,"taking the ducks' backs for ships and the frogs for horses,","taking the ducks' backs for ships and the frogs for horses,",nonfinite clause,Aqua,Jacob_Aqua,ships,290.92,291.42,0.160000000000025,0.5
+and,121,"taking the ducks' backs for ships and the frogs for horses,","taking the ducks' backs for ships and the frogs for horses,",nonfinite clause,Aqua,Jacob_Aqua,and,291.46,291.67,0.5399999999999636,0.21000000000003638
+the,121,"taking the ducks' backs for ships and the frogs for horses,","taking the ducks' backs for ships and the frogs for horses,",nonfinite clause,Aqua,Jacob_Aqua,the,291.67,291.75,0.21000000000003638,0.07999999999998408
+frogs,121,"taking the ducks' backs for ships and the frogs for horses,","taking the ducks' backs for ships and the frogs for horses,",nonfinite clause,Aqua,Jacob_Aqua,frogs,291.75,292.19,0.07999999999998408,0.4399999999999977
+for,121,"taking the ducks' backs for ships and the frogs for horses,","taking the ducks' backs for ships and the frogs for horses,",nonfinite clause,Aqua,Jacob_Aqua,for,292.19,292.35,0.4399999999999977,0.160000000000025
+horses,121,"taking the ducks' backs for ships and the frogs for horses,","taking the ducks' backs for ships and the frogs for horses,",nonfinite clause,Aqua,Jacob_Aqua,horses,292.35,293.05,0.160000000000025,0.6999999999999886
+but,122,but after a time he tired of the dull life],but after a time he tired of the dull life],conjunction,Aqua,Jacob_Aqua,but,293.39,293.54,1.0399999999999636,0.1500000000000341
+after,122,but after a time he tired of the dull life],but after a time he tired of the dull life],conjunction,Aqua,Jacob_Aqua,after,293.54,293.88,0.1500000000000341,0.339999999999975
+a,122,but after a time he tired of the dull life],but after a time he tired of the dull life],conjunction,Aqua,Jacob_Aqua,a,293.88,293.98,0.339999999999975,0.10000000000002274
+time,122,but after a time he tired of the dull life],but after a time he tired of the dull life],conjunction,Aqua,Jacob_Aqua,time,293.98,294.44,0.10000000000002274,0.45999999999997954
+he,122,but after a time he tired of the dull life],but after a time he tired of the dull life],conjunction,Aqua,Jacob_Aqua,he,294.45,294.65,0.46999999999997044,0.19999999999998863
+tired,122,but after a time he tired of the dull life],but after a time he tired of the dull life],conjunction,Aqua,Jacob_Aqua,tired,294.65,295.03,0.19999999999998863,0.37999999999999545
+of,122,but after a time he tired of the dull life],but after a time he tired of the dull life],conjunction,Aqua,Jacob_Aqua,of,295.03,295.21,0.37999999999999545,0.18000000000000682
+the,122,but after a time he tired of the dull life],but after a time he tired of the dull life],conjunction,Aqua,Jacob_Aqua,the,295.21,295.33,0.18000000000000682,0.12000000000000455
+dull,122,but after a time he tired of the dull life],but after a time he tired of the dull life],conjunction,Aqua,Jacob_Aqua,dull,295.34,295.63,0.12999999999999545,0.29000000000002046
+life],122,but after a time he tired of the dull life],but after a time he tired of the dull life],conjunction,Aqua,Jacob_Aqua,,295.63,296.24,,
+and,123,"and he and his brothers floated under a bridge for a long distance,","and he and his brothers floated under a bridge for a long distance,",conjunction,Aqua,Jacob_Aqua,and,296.24,296.45,,0.20999999999997954
+he,123,"and he and his brothers floated under a bridge for a long distance,","and he and his brothers floated under a bridge for a long distance,",conjunction,Aqua,Jacob_Aqua,,296.45,296.69,,
+and,123,"and he and his brothers floated under a bridge for a long distance,","and he and his brothers floated under a bridge for a long distance,",conjunction,Aqua,Jacob_Aqua,and,296.69,296.78,,0.08999999999997499
+his,123,"and he and his brothers floated under a bridge for a long distance,","and he and his brothers floated under a bridge for a long distance,",conjunction,Aqua,Jacob_Aqua,his,296.78,296.97,0.08999999999997499,0.19000000000005457
+brothers,123,"and he and his brothers floated under a bridge for a long distance,","and he and his brothers floated under a bridge for a long distance,",conjunction,Aqua,Jacob_Aqua,brothers,296.97,297.44000000000005,0.19000000000005457,0.4700000000000273
+floated,123,"and he and his brothers floated under a bridge for a long distance,","and he and his brothers floated under a bridge for a long distance,",conjunction,Aqua,Jacob_Aqua,floated,297.63,298.01,0.6599999999999682,0.37999999999999545
+under,123,"and he and his brothers floated under a bridge for a long distance,","and he and his brothers floated under a bridge for a long distance,",conjunction,Aqua,Jacob_Aqua,under,298.05,298.40000000000003,0.4200000000000159,0.35000000000002274
+a,123,"and he and his brothers floated under a bridge for a long distance,","and he and his brothers floated under a bridge for a long distance,",conjunction,Aqua,Jacob_Aqua,a,298.4,298.47,0.3499999999999659,0.07000000000005002
+bridge,123,"and he and his brothers floated under a bridge for a long distance,","and he and his brothers floated under a bridge for a long distance,",conjunction,Aqua,Jacob_Aqua,bridge,298.469999,298.919999,0.0699989999999957,0.4500000000000455
+for,123,"and he and his brothers floated under a bridge for a long distance,","and he and his brothers floated under a bridge for a long distance,",conjunction,Aqua,Jacob_Aqua,for,298.98,299.35,0.5100010000000452,0.37000000000000455
+a,123,"and he and his brothers floated under a bridge for a long distance,","and he and his brothers floated under a bridge for a long distance,",conjunction,Aqua,Jacob_Aqua,a,299.349999,299.44999900000005,0.36999900000000707,0.10000000000002274
+long,123,"and he and his brothers floated under a bridge for a long distance,","and he and his brothers floated under a bridge for a long distance,",conjunction,Aqua,Jacob_Aqua,long,299.45,299.88,0.10000099999996337,0.4300000000000068
+distance,123,"and he and his brothers floated under a bridge for a long distance,","and he and his brothers floated under a bridge for a long distance,",conjunction,Aqua,Jacob_Aqua,distance,299.9,300.59,0.44999999999998863,0.6899999999999977
+until,124,until they saw another brook tumbling down a hillside.,until they saw another brook tumbling down a hillside.,conjunction; >maximal segment,Aqua,Jacob_Aqua,until,301.23,301.63,1.330000000000041,0.39999999999997726
+they,124,until they saw another brook tumbling down a hillside.,until they saw another brook tumbling down a hillside.,conjunction; >maximal segment,Aqua,Jacob_Aqua,they,301.63,301.81,0.39999999999997726,0.18000000000000682
+saw,124,until they saw another brook tumbling down a hillside.,until they saw another brook tumbling down a hillside.,conjunction; >maximal segment,Aqua,Jacob_Aqua,saw,301.809999,302.069999,0.17999900000000935,0.2599999999999909
+another,124,until they saw another brook tumbling down a hillside.,until they saw another brook tumbling down a hillside.,conjunction; >maximal segment,Aqua,Jacob_Aqua,another,302.09,302.54,0.2800009999999702,0.4500000000000455
+brook,124,until they saw another brook tumbling down a hillside.,until they saw another brook tumbling down a hillside.,conjunction; >maximal segment,Aqua,Jacob_Aqua,brook,302.549999,302.83999900000003,0.4599990000000389,0.29000000000002046
+tumbling,124,until they saw another brook tumbling down a hillside.,until they saw another brook tumbling down a hillside.,conjunction; >maximal segment,Aqua,Jacob_Aqua,tumbling,302.88,303.41,0.33000099999998156,0.5300000000000296
+down,124,until they saw another brook tumbling down a hillside.,until they saw another brook tumbling down a hillside.,conjunction; >maximal segment,Aqua,Jacob_Aqua,down,303.41,303.69,0.5300000000000296,0.2799999999999727
+a,124,until they saw another brook tumbling down a hillside.,until they saw another brook tumbling down a hillside.,conjunction; >maximal segment,Aqua,Jacob_Aqua,a,303.69,303.77,0.2799999999999727,0.07999999999998408
+hillside,124,until they saw another brook tumbling down a hillside.,until they saw another brook tumbling down a hillside.,conjunction; >maximal segment,Aqua,Jacob_Aqua,hillside,303.77,304.46,0.07999999999998408,0.6899999999999977
+'Come,125,"'Come, let's join hands!' cried Aqua","'Come, let's join hands!' cried Aqua",quotation,Aqua,Jacob_Aqua,<unk>,305.359999,305.799999,1.5899990000000344,0.4399999999999977
+let's,125,"'Come, let's join hands!' cried Aqua","'Come, let's join hands!' cried Aqua",quotation,Aqua,Jacob_Aqua,let's,305.93,306.27,0.5700009999999907,0.339999999999975
+join,125,"'Come, let's join hands!' cried Aqua","'Come, let's join hands!' cried Aqua",quotation,Aqua,Jacob_Aqua,join,306.27,306.58,0.339999999999975,0.3100000000000023
+hands,125,"'Come, let's join hands!' cried Aqua","'Come, let's join hands!' cried Aqua",quotation,Aqua,Jacob_Aqua,hands,306.58,307.06,0.3100000000000023,0.4800000000000182
+',125,"'Come, let's join hands!' cried Aqua","'Come, let's join hands!' cried Aqua",quotation,Aqua,Jacob_Aqua,,307.06,307.82,,
+cried,125,"'Come, let's join hands!' cried Aqua","'Come, let's join hands!' cried Aqua",quotation,Aqua,Jacob_Aqua,cried,307.82,308.1,,0.28000000000002956
+Aqua,125,"'Come, let's join hands!' cried Aqua","'Come, let's join hands!' cried Aqua",quotation,Aqua,Jacob_Aqua,aqua,308.12,308.63,0.30000000000001137,0.5099999999999909
+and,126,"and because the water drops were all together,","and because the water drops were all together,",conjunction / nonrestrictive clause,Aqua,Jacob_Aqua,and,309.09,309.26,0.9699999999999704,0.17000000000001592
+because,126,"and because the water drops were all together,","and because the water drops were all together,",conjunction / nonrestrictive clause,Aqua,Jacob_Aqua,because,309.26,309.66,0.17000000000001592,0.4000000000000341
+the,126,"and because the water drops were all together,","and because the water drops were all together,",conjunction / nonrestrictive clause,Aqua,Jacob_Aqua,the,309.66,309.78000000000003,0.4000000000000341,0.12000000000000455
+water,126,"and because the water drops were all together,","and because the water drops were all together,",conjunction / nonrestrictive clause,Aqua,Jacob_Aqua,water,309.78,310.14,0.1199999999999477,0.36000000000001364
+drops,126,"and because the water drops were all together,","and because the water drops were all together,",conjunction / nonrestrictive clause,Aqua,Jacob_Aqua,drops,310.14,310.54,0.36000000000001364,0.4000000000000341
+were,126,"and because the water drops were all together,","and because the water drops were all together,",conjunction / nonrestrictive clause,Aqua,Jacob_Aqua,were,310.54,310.70000000000005,0.4000000000000341,0.160000000000025
+all,126,"and because the water drops were all together,","and because the water drops were all together,",conjunction / nonrestrictive clause,Aqua,Jacob_Aqua,all,310.7,310.92,0.15999999999996817,0.22000000000002728
+together,126,"and because the water drops were all together,","and because the water drops were all together,",conjunction / nonrestrictive clause,Aqua,Jacob_Aqua,together,310.92,311.51,0.22000000000002728,0.589999999999975
+overcoming,127,overcoming the brook was child's play.,overcoming the brook was child's play.,conjunction cont. / nonfinite clause; >maximal segment,Aqua,Jacob_Aqua,overcoming,311.92,312.59000000000003,1.0,0.6700000000000159
+the,127,overcoming the brook was child's play.,overcoming the brook was child's play.,conjunction cont. / nonfinite clause; >maximal segment,Aqua,Jacob_Aqua,the,312.59,312.7,0.6699999999999591,0.11000000000001364
+brook,127,overcoming the brook was child's play.,overcoming the brook was child's play.,conjunction cont. / nonfinite clause; >maximal segment,Aqua,Jacob_Aqua,brook,312.7,312.98,0.11000000000001364,0.28000000000002956
+was,127,overcoming the brook was child's play.,overcoming the brook was child's play.,conjunction cont. / nonfinite clause; >maximal segment,Aqua,Jacob_Aqua,was,312.98,313.18,0.28000000000002956,0.19999999999998863
+child's,127,overcoming the brook was child's play.,overcoming the brook was child's play.,conjunction cont. / nonfinite clause; >maximal segment,Aqua,Jacob_Aqua,child's,313.18,313.61,0.19999999999998863,0.4300000000000068
+play,127,overcoming the brook was child's play.,overcoming the brook was child's play.,conjunction cont. / nonfinite clause; >maximal segment,Aqua,Jacob_Aqua,play,313.61,314.02000000000004,0.4300000000000068,0.410000000000025
+It,128,It was by the help of Aqua and his brothers,It was by the help of Aqua and his brothers,-,Aqua,Jacob_Aqua,it,314.38,314.56,0.7699999999999818,0.18000000000000682
+was,128,It was by the help of Aqua and his brothers,It was by the help of Aqua and his brothers,-,Aqua,Jacob_Aqua,was,314.559999,314.71999900000003,0.17999900000000935,0.160000000000025
+by,128,It was by the help of Aqua and his brothers,It was by the help of Aqua and his brothers,-,Aqua,Jacob_Aqua,by,314.72,314.91,0.1600010000000225,0.18999999999999773
+the,128,It was by the help of Aqua and his brothers,It was by the help of Aqua and his brothers,-,Aqua,Jacob_Aqua,the,314.91,315.05,0.18999999999999773,0.13999999999998636
+help,128,It was by the help of Aqua and his brothers,It was by the help of Aqua and his brothers,-,Aqua,Jacob_Aqua,help,315.05,315.33,0.13999999999998636,0.2799999999999727
+of,128,It was by the help of Aqua and his brothers,It was by the help of Aqua and his brothers,-,Aqua,Jacob_Aqua,of,315.33,315.52,0.2799999999999727,0.18999999999999773
+Aqua,128,It was by the help of Aqua and his brothers,It was by the help of Aqua and his brothers,-,Aqua,Jacob_Aqua,aqua,315.55,316.01,0.22000000000002728,0.45999999999997954
+and,128,It was by the help of Aqua and his brothers,It was by the help of Aqua and his brothers,-,Aqua,Jacob_Aqua,and,316.01,316.19,0.45999999999997954,0.18000000000000682
+his,128,It was by the help of Aqua and his brothers,It was by the help of Aqua and his brothers,-,Aqua,Jacob_Aqua,his,316.19,316.38,0.18000000000000682,0.18999999999999773
+brothers,128,It was by the help of Aqua and his brothers,It was by the help of Aqua and his brothers,-,Aqua,Jacob_Aqua,brothers,316.38,316.86,0.18999999999999773,0.4800000000000182
+that,129,that the bewitching river was able,that the bewitching river was able,complementizer,Aqua,Jacob_Aqua,that,316.88,317.11,0.5,0.2300000000000182
+the,129,that the bewitching river was able,that the bewitching river was able,complementizer,Aqua,Jacob_Aqua,the,317.11,317.16,0.2300000000000182,0.05000000000001137
+bewitching,129,that the bewitching river was able,that the bewitching river was able,complementizer,Aqua,Jacob_Aqua,<unk>,317.639999,317.889999,0.5299989999999752,0.25
+river,129,that the bewitching river was able,that the bewitching river was able,complementizer,Aqua,Jacob_Aqua,river,317.9,318.21,0.2600009999999884,0.3100000000000023
+was,129,that the bewitching river was able,that the bewitching river was able,complementizer,Aqua,Jacob_Aqua,was,318.21,318.42,0.3100000000000023,0.21000000000003638
+able,129,that the bewitching river was able,that the bewitching river was able,complementizer,Aqua,Jacob_Aqua,able,318.429999,318.759999,0.2199990000000298,0.3299999999999841
+to,130,"to float heavy ships,","to float heavy ships,",infinitival phrase,Aqua,Jacob_Aqua,to,318.759999,318.939999,0.3299999999999841,0.18000000000000682
+float,130,"to float heavy ships,","to float heavy ships,",infinitival phrase,Aqua,Jacob_Aqua,float,318.94,319.36,0.1800010000000043,0.4200000000000159
+heavy,130,"to float heavy ships,","to float heavy ships,",infinitival phrase,Aqua,Jacob_Aqua,heavy,319.45,319.83,0.5099999999999909,0.37999999999999545
+ships,130,"to float heavy ships,","to float heavy ships,",infinitival phrase,Aqua,Jacob_Aqua,ships,319.83,320.37,0.37999999999999545,0.5400000000000205
+though,131,though not so long ago,though not so long ago,positioning element,Aqua,Jacob_Aqua,though,320.839999,321.009999,1.0099989999999934,0.17000000000001592
+not,131,though not so long ago,though not so long ago,positioning element,Aqua,Jacob_Aqua,not,321.009999,321.289999,0.17000000000001592,0.28000000000002956
+so,131,though not so long ago,though not so long ago,positioning element,Aqua,Jacob_Aqua,so,321.29,321.52000000000004,0.28000100000002703,0.2300000000000182
+long,131,though not so long ago,though not so long ago,positioning element,Aqua,Jacob_Aqua,long,321.52,321.79,0.22999999999996135,0.27000000000003865
+ago,131,though not so long ago,though not so long ago,positioning element,Aqua,Jacob_Aqua,ago,321.79,322.1,0.27000000000003865,0.3100000000000023
+it,132,it was only a little stream.,it was only a little stream.,>maximal segment,Aqua,Jacob_Aqua,it,322.1,322.27000000000004,0.3100000000000023,0.17000000000001592
+was,132,it was only a little stream.,it was only a little stream.,>maximal segment,Aqua,Jacob_Aqua,was,322.27,322.45,0.16999999999995907,0.18000000000000682
+only,132,it was only a little stream.,it was only a little stream.,>maximal segment,Aqua,Jacob_Aqua,only,322.459999,322.829999,0.18999900000000025,0.37000000000000455
+a,132,it was only a little stream.,it was only a little stream.,>maximal segment,Aqua,Jacob_Aqua,a,322.83,322.9,0.370001000000002,0.06999999999999318
+little,132,it was only a little stream.,it was only a little stream.,>maximal segment,Aqua,Jacob_Aqua,little,322.9,323.23,0.06999999999999318,0.3300000000000409
+stream,132,it was only a little stream.,it was only a little stream.,>maximal segment,Aqua,Jacob_Aqua,stream,323.23,323.81,0.3300000000000409,0.5799999999999841
+As,133,As the river grew wider,As the river grew wider,-,Aqua,Jacob_Aqua,as,325.109999,325.319999,1.879998999999998,0.20999999999997954
+the,133,As the river grew wider,As the river grew wider,-,Aqua,Jacob_Aqua,the,325.32,325.45,0.210000999999977,0.12999999999999545
+river,133,As the river grew wider,As the river grew wider,-,Aqua,Jacob_Aqua,river,325.45,325.79,0.12999999999999545,0.34000000000003183
+grew,133,As the river grew wider,As the river grew wider,-,Aqua,Jacob_Aqua,grew,325.79,326.05,0.34000000000003183,0.2599999999999909
+wider,133,As the river grew wider,As the river grew wider,-,Aqua,Jacob_Aqua,wider,326.05,326.59000000000003,0.2599999999999909,0.5400000000000205
+and,134,"and he could almost see the ocean,","and he could almost see the ocean,",conjunction / nonrestrictive clause,Aqua,Jacob_Aqua,and,326.63,326.85,0.5799999999999841,0.22000000000002728
+he,134,"and he could almost see the ocean,","and he could almost see the ocean,",conjunction / nonrestrictive clause,Aqua,Jacob_Aqua,he,326.85,327.0,0.22000000000002728,0.14999999999997726
+could,134,"and he could almost see the ocean,","and he could almost see the ocean,",conjunction / nonrestrictive clause,Aqua,Jacob_Aqua,could,327.0,327.14,0.14999999999997726,0.13999999999998636
+almost,134,"and he could almost see the ocean,","and he could almost see the ocean,",conjunction / nonrestrictive clause,Aqua,Jacob_Aqua,almost,327.15,327.54,0.14999999999997726,0.3900000000000432
+see,134,"and he could almost see the ocean,","and he could almost see the ocean,",conjunction / nonrestrictive clause,Aqua,Jacob_Aqua,see,327.55,327.7,0.4000000000000341,0.14999999999997726
+the,134,"and he could almost see the ocean,","and he could almost see the ocean,",conjunction / nonrestrictive clause,Aqua,Jacob_Aqua,the,327.7,327.85,0.14999999999997726,0.1500000000000341
+ocean,134,"and he could almost see the ocean,","and he could almost see the ocean,",conjunction / nonrestrictive clause,Aqua,Jacob_Aqua,ocean,327.85,328.40000000000003,0.1500000000000341,0.5500000000000114
+Aqua,135,Aqua realized,Aqua realized,-,Aqua,Jacob_Aqua,aqua,328.92,329.31,1.0699999999999932,0.38999999999998636
+realized,135,Aqua realized,Aqua realized,-,Aqua,Jacob_Aqua,realized,329.31,329.73,0.38999999999998636,0.4200000000000159
+his,136,his journey was almost over,his journey was almost over,complementizer (that...),Aqua,Jacob_Aqua,his,329.73,329.95000000000005,0.4200000000000159,0.22000000000002728
+journey,136,his journey was almost over,his journey was almost over,complementizer (that...),Aqua,Jacob_Aqua,journey,329.95,330.28,0.21999999999997044,0.3299999999999841
+was,136,his journey was almost over,his journey was almost over,complementizer (that...),Aqua,Jacob_Aqua,was,330.28,330.53,0.3299999999999841,0.25
+almost,136,his journey was almost over,his journey was almost over,complementizer (that...),Aqua,Jacob_Aqua,almost,330.54,331.06,0.26000000000004775,0.5199999999999818
+over,136,his journey was almost over,his journey was almost over,complementizer (that...),Aqua,Jacob_Aqua,over,331.07,331.56,0.5299999999999727,0.4900000000000091
+and,137,and he had come full circle.,and he had come full circle.,conjunction; >maximal segment,Aqua,Jacob_Aqua,and,332.0,332.17,0.9300000000000068,0.17000000000001592
+he,137,and he had come full circle.,and he had come full circle.,conjunction; >maximal segment,Aqua,Jacob_Aqua,he,332.17,332.32,0.17000000000001592,0.14999999999997726
+had,137,and he had come full circle.,and he had come full circle.,conjunction; >maximal segment,Aqua,Jacob_Aqua,had,332.32,332.49,0.14999999999997726,0.17000000000001592
+come,137,and he had come full circle.,and he had come full circle.,conjunction; >maximal segment,Aqua,Jacob_Aqua,come,332.49,332.77,0.17000000000001592,0.2799999999999727
+full,137,and he had come full circle.,and he had come full circle.,conjunction; >maximal segment,Aqua,Jacob_Aqua,full,332.77,333.07,0.2799999999999727,0.30000000000001137
+circle,137,and he had come full circle.,and he had come full circle.,conjunction; >maximal segment,Aqua,Jacob_Aqua,circle,333.07,333.68,0.30000000000001137,0.6100000000000136
+Back,138,"Back in the ocean,","Back in the ocean,",positioning element,Aqua,Jacob_Aqua,back,334.74,334.99,1.670000000000016,0.25
+in,138,"Back in the ocean,","Back in the ocean,",positioning element,Aqua,Jacob_Aqua,in,334.99,335.09000000000003,0.25,0.10000000000002274
+the,138,"Back in the ocean,","Back in the ocean,",positioning element,Aqua,Jacob_Aqua,the,335.09,335.26,0.0999999999999659,0.17000000000001592
+ocean,138,"Back in the ocean,","Back in the ocean,",positioning element,Aqua,Jacob_Aqua,ocean,335.259999,335.789999,0.16999900000001844,0.5300000000000296
+he,139,he felt right at home.,he felt right at home.,>maximal segment,Aqua,Jacob_Aqua,he,336.2,336.39,0.9400009999999952,0.18999999999999773
+felt,139,he felt right at home.,he felt right at home.,>maximal segment,Aqua,Jacob_Aqua,felt,336.389999,336.659999,0.18999900000000025,0.27000000000003865
+right,139,he felt right at home.,he felt right at home.,>maximal segment,Aqua,Jacob_Aqua,right,336.67,336.92,0.28000100000002703,0.25
+at,139,he felt right at home.,he felt right at home.,>maximal segment,Aqua,Jacob_Aqua,at,336.92,337.05,0.25,0.12999999999999545
+home,139,he felt right at home.,he felt right at home.,>maximal segment,Aqua,Jacob_Aqua,home,337.049999,337.429999,0.12999899999999798,0.37999999999999545
+For,140,"For him, this was the safest, sweetest place in the whole wide world.","For him, this was the safest, sweetest place in the whole wide world.",>maximal segment,Aqua,Jacob_Aqua,for,338.059999,338.249999,1.009999999999991,0.18999999999999773
+him,140,"For him, this was the safest, sweetest place in the whole wide world.","For him, this was the safest, sweetest place in the whole wide world.",>maximal segment,Aqua,Jacob_Aqua,him,338.25,338.64,0.1900009999999952,0.38999999999998636
+this,140,"For him, this was the safest, sweetest place in the whole wide world.","For him, this was the safest, sweetest place in the whole wide world.",>maximal segment,Aqua,Jacob_Aqua,this,338.99,339.22,0.7400000000000091,0.2300000000000182
+was,140,"For him, this was the safest, sweetest place in the whole wide world.","For him, this was the safest, sweetest place in the whole wide world.",>maximal segment,Aqua,Jacob_Aqua,was,339.219999,339.389999,0.22999899999996387,0.17000000000001592
+the,140,"For him, this was the safest, sweetest place in the whole wide world.","For him, this was the safest, sweetest place in the whole wide world.",>maximal segment,Aqua,Jacob_Aqua,the,339.389999,339.519999,0.17000000000001592,0.12999999999999545
+safest,140,"For him, this was the safest, sweetest place in the whole wide world.","For him, this was the safest, sweetest place in the whole wide world.",>maximal segment,Aqua,Jacob_Aqua,safest,339.52,340.23,0.13000099999999293,0.7100000000000364
+sweetest,140,"For him, this was the safest, sweetest place in the whole wide world.","For him, this was the safest, sweetest place in the whole wide world.",>maximal segment,Aqua,Jacob_Aqua,sweetest,340.24,340.8,0.7200000000000273,0.5600000000000023
+place,140,"For him, this was the safest, sweetest place in the whole wide world.","For him, this was the safest, sweetest place in the whole wide world.",>maximal segment,Aqua,Jacob_Aqua,place,340.799999,341.099999,0.5599990000000048,0.30000000000001137
+in,140,"For him, this was the safest, sweetest place in the whole wide world.","For him, this was the safest, sweetest place in the whole wide world.",>maximal segment,Aqua,Jacob_Aqua,in,341.1,341.22,0.30000100000000884,0.12000000000000455
+the,140,"For him, this was the safest, sweetest place in the whole wide world.","For him, this was the safest, sweetest place in the whole wide world.",>maximal segment,Aqua,Jacob_Aqua,the,341.21999900000003,341.33999900000003,0.11999900000000707,0.12000000000000455
+whole,140,"For him, this was the safest, sweetest place in the whole wide world.","For him, this was the safest, sweetest place in the whole wide world.",>maximal segment,Aqua,Jacob_Aqua,whole,341.34,341.67,0.12000099999994518,0.3300000000000409
+wide,140,"For him, this was the safest, sweetest place in the whole wide world.","For him, this was the safest, sweetest place in the whole wide world.",>maximal segment,Aqua,Jacob_Aqua,wide,341.68,342.06,0.34000000000003183,0.37999999999999545
+world,140,"For him, this was the safest, sweetest place in the whole wide world.","For him, this was the safest, sweetest place in the whole wide world.",>maximal segment,Aqua,Jacob_Aqua,world,342.07,342.52,0.38999999999998636,0.44999999999998863
+During,141,"During the warm summer evenings,","During the warm summer evenings,",positioning element,Aqua,Jacob_Aqua,during,343.24,343.6,1.170000000000016,0.36000000000001364
+the,141,"During the warm summer evenings,","During the warm summer evenings,",positioning element,Aqua,Jacob_Aqua,the,343.65,343.72,0.40999999999996817,0.07000000000005002
+warm,141,"During the warm summer evenings,","During the warm summer evenings,",positioning element,Aqua,Jacob_Aqua,warm,343.72,344.07000000000005,0.07000000000005002,0.35000000000002274
+summer,141,"During the warm summer evenings,","During the warm summer evenings,",positioning element,Aqua,Jacob_Aqua,summer,344.07,344.37,0.3499999999999659,0.30000000000001137
+evenings,141,"During the warm summer evenings,","During the warm summer evenings,",positioning element,Aqua,Jacob_Aqua,evenings,344.41,344.98,0.34000000000003183,0.5699999999999932
+if,142,"if you take a walk on the sea beach,","if you take a walk on the sea beach,",-,Aqua,Jacob_Aqua,if,345.0,345.22,0.589999999999975,0.22000000000002728
+you,142,"if you take a walk on the sea beach,","if you take a walk on the sea beach,",-,Aqua,Jacob_Aqua,you,345.22,345.34000000000003,0.22000000000002728,0.12000000000000455
+take,142,"if you take a walk on the sea beach,","if you take a walk on the sea beach,",-,Aqua,Jacob_Aqua,take,345.34,345.6,0.1199999999999477,0.26000000000004775
+a,142,"if you take a walk on the sea beach,","if you take a walk on the sea beach,",-,Aqua,Jacob_Aqua,a,345.6,345.67,0.26000000000004775,0.06999999999999318
+walk,142,"if you take a walk on the sea beach,","if you take a walk on the sea beach,",-,Aqua,Jacob_Aqua,walk,345.67,345.98,0.06999999999999318,0.3100000000000023
+on,142,"if you take a walk on the sea beach,","if you take a walk on the sea beach,",-,Aqua,Jacob_Aqua,on,345.98,346.12,0.3100000000000023,0.13999999999998636
+the,142,"if you take a walk on the sea beach,","if you take a walk on the sea beach,",-,Aqua,Jacob_Aqua,the,346.12,346.24,0.13999999999998636,0.12000000000000455
+sea,142,"if you take a walk on the sea beach,","if you take a walk on the sea beach,",-,Aqua,Jacob_Aqua,sea,346.24,346.52,0.12000000000000455,0.2799999999999727
+beach,142,"if you take a walk on the sea beach,","if you take a walk on the sea beach,",-,Aqua,Jacob_Aqua,beach,346.52,346.99,0.2799999999999727,0.4700000000000273
+you,143,you will hear the gentle rippling swash of the waves,you will hear the gentle rippling swash of the waves,"conjunction (if, then...)",Aqua,Jacob_Aqua,you,347.57,347.77,1.0500000000000114,0.19999999999998863
+will,143,you will hear the gentle rippling swash of the waves,you will hear the gentle rippling swash of the waves,"conjunction (if, then...)",Aqua,Jacob_Aqua,will,347.77,347.88,0.19999999999998863,0.11000000000001364
+hear,143,you will hear the gentle rippling swash of the waves,you will hear the gentle rippling swash of the waves,"conjunction (if, then...)",Aqua,Jacob_Aqua,hear,347.88,348.11,0.11000000000001364,0.2300000000000182
+the,143,you will hear the gentle rippling swash of the waves,you will hear the gentle rippling swash of the waves,"conjunction (if, then...)",Aqua,Jacob_Aqua,the,348.11,348.24,0.2300000000000182,0.12999999999999545
+gentle,143,you will hear the gentle rippling swash of the waves,you will hear the gentle rippling swash of the waves,"conjunction (if, then...)",Aqua,Jacob_Aqua,gentle,348.24,348.76,0.12999999999999545,0.5199999999999818
+rippling,143,you will hear the gentle rippling swash of the waves,you will hear the gentle rippling swash of the waves,"conjunction (if, then...)",Aqua,Jacob_Aqua,rippling,348.76,349.23,0.5199999999999818,0.4700000000000273
+swash,143,you will hear the gentle rippling swash of the waves,you will hear the gentle rippling swash of the waves,"conjunction (if, then...)",Aqua,Jacob_Aqua,<unk>,349.23,349.67,0.4700000000000273,0.4399999999999977
+of,143,you will hear the gentle rippling swash of the waves,you will hear the gentle rippling swash of the waves,"conjunction (if, then...)",Aqua,Jacob_Aqua,of,349.68,349.88,0.44999999999998863,0.19999999999998863
+the,143,you will hear the gentle rippling swash of the waves,you will hear the gentle rippling swash of the waves,"conjunction (if, then...)",Aqua,Jacob_Aqua,the,349.88,349.96,0.19999999999998863,0.07999999999998408
+waves,143,you will hear the gentle rippling swash of the waves,you will hear the gentle rippling swash of the waves,"conjunction (if, then...)",Aqua,Jacob_Aqua,waves,349.96,350.45,0.07999999999998408,0.4900000000000091
+and,144,and some say,and some say,conjunction,Aqua,Jacob_Aqua,and,350.66,350.88000000000005,0.7000000000000455,0.22000000000002728
+some,144,and some say,and some say,conjunction,Aqua,Jacob_Aqua,some,350.88,351.17,0.21999999999997044,0.29000000000002046
+say,144,and some say,and some say,conjunction,Aqua,Jacob_Aqua,say,351.17,351.56,0.29000000000002046,0.38999999999998636
+that,145,that it must be the gurgling voices of Aqua and his brother water drops,that it must be the gurgling voices of Aqua and his brother water drops,complementizer,Aqua,Jacob_Aqua,that,351.69,351.86,0.5199999999999818,0.17000000000001592
+it,145,that it must be the gurgling voices of Aqua and his brother water drops,that it must be the gurgling voices of Aqua and his brother water drops,complementizer,Aqua,Jacob_Aqua,it,351.86,351.98,0.17000000000001592,0.12000000000000455
+must,145,that it must be the gurgling voices of Aqua and his brother water drops,that it must be the gurgling voices of Aqua and his brother water drops,complementizer,Aqua,Jacob_Aqua,must,351.98,352.3,0.12000000000000455,0.3199999999999932
+be,145,that it must be the gurgling voices of Aqua and his brother water drops,that it must be the gurgling voices of Aqua and his brother water drops,complementizer,Aqua,Jacob_Aqua,be,352.3,352.49,0.3199999999999932,0.18999999999999773
+the,145,that it must be the gurgling voices of Aqua and his brother water drops,that it must be the gurgling voices of Aqua and his brother water drops,complementizer,Aqua,Jacob_Aqua,the,352.49,352.61,0.18999999999999773,0.12000000000000455
+gurgling,145,that it must be the gurgling voices of Aqua and his brother water drops,that it must be the gurgling voices of Aqua and his brother water drops,complementizer,Aqua,Jacob_Aqua,gurgling,352.61,353.12,0.12000000000000455,0.5099999999999909
+voices,145,that it must be the gurgling voices of Aqua and his brother water drops,that it must be the gurgling voices of Aqua and his brother water drops,complementizer,Aqua,Jacob_Aqua,voices,353.12,353.52,0.5099999999999909,0.39999999999997726
+of,145,that it must be the gurgling voices of Aqua and his brother water drops,that it must be the gurgling voices of Aqua and his brother water drops,complementizer,Aqua,Jacob_Aqua,of,353.52,353.67,0.39999999999997726,0.1500000000000341
+Aqua,145,that it must be the gurgling voices of Aqua and his brother water drops,that it must be the gurgling voices of Aqua and his brother water drops,complementizer,Aqua,Jacob_Aqua,aqua,353.679999,354.119999,0.15999900000002754,0.4399999999999977
+and,145,that it must be the gurgling voices of Aqua and his brother water drops,that it must be the gurgling voices of Aqua and his brother water drops,complementizer,Aqua,Jacob_Aqua,and,354.12,354.28000000000003,0.4400009999999952,0.160000000000025
+his,145,that it must be the gurgling voices of Aqua and his brother water drops,that it must be the gurgling voices of Aqua and his brother water drops,complementizer,Aqua,Jacob_Aqua,his,354.28,354.47,0.15999999999996817,0.19000000000005457
+brother,145,that it must be the gurgling voices of Aqua and his brother water drops,that it must be the gurgling voices of Aqua and his brother water drops,complementizer,Aqua,Jacob_Aqua,brother,354.469999,354.86999899999995,0.18999900000000025,0.39999999999997726
+water,145,that it must be the gurgling voices of Aqua and his brother water drops,that it must be the gurgling voices of Aqua and his brother water drops,complementizer,Aqua,Jacob_Aqua,water,354.87,355.26,0.4000010000000316,0.38999999999998636
+drops,145,that it must be the gurgling voices of Aqua and his brother water drops,that it must be the gurgling voices of Aqua and his brother water drops,complementizer,Aqua,Jacob_Aqua,drops,355.27,355.79,0.39999999999997726,0.5200000000000387
+telling,146,telling each other about their wonderful journey around the world.,telling each other about their wonderful journey around the world.,nonfinite clause; >maximal segment,Aqua,Jacob_Aqua,telling,356.139999,356.539999,0.8699990000000071,0.4000000000000341
+each,146,telling each other about their wonderful journey around the world.,telling each other about their wonderful journey around the world.,nonfinite clause; >maximal segment,Aqua,Jacob_Aqua,each,356.54,356.75,0.4000010000000316,0.20999999999997954
+other,146,telling each other about their wonderful journey around the world.,telling each other about their wonderful journey around the world.,nonfinite clause; >maximal segment,Aqua,Jacob_Aqua,other,356.75,357.06,0.20999999999997954,0.3100000000000023
+about,146,telling each other about their wonderful journey around the world.,telling each other about their wonderful journey around the world.,nonfinite clause; >maximal segment,Aqua,Jacob_Aqua,about,357.08,357.44,0.3299999999999841,0.36000000000001364
+their,146,telling each other about their wonderful journey around the world.,telling each other about their wonderful journey around the world.,nonfinite clause; >maximal segment,Aqua,Jacob_Aqua,their,357.44,357.6,0.36000000000001364,0.160000000000025
+wonderful,146,telling each other about their wonderful journey around the world.,telling each other about their wonderful journey around the world.,nonfinite clause; >maximal segment,Aqua,Jacob_Aqua,wonderful,357.599999,358.179999,0.15999900000002754,0.5799999999999841
+journey,146,telling each other about their wonderful journey around the world.,telling each other about their wonderful journey around the world.,nonfinite clause; >maximal segment,Aqua,Jacob_Aqua,journey,358.209999,358.669999,0.6099999999999568,0.4600000000000364
+around,146,telling each other about their wonderful journey around the world.,telling each other about their wonderful journey around the world.,nonfinite clause; >maximal segment,Aqua,Jacob_Aqua,around,358.71999900000003,359.08999900000003,0.5100000000000477,0.37000000000000455
+the,146,telling each other about their wonderful journey around the world.,telling each other about their wonderful journey around the world.,nonfinite clause; >maximal segment,Aqua,Jacob_Aqua,the,359.09,359.22,0.3700009999999452,0.1300000000000523
+world,146,telling each other about their wonderful journey around the world.,telling each other about their wonderful journey around the world.,nonfinite clause; >maximal segment,Aqua,Jacob_Aqua,world,359.21999900000003,359.729999,0.12999900000005482,0.5099999999999909

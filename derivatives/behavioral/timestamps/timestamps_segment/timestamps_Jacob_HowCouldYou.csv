@@ -1,0 +1,125 @@
+segment,reason,story,idx,audio,segment_raw,onset,offset,words
+"""When I was a puppy,",positioning element,HowCouldYou,0,Jacob_HowCouldYou,"""When I was a puppy,",3.48,4.5,When|I|was|a|puppy
+I made you laugh.,>maximal segment,HowCouldYou,1,Jacob_HowCouldYou,I made you laugh.,4.97,5.97,I|made|you|laugh
+You called me your child,-,HowCouldYou,2,Jacob_HowCouldYou,You called me your child,5.97,7.91,You|called|me|your|child
+"and despite a number of chewed shoes,",conjunction / nonrestrictive clause,HowCouldYou,3,Jacob_HowCouldYou,"and despite a number of chewed shoes,",7.97,9.95,and|despite|a|number|of|chewed|shoes
+I became your best friend.,conjunction cont.; >maximal segment,HowCouldYou,4,Jacob_HowCouldYou,I became your best friend.,10.44,11.899999,I|became|your|best|friend
+"Whenever I was ""bad,""",relative clause,HowCouldYou,5,Jacob_HowCouldYou,"Whenever I was ""bad,""",12.44,14.409999,Whenever|I|was|bad
+"you'd shake your finger at me and ask ""How could you?""",conjunction / quotation; >maximal segment,HowCouldYou,6,Jacob_HowCouldYou,"you'd shake your finger at me and ask ""How could you?""",14.86,17.989999,you'd|shake|your|finger|at|me|and|ask|How|could|you
+- but then you'd relent and roll me over for a belly rub.,>maximal segment,HowCouldYou,7,Jacob_HowCouldYou,- but then you'd relent and roll me over for a belly rub.,18.59,21.790000000000003,but|then|you'd|relent|and|roll|me|over|for|a|belly|rub
+"My housetraining took longer than expected,",-,HowCouldYou,8,Jacob_HowCouldYou,"My housetraining took longer than expected,",23.28,25.55,My|housetraining|took|longer|than|expected
+"because you were terribly busy,",conjunction,HowCouldYou,9,Jacob_HowCouldYou,"because you were terribly busy,",25.97,27.52,because|you|were|terribly|busy
+but we worked on that together.,conjunction; >maximal segment,HowCouldYou,10,Jacob_HowCouldYou,but we worked on that together.,27.95,29.499999,but|we|worked|on|that|together
+I remember those nights,-,HowCouldYou,11,Jacob_HowCouldYou,I remember those nights,29.969999,31.19,I|remember|those|nights
+"of nuzzling you in bed,",nonfinite clause,HowCouldYou,12,Jacob_HowCouldYou,"of nuzzling you in bed,",31.2,32.57,of|nuzzling|you|in|bed
+"listening to your confidences and secret dreams,",nonfinite clause,HowCouldYou,13,Jacob_HowCouldYou,"listening to your confidences and secret dreams,",33.059999,35.869999,listening|to|your|confidences|and|secret|dreams
+and I believed,conjunction,HowCouldYou,14,Jacob_HowCouldYou,and I believed,36.609999,37.33,and|I|believed
+that life could not be more perfect.,complementizer; >maximal segment,HowCouldYou,15,Jacob_HowCouldYou,that life could not be more perfect.,37.33,39.28,that|life|could|not|be|more|perfect
+"We went for long walks and runs in the park, car rides, stops for ice cream,",-,HowCouldYou,16,Jacob_HowCouldYou,"We went for long walks and runs in the park, car rides, stops for ice cream,",40.56,46.08,We|went|for|long|walks|and|runs|in|the|park|car|rides|stops|for|ice|cream
+and I took long naps in the sun,conjunction,HowCouldYou,17,Jacob_HowCouldYou,and I took long naps in the sun,46.849999,48.65,and|I|took|long|naps|in|the|sun
+waiting for you,nonfinite clause,HowCouldYou,18,Jacob_HowCouldYou,waiting for you,48.65,49.24,waiting|for|you
+to come home at the end of the day.,infinitival clause; >maximal segment,HowCouldYou,19,Jacob_HowCouldYou,to come home at the end of the day.,49.24,51.139999,to|come|home|at|the|end|of|the|day
+"Gradually, you began",-,HowCouldYou,20,Jacob_HowCouldYou,"Gradually, you began",52.440001,54.15,Gradually|you|began
+"spending more time at work and on your career,",nonfinite clause,HowCouldYou,21,Jacob_HowCouldYou,"spending more time at work and on your career,",54.15,56.870000000000005,spending|more|time|at|work|and|on|your|career
+and more time searching for a human mate.,nonfinite clause; >maximal segment,HowCouldYou,22,Jacob_HowCouldYou,and more time searching for a human mate.,57.36,59.48,and|more|time|searching|for|a|human|mate
+"I waited for you patiently, comforted you through heartbreaks, never chided you about bad decisions, and romped with glee at your homecomings,",-,HowCouldYou,23,Jacob_HowCouldYou,"I waited for you patiently, comforted you through heartbreaks, never chided you about bad decisions, and romped with glee at your homecomings,",60.27,69.76,I|waited|for|you|patiently|comforted|you|through|heartbreaks|never|chided|you|about|bad|decisions|and|romped|with|glee|at|your|homecomings
+and when you fell in love.,conjunction; >maximal segment,HowCouldYou,24,Jacob_HowCouldYou,and when you fell in love.,70.52,71.909999,and|when|you|fell|in|love
+"She, now your wife,",nonrestrictive clause,HowCouldYou,25,Jacob_HowCouldYou,"She, now your wife,",73.179999,75.25,She|now|your|wife
+"is not a ""dog person""",>maximal segment,HowCouldYou,26,Jacob_HowCouldYou,"is not a ""dog person""",75.66,77.17999999999999,is|not|a|dog|person
+"- still I welcomed her into our home, tried",-,HowCouldYou,27,Jacob_HowCouldYou,"- still I welcomed her into our home, tried",77.68,80.979999,still|I|welcomed|her|into|our|home|tried
+"to show her affection, and obeyed her.",infinitival phrase; >maximal segment,HowCouldYou,28,Jacob_HowCouldYou,"to show her affection, and obeyed her.",80.98,83.63,to|show|her|affection|and|obeyed|her
+I was happy,-,HowCouldYou,29,Jacob_HowCouldYou,I was happy,84.12,84.79,I|was|happy
+because you were happy.,conjunction; >maximal segment,HowCouldYou,30,Jacob_HowCouldYou,because you were happy.,84.78999999999999,85.94999899999999,because|you|were|happy
+Then the human babies came along,-,HowCouldYou,31,Jacob_HowCouldYou,Then the human babies came along,86.46000000000001,88.21000000000001,Then|the|human|babies|came|along
+and I shared your excitement.,conjunction; >maximal segment,HowCouldYou,32,Jacob_HowCouldYou,and I shared your excitement.,88.26,89.75999900000001,and|I|shared|your|excitement
+I was fascinated by their pinkness,-,HowCouldYou,33,Jacob_HowCouldYou,I was fascinated by their pinkness,90.209999,92.28,I|was|fascinated|by|their|pinkness
+"and I wanted to mother them, too.",conjunction; >maximal segment,HowCouldYou,34,Jacob_HowCouldYou,"and I wanted to mother them, too.",92.73,94.81,and|I|wanted|to|mother|them|too
+Only she and you worried,-,HowCouldYou,35,Jacob_HowCouldYou,Only she and you worried,95.31,97.42,Only|she|and|you|worried
+"that I might hurt them,",complementizer,HowCouldYou,36,Jacob_HowCouldYou,"that I might hurt them,",97.42,98.62,that|I|might|hurt|them
+"and I spent most of my time banished to another room, or to a dog crate.",conjunction; >maximal segment,HowCouldYou,37,Jacob_HowCouldYou,"and I spent most of my time banished to another room, or to a dog crate.",99.059999,104.11,and|I|spent|most|of|my|time|banished|to|another|room|or|to|a|dog|crate
+"I wanted to love them,",-,HowCouldYou,38,Jacob_HowCouldYou,"I wanted to love them,",104.639999,105.869999,I|wanted|to|love|them
+"but I became a ""prisoner of love.""",conjunction; >maximal segment,HowCouldYou,39,Jacob_HowCouldYou,"but I became a ""prisoner of love.""",105.9,108.350001,but|I|became|a|prisoner|of|love
+"As they began to grow,",conjunction,HowCouldYou,40,Jacob_HowCouldYou,"As they began to grow,",110.03,111.36,As|they|began|to|grow
+I became their friend.,>maximal segment,HowCouldYou,41,Jacob_HowCouldYou,I became their friend.,111.43,112.74,I|became|their|friend
+"They clung to my fur and pulled themselves up on wobbly legs, poked fingers in my eyes, investigated my ears, and gave me kisses on my nose.",>maximal segment,HowCouldYou,42,Jacob_HowCouldYou,"They clung to my fur and pulled themselves up on wobbly legs, poked fingers in my eyes, investigated my ears, and gave me kisses on my nose.",113.15,122.929999,They|clung|to|my|fur|and|pulled|themselves|up|on|wobbly|legs|poked|fingers|in|my|eyes|investigated|my|ears|and|gave|me|kisses|on|my|nose
+"I loved everything about them,",-,HowCouldYou,43,Jacob_HowCouldYou,"I loved everything about them,",123.44,125.13,I|loved|everything|about|them
+especially their touch,nonrestrictive clause,HowCouldYou,44,Jacob_HowCouldYou,especially their touch,125.6,127.119999,especially|their|touch
+- because your touch was now so infrequent,conjunction,HowCouldYou,45,Jacob_HowCouldYou,- because your touch was now so infrequent,127.59,130.57000000000002,because|your|touch|was|now|so|infrequent
+- and I would have defended them with my life if need be.,conjunction; >maximal segment,HowCouldYou,46,Jacob_HowCouldYou,- and I would have defended them with my life if need be.,131.54,134.84,and|I|would|have|defended|them|with|my|life|if|need|be
+I would listen to their worries and secret dreams.,>maximal segment,HowCouldYou,47,Jacob_HowCouldYou,I would listen to their worries and secret dreams.,135.86,138.64,I|would|listen|to|their|worries|and|secret|dreams
+Together we waited for the sound of your car in the driveway.,>maximal segment,HowCouldYou,48,Jacob_HowCouldYou,Together we waited for the sound of your car in the driveway.,139.24,142.38,Together|we|waited|for|the|sound|of|your|car|in|the|driveway
+"There had been a time,",positioning element,HowCouldYou,49,Jacob_HowCouldYou,"There had been a time,",143.09,144.189999,There|had|been|a|time
+"when others asked you if you had a dog,",relative clause,HowCouldYou,50,Jacob_HowCouldYou,"when others asked you if you had a dog,",144.209999,146.59,when|others|asked|you|if|you|had|a|dog
+that you produced a photo of me from your wallet and told them stories about me.,relative clause; >maximal segment,HowCouldYou,51,Jacob_HowCouldYou,that you produced a photo of me from your wallet and told them stories about me.,147.02,151.85,that|you|produced|a|photo|of|me|from|your|wallet|and|told|them|stories|about|me
+"These past few years,",positioning element,HowCouldYou,52,Jacob_HowCouldYou,"These past few years,",152.36,153.639999,These|past|few|years
+"you just answered ""yes"" and changed the subject.",>maximal segment,HowCouldYou,53,Jacob_HowCouldYou,"you just answered ""yes"" and changed the subject.",154.07,157.78999900000002,you|just|answered|yes|and|changed|the|subject
+"I had gone from being your dog to ""just a dog,""",-,HowCouldYou,54,Jacob_HowCouldYou,"I had gone from being your dog to ""just a dog,""",159.24,162.35,I|had|gone|from|being|your|dog|to|just|a|dog
+and you resented every expenditure on my behalf.,conjunction; >maximal segment,HowCouldYou,55,Jacob_HowCouldYou,and you resented every expenditure on my behalf.,162.83,165.86,and|you|resented|every|expenditure|on|my|behalf
+Now you have a new career opportunity in another city,-,HowCouldYou,56,Jacob_HowCouldYou,Now you have a new career opportunity in another city,167.11,170.15,Now|you|have|a|new|career|opportunity|in|another|city
+and you and they will be moving to an apartment,conjunction,HowCouldYou,57,Jacob_HowCouldYou,and you and they will be moving to an apartment,170.7,173.0,and|you|and|they|will|be|moving|to|an|apartment
+that doesn't allow pets.,relative clause; >maximal segment,HowCouldYou,58,Jacob_HowCouldYou,that doesn't allow pets.,173.0,174.4,that|doesn't|allow|pets
+"You've made the right decision for your ""family,""",-,HowCouldYou,59,Jacob_HowCouldYou,"You've made the right decision for your ""family,""",174.95,178.26,You've|made|the|right|decision|for|your|family
+but there was a time,conjunction,HowCouldYou,60,Jacob_HowCouldYou,but there was a time,178.76,180.029999,but|there|was|a|time
+when I was your only family.,relative clause; >maximal segment,HowCouldYou,61,Jacob_HowCouldYou,when I was your only family.,180.059999,181.97,when|I|was|your|only|family
+I was excited about the car ride,-,HowCouldYou,62,Jacob_HowCouldYou,I was excited about the car ride,182.96,185.08,I|was|excited|about|the|car|ride
+until we arrived at the animal shelter.,positioning element; >maximal segment,HowCouldYou,63,Jacob_HowCouldYou,until we arrived at the animal shelter.,185.1,187.55,until|we|arrived|at|the|animal|shelter
+"It smelled of fear, of hopelessness.",>maximal segment,HowCouldYou,64,Jacob_HowCouldYou,"It smelled of fear, of hopelessness.",188.2,190.79,It|smelled|of|fear|of|hopelessness
+You filled out the paperwork,-,HowCouldYou,65,Jacob_HowCouldYou,You filled out the paperwork,190.79,192.72,You|filled|out|the|paperwork
+"and said ""I know you will find a good home for her.""",quotation; >maximal segment,HowCouldYou,66,Jacob_HowCouldYou,"and said ""I know you will find a good home for her.""",192.74,196.26,and|said|I|know|you|will|find|a|good|home|for|her
+They shrugged and gave you a pained look.,>maximal segment,HowCouldYou,67,Jacob_HowCouldYou,They shrugged and gave you a pained look.,196.719999,199.24,They|shrugged|and|gave|you|a|pained|look
+They understand the realities facing a middle-aged dog or cat.,>maximal segment,HowCouldYou,68,Jacob_HowCouldYou,They understand the realities facing a middle-aged dog or cat.,199.81,203.79,They|understand|the|realities|facing|a|middle|aged|dog|or|cat
+You had to pry your son's fingers loose from my collar,-,HowCouldYou,69,Jacob_HowCouldYou,You had to pry your son's fingers loose from my collar,203.79,208.06,You|had|to|pry|your|son's|fingers|loose|from|my|collar
+"as he screamed ""No, Daddy!",conjunction; >maximal segment,HowCouldYou,70,Jacob_HowCouldYou,"as he screamed ""No, Daddy!",208.37,210.499999,as|he|screamed|No|Daddy
+"Please don't let them take my dog!""",>maximal segment,HowCouldYou,71,Jacob_HowCouldYou,"Please don't let them take my dog!""",210.88,212.52,Please|don't|let|them|take|my|dog
+And I worried for him,-,HowCouldYou,72,Jacob_HowCouldYou,And I worried for him,213.7,214.98,And|I|worried|for|him
+and what lessons you had just taught him about friendship and loyalty and about respect for all life.,conjunction / relative clause; >maximal segment,HowCouldYou,73,Jacob_HowCouldYou,and what lessons you had just taught him about friendship and loyalty and about respect for all life.,215.82,223.76,and|what|lessons|you|had|just|taught|him|about|friendship|and|loyalty|and|about|respect|for|all|life
+"You gave me a goodbye pat on the head, avoided my eyes, and politely refused",-,HowCouldYou,74,Jacob_HowCouldYou,"You gave me a goodbye pat on the head, avoided my eyes, and politely refused",223.76,230.999999,You|gave|me|a|goodbye|pat|on|the|head|avoided|my|eyes|and|politely|refused
+to take my collar and leash with you.,infinitival clause; >maximal segment,HowCouldYou,75,Jacob_HowCouldYou,to take my collar and leash with you.,231.0,232.859999,to|take|my|collar|and|leash|with|you
+You had a deadline,-,HowCouldYou,76,Jacob_HowCouldYou,You had a deadline,232.859999,234.21,You|had|a|deadline
+to meet,infinitival phrase,HowCouldYou,77,Jacob_HowCouldYou,to meet,234.209999,234.71,to|meet
+"and now I have one, too.",conjunction; >maximal segment,HowCouldYou,78,Jacob_HowCouldYou,"and now I have one, too.",235.13,236.97,and|now|I|have|one|too
+"After you left,",positioning element,HowCouldYou,79,Jacob_HowCouldYou,"After you left,",238.15,239.13,After|you|left
+the two ladies said,-,HowCouldYou,80,Jacob_HowCouldYou,the two ladies said,239.27,240.29,the|two|ladies|said
+you probably knew about your upcoming move months ago and made no attempt,complementizer (that...),HowCouldYou,81,Jacob_HowCouldYou,you probably knew about your upcoming move months ago and made no attempt,240.3,244.72,you|probably|knew|about|your|upcoming|move|months|ago|and|made|no|attempt
+to find me another good home.,infinitival clause; >maximal segment,HowCouldYou,82,Jacob_HowCouldYou,to find me another good home.,244.73,246.29,to|find|me|another|good|home
+They shook their heads,-,HowCouldYou,83,Jacob_HowCouldYou,They shook their heads,246.83,247.74,They|shook|their|heads
+"and asked ""How could you?""",quotation; >maximal segment,HowCouldYou,84,Jacob_HowCouldYou,"and asked ""How could you?""",247.74,249.83,and|asked|How|could|you
+They are as attentive to us here in the shelter,-,HowCouldYou,85,Jacob_HowCouldYou,They are as attentive to us here in the shelter,251.23,253.67,They|are|as|attentive|to|us|here|in|the|shelter
+as their busy schedules allow.,conjunction; >maximal segment,HowCouldYou,86,Jacob_HowCouldYou,as their busy schedules allow.,253.7,255.64,as|their|busy|schedules|allow
+"They feed us, of course,",-,HowCouldYou,87,Jacob_HowCouldYou,"They feed us, of course,",256.07,257.48999999999995,They|feed|us|of|course
+but I lost my appetite days ago.,conjunction; >maximal segment,HowCouldYou,88,Jacob_HowCouldYou,but I lost my appetite days ago.,257.93,259.94,but|I|lost|my|appetite|days|ago
+"At first, whenever anyone passed my pen,",positioning element,HowCouldYou,89,Jacob_HowCouldYou,"At first, whenever anyone passed my pen,",260.48,263.349999,At|first|whenever|anyone|passed|my|pen
+"I rushed to the front,",-,HowCouldYou,90,Jacob_HowCouldYou,"I rushed to the front,",263.4,264.61,I|rushed|to|the|front
+hoping it was you,nonfinite clause,HowCouldYou,91,Jacob_HowCouldYou,hoping it was you,265.049999,266.23999999999995,hoping|it|was|you
+- that you had changed your mind -,complementizer,HowCouldYou,92,Jacob_HowCouldYou,- that you had changed your mind -,266.98999999999995,268.46,that|you|had|changed|your|mind
+or I hoped,conjunction,HowCouldYou,93,Jacob_HowCouldYou,or I hoped,269.299999,270.37,or|I|hoped
+it would at least be someone,complementizer (that...),HowCouldYou,94,Jacob_HowCouldYou,it would at least be someone,271.14,272.61,it|would|at|least|be|someone
+who cared.,relative clause; >maximal segment,HowCouldYou,95,Jacob_HowCouldYou,who cared.,272.61,273.40000000000003,who|cared
+When I realized,-,HowCouldYou,96,Jacob_HowCouldYou,When I realized,274.77,275.59000000000003,When|I|realized
+"I could not compete with the attention of happy puppies,",complementizer (that...),HowCouldYou,97,Jacob_HowCouldYou,"I could not compete with the attention of happy puppies,",275.63,278.85,I|could|not|compete|with|the|attention|of|happy|puppies
+"oblivious to their own fate,",nonrestrictive clause,HowCouldYou,98,Jacob_HowCouldYou,"oblivious to their own fate,",279.62,281.439999,oblivious|to|their|own|fate
+I retreated to a corner and waited.,>maximal segment,HowCouldYou,99,Jacob_HowCouldYou,I retreated to a corner and waited.,281.969999,284.629999,I|retreated|to|a|corner|and|waited
+I heard her footsteps,-,HowCouldYou,100,Jacob_HowCouldYou,I heard her footsteps,286.02,287.259999,I|heard|her|footsteps
+as she came for me,conjunction,HowCouldYou,101,Jacob_HowCouldYou,as she came for me,287.309999,288.299999,as|she|came|for|me
+"at the end of the day,",positioning element,HowCouldYou,102,Jacob_HowCouldYou,"at the end of the day,",288.299999,289.45,at|the|end|of|the|day
+and I padded along the aisle after her,conjunction,HowCouldYou,103,Jacob_HowCouldYou,and I padded along the aisle after her,290.26,292.83,and|I|padded|along|the|aisle|after|her
+to a separate room.,positioning element; >maximal segment,HowCouldYou,104,Jacob_HowCouldYou,to a separate room.,292.83,294.04,to|a|separate|room
+"She placed me on the table, rubbed my ears and told me",-,HowCouldYou,105,Jacob_HowCouldYou,"She placed me on the table, rubbed my ears and told me",295.37,299.089999,She|placed|me|on|the|table|rubbed|my|ears|and|told|me
+not to worry.,infinitival clause; >maximal segment,HowCouldYou,106,Jacob_HowCouldYou,not to worry.,299.09,299.96,not|to|worry
+"My heart pounded in anticipation of what was to come,",-,HowCouldYou,107,Jacob_HowCouldYou,"My heart pounded in anticipation of what was to come,",300.929999,304.259999,My|heart|pounded|in|anticipation|of|what|was|to|come
+but there was also a sense of relief.,conjunction; >maximal segment,HowCouldYou,108,Jacob_HowCouldYou,but there was also a sense of relief.,304.74,306.74,but|there|was|also|a|sense|of|relief
+The prisoner of love had run out of days.,>maximal segment,HowCouldYou,109,Jacob_HowCouldYou,The prisoner of love had run out of days.,307.25,310.23999999999995,The|prisoner|of|love|had|run|out|of|days
+She gently placed a tourniquet around my foreleg,-,HowCouldYou,110,Jacob_HowCouldYou,She gently placed a tourniquet around my foreleg,311.26,314.33000000000004,She|gently|placed|a|tourniquet|around|my|foreleg
+as a tear ran down her cheek.,conjunction; >maximal segment,HowCouldYou,111,Jacob_HowCouldYou,as a tear ran down her cheek.,314.47,316.37,as|a|tear|ran|down|her|cheek
+She expertly slid the hypodermic needle into my vein.,>maximal segment,HowCouldYou,112,Jacob_HowCouldYou,She expertly slid the hypodermic needle into my vein.,317.61,320.98999899999995,She|expertly|slid|the|hypodermic|needle|into|my|vein
+"As I felt the sting and the cool liquid coursing through my body,",conjunction,HowCouldYou,113,Jacob_HowCouldYou,"As I felt the sting and the cool liquid coursing through my body,",322.0,325.86,As|I|felt|the|sting|and|the|cool|liquid|coursing|through|my|body
+"I lay down sleepily, looked into her kind eyes",-,HowCouldYou,114,Jacob_HowCouldYou,"I lay down sleepily, looked into her kind eyes",326.27,330.04,I|lay|down|sleepily|looked|into|her|kind|eyes
+"and murmured ""How could you?""",quotation; >maximal segment,HowCouldYou,115,Jacob_HowCouldYou,"and murmured ""How could you?""",330.72,333.09,and|murmured|How|could|you
+"Perhaps because she understood my dogspeak,",-,HowCouldYou,116,Jacob_HowCouldYou,"Perhaps because she understood my dogspeak,",334.24,336.82,Perhaps|because|she|understood|my|dogspeak
+"she said ""I'm so sorry.""",quotation; >maximal segment,HowCouldYou,117,Jacob_HowCouldYou,"she said ""I'm so sorry.""",337.46,339.84,she|said|I'm|so|sorry
+She hugged me and hurriedly explained,-,HowCouldYou,118,Jacob_HowCouldYou,She hugged me and hurriedly explained,340.289999,343.01,She|hugged|me|and|hurriedly|explained
+it was her job to make sure,complementizer (that...),HowCouldYou,119,Jacob_HowCouldYou,it was her job to make sure,343.02,344.79,it|was|her|job|to|make|sure
+"I went to a better place,",complementizer (that...),HowCouldYou,120,Jacob_HowCouldYou,"I went to a better place,",344.79,346.28000000000003,I|went|to|a|better|place
+"where I wouldn't be ignored or abused or abandoned, or have",relative clause,HowCouldYou,121,Jacob_HowCouldYou,"where I wouldn't be ignored or abused or abandoned, or have",346.66,352.3,where|I|wouldn't|be|ignored|or|abused|or|abandoned|or|have
+to fend for myself,infinitival phrase; >maximal segment,HowCouldYou,122,Jacob_HowCouldYou,to fend for myself,352.3,353.61,to|fend|for|myself
+- a place of love and light so very different from this earthly place.,>maximal segment,HowCouldYou,123,Jacob_HowCouldYou,- a place of love and light so very different from this earthly place.,354.32,359.859999,a|place|of|love|and|light|so|very|different|from|this|earthly|place
