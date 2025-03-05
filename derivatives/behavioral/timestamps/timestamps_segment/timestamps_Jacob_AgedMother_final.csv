@@ -1,0 +1,129 @@
+,segment,reason,story,idx,audio,segment_raw,onset,offset,words
+0,"Long, long ago",positioning element,AgedMother,0,Jacob_AgedMother,"Long, long ago",5.17,6.39,Long|long|ago
+1,there lived at the foot of the mountain,positioning element,AgedMother,1,Jacob_AgedMother,there lived at the foot of the mountain,6.62,8.299852,there|lived|at|the|foot|of|the|mountain
+2,"a poor farmer and his aged, widowed mother.",>maximal segment,AgedMother,2,Jacob_AgedMother,"a poor farmer and his aged, widowed mother.",8.279999,11.1,a|poor|farmer|and|his|aged|widowed|mother
+3,They owned a bit of land,-,AgedMother,3,Jacob_AgedMother,They owned a bit of land,12.05,13.33,They|owned|a|bit|of|land
+4,"which supplied them with food,",relative clause,AgedMother,4,Jacob_AgedMother,"which supplied them with food,",13.279999,14.82,which|supplied|them|with|food
+5,"and they were humble, peaceful, and happy.",conjunction; >maximal segment,AgedMother,5,Jacob_AgedMother,"and they were humble, peaceful, and happy.",15.09,17.759999,and|they|were|humble|peaceful|and|happy
+6,Shining was governed by a despotic leader,-,AgedMother,6,Jacob_AgedMother,Shining was governed by a despotic leader,18.579999,21.67,Shining|was|governed|by|a|despotic|leader
+7,"who, though a warrior,",nonrestrictive clause,AgedMother,7,Jacob_AgedMother,"who, though a warrior,",21.68,23.1,who|though|a|warrior
+8,had a great and cowardly shrinking from anything suggestive of failing health and strength.,cont. relative clause; >maximal segment,AgedMother,8,Jacob_AgedMother,had a great and cowardly shrinking from anything suggestive of failing health and strength.,23.16,29.16,had|a|great|and|cowardly|shrinking|from|anything|suggestive|of|failing|health|and|strength
+9,This caused him,-,AgedMother,9,Jacob_AgedMother,This caused him,30.133957,30.95,This|caused|him
+10,to send out a cruel proclamation.,infinitival phrase; >maximal segment,AgedMother,10,Jacob_AgedMother,to send out a cruel proclamation.,30.943699,33.26,to|send|out|a|cruel|proclamation
+11,The entire province was given strict orders,-,AgedMother,11,Jacob_AgedMother,The entire province was given strict orders,33.38,35.819999,The|entire|province|was|given|strict|orders
+12,to immediately put to death all aged people.,infinitival phrase; >maximal segment,AgedMother,12,Jacob_AgedMother,to immediately put to death all aged people.,35.831068,38.79,to|immediately|put|to|death|all|aged|people
+13,"Those were barbarous days,",positioning element,AgedMother,13,Jacob_AgedMother,"Those were barbarous days,",39.65,41.14,Those|were|barbarous|days
+14,and the custom,conjunction,AgedMother,14,Jacob_AgedMother,and the custom,41.238986,41.990889,and|the|custom
+15,of abandoning old people,nonfinite clause,AgedMother,15,Jacob_AgedMother,of abandoning old people,41.99,43.407937,of|abandoning|old|people
+16,to die was not uncommon.,infinitival phrase; >maximal segment,AgedMother,16,Jacob_AgedMother,to die was not uncommon.,43.39,45.19,to|die|was|not|uncommon
+17,"The poor farmer loved his aged mother with tender reverence,",novel information,AgedMother,17,Jacob_AgedMother,"The poor farmer loved his aged mother with tender reverence,",45.859999,49.66,The|poor|farmer|loved|his|aged|mother|with|tender|reverence
+18,and the order filled his heart with sorrow.,positioning element - change in aspect / novel information; >maximal segment,AgedMother,18,Jacob_AgedMother,and the order filled his heart with sorrow.,50.29,52.91,and|the|order|filled|his|heart|with|sorrow
+19,But no one ever thought twice,-,AgedMother,19,Jacob_AgedMother,But no one ever thought twice,53.9,55.582981,But|no|one|ever|thought|twice
+20,"about obeying the mandate of the governor,",nonfinite clause,AgedMother,20,Jacob_AgedMother,"about obeying the mandate of the governor,",55.6119,57.93,about|obeying|the|mandate|of|the|governor
+21,so with many deep and hopeless sighs,conjunction / nonrestrictive clause,AgedMother,21,Jacob_AgedMother,so with many deep and hopeless sighs,58.22,60.55,so|with|many|deep|and|hopeless|sighs
+22,the youth prepared for,-,AgedMother,22,Jacob_AgedMother,the youth prepared for,60.83,62.27,the|youth|prepared|for
+23,what at that time was considered the kindest mode of death.,relative clause; >maximal segment,AgedMother,23,Jacob_AgedMother,what at that time was considered the kindest mode of death.,62.52,66.36,what|at|that|time|was|considered|the|kindest|mode|of|death
+24,"Just at sundown,",positioning element,AgedMother,24,Jacob_AgedMother,"Just at sundown,",67.33,68.499999,Just|at|sundown
+25,"when his day's work was ended,",relative clause,AgedMother,25,Jacob_AgedMother,"when his day's work was ended,",68.79,70.579999,when|his|day's|work|was|ended
+26,he took a quantity of unwhitened rice,-,AgedMother,26,Jacob_AgedMother,he took a quantity of unwhitened rice,70.89,73.86,he|took|a|quantity|of|unwhitened|rice
+27,"which was the principal food for the poor,",relative clause,AgedMother,27,Jacob_AgedMother,"which was the principal food for the poor,",73.96,76.26,which|was|the|principal|food|for|the|poor
+28,"and he cooked, dried it, and tied it in a square cloth,",conjunction,AgedMother,28,Jacob_AgedMother,"and he cooked, dried it, and tied it in a square cloth,",76.43,80.06,and|he|cooked|dried|it|and|tied|it|in|a|square|cloth
+29,which he swung in a bundle around his neck,relative clause,AgedMother,29,Jacob_AgedMother,which he swung in a bundle around his neck,80.19,82.62,which|he|swung|in|a|bundle|around|his|neck
+30,"along with a gourd filled with cool, sweet water.",conjunction; >maximal segment,AgedMother,30,Jacob_AgedMother,"along with a gourd filled with cool, sweet water.",82.73,85.74,along|with|a|gourd|filled|with|cool|sweet|water
+31,Then he lifted his helpless old mother to his back and started on his painful journey up the mountain.,>maximal segment,AgedMother,31,Jacob_AgedMother,Then he lifted his helpless old mother to his back and started on his painful journey up the mountain.,86.84,92.58,Then|he|lifted|his|helpless|old|mother|to|his|back|and|started|on|his|painful|journey|up|the|mountain
+32,The road was long and steep;,>maximal segment,AgedMother,32,Jacob_AgedMother,The road was long and steep;,93.97,95.5,The|road|was|long|and|steep
+33,the narrow road was crossed and re-crossed by many paths made by the hunters and woodcutters.,>maximal segment,AgedMother,33,Jacob_AgedMother,the narrow road was crossed and re-crossed by many paths made by the hunters and woodcutters.,95.57,101.5069,the|narrow|road|was|crossed|and|re|crossed|by|many|paths|made|by|the|hunters|and|woodcutters
+34,"In some places,",positioning element,AgedMother,34,Jacob_AgedMother,"In some places,",102.4034,103.409999,In|some|places
+35,"they were lost and confused,",-,AgedMother,35,Jacob_AgedMother,"they were lost and confused,",103.7,105.269999,they|were|lost|and|confused
+36,but he gave no heed.,conjunction; >maximal segment,AgedMother,36,Jacob_AgedMother,but he gave no heed.,105.559999,106.919999,but|he|gave|no|heed
+37,"One path or another, it mattered not.",>maximal segment,AgedMother,37,Jacob_AgedMother,"One path or another, it mattered not.",107.249999,109.979999,One|path|or|another|it|mattered|not
+38,"On he went,",-,AgedMother,38,Jacob_AgedMother,"On he went,",110.499999,111.47,On|he|went
+39,climbing blindly upward,nonfinite clause; >maximal segment,AgedMother,39,Jacob_AgedMother,climbing blindly upward,111.61,113.17,climbing|blindly|upward
+40,-- ever upward towards the high bare summit of,-,AgedMother,40,Jacob_AgedMother,-- ever upward towards the high bare summit of,113.34,116.053331,ever|upward|towards|the|high|bare|summit|of
+41,what is known as Obatsuyama,relative clause,AgedMother,41,Jacob_AgedMother,what is known as Obatsuyama,116.08225,118.22,what|is|known|as|Obatsuyama
+42,"the mountain of the ""abandoning of the aged.""",nonrestrictive clause; >maximal segment,AgedMother,42,Jacob_AgedMother,"the mountain of the ""abandoning of the aged.""",118.359999,121.7,the|mountain|of|the|abandoning|of|the|aged
+43,The eyes of the old mother were not so dim,-,AgedMother,43,Jacob_AgedMother,The eyes of the old mother were not so dim,122.58,124.98,The|eyes|of|the|old|mother|were|not|so|dim
+44,"but that they noted the reckless hastening from one path to another,",conjunction,AgedMother,44,Jacob_AgedMother,"but that they noted the reckless hastening from one path to another,",125.089999,129.16,but|that|they|noted|the|reckless|hastening|from|one|path|to|another
+45,and her loving heart grew anxious.,conjunction; >maximal segment,AgedMother,45,Jacob_AgedMother,and her loving heart grew anxious.,129.43,131.56,and|her|loving|heart|grew|anxious
+46,Her son did not know the mountain's many paths,novel information,AgedMother,46,Jacob_AgedMother,Her son did not know the mountain's many paths,131.9,134.58,Her|son|did|not|know|the|mountain's|many|paths
+47,"and his return might be one of danger,",conjunction,AgedMother,47,Jacob_AgedMother,"and his return might be one of danger,",134.7,136.93,and|his|return|might|be|one|of|danger
+48,so she stretched forth her hand,conjunction,AgedMother,48,Jacob_AgedMother,so she stretched forth her hand,137.2,139.049999,so|she|stretched|forth|her|hand
+49,"and, snapping the twigs from brushes as they passed,",conjunction / nonfinite clause,AgedMother,49,Jacob_AgedMother,"and, snapping the twigs from brushes as they passed,",139.16,141.96,and|snapping|the|twigs|from|brushes|as|they|passed
+50,she quietly dropped a handful every few steps of the way,-,AgedMother,50,Jacob_AgedMother,she quietly dropped a handful every few steps of the way,142.07,145.73,she|quietly|dropped|a|handful|every|few|steps|of|the|way
+51,so that as they climbed,conjunction / relative clause,AgedMother,51,Jacob_AgedMother,so that as they climbed,145.87,147.32,so|that|as|they|climbed
+52,the narrow path behind them was dotted at frequent intervals with tiny piles of twigs.,conjunction cont.; >maximal segment,AgedMother,52,Jacob_AgedMother,the narrow path behind them was dotted at frequent intervals with tiny piles of twigs.,147.4,152.84,the|narrow|path|behind|them|was|dotted|at|frequent|intervals|with|tiny|piles|of|twigs
+53,"At last,",positioning element,AgedMother,53,Jacob_AgedMother,"At last,",153.908753,154.59,At|last
+54,the summit was reached.,>maximal segment,AgedMother,54,Jacob_AgedMother,the summit was reached.,154.602818,155.81,the|summit|was|reached
+55,Weary and heart sick,nonrestrictive clause,AgedMother,55,Jacob_AgedMother,Weary and heart sick,155.92,157.28,Weary|and|heart|sick
+56,the youth gently released his burden,-,AgedMother,56,Jacob_AgedMother,the youth gently released his burden,157.45,159.34559,the|youth|gently|released|his|burden
+57,and silently prepared a place of comfort,conjunction,AgedMother,57,Jacob_AgedMother,and silently prepared a place of comfort,159.34,161.86,and|silently|prepared|a|place|of|comfort
+58,as his last duty to the loved one.,conjunction; >maximal segment,AgedMother,58,Jacob_AgedMother,as his last duty to the loved one.,161.99,164.16,as|his|last|duty|to|the|loved|one
+59,Gathering fallen pine needles,nonfinite clause,AgedMother,59,Jacob_AgedMother,Gathering fallen pine needles,165.11,166.85,Gathering|fallen|pine|needles
+60,he made a soft cushion,-,AgedMother,60,Jacob_AgedMother,he made a soft cushion,166.99,168.368426,he|made|a|soft|cushion
+61,and tenderly lifted his old mother onto it.,conjunction,AgedMother,61,Jacob_AgedMother,and tenderly lifted his old mother onto it.,168.34,170.9,and|tenderly|lifted|his|old|mother|onto|it
+62,Hew rapped her padded coat more closely about the stooping shoulders,-,AgedMother,62,Jacob_AgedMother,Hew rapped her padded coat more closely about the stooping shoulders,172.0,176.379999,Hew|rapped|her|padded|coat|more|closely|about|the|stooping|shoulders
+63,and with tearful eyes and an aching heart he said farewell.,conjunction; >maximal segment,AgedMother,63,Jacob_AgedMother,and with tearful eyes and an aching heart he said farewell.,176.569999,180.15,and|with|tearful|eyes|and|an|aching|heart|he|said|farewell
+64,The trembling mother's voice was full of unselfish love,-,AgedMother,64,Jacob_AgedMother,The trembling mother's voice was full of unselfish love,181.55,184.79,The|trembling|mother's|voice|was|full|of|unselfish|love
+65,as she gave her last injunction.,conjunction; >maximal segment,AgedMother,65,Jacob_AgedMother,as she gave her last injunction.,184.9,187.05,as|she|gave|her|last|injunction
+66,"""Let not thine eyes be blinded, my son,"" she said.",quotation; >maximal segment,AgedMother,66,Jacob_AgedMother,"""Let not thine eyes be blinded, my son,"" she said.",188.14,191.9,Let|not|thine|eyes|be|blinded|my|son|she|said
+67,"""The mountain road is full of dangers.",quotation; >maximal segment,AgedMother,67,Jacob_AgedMother,"""The mountain road is full of dangers.",192.8,195.19,The|mountain|road|is|full|of|dangers
+68,LOOK carefully and follow the path,quotation,AgedMother,68,Jacob_AgedMother,LOOK carefully and follow the path,195.33,198.271028,LOOK|carefully|and|follow|the|path
+69,which holds the piles of twigs.,relative clause  / quotation; >maximal segment,AgedMother,69,Jacob_AgedMother,which holds the piles of twigs.,198.28,200.26,which|holds|the|piles|of|twigs
+70,"They will guide you to the familiar path farther down"".",quotation; >maximal segment,AgedMother,70,Jacob_AgedMother,"They will guide you to the familiar path farther down"".",201.68,204.89,They|will|guide|you|to|the|familiar|path|farther|down
+71,"The son's surprised eyes looked back over the path,",-,AgedMother,71,Jacob_AgedMother,"The son's surprised eyes looked back over the path,",205.63,208.66,The|son's|surprised|eyes|looked|back|over|the|path
+72,"then at the poor old, shriveled hands all scratched and soiled by their work of love.",conjunction; >maximal segment,AgedMother,72,Jacob_AgedMother,"then at the poor old, shriveled hands all scratched and soiled by their work of love.",209.21,215.07,then|at|the|poor|old|shriveled|hands|all|scratched|and|soiled|by|their|work|of|love
+73,His heart broke within,-,AgedMother,73,Jacob_AgedMother,His heart broke within,216.48,217.86,His|heart|broke|within
+74,"and bowing to the ground,",non-finite clause,AgedMother,74,Jacob_AgedMother,"and bowing to the ground,",217.84,219.37,and|bowing|to|the|ground
+75,"he cried aloud: ""oh, Honorable mother,",nonrestrictive clause,AgedMother,75,Jacob_AgedMother,"he cried aloud: ""oh, Honorable mother,",219.32,222.23,he|cried|aloud|oh|Honorable|mother
+76,your kindness breaks my heart!,>maximal segment,AgedMother,76,Jacob_AgedMother,your kindness breaks my heart!,222.34,224.22,your|kindness|breaks|my|heart
+77,I will not leave you.,>maximal segment,AgedMother,77,Jacob_AgedMother,I will not leave you.,224.569999,225.86,I|will|not|leave|you
+78,"Together we will follow the path of twigs,",-,AgedMother,78,Jacob_AgedMother,"Together we will follow the path of twigs,",226.34,228.72,Together|we|will|follow|the|path|of|twigs
+79,"and together we will die!""",conjunction; >maximal segment,AgedMother,79,Jacob_AgedMother,"and together we will die!""",228.85,230.67,and|together|we|will|die
+80,Once more he shouldered his burden,-,AgedMother,80,Jacob_AgedMother,Once more he shouldered his burden,232.07,234.039999,Once|more|he|shouldered|his|burden
+81,(how light it seemed now),nonrestrictive clause,AgedMother,81,Jacob_AgedMother,(how light it seemed now),234.579999,236.14,how|light|it|seemed|now
+82,"and hastened down the path,",-,AgedMother,82,Jacob_AgedMother,"and hastened down the path,",236.31,237.99,and|hastened|down|the|path
+83,"through the shadows and the moonlight,",nonrestrictive clause,AgedMother,83,Jacob_AgedMother,"through the shadows and the moonlight,",238.19,240.16,through|the|shadows|and|the|moonlight
+84,to the little hut in the valley.,positioning element; >maximal segment,AgedMother,84,Jacob_AgedMother,to the little hut in the valley.,240.26,242.05,to|the|little|hut|in|the|valley
+85,"Beneath the kitchen floor was a walled closet for food,",-,AgedMother,85,Jacob_AgedMother,"Beneath the kitchen floor was a walled closet for food,",242.21,245.31,Beneath|the|kitchen|floor|was|a|walled|closet|for|food
+86,which was covered and hidden from view.,relative clause; >maximal segment,AgedMother,86,Jacob_AgedMother,which was covered and hidden from view.,245.91,248.03,which|was|covered|and|hidden|from|view
+87,"There the son hid his mother,",-,AgedMother,87,Jacob_AgedMother,"There the son hid his mother,",248.359999,250.01,There|the|son|hid|his|mother
+88,"supplying her with everything she needed,",nonfinite clause,AgedMother,88,Jacob_AgedMother,"supplying her with everything she needed,",250.14,252.4,supplying|her|with|everything|she|needed
+89,continually watching and fearing,nonfinite clause,AgedMother,89,Jacob_AgedMother,continually watching and fearing,252.579999,254.95,continually|watching|and|fearing
+90,she would be discovered.,complementizer (that...); >maximal segment,AgedMother,90,Jacob_AgedMother,she would be discovered.,255.08,256.35,she|would|be|discovered
+91,"Time passed,",positioning element,AgedMother,91,Jacob_AgedMother,"Time passed,",257.64,258.64,Time|passed
+92,and he was beginning to feel safe,conjunction,AgedMother,92,Jacob_AgedMother,and he was beginning to feel safe,258.76,260.569999,and|he|was|beginning|to|feel|safe
+93,"when again the governor sent forth heralds bearing an unreasonable order,",conjunction,AgedMother,93,Jacob_AgedMother,"when again the governor sent forth heralds bearing an unreasonable order,",260.62,265.879999,when|again|the|governor|sent|forth|heralds|bearing|an|unreasonable|order
+94,seemingly as a boast of his power.,nonrestrictive clause; >maximal segment,AgedMother,94,Jacob_AgedMother,seemingly as a boast of his power.,266.189999,268.5,seemingly|as|a|boast|of|his|power
+95,His demand was,-,AgedMother,95,Jacob_AgedMother,His demand was,269.05,269.98,His|demand|was
+96,that his subjects should present him with a rope of ashes.,relative clause; >maximal segment,AgedMother,96,Jacob_AgedMother,that his subjects should present him with a rope of ashes.,269.962084,274.07,that|his|subjects|should|present|him|with|a|rope|of|ashes
+97,The entire province trembled with dread.,>maximal segment,AgedMother,97,Jacob_AgedMother,The entire province trembled with dread.,275.23,277.38,The|entire|province|trembled|with|dread
+98,The order must be obeyed,-,AgedMother,98,Jacob_AgedMother,The order must be obeyed,277.56,279.04,The|order|must|be|obeyed
+99,yet who in all Shining could make a rope of ashes?,conjunction; >maximal segment,AgedMother,99,Jacob_AgedMother,yet who in all Shining could make a rope of ashes?,279.01,282.51,yet|who|in|all|Shining|could|make|a|rope|of|ashes
+100,"One night,",positioning element,AgedMother,100,Jacob_AgedMother,"One night,",282.975789,283.659999,One|night
+101,"in great distress,",nonrestrictive clause,AgedMother,101,Jacob_AgedMother,"in great distress,",283.649999,285.02,in|great|distress
+102,the son whispered the news to his hidden mother.,>maximal segment,AgedMother,102,Jacob_AgedMother,the son whispered the news to his hidden mother.,285.14,287.68,the|son|whispered|the|news|to|his|hidden|mother
+103,"""Wait!"" she said.",quotation; >maximal segment,AgedMother,103,Jacob_AgedMother,"""Wait!"" she said.",288.179999,289.67,Wait|she|said
+104,"""I will think. I will think.""",quotation; >maximal segment,AgedMother,104,Jacob_AgedMother,"""I will think. I will think.""",289.93,291.92,I|will|think|I|will|think
+105,On the second day,positioning element,AgedMother,105,Jacob_AgedMother,On the second day,292.63485,293.444592,On|the|second|day
+106,she told him,-,AgedMother,106,Jacob_AgedMother,she told him,293.444592,293.99406,she|told|him
+107,what to do.,complementizer (minimal segment) / infinitival phrase; >maximal segment,AgedMother,107,Jacob_AgedMother,what to do.,294.0,294.774882,what|to|do
+108,"""Make rope of twisted straw,"" she said.",>maximal segment,AgedMother,108,Jacob_AgedMother,"""Make rope of twisted straw,"" she said.",295.35,298.02,Make|rope|of|twisted|straw|she|said
+109,"""Then stretch it upon a row of flat stones and burn it on a windless night.""",>maximal segment,AgedMother,109,Jacob_AgedMother,"""Then stretch it upon a row of flat stones and burn it on a windless night.""",298.47,303.789999,Then|stretch|it|upon|a|row|of|flat|stones|and|burn|it|on|a|windless|night
+110,He called the people together and did as she said,-,AgedMother,110,Jacob_AgedMother,He called the people together and did as she said,304.759999,307.5,He|called|the|people|together|and|did|as|she|said
+111,"and when the blaze died down,",conjunction,AgedMother,111,Jacob_AgedMother,"and when the blaze died down,",307.64,309.1,and|when|the|blaze|died|down
+112,"there upon the stones,",positioning element,AgedMother,112,Jacob_AgedMother,"there upon the stones,",309.23,310.39,there|upon|the|stones
+113,"with every twist and fiber showing perfectly,",nonrestrictive clause / nonfinite clause,AgedMother,113,Jacob_AgedMother,"with every twist and fiber showing perfectly,",310.52,313.25,with|every|twist|and|fiber|showing|perfectly
+114,lay a rope of ashes.,>maximal segment,AgedMother,114,Jacob_AgedMother,lay a rope of ashes.,313.35,315.04,lay|a|rope|of|ashes
+115,"The governor was pleased at the wit of the youth and praised greatly,",-,AgedMother,115,Jacob_AgedMother,"The governor was pleased at the wit of the youth and praised greatly,",316.149999,320.13,The|governor|was|pleased|at|the|wit|of|the|youth|and|praised|greatly
+116,but he demanded to know,conjunction,AgedMother,116,Jacob_AgedMother,but he demanded to know,320.39,321.579999,but|he|demanded|to|know
+117,where he had obtained his wisdom.,complementizer; >maximal segment,AgedMother,117,Jacob_AgedMother,where he had obtained his wisdom.,321.519999,323.36,where|he|had|obtained|his|wisdom
+118,"""Alas! Alas!"" cried the farmer, ""the truth must be told!""",-,AgedMother,118,Jacob_AgedMother,"""Alas! Alas!"" cried the farmer, ""the truth must be told!""",324.590726,328.93,Alas|Alas|cried|the|farmer|the|truth|must|be|told
+119,and with deep bows he related his story.,conjunction; >maximal segment,AgedMother,119,Jacob_AgedMother,and with deep bows he related his story.,329.38,332.28,and|with|deep|bows|he|related|his|story
+120,The governor listened and then meditated in silence.,>maximal segment,AgedMother,120,Jacob_AgedMother,The governor listened and then meditated in silence.,332.75,336.22,The|governor|listened|and|then|meditated|in|silence
+121,"Finally, he lifted his head.",>maximal segment,AgedMother,121,Jacob_AgedMother,"Finally, he lifted his head.",336.3,337.93,Finally|he|lifted|his|head
+122,"""Shining needs more than strength of youth,"" he said gravely.",quotation; >maximal segment,AgedMother,122,Jacob_AgedMother,"""Shining needs more than strength of youth,"" he said gravely.",338.29,341.95,Shining|needs|more|than|strength|of|youth|he|said|gravely
+123,"""Ah, that I should have forgotten the well-known saying,",quotation,AgedMother,123,Jacob_AgedMother,"""Ah, that I should have forgotten the well-known saying,",342.269999,345.96,Ah|that|I|should|have|forgotten|the|well|known|saying
+124,"""with the crown of snow, there cometh wisdom!""",quotation; >maximal segment,AgedMother,124,Jacob_AgedMother,"""with the crown of snow, there cometh wisdom!""",346.27,349.54,with|the|crown|of|snow|there|cometh|wisdom
+125,"That very hour the cruel law was abolished,",-,AgedMother,125,Jacob_AgedMother,"That very hour the cruel law was abolished,",349.92,352.61,That|very|hour|the|cruel|law|was|abolished
+126,and custom drifted into as far a past,conjunction,AgedMother,126,Jacob_AgedMother,and custom drifted into as far a past,352.92,355.679999,and|custom|drifted|into|as|far|a|past
+127,that only legends remain.,relative clause; >maximal segment,AgedMother,127,Jacob_AgedMother,that only legends remain.,355.779999,357.499999,that|only|legends|remain

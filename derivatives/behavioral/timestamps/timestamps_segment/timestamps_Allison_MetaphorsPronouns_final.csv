@@ -1,0 +1,162 @@
+,segment,reason,story,idx,audio,segment_raw,onset,offset,words
+0,The Chief of Police was on TV.,>maximal segment,MetaphorsPronouns,0,Allison_MetaphorsPronouns,The Chief of Police was on TV.,2.88,4.85,The|Chief|of|Police|was|on|TV
+1,She reported,-,MetaphorsPronouns,1,Allison_MetaphorsPronouns,She reported,5.56,6.42,She|reported
+2,that a convict had just escaped from jail.,complementizer; >maximal segment,MetaphorsPronouns,2,Allison_MetaphorsPronouns,that a convict had just escaped from jail.,6.36,8.829999,that|a|convict|had|just|escaped|from|jail
+3,She said,-,MetaphorsPronouns,3,Allison_MetaphorsPronouns,She said,9.6,10.196363,She|said
+4,that he just flew the coop and disappeared.,complementizer; >maximal segment,MetaphorsPronouns,4,Allison_MetaphorsPronouns,that he just flew the coop and disappeared.,10.18,12.709999,that|he|just|flew|the|coop|and|disappeared
+5,She warned the viewers,-,MetaphorsPronouns,5,Allison_MetaphorsPronouns,She warned the viewers,13.31,14.659999,She|warned|the|viewers
+6,that he might be hiding in the suburbs.,complementizer; >maximal segment,MetaphorsPronouns,6,Allison_MetaphorsPronouns,that he might be hiding in the suburbs.,14.62,16.7,that|he|might|be|hiding|in|the|suburbs
+7,She explained,-,MetaphorsPronouns,7,Allison_MetaphorsPronouns,She explained,17.39,18.25,She|explained
+8,that he had,complementizer,MetaphorsPronouns,8,Allison_MetaphorsPronouns,that he had,18.2,18.81,that|he|had
+9,to be put back into his cell.,infinitival phrase; >maximal segment,MetaphorsPronouns,9,Allison_MetaphorsPronouns,to be put back into his cell.,18.75,20.4,to|be|put|back|into|his|cell
+10,"At the end of the interview,",positioning element,MetaphorsPronouns,10,Allison_MetaphorsPronouns,"At the end of the interview,",21.11,22.63,At|the|end|of|the|interview
+11,she said,-,MetaphorsPronouns,11,Allison_MetaphorsPronouns,she said,22.93,23.48,she|said
+12,that this bird still had,complementizer,MetaphorsPronouns,12,Allison_MetaphorsPronouns,that this bird still had,23.42,25.26,that|this|bird|still|had
+13,to serve ten years.,infinitival phrase; >maximal segment,MetaphorsPronouns,13,Allison_MetaphorsPronouns,to serve ten years.,25.2,26.83,to|serve|ten|years
+14,She asked,-,MetaphorsPronouns,14,Allison_MetaphorsPronouns,She asked,27.47,28.32,She|asked
+15,that any sightings of him would be reported immediately.,complementizer; >maximal segment,MetaphorsPronouns,15,Allison_MetaphorsPronouns,that any sightings of him would be reported immediately.,28.3,32.66,that|any|sightings|of|him|would|be|reported|immediately
+16,Alice dreamt,-,MetaphorsPronouns,16,Allison_MetaphorsPronouns,Alice dreamt,36.660001,37.54,Alice|dreamt
+17,she got married.,complementizer (that...); >maximal segment,MetaphorsPronouns,17,Allison_MetaphorsPronouns,she got married.,37.524754,38.47,she|got|married
+18,"In the dream,",positioning element,MetaphorsPronouns,18,Allison_MetaphorsPronouns,"In the dream,",39.07,39.93,In|the|dream
+19,her husband never spent much time with her and the kids.,>maximal segment,MetaphorsPronouns,19,Allison_MetaphorsPronouns,her husband never spent much time with her and the kids.,40.26,44.01,her|husband|never|spent|much|time|with|her|and|the|kids
+20,She dreamt,-,MetaphorsPronouns,20,Allison_MetaphorsPronouns,She dreamt,44.7,45.46,She|dreamt
+21,that he was very cold to them.,complementizer; >maximal segment,MetaphorsPronouns,21,Allison_MetaphorsPronouns,that he was very cold to them.,45.66,47.71,that|he|was|very|cold|to|them
+22,She was shocked,-,MetaphorsPronouns,22,Allison_MetaphorsPronouns,She was shocked,48.5,49.66,She|was|shocked
+23,that he remained uncaring,complementizer,MetaphorsPronouns,23,Allison_MetaphorsPronouns,that he remained uncaring,49.91,51.669999,that|he|remained|uncaring
+24,even after they became grandparents.,positioning element; >maximal segment,MetaphorsPronouns,24,Allison_MetaphorsPronouns,even after they became grandparents.,51.76,54.180001,even|after|they|became|grandparents
+25,She dreamt,-,MetaphorsPronouns,25,Allison_MetaphorsPronouns,She dreamt,54.89,55.86,She|dreamt
+26,that he didn't even change,complementizer,MetaphorsPronouns,26,Allison_MetaphorsPronouns,that he didn't even change,55.9,57.53,that|he|didn't|even|change
+27,when their grandson was born.,"relative clause; >maximal segment; In fact, she remembered",MetaphorsPronouns,27,Allison_MetaphorsPronouns,when their grandson was born.,57.76,59.44,when|their|grandson|was|born
+28,"In fact, she remembered",-,MetaphorsPronouns,28,Allison_MetaphorsRepeatedNames,"In fact, she remembered",60.332941,62.574858,In|fact|Alice|remembered
+29,saying in the dream,nonfinite clause,MetaphorsPronouns,29,Allison_MetaphorsPronouns,saying in the dream,62.574858,63.77,saying|in|the|dream
+30,that the icebox did not even know his grandchild's name.,complementizer; >maximal segment,MetaphorsPronouns,30,Allison_MetaphorsPronouns,that the icebox did not even know his grandchild's name.,64.149999,67.91,that|the|icebox|did|not|even|know|his|grandchild's|name
+31,"At the end of the dream,",positioning element,MetaphorsPronouns,31,Allison_MetaphorsPronouns,"At the end of the dream,",68.559999,69.93,At|the|end|of|the|dream
+32,she finally divorced him.,>maximal segment,MetaphorsPronouns,32,Allison_MetaphorsPronouns,she finally divorced him.,70.54,72.259999,she|finally|divorced|him
+33,Sandra needed an operation.,>maximal segment,MetaphorsPronouns,33,Allison_MetaphorsPronouns,Sandra needed an operation.,76.559999,78.59,Sandra|needed|an|operation
+34,She was not sure about the surgeon at the local hospital.,>maximal segment,MetaphorsPronouns,34,Allison_MetaphorsPronouns,She was not sure about the surgeon at the local hospital.,79.11,83.09,She|was|not|sure|about|the|surgeon|at|the|local|hospital
+35,She heard,-,MetaphorsPronouns,35,Allison_MetaphorsPronouns,She heard,83.88,84.83,She|heard
+36,he had the reputation of,complementizer (that...),MetaphorsPronouns,36,Allison_MetaphorsPronouns,he had the reputation of,84.779999,86.929999,he|had|the|reputation|of
+37,treating his patients like meat.,nonfinite clause; >maximal segment,MetaphorsPronouns,37,Allison_MetaphorsPronouns,treating his patients like meat.,86.87,89.44,treating|his|patients|like|meat
+38,She then read reviews,-,MetaphorsPronouns,38,Allison_MetaphorsPronouns,She then read reviews,90.259999,91.87,She|then|read|reviews
+39,saying that he dealt with patients unkindly with no regard for their feelings.,nonfinite clause (minimal segment) / complementizer; >maximal segment,MetaphorsPronouns,39,Allison_MetaphorsPronouns,saying that he dealt with patients unkindly with no regard for their feelings.,92.13,97.91,saying|that|he|dealt|with|patients|unkindly|with|no|regard|for|their|feelings
+40,She was dismayed,-,MetaphorsPronouns,40,Allison_MetaphorsPronouns,She was dismayed,98.51,99.71,She|was|dismayed
+41,to read,infinitival phrase,MetaphorsPronouns,41,Allison_MetaphorsPronouns,to read,99.649999,100.25,to|read
+42,that he made some patients afraid,complementizer,MetaphorsPronouns,42,Allison_MetaphorsPronouns,that he made some patients afraid,100.51,102.63,that|he|made|some|patients|afraid
+43,he would cut them in the wrong places.,complementizer (that...); >maximal segment,MetaphorsPronouns,43,Allison_MetaphorsPronouns,he would cut them in the wrong places.,102.769999,105.6,he|would|cut|them|in|the|wrong|places
+44,"At the end,",positioning element,MetaphorsPronouns,44,Allison_MetaphorsPronouns,"At the end,",106.37,107.18,At|the|end
+45,she said,-,MetaphorsPronouns,45,Allison_MetaphorsPronouns,she said,107.56,108.3,she|said
+46,that this butcher will not lay a hand on her.,complementizer; >maximal segment,MetaphorsPronouns,46,Allison_MetaphorsPronouns,that this butcher will not lay a hand on her.,108.31,111.76,that|this|butcher|will|not|lay|a|hand|on|her
+47,She decided,-,MetaphorsPronouns,47,Allison_MetaphorsPronouns,She decided,112.35,113.2,She|decided
+48,to find another surgeon.,infinitival phrase; >maximal segment,MetaphorsPronouns,48,Allison_MetaphorsPronouns,to find another surgeon.,113.44,115.19,to|find|another|surgeon
+49,Mary took a trip to a local car dealership.,>maximal segment,MetaphorsPronouns,49,Allison_MetaphorsPronouns,Mary took a trip to a local car dealership.,119.46,122.46,Mary|took|a|trip|to|a|local|car|dealership
+50,She was immediately approached by a big and pushy salesperson.,>maximal segment,MetaphorsPronouns,50,Allison_MetaphorsPronouns,She was immediately approached by a big and pushy salesperson.,123.069999,127.529999,She|was|immediately|approached|by|a|big|and|pushy|salesperson
+51,She thought,-,MetaphorsPronouns,51,Allison_MetaphorsPronouns,She thought,128.12,128.78,She|thought
+52,that he was aggressive and unpleasant.,complementizer; >maximal segment,MetaphorsPronouns,52,Allison_MetaphorsPronouns,that he was aggressive and unpleasant.,128.73,130.95,that|he|was|aggressive|and|unpleasant
+53,She felt,-,MetaphorsPronouns,53,Allison_MetaphorsPronouns,She felt,131.6,132.36,She|felt
+54,that he harassed her with his repetitive sales pitch.,complementizer; >maximal segment,MetaphorsPronouns,54,Allison_MetaphorsPronouns,that he harassed her with his repetitive sales pitch.,132.31,135.47,that|he|harassed|her|with|his|repetitive|sales|pitch
+55,She was dismayed,-,MetaphorsPronouns,55,Allison_MetaphorsPronouns,She was dismayed,136.04,137.26,She|was|dismayed
+56,that he completely disregarded her questions.,complementizer; >maximal segment,MetaphorsPronouns,56,Allison_MetaphorsPronouns,that he completely disregarded her questions.,137.46,140.29,that|he|completely|disregarded|her|questions
+57,"With anger, she told the manager",-,MetaphorsPronouns,57,Allison_MetaphorsPronouns,"With anger, she told the manager",140.95,143.129999,With|anger|she|told|the|manager
+58,that this bulldozer was certainly not getting her business.,complementizer; >maximal segment,MetaphorsPronouns,58,Allison_MetaphorsPronouns,that this bulldozer was certainly not getting her business.,143.429999,147.36,that|this|bulldozer|was|certainly|not|getting|her|business
+59,She eventually bought a car from the dealership,-,MetaphorsPronouns,59,Allison_MetaphorsPronouns,She eventually bought a car from the dealership,147.95,150.53,She|eventually|bought|a|car|from|the|dealership
+60,on the other side of town.,positioning element; >maximal segment,MetaphorsPronouns,60,Allison_MetaphorsPronouns,on the other side of town.,150.48,151.92,on|the|other|side|of|town
+61,Peter had,-,MetaphorsPronouns,61,Allison_MetaphorsPronouns,Peter had,156.42,157.009999,Peter|had
+62,to take over his former colleague's office.,infinitival phrase; >maximal segment,MetaphorsPronouns,62,Allison_MetaphorsPronouns,to take over his former colleague's office.,156.95,159.58,to|take|over|his|former|colleague's|office
+63,He examined the office and found it,-,MetaphorsPronouns,63,Allison_MetaphorsPronouns,He examined the office and found it,159.98,161.929999,He|examined|the|office|and|found|it
+64,to be extremely cluttered.,infinitival phrase; >maximal segment,MetaphorsPronouns,64,Allison_MetaphorsPronouns,to be extremely cluttered.,161.87,163.82,to|be|extremely|cluttered
+65,He realized,-,MetaphorsPronouns,65,Allison_MetaphorsPronouns,He realized,164.36,165.06,He|realized
+66,that it looked bad,complementizer,MetaphorsPronouns,66,Allison_MetaphorsPronouns,that it looked bad,165.01,166.06,that|it|looked|bad
+67,because it was filled with trash.,conjunction; >maximal segment,MetaphorsPronouns,67,Allison_MetaphorsPronouns,because it was filled with trash.,166.35,168.28,because|it|was|filled|with|trash
+68,He wondered,-,MetaphorsPronouns,68,Allison_MetaphorsPronouns,He wondered,168.82,169.44,He|wondered
+69,if it was the most littered office in the building.,complementizer; >maximal segment,MetaphorsPronouns,69,Allison_MetaphorsPronouns,if it was the most littered office in the building.,169.4,171.93,if|it|was|the|most|littered|office|in|the|building
+70,He thought,-,MetaphorsPronouns,70,Allison_MetaphorsPronouns,He thought,172.58,173.18,He|thought
+71,that it resembled a junkyard and made the entire floor look bad.,complementizer; >maximal segment,MetaphorsPronouns,71,Allison_MetaphorsPronouns,that it resembled a junkyard and made the entire floor look bad.,173.13,177.419999,that|it|resembled|a|junkyard|and|made|the|entire|floor|look|bad
+72,"With frustration, he told his boss",-,MetaphorsPronouns,72,Allison_MetaphorsPronouns,"With frustration, he told his boss",177.98,180.54,With|frustration|he|told|his|boss
+73,that the dump was impossible,complementizer,MetaphorsPronouns,73,Allison_MetaphorsPronouns,that the dump was impossible,180.81,182.21,that|the|dump|was|impossible
+74,to work in.,infinitival phrase; >maximal segment,MetaphorsPronouns,74,Allison_MetaphorsPronouns,to work in.,182.15,182.87,to|work|in
+75,He could not bring himself near it.,>maximal segment,MetaphorsPronouns,75,Allison_MetaphorsPronouns,He could not bring himself near it.,183.31,185.23,He|could|not|bring|himself|near|it
+76,The new teacher was shocked at the behavior of some of the kids.,>maximal segment,MetaphorsPronouns,76,Allison_MetaphorsPronouns,The new teacher was shocked at the behavior of some of the kids.,189.439999,192.88,The|new|teacher|was|shocked|at|the|behavior|of|some|of|the|kids
+77,He noticed,-,MetaphorsPronouns,77,Allison_MetaphorsPronouns,He noticed,193.319999,193.989999,He|noticed
+78,that the big yard at school was always busy with fights.,complementizer; >maximal segment,MetaphorsPronouns,78,Allison_MetaphorsPronouns,that the big yard at school was always busy with fights.,193.93,197.499999,that|the|big|yard|at|school|was|always|busy|with|fights
+79,He was surprised,-,MetaphorsPronouns,79,Allison_MetaphorsPronouns,He was surprised,198.05,198.81,He|was|surprised
+80,to see,infinitival phrase,MetaphorsPronouns,80,Allison_MetaphorsPronouns,to see,198.76,199.34,to|see
+81,that the young children were so ferocious and mean.,complementizer; >maximal segment,MetaphorsPronouns,81,Allison_MetaphorsPronouns,that the young children were so ferocious and mean.,199.72,203.19,that|the|young|children|were|so|ferocious|and|mean
+82,He saw,-,MetaphorsPronouns,82,Allison_MetaphorsPronouns,He saw,203.78,204.4,He|saw
+83,"that they ran wild and untamed on the playground,",complementizer,MetaphorsPronouns,83,Allison_MetaphorsPronouns,"that they ran wild and untamed on the playground,",204.34,207.46,that|they|ran|wild|and|untamed|on|the|playground
+84,ignoring all adults' directions.,nonfinite clause; >maximal segment,MetaphorsPronouns,84,Allison_MetaphorsPronouns,ignoring all adults' directions.,207.76,209.93,ignoring|all|adults'|directions
+85,He thought,-,MetaphorsPronouns,85,Allison_MetaphorsPronouns,He thought,210.39,210.959999,He|thought
+86,that they seemed,complementizer,MetaphorsPronouns,86,Allison_MetaphorsPronouns,that they seemed,210.899999,211.72,that|they|seemed
+87,to have just been let out of a cage at the zoo.,infinitival phrase; >maximal segment,MetaphorsPronouns,87,Allison_MetaphorsPronouns,to have just been let out of a cage at the zoo.,211.7,214.479999,to|have|just|been|let|out|of|a|cage|at|the|zoo
+88,"At dinner,",positioning element,MetaphorsPronouns,88,Allison_MetaphorsPronouns,"At dinner,",215.179999,215.84,At|dinner
+89,he told his family,-,MetaphorsPronouns,89,Allison_MetaphorsPronouns,he told his family,216.24,217.41,he|told|his|family
+90,that the beasts clearly needed,complementizer,MetaphorsPronouns,90,Allison_MetaphorsPronouns,that the beasts clearly needed,217.6,219.42,that|the|beasts|clearly|needed
+91,to be disciplined.,infinitival phrase; >maximal segment,MetaphorsPronouns,91,Allison_MetaphorsPronouns,to be disciplined.,219.36,220.34,to|be|disciplined
+92,He however noted with dismay,-,MetaphorsPronouns,92,Allison_MetaphorsPronouns,He however noted with dismay,220.88,223.45,He|however|noted|with|dismay
+93,that nobody at the school seemed,complementizer phrase,MetaphorsPronouns,93,Allison_MetaphorsPronouns,that nobody at the school seemed,223.66,225.559999,that|nobody|at|the|school|seemed
+94,to care.,infinitival phrase; >maximal segment,MetaphorsPronouns,94,Allison_MetaphorsPronouns,to care.,225.51,226.07,to|care
+95,The parents of the students in the third grade met,-,MetaphorsPronouns,95,Allison_MetaphorsPronouns,The parents of the students in the third grade met,230.649999,233.473995,The|parents|of|the|students|in|the|third|grade|met
+96,after school,positioning element,MetaphorsPronouns,96,Allison_MetaphorsPronouns,after school,233.42054,234.140001,after|school
+97,to discuss a problem.,infinitival phrase; >maximal segment,MetaphorsPronouns,97,Allison_MetaphorsPronouns,to discuss a problem.,234.109999,235.33,to|discuss|a|problem
+98,They were frustrated with the new teacher.,>maximal segment,MetaphorsPronouns,98,Allison_MetaphorsPronouns,They were frustrated with the new teacher.,235.61,237.64,They|were|frustrated|with|the|new|teacher
+99,They thought,-,MetaphorsPronouns,99,Allison_MetaphorsPronouns,They thought,238.06,238.62,They|thought
+100,that she was far too pliable and yielding.,complementizer; >maximal segment,MetaphorsPronouns,100,Allison_MetaphorsPronouns,that she was far too pliable and yielding.,238.56,240.91,that|she|was|far|too|pliable|and|yielding
+101,They did not appreciate,-,MetaphorsPronouns,101,Allison_MetaphorsPronouns,They did not appreciate,241.23,242.41,They|did|not|appreciate
+102,how she stretched and bent her rules,relative clause,MetaphorsPronouns,102,Allison_MetaphorsPronouns,how she stretched and bent her rules,242.359999,244.319999,how|she|stretched|and|bent|her|rules
+103,when the children challenged her authority.,relative clause; >maximal segment,MetaphorsPronouns,103,Allison_MetaphorsPronouns,when the children challenged her authority.,244.569999,246.5,when|the|children|challenged|her|authority
+104,They were dismayed,-,MetaphorsPronouns,104,Allison_MetaphorsPronouns,They were dismayed,246.95,247.88,They|were|dismayed
+105,that she was being molded by the kids' constant demands.,complementizer; >maximal segment,MetaphorsPronouns,105,Allison_MetaphorsPronouns,that she was being molded by the kids' constant demands.,247.85,251.11,that|she|was|being|molded|by|the|kids'|constant|demands
+106,"At the end of the meeting,",positioning element,MetaphorsPronouns,106,Allison_MetaphorsPronouns,"At the end of the meeting,",251.749999,252.83,At|the|end|of|the|meeting
+107,they said,-,MetaphorsPronouns,107,Allison_MetaphorsPronouns,they said,252.94,253.41,they|said
+108,that the putty couldn't have stood up to a two-year-old.,complementizer; >maximal segment,MetaphorsPronouns,108,Allison_MetaphorsPronouns,that the putty couldn't have stood up to a two-year-old.,253.35,255.99,that|the|putty|couldn't|have|stood|up|to|a|two|year|old
+109,They decided,-,MetaphorsPronouns,109,Allison_MetaphorsPronouns,They decided,256.26,256.88,They|decided
+110,to complain to the Principal.,infinitival phrase; >maximal segment,MetaphorsPronouns,110,Allison_MetaphorsPronouns,to complain to the Principal.,256.82,258.23,to|complain|to|the|Principal
+111,Jenna went with a friend,-,MetaphorsPronouns,111,Allison_MetaphorsPronouns,Jenna went with a friend,261.95,263.2,Jenna|went|with|a|friend
+112,to see the Saturday night fights.,infinitival phrase; >maximal segment,MetaphorsPronouns,112,Allison_MetaphorsPronouns,to see the Saturday night fights.,263.189999,264.95,to|see|the|Saturday|night|fights
+113,She read,-,MetaphorsPronouns,113,Allison_MetaphorsPronouns,She read,265.359999,265.93,She|read
+114,that one of the boxers scheduled for the first match had never won a fight.,complementizer; >maximal segment,MetaphorsPronouns,114,Allison_MetaphorsPronouns,that one of the boxers scheduled for the first match had never won a fight.,265.87,270.049999,that|one|of|the|boxers|scheduled|for|the|first|match|had|never|won|a|fight
+115,She was surprised,-,MetaphorsPronouns,115,Allison_MetaphorsPronouns,She was surprised,270.56,271.41,She|was|surprised
+116,to read,infinitival phrase,MetaphorsPronouns,116,Allison_MetaphorsPronouns,to read,271.35,271.84,to|read
+117,that he was described,complementizer,MetaphorsPronouns,117,Allison_MetaphorsPronouns,that he was described,272.07,273.31,that|he|was|described
+118,being weak and soft.,nonfinite clause; >maximal segment,MetaphorsPronouns,118,Allison_MetaphorsPronouns,being weak and soft.,273.27,274.71,being|weak|and|soft
+119,She was even more baffled,-,MetaphorsPronouns,119,Allison_MetaphorsPronouns,She was even more baffled,275.06,276.58,She|was|even|more|baffled
+120,seeing that he was fat and spongy through the middle.,nonfinite clause (minimal segment) / complementizer; >maximal segment,MetaphorsPronouns,120,Allison_MetaphorsPronouns,seeing that he was fat and spongy through the middle.,276.84,279.799999,seeing|that|he|was|fat|and|spongy|through|the|middle
+121,She thought,-,MetaphorsPronouns,121,Allison_MetaphorsPronouns,She thought,280.16,280.71,She|thought
+122,he looked like a wimpy ball of dough.,complementizer (that...); >maximal segment,MetaphorsPronouns,122,Allison_MetaphorsPronouns,he looked like a wimpy ball of dough.,280.66,282.69,he|looked|like|a|wimpy|ball|of|dough
+123,"At the end of the fight,",positioning element,MetaphorsPronouns,123,Allison_MetaphorsPronouns,"At the end of the fight,",283.08,284.27,At|the|end|of|the|fight
+124,she told her friend,-,MetaphorsPronouns,124,Allison_MetaphorsPronouns,she told her friend,284.439999,285.44,she|told|her|friend
+125,that the creampuff never had a chance.,complementizer; >maximal segment,MetaphorsPronouns,125,Allison_MetaphorsPronouns,that the creampuff never had a chance.,285.399999,287.779999,that|the|creampuff|never|had|a|chance
+126,She decided,-,MetaphorsPronouns,126,Allison_MetaphorsPronouns,She decided,288.23,288.950001,She|decided
+127,to go for a drink,infinitival phrase,MetaphorsPronouns,127,Allison_MetaphorsPronouns,to go for a drink,288.89,289.89,to|go|for|a|drink
+128,until the second match started.,positioning element; >maximal segment,MetaphorsPronouns,128,Allison_MetaphorsPronouns,until the second match started.,290.13,291.75,until|the|second|match|started
+129,Kate went to her very first practice on the varsity basketball team.,>maximal segment,MetaphorsPronouns,129,Allison_MetaphorsPronouns,Kate went to her very first practice on the varsity basketball team.,295.56,299.37,Kate|went|to|her|very|first|practice|on|the|varsity|basketball|team
+130,She found the coach,-,MetaphorsPronouns,130,Allison_MetaphorsPronouns,She found the coach,299.85,300.829999,She|found|the|coach
+131,to be very intimidating and cruel.,infinitival phrase; >maximal segment,MetaphorsPronouns,131,Allison_MetaphorsPronouns,to be very intimidating and cruel.,300.769999,302.55,to|be|very|intimidating|and|cruel
+132,She thought,-,MetaphorsPronouns,132,Allison_MetaphorsPronouns,She thought,302.95,303.48,She|thought
+133,that he was harsh and demanding.,complementizer; >maximal segment,MetaphorsPronouns,133,Allison_MetaphorsPronouns,that he was harsh and demanding.,303.42,304.949999,that|he|was|harsh|and|demanding
+134,She soon discovered,-,MetaphorsPronouns,134,Allison_MetaphorsPronouns,She soon discovered,305.32,306.319999,She|soon|discovered
+135,that he was a merciless ruler,complementizer,MetaphorsPronouns,135,Allison_MetaphorsPronouns,that he was a merciless ruler,306.259999,307.76,that|he|was|a|merciless|ruler
+136,who suppressed all opposition to his methods.,relative clause; >maximal segment,MetaphorsPronouns,136,Allison_MetaphorsPronouns,who suppressed all opposition to his methods.,308.08,310.47,who|suppressed|all|opposition|to|his|methods
+137,She complained,-,MetaphorsPronouns,137,Allison_MetaphorsPronouns,She complained,311.01,311.71,She|complained
+138,that he tortured the team with inhumanely long practice sessions.,complementizer; >maximal segment,MetaphorsPronouns,138,Allison_MetaphorsPronouns,that he tortured the team with inhumanely long practice sessions.,311.65,314.98,that|he|tortured|the|team|with|inhumanely|long|practice|sessions
+139,"At the end of the season,",positioning element,MetaphorsPronouns,139,Allison_MetaphorsPronouns,"At the end of the season,",315.359999,316.46,At|the|end|of|the|season
+140,she told her mom,-,MetaphorsPronouns,140,Allison_MetaphorsPronouns,she told her mom,316.67,317.599999,she|told|her|mom
+141,that the tyrant made the season really miserable.,complementizer; >maximal segment,MetaphorsPronouns,141,Allison_MetaphorsPronouns,that the tyrant made the season really miserable.,317.55,320.129999,that|the|tyrant|made|the|season|really|miserable
+142,The whole team prayed,-,MetaphorsPronouns,142,Allison_MetaphorsPronouns,The whole team prayed,320.55,321.77,The|whole|team|prayed
+143,he would leave soon.,complementizer; >maximal segment,MetaphorsPronouns,143,Allison_MetaphorsPronouns,he would leave soon.,321.72,322.789999,he|would|leave|soon
+144,Betsy found a house,-,MetaphorsPronouns,144,Allison_MetaphorsPronouns,Betsy found a house,326.479999,327.65,Betsy|found|a|house
+145,she wanted,relative clause (that...),MetaphorsPronouns,145,Allison_MetaphorsPronouns,she wanted,327.6,328.1,she|wanted
+146,to buy,infinitival phrase,MetaphorsPronouns,146,Allison_MetaphorsPronouns,to buy,328.05,328.66,to|buy
+147,but it was too expensive.,conjunction; >maximal segment,MetaphorsPronouns,147,Allison_MetaphorsPronouns,but it was too expensive.,328.88,330.16,but|it|was|too|expensive
+148,She was put off by the owner,-,MetaphorsPronouns,148,Allison_MetaphorsPronouns,She was put off by the owner,330.51,331.87,She|was|put|off|by|the|owner
+149,who refused,relative clause,MetaphorsPronouns,149,Allison_MetaphorsPronouns,who refused,332.16,332.7,who|refused
+150,to negotiate on any detail.,infinitival phrase; >maximal segment,MetaphorsPronouns,150,Allison_MetaphorsPronouns,to negotiate on any detail.,332.649999,334.4,to|negotiate|on|any|detail
+151,She thought,-,MetaphorsPronouns,151,Allison_MetaphorsPronouns,She thought,334.93,335.47,She|thought
+152,that he was overly stubborn and stood his ground uncompromisingly.,complementizer; >maximal segment,MetaphorsPronouns,152,Allison_MetaphorsPronouns,that he was overly stubborn and stood his ground uncompromisingly.,335.41,338.909999,that|he|was|overly|stubborn|and|stood|his|ground|uncompromisingly
+153,She was somewhat annoyed,-,MetaphorsPronouns,153,Allison_MetaphorsPronouns,She was somewhat annoyed,339.359999,340.65,She|was|somewhat|annoyed
+154,that he would not budge about the amount needed for the down payment.,complementizer; >maximal segment,MetaphorsPronouns,154,Allison_MetaphorsPronouns,that he would not budge about the amount needed for the down payment.,340.589999,343.58,that|he|would|not|budge|about|the|amount|needed|for|the|down|payment
+155,She was most frustrated however,-,MetaphorsPronouns,155,Allison_MetaphorsPronouns,She was most frustrated however,344.15,345.79,She|was|most|frustrated|however
+156,that he would not move even an inch on the price.,complementizer; >maximal segment,MetaphorsPronouns,156,Allison_MetaphorsPronouns,that he would not move even an inch on the price.,345.73,348.83,that|he|would|not|move|even|an|inch|on|the|price
+157,"In despair, she said",-,MetaphorsPronouns,157,Allison_MetaphorsPronouns,"In despair, she said",349.22,350.73,In|despair|she|said
+158,that the mule would only sell on his own terms.,complementizer; >maximal segment,MetaphorsPronouns,158,Allison_MetaphorsPronouns,that the mule would only sell on his own terms.,350.67,353.23,that|the|mule|would|only|sell|on|his|own|terms
+159,She finally gave up and decided,-,MetaphorsPronouns,159,Allison_MetaphorsPronouns,She finally gave up and decided,353.55,355.22,She|finally|gave|up|and|decided
+160,to look for another house.,infinitival phrase; >maximal segment,MetaphorsPronouns,160,Allison_MetaphorsPronouns,to look for another house.,355.16,356.56,to|look|for|another|house

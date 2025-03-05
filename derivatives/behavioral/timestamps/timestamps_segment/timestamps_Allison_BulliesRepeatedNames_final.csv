@@ -1,0 +1,159 @@
+,segment,reason,story,idx,audio,segment_raw,onset,offset,words
+0,The text message said,-,BulliesRepeatedNames,0,Allison_BulliesRepeatedNames,The text message said,4.61,5.8,The|text|message|said
+1,that Lucy Josephs was a failure.,complementizer; >maximal segment,BulliesRepeatedNames,1,Allison_BulliesRepeatedNames,that Lucy Josephs was a failure.,5.75,7.72,that|Lucy|Josephs|was|a|failure
+2,It said,-,BulliesRepeatedNames,2,Allison_BulliesRepeatedNames,It said,8.55,9.1,It|said
+3,"Lucy was ugly, had no style and the world hated her.",complementizer (that...); >maximal segment,BulliesRepeatedNames,3,Allison_BulliesRepeatedNames,"Lucy was ugly, had no style and the world hated her.",9.04,12.929999,Lucy|was|ugly|had|no|style|and|the|world|hated|her
+4,At least that was what it said to Lucy.,>maximal segment,BulliesRepeatedNames,4,Allison_BulliesRepeatedNames,At least that was what it said to Lucy.,13.56,16.07,At|least|that|was|what|it|said|to|Lucy
+5,It said that and a whole lot more,-,BulliesRepeatedNames,5,Allison_BulliesRepeatedNames,It said that and a whole lot more,16.509999,18.429999,It|said|that|and|a|whole|lot|more
+6,that Lucy was struggling to understand.,relative clause; >maximal segment,BulliesRepeatedNames,6,Allison_BulliesRepeatedNames,that Lucy was struggling to understand.,18.37,20.31,that|Lucy|was|struggling|to|understand
+7,The actual text of the note said,-,BulliesRepeatedNames,7,Allison_BulliesRepeatedNames,The actual text of the note said,21.25,23.456712,The|actual|text|of|the|note|said
+8,"that Lucy better not show up at the party tonight,",complementizer,BulliesRepeatedNames,8,Allison_BulliesRepeatedNames,"that Lucy better not show up at the party tonight,",23.43,26.11,that|Lucy|better|not|show|up|at|the|party|tonight
+9,because it was going,conjunction,BulliesRepeatedNames,9,Allison_BulliesRepeatedNames,because it was going,26.41,27.26,because|it|was|going
+10,to be bad enough already!,infinitival phrase; >maximal segment,BulliesRepeatedNames,10,Allison_BulliesRepeatedNames,to be bad enough already!,27.240691,28.759999,to|be|bad|enough|already
+11,"Lucy, who had started receiving these messages a few weeks ago,",relative clause,BulliesRepeatedNames,11,Allison_BulliesRepeatedNames,"Lucy, who had started receiving these messages a few weeks ago,",29.55,33.41,Lucy|who|had|started|receiving|these|messages|a|few|weeks|ago
+12,tapped the mobile screen,-,BulliesRepeatedNames,12,Allison_BulliesRepeatedNames,tapped the mobile screen,33.93,35.327709,tapped|the|mobile|screen
+13,to make the message disappear from view.,infinitival phrase; >maximal segment,BulliesRepeatedNames,13,Allison_BulliesRepeatedNames,to make the message disappear from view.,35.323747,37.58,to|make|the|message|disappear|from|view
+14,Lucy only wished,-,BulliesRepeatedNames,14,Allison_BulliesRepeatedNames,Lucy only wished,38.21,39.37,Lucy|only|wished
+15,it was as easy,complementizer,BulliesRepeatedNames,15,Allison_BulliesRepeatedNames,it was as easy,39.3732,40.25,it|was|as|easy
+16,to tap her heart and erase the trace the message had left there.,infinitival phrase; >maximal segment,BulliesRepeatedNames,16,Allison_BulliesRepeatedNames,to tap her heart and erase the trace the message had left there.,40.213204,44.06,to|tap|her|heart|and|erase|the|trace|the|message|had|left|there
+17,"'Was that another one of those messages?' Lucy's mom asked,",-,BulliesRepeatedNames,17,Allison_BulliesRepeatedNames,"'Was that another one of those messages?' Lucy's mom asked,",44.88,48.56,'Was|that|another|one|of|those|messages|'|Lucy's|mom|asked
+18,who was driving the car.,relative clause; >maximal segment,BulliesRepeatedNames,18,Allison_BulliesRepeatedNames,who was driving the car.,48.72,49.919999,who|was|driving|the|car
+19,Lucy confirmed,-,BulliesRepeatedNames,19,Allison_BulliesRepeatedNames,Lucy confirmed,50.96,51.879999,Lucy|confirmed
+20,her mother's suspicion was founded,complementizer,BulliesRepeatedNames,20,Allison_BulliesRepeatedNames,her mother's suspicion was founded,51.850427,53.52,her|mother's|suspicion|was|founded
+21,"as she answered dejectedly, 'I'm sorry to say it was.'",conjunction; >maximal segment,BulliesRepeatedNames,21,Allison_BulliesRepeatedNames,"as she answered dejectedly, 'I'm sorry to say it was.'",53.514585,57.579887,as|she|answered|dejectedly|'I'm|sorry|to|say|it|was|'
+22,"'Haven't you reported it yet?' asked Jill,",-,BulliesRepeatedNames,22,Allison_BulliesRepeatedNames,"'Haven't you reported it yet?' asked Jill,",58.32,60.79,'Haven't|you|reported|it|yet|'|asked|Jill
+23,Lucy's older sister,nonrestrictive clause,BulliesRepeatedNames,23,Allison_BulliesRepeatedNames,Lucy's older sister,60.844808,62.23,Lucy's|older|sister
+24,who was sitting in the passenger seat.,relative clause; >maximal segment,BulliesRepeatedNames,24,Allison_BulliesRepeatedNames,who was sitting in the passenger seat.,62.569999,64.5,who|was|sitting|in|the|passenger|seat
+25,"'Yes,' Lucy replied,",-,BulliesRepeatedNames,25,Allison_BulliesRepeatedNames,"'Yes,' Lucy replied,",65.17,66.849999,'Yes|'|Lucy|replied
+26,lying through her teeth.,nonfinite clause; >maximal segment,BulliesRepeatedNames,26,Allison_BulliesRepeatedNames,lying through her teeth.,67.01,68.48,lying|through|her|teeth
+27,That Lucy should not let the messages get to her,-,BulliesRepeatedNames,27,Allison_BulliesRepeatedNames,That Lucy should not let the messages get to her,69.309999,71.989999,That|Lucy|should|not|let|the|messages|get|to|her
+28,and that the sender was only jealous,conjunction / relative clause,BulliesRepeatedNames,28,Allison_BulliesRepeatedNames,and that the sender was only jealous,72.24,74.76,and|that|the|sender|was|only|jealous
+29,"were Lucy's mom's arguments,",-,BulliesRepeatedNames,29,Allison_BulliesRepeatedNames,"were Lucy's mom's arguments,",74.94,76.81,were|Lucy's|mom's|arguments
+30,in an effort,nonrestrictive clause,BulliesRepeatedNames,30,Allison_BulliesRepeatedNames,in an effort,77.38,78.009415,in|an|effort
+31,to comfort her daughter.,infinitival phrase; >maximal segment,BulliesRepeatedNames,31,Allison_BulliesRepeatedNames,to comfort her daughter.,77.99,79.13,to|comfort|her|daughter
+32,"Lucy's mom suddenly felt guilty,",-,BulliesRepeatedNames,32,Allison_BulliesRepeatedNames,"Lucy's mom suddenly felt guilty,",80.29169,82.38,Lucy's|mom|suddenly|felt|guilty
+33,for she had been the one,conjunction,BulliesRepeatedNames,33,Allison_BulliesRepeatedNames,for she had been the one,83.1,84.29,for|she|had|been|the|one
+34,to buy the phone for Lucy,infinitival phrase,BulliesRepeatedNames,34,Allison_BulliesRepeatedNames,to buy the phone for Lucy,84.281708,85.869999,to|buy|the|phone|for|Lucy
+35,just a couple of months ago.,positioning element; >maximal segment,BulliesRepeatedNames,35,Allison_BulliesRepeatedNames,just a couple of months ago.,85.866621,87.33,just|a|couple|of|months|ago
+36,Lucy's mom then admitted,-,BulliesRepeatedNames,36,Allison_BulliesRepeatedNames,Lucy's mom then admitted,88.48,90.069999,Lucy's|mom|then|admitted
+37,her regret about the phone was still bugging her out loud,complementizer,BulliesRepeatedNames,37,Allison_BulliesRepeatedNames,her regret about the phone was still bugging her out loud,90.06664,93.438542,her|regret|about|the|phone|was|still|bugging|her|out|loud
+38,"as she sighed, 'I never should have given you that phone Lucy.'",conjunction; >maximal segment,BulliesRepeatedNames,38,Allison_BulliesRepeatedNames,"as she sighed, 'I never should have given you that phone Lucy.'",93.45,97.971393,as|she|sighed|'I|never|should|have|given|you|that|phone|Lucy|'
+39,"'No, it's fine. I love it,' said Lucy",-,BulliesRepeatedNames,39,Allison_BulliesRepeatedNames,"'No, it's fine. I love it,' said Lucy",98.014979,100.95,'No|it's|fine|I|love|it|'|said|Lucy
+40,knowing that,>minimal segment,BulliesRepeatedNames,40,Allison_BulliesRepeatedNames,knowing that,100.89,101.52,knowing|that
+41,affording the phone had been no small thing for her mother.,nonfinite clause; >maximal segment,BulliesRepeatedNames,41,Allison_BulliesRepeatedNames,affording the phone had been no small thing for her mother.,101.450277,104.445763,affording|the|phone|had|been|no|small|thing|for|her|mother
+42,It had been nothing but trouble though.,>maximal segment,BulliesRepeatedNames,42,Allison_BulliesRepeatedNames,It had been nothing but trouble though.,105.7,107.379999,It|had|been|nothing|but|trouble|though
+43,Lucy did not know who it was,-,BulliesRepeatedNames,43,Allison_BulliesRepeatedNames,Lucy did not know who it was,107.97,109.58,Lucy|did|not|know|who|it|was
+44,"that was sending her the messages,",relative clause,BulliesRepeatedNames,44,Allison_BulliesRepeatedNames,"that was sending her the messages,",109.568994,111.14,that|was|sending|her|the|messages
+45,and Lucy did not know,conjunction,BulliesRepeatedNames,45,Allison_BulliesRepeatedNames,and Lucy did not know,111.86,112.99,and|Lucy|did|not|know
+46,"how they had got her number,",relative clause,BulliesRepeatedNames,46,Allison_BulliesRepeatedNames,"how they had got her number,",112.96467,114.49,how|they|had|got|her|number
+47,"but whoever it was,",conjunction / relative clause,BulliesRepeatedNames,47,Allison_BulliesRepeatedNames,"but whoever it was,",115.17,116.39,but|whoever|it|was
+48,he or she had slowly taken over Lucy's life.,conjunction cont.; >maximal segment,BulliesRepeatedNames,48,Allison_BulliesRepeatedNames,he or she had slowly taken over Lucy's life.,116.69,119.56,he|or|she|had|slowly|taken|over|Lucy's|life
+49,"Lucy was getting several texts a day now,",-,BulliesRepeatedNames,49,Allison_BulliesRepeatedNames,"Lucy was getting several texts a day now,",120.08,122.989999,Lucy|was|getting|several|texts|a|day|now
+50,all of which were abusive and hurtful.,relative clause; >maximal segment,BulliesRepeatedNames,50,Allison_BulliesRepeatedNames,all of which were abusive and hurtful.,123.49,125.459999,all|of|which|were|abusive|and|hurtful
+51,Lucy wondered,-,BulliesRepeatedNames,51,Allison_BulliesRepeatedNames,Lucy wondered,126.439999,127.22,Lucy|wondered
+52,what the person,complementizer,BulliesRepeatedNames,52,Allison_BulliesRepeatedNames,what the person,127.16,128.08,what|the|person
+53,who was messaging her,relative clause,BulliesRepeatedNames,53,Allison_BulliesRepeatedNames,who was messaging her,128.064928,129.1,who|was|messaging|her
+54,might be thinking or trying,-,BulliesRepeatedNames,54,Allison_BulliesRepeatedNames,might be thinking or trying,129.04,131.26,might|be|thinking|or|trying
+55,to achieve with all of their hateful messages.,infinitival phrase; >maximal segment,BulliesRepeatedNames,55,Allison_BulliesRepeatedNames,to achieve with all of their hateful messages.,131.250603,133.88,to|achieve|with|all|of|their|hateful|messages
+56,"As the car pulled up outside the school,",-,BulliesRepeatedNames,56,Allison_BulliesRepeatedNames,"As the car pulled up outside the school,",135.06,137.25,As|the|car|pulled|up|outside|the|school
+57,"which looked like a large shadow in the darkness of a November evening,",relative clause,BulliesRepeatedNames,57,Allison_BulliesRepeatedNames,"which looked like a large shadow in the darkness of a November evening,",138.149999,141.719999,which|looked|like|a|large|shadow|in|the|darkness|of|a|November|evening
+58,Lucy felt a shiver run down her spine.,>maximal segment,BulliesRepeatedNames,58,Allison_BulliesRepeatedNames,Lucy felt a shiver run down her spine.,142.179999,144.4,Lucy|felt|a|shiver|run|down|her|spine
+59,"Hastened by Jill,",-,BulliesRepeatedNames,59,Allison_BulliesRepeatedNames,"Hastened by Jill,",145.04,146.07,Hastened|by|Jill
+60,"who did not want to be late to her own concert,",relative clause,BulliesRepeatedNames,60,Allison_BulliesRepeatedNames,"who did not want to be late to her own concert,",146.061614,148.48,who|did|not|want|to|be|late|to|her|own|concert
+61,Lucy hesitantly stepped out of the car and walked toward the school.,>maximal segment,BulliesRepeatedNames,61,Allison_BulliesRepeatedNames,Lucy hesitantly stepped out of the car and walked toward the school.,149.15,152.99,Lucy|hesitantly|stepped|out|of|the|car|and|walked|toward|the|school
+62,It was Jill,-,BulliesRepeatedNames,62,Allison_BulliesRepeatedNames,It was Jill,154.149999,154.91,It|was|Jill
+63,"who, in her final year of high school,",relative clause / nonrestrictive clause,BulliesRepeatedNames,63,Allison_BulliesRepeatedNames,"who, in her final year of high school,",154.901466,156.466568,who|in|her|final|year|of|high|school
+64,"had become involved in helping organize this year's school talent show,",relative clause cont.,BulliesRepeatedNames,64,Allison_BulliesRepeatedNames,"had become involved in helping organize this year's school talent show,",156.45,160.14,had|become|involved|in|helping|organize|this|year's|school|talent|show
+65,and Jill took her position very seriously.,conjunction; >maximal segment,BulliesRepeatedNames,65,Allison_BulliesRepeatedNames,and Jill took her position very seriously.,160.529999,162.869999,and|Jill|took|her|position|very|seriously
+66,"Lucy hurried behind Jill,",-,BulliesRepeatedNames,66,Allison_BulliesRepeatedNames,"Lucy hurried behind Jill,",163.531317,164.921317,Lucy|hurried|behind|Jill
+67,"pulling on the worn, oversized coat",nonfinite clause,BulliesRepeatedNames,67,Allison_BulliesRepeatedNames,"pulling on the worn, oversized coat",165.13,167.29,pulling|on|the|worn|oversized|coat
+68,"that had originally belonged to Jill,",relative clause,BulliesRepeatedNames,68,Allison_BulliesRepeatedNames,"that had originally belonged to Jill,",167.5,169.26,that|had|originally|belonged|to|Jill
+69,in order to keep her dry,conjunction,BulliesRepeatedNames,69,Allison_BulliesRepeatedNames,in order to keep her dry,169.71,171.03,in|order|to|keep|her|dry
+70,as the raindrops fell all around them.,conjunction; >maximal segment,BulliesRepeatedNames,70,Allison_BulliesRepeatedNames,as the raindrops fell all around them.,170.97,173.07,as|the|raindrops|fell|all|around|them
+71,As the sisters entered the hall,-,BulliesRepeatedNames,71,Allison_BulliesRepeatedNames,As the sisters entered the hall,173.63,175.41,As|the|sisters|entered|the|hall
+72,"where the show was to take place,",relative clause,BulliesRepeatedNames,72,Allison_BulliesRepeatedNames,"where the show was to take place,",175.374579,176.909999,where|the|show|was|to|take|place
+73,Jill filled with excitement,-,BulliesRepeatedNames,73,Allison_BulliesRepeatedNames,Jill filled with excitement,177.17,178.669999,Jill|filled|with|excitement
+74,while Lucy regretted,conjunction,BulliesRepeatedNames,74,Allison_BulliesRepeatedNames,while Lucy regretted,178.62,179.829999,while|Lucy|regretted
+75,that she had promised her mother,complementizer,BulliesRepeatedNames,75,Allison_BulliesRepeatedNames,that she had promised her mother,179.999999,181.73,that|she|had|promised|her|mother
+76,she would participate in the show.,complementizer (that...); >maximal segment,BulliesRepeatedNames,76,Allison_BulliesRepeatedNames,she would participate in the show.,181.68,183.61,she|would|participate|in|the|show
+77,"'To waste your talent would be a real shame,",-,BulliesRepeatedNames,77,Allison_BulliesRepeatedNames,"'To waste your talent would be a real shame,",184.68,186.86,'To|waste|your|talent|would|be|a|real|shame
+78,"for you have such a beautiful voice,'",conjunction,BulliesRepeatedNames,78,Allison_BulliesRepeatedNames,"for you have such a beautiful voice,'",187.56,189.33,for|you|have|such|a|beautiful|voice|'
+79,"Lucy's mother had argued two months back,",positioning element,BulliesRepeatedNames,79,Allison_BulliesRepeatedNames,"Lucy's mother had argued two months back,",189.674456,191.969999,Lucy's|mother|had|argued|two|months|back
+80,when the concert was first announced.,relative clause; >maximal segment,BulliesRepeatedNames,80,Allison_BulliesRepeatedNames,when the concert was first announced.,192.18,194.09,when|the|concert|was|first|announced
+81,"Lucy had been considering it,",-,BulliesRepeatedNames,81,Allison_BulliesRepeatedNames,"Lucy had been considering it,",194.88,196.490001,Lucy|had|been|considering|it
+82,for Lucy did love to sing.,conjunction; >maximal segment,BulliesRepeatedNames,82,Allison_BulliesRepeatedNames,for Lucy did love to sing.,196.669999,198.29,for|Lucy|did|love|to|sing
+83,"That very night,",positioning element,BulliesRepeatedNames,83,Allison_BulliesRepeatedNames,"That very night,",198.87,199.83,That|very|night
+84,the first text message had come through.,>maximal segment,BulliesRepeatedNames,84,Allison_BulliesRepeatedNames,the first text message had come through.,200.26,201.88,the|first|text|message|had|come|through
+85,'How does it feel,quotation,BulliesRepeatedNames,85,Allison_BulliesRepeatedNames,'How does it feel,202.45,203.24,'How|does|it|feel
+86,"to be tall and lanky like a giraffe?' it had asked,",infinitival phrase / quotation,BulliesRepeatedNames,86,Allison_BulliesRepeatedNames,"to be tall and lanky like a giraffe?' it had asked,",203.217537,206.629999,to|be|tall|and|lanky|like|a|giraffe|'|it|had|asked
+87,taking Lucy by surprise.,nonfinite clause; >maximal segment,BulliesRepeatedNames,87,Allison_BulliesRepeatedNames,taking Lucy by surprise.,207.24,208.96,taking|Lucy|by|surprise
+88,"One of the popular girls, Lucy had always known she wasn't,",-,BulliesRepeatedNames,88,Allison_BulliesRepeatedNames,"One of the popular girls, Lucy had always known she wasn't,",209.729999,213.41,One|of|the|popular|girls|Lucy|had|always|known|she|wasn't
+89,"but before the messages began,",conjunction / positioning element,BulliesRepeatedNames,89,Allison_BulliesRepeatedNames,"but before the messages began,",213.779999,215.49,but|before|the|messages|began
+90,Lucy had always been quite proud,conjunction cont.,BulliesRepeatedNames,90,Allison_BulliesRepeatedNames,Lucy had always been quite proud,215.95,217.644207,Lucy|had|always|been|quite|proud
+91,of being a little different.,nonfinite clause; >maximal segment,BulliesRepeatedNames,91,Allison_BulliesRepeatedNames,of being a little different.,217.644207,219.05,of|being|a|little|different
+92,"But text by text, Lucy's self-confidence had deflated",-,BulliesRepeatedNames,92,Allison_BulliesRepeatedNames,"But text by text, Lucy's self-confidence had deflated",220.01,223.89,But|text|by|text|Lucy's|self|confidence|had|deflated
+93,"and, in the end,",conjunction / positioning element,BulliesRepeatedNames,93,Allison_BulliesRepeatedNames,"and, in the end,",224.569999,225.51,and|in|the|end
+94,it had taken some doing,-,BulliesRepeatedNames,94,Allison_BulliesRepeatedNames,it had taken some doing,226.109999,227.349999,it|had|taken|some|doing
+95,to get Lucy,infinitival phrase,BulliesRepeatedNames,95,Allison_BulliesRepeatedNames,to get Lucy,227.3,227.95,to|get|Lucy
+96,to agree,infinitival phrase,BulliesRepeatedNames,96,Allison_BulliesRepeatedNames,to agree,227.922368,228.43,to|agree
+97,to perform in the show.,infinitival phrase; >maximal segment,BulliesRepeatedNames,97,Allison_BulliesRepeatedNames,to perform in the show.,228.401804,229.54,to|perform|in|the|show
+98,"Now, however,",positioning element / nonrestrictive clause (minimal segment),BulliesRepeatedNames,98,Allison_BulliesRepeatedNames,"Now, however,",230.769999,231.689999,Now|however
+99,Lucy had no choice,-,BulliesRepeatedNames,99,Allison_BulliesRepeatedNames,Lucy had no choice,231.67,232.998051,Lucy|had|no|choice
+100,but to make her way towards the stage,conjunction,BulliesRepeatedNames,100,Allison_BulliesRepeatedNames,but to make her way towards the stage,232.982202,234.81,but|to|make|her|way|towards|the|stage
+101,where Jill was beckoning encouragingly to her.,relative clause; >maximal segment,BulliesRepeatedNames,101,Allison_BulliesRepeatedNames,where Jill was beckoning encouragingly to her.,235.05,238.0,where|Jill|was|beckoning|encouragingly|to|her
+102,Lucy was the first performer.,>maximal segment,BulliesRepeatedNames,102,Allison_BulliesRepeatedNames,Lucy was the first performer.,238.56,240.21,Lucy|was|the|first|performer
+103,"Lucy, announced by her sister to the audience,",nonrestrictive clause,BulliesRepeatedNames,103,Allison_BulliesRepeatedNames,"Lucy, announced by her sister to the audience,",240.55,242.939999,Lucy|announced|by|her|sister|to|the|audience
+104,was all nerves,-,BulliesRepeatedNames,104,Allison_BulliesRepeatedNames,was all nerves,243.12,244.017159,was|all|nerves
+105,"as she walked out onto the middle of the stage,",conjunction,BulliesRepeatedNames,105,Allison_BulliesRepeatedNames,"as she walked out onto the middle of the stage,",243.9498,246.18,as|she|walked|out|onto|the|middle|of|the|stage
+106,where there was nothing but a microphone and her.,relative clause; >maximal segment,BulliesRepeatedNames,106,Allison_BulliesRepeatedNames,where there was nothing but a microphone and her.,246.47,248.93,where|there|was|nothing|but|a|microphone|and|her
+107,Lucy heard the audience applaud and could feel a sense of anticipation emanate from the other side of the heavy curtain.,>maximal segment,BulliesRepeatedNames,107,Allison_BulliesRepeatedNames,Lucy heard the audience applaud and could feel a sense of anticipation emanate from the other side of the heavy curtain.,250.519999,257.06,Lucy|heard|the|audience|applaud|and|could|feel|a|sense|of|anticipation|emanate|from|the|other|side|of|the|heavy|curtain
+108,"As the curtains began to part,",positioning element,BulliesRepeatedNames,108,Allison_BulliesRepeatedNames,"As the curtains began to part,",257.6,259.15,As|the|curtains|began|to|part
+109,"Lucy cast a worried look at Jill in the wings,",-,BulliesRepeatedNames,109,Allison_BulliesRepeatedNames,"Lucy cast a worried look at Jill in the wings,",259.59,262.1,Lucy|cast|a|worried|look|at|Jill|in|the|wings
+110,who assured Lucy with a positive thumbs up.,relative clause; >maximal segment,BulliesRepeatedNames,110,Allison_BulliesRepeatedNames,who assured Lucy with a positive thumbs up.,262.819999,265.14,who|assured|Lucy|with|a|positive|thumbs|up
+111,Lucy thought to herself,-,BulliesRepeatedNames,111,Allison_BulliesRepeatedNames,Lucy thought to herself,265.819999,267.06,Lucy|thought|to|herself
+112,that she could not go through with this,complementizer,BulliesRepeatedNames,112,Allison_BulliesRepeatedNames,that she could not go through with this,267.018208,268.619999,that|she|could|not|go|through|with|this
+113,"and that she,",conjunction,BulliesRepeatedNames,113,Allison_BulliesRepeatedNames,"and that she,",268.88,269.75,and|that|she
+114,"unlike her older sister,",nonrestrictive clause,BulliesRepeatedNames,114,Allison_BulliesRepeatedNames,"unlike her older sister,",269.759999,271.16,unlike|her|older|sister
+115,was not confident enough,-,BulliesRepeatedNames,115,Allison_BulliesRepeatedNames,was not confident enough,271.4,272.63,was|not|confident|enough
+116,to put herself before the judging audience.,infinitival phrase; >maximal segment,BulliesRepeatedNames,116,Allison_BulliesRepeatedNames,to put herself before the judging audience.,272.57,274.81,to|put|herself|before|the|judging|audience
+117,The crowd looked up at Lucy,-,BulliesRepeatedNames,117,Allison_BulliesRepeatedNames,The crowd looked up at Lucy,276.020513,277.460513,The|crowd|looked|up|at|Lucy
+118,and Lucy was ready,conjunction,BulliesRepeatedNames,118,Allison_BulliesRepeatedNames,and Lucy was ready,277.42,278.374109,and|Lucy|was|ready
+119,to run,infinitival phrase,BulliesRepeatedNames,119,Allison_BulliesRepeatedNames,to run,278.33,278.9,to|run
+120,when the first notes of the music sounded out,relative clause,BulliesRepeatedNames,120,Allison_BulliesRepeatedNames,when the first notes of the music sounded out,278.84,281.07,when|the|first|notes|of|the|music|sounded|out
+121,and a sudden calm settled over her.,conjunction; >maximal segment,BulliesRepeatedNames,121,Allison_BulliesRepeatedNames,and a sudden calm settled over her.,281.25,283.29,and|a|sudden|calm|settled|over|her
+122,"Lucy closed her eyes and shut everything out,",-,BulliesRepeatedNames,122,Allison_BulliesRepeatedNames,"Lucy closed her eyes and shut everything out,",284.08,286.4,Lucy|closed|her|eyes|and|shut|everything|out
+123,"including the audience, the nerves",nonrestrictive clause,BulliesRepeatedNames,123,Allison_BulliesRepeatedNames,"including the audience, the nerves",287.12,289.1,including|the|audience|the|nerves
+124,that threatened ,relative clause,BulliesRepeatedNames,124,Allison_BulliesRepeatedNames,that threatened ,289.04,289.38,that|threatened
+125,"to take over,",infitival phrase,BulliesRepeatedNames,125,Allison_BulliesRepeatedNames,"to take over,",289.32,290.1,to|take|over
+126,"the text messages, and the way",-,BulliesRepeatedNames,126,Allison_BulliesRepeatedNames,"the text messages, and the way",290.76,293.08,the|text|messages|and|the|way
+127,they made her feel.,relative clause (that...); >maximal segment,BulliesRepeatedNames,127,Allison_BulliesRepeatedNames,they made her feel.,293.046441,293.95,they|made|her|feel
+128,"It was just Lucy and the music,",-,BulliesRepeatedNames,128,Allison_BulliesRepeatedNames,"It was just Lucy and the music,",294.54,296.18,It|was|just|Lucy|and|the|music
+129,and it was a love story,conjunction,BulliesRepeatedNames,129,Allison_BulliesRepeatedNames,and it was a love story,296.149999,297.289999,and|it|was|a|love|story
+130,that had been going on her whole life.,relative clause; >maximal segment,BulliesRepeatedNames,130,Allison_BulliesRepeatedNames,that had been going on her whole life.,297.230611,299.170611,that|had|been|going|on|her|whole|life
+131,"Lucy began to sing,",-,BulliesRepeatedNames,131,Allison_BulliesRepeatedNames,"Lucy began to sing,",299.68,300.96,Lucy|began|to|sing
+132,and all the pain and confusion,conjunction,BulliesRepeatedNames,132,Allison_BulliesRepeatedNames,and all the pain and confusion,301.729999,303.299999,and|all|the|pain|and|confusion
+133,that the messages had been causing inside Lucy,relative clause,BulliesRepeatedNames,133,Allison_BulliesRepeatedNames,that the messages had been causing inside Lucy,303.279999,306.269999,that|the|messages|had|been|causing|inside|Lucy
+134,just flowed out.,conjunction cont.; >maximal segment,BulliesRepeatedNames,134,Allison_BulliesRepeatedNames,just flowed out.,306.21,307.25,just|flowed|out
+135,"The words were not important,",-,BulliesRepeatedNames,135,Allison_BulliesRepeatedNames,"The words were not important,",307.98,309.49,The|words|were|not|important
+136,for it was the feeling behind them,conjunction,BulliesRepeatedNames,136,Allison_BulliesRepeatedNames,for it was the feeling behind them,309.82,311.29,for|it|was|the|feeling|behind|them
+137,that Lucy latched onto.,relative clause; >maximal segment,BulliesRepeatedNames,137,Allison_BulliesRepeatedNames,that Lucy latched onto.,311.23,312.52,that|Lucy|latched|onto
+138,Lucy was in the heart of the song,-,BulliesRepeatedNames,138,Allison_BulliesRepeatedNames,Lucy was in the heart of the song,313.07,314.749999,Lucy|was|in|the|heart|of|the|song
+139,with the rest of the world slipping away.,nonfinite clause; >maximal segment,BulliesRepeatedNames,139,Allison_BulliesRepeatedNames,with the rest of the world slipping away.,314.98,316.91,with|the|rest|of|the|world|slipping|away
+140,When the song finished,relative clause,BulliesRepeatedNames,140,Allison_BulliesRepeatedNames,When the song finished,317.21,318.379999,When|the|song|finished
+141,"and the last note died away,",conjunction,BulliesRepeatedNames,141,Allison_BulliesRepeatedNames,"and the last note died away,",318.45,319.92,and|the|last|note|died|away
+142,Lucy opened her eyes.,>maximal segment,BulliesRepeatedNames,142,Allison_BulliesRepeatedNames,Lucy opened her eyes.,320.689999,322.089999,Lucy|opened|her|eyes
+143,To see the whole audience on their feet and the hall filled with cheers and applause,infinitival phrase,BulliesRepeatedNames,143,Allison_BulliesRepeatedNames,To see the whole audience on their feet and the hall filled with cheers and applause,322.609999,326.79,To|see|the|whole|audience|on|their|feet|and|the|hall|filled|with|cheers|and|applause
+144,was not what Lucy had expected.,>maximal segment,BulliesRepeatedNames,144,Allison_BulliesRepeatedNames,was not what Lucy had expected.,326.94,328.59,was|not|what|Lucy|had|expected
+145,Lucy allowed herself,-,BulliesRepeatedNames,145,Allison_BulliesRepeatedNames,Lucy allowed herself,329.04,330.09,Lucy|allowed|herself
+146,to enjoy the sense of achievement and belonging,infinitival phrase,BulliesRepeatedNames,146,Allison_BulliesRepeatedNames,to enjoy the sense of achievement and belonging,330.03,332.51,to|enjoy|the|sense|of|achievement|and|belonging
+147,that she had not felt in a very long time.,relative clause; >maximal segment,BulliesRepeatedNames,147,Allison_BulliesRepeatedNames,that she had not felt in a very long time.,332.69,334.9,that|she|had|not|felt|in|a|very|long|time
+148,"Then Lucy saw her mother,",-,BulliesRepeatedNames,148,Allison_BulliesRepeatedNames,"Then Lucy saw her mother,",336.01,337.82,Then|Lucy|saw|her|mother
+149,"who was cheering the loudest of all in the crowd,",relative clause,BulliesRepeatedNames,149,Allison_BulliesRepeatedNames,"who was cheering the loudest of all in the crowd,",338.29,340.47,who|was|cheering|the|loudest|of|all|in|the|crowd
+150,"and Jill,",conjunction,BulliesRepeatedNames,150,Allison_BulliesRepeatedNames,"and Jill,",340.769999,341.47,and|Jill
+151,who was beaming at her with pride from the wings.,relative clause; >maximal segment,BulliesRepeatedNames,151,Allison_BulliesRepeatedNames,who was beaming at her with pride from the wings.,341.689999,344.02,who|was|beaming|at|her|with|pride|from|the|wings
+152,Lucy knew she owed them big time for reminding her,-,BulliesRepeatedNames,152,Allison_BulliesRepeatedNames,Lucy knew she owed them big time for reminding her,345.12,347.96,Lucy|knew|she|owed|them|big|time|for|reminding|her
+153,what she was capable of,complementizer,BulliesRepeatedNames,153,Allison_BulliesRepeatedNames,what she was capable of,347.935938,349.32,what|she|was|capable|of
+154,and who she really was.,complementizer; >maximal segment,BulliesRepeatedNames,154,Allison_BulliesRepeatedNames,and who she really was.,350.19,351.51,and|who|she|really|was
+155,The next time Lucy's phone bleeped,positioning element,BulliesRepeatedNames,155,Allison_BulliesRepeatedNames,The next time Lucy's phone bleeped,352.09,354.04,The|next|time|Lucy's|phone|bleeped
+156,Lucy would tap the message straight into oblivion,-,BulliesRepeatedNames,156,Allison_BulliesRepeatedNames,Lucy would tap the message straight into oblivion,354.91,358.36,Lucy|would|tap|the|message|straight|into|oblivion
+157,where it belonged.,relative clause; >maximal segment,BulliesRepeatedNames,157,Allison_BulliesRepeatedNames,where it belonged.,358.339999,359.32,where|it|belonged

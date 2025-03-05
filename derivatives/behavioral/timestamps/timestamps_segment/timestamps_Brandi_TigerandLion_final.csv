@@ -1,0 +1,136 @@
+,segment,reason,story,idx,audio,segment_raw,onset,offset,words
+0,"In the splendid palace of the Emerald City,",positioning element,TigerandLion,0,Brandi_TigerandLion,"In the splendid palace of the Emerald City,",2.82,4.97,In|the|splendid|palace|of|the|Emerald|City
+1,"which is in the center of the fairy Land of Oz,",relative clause / positioning element,TigerandLion,1,Brandi_TigerandLion,"which is in the center of the fairy Land of Oz,",4.98,7.28,which|is|in|the|center|of|the|fairy|Land|of|Oz
+2,is a great Throne Room.,>maximal segment,TigerandLion,2,Brandi_TigerandLion,is a great Throne Room.,7.54,8.81,is|a|great|Throne|Room
+3,"This is where Princess Ozma,",-,TigerandLion,3,Brandi_TigerandLion,"This is where Princess Ozma,",10.02,11.389999,This|is|where|Princess|Ozma
+4,"the Ruler,",nonrestrictive clause,TigerandLion,4,Brandi_TigerandLion,"the Ruler,",11.358155,11.99,the|Ruler
+5,"sits in a throne of glistening emeralds for an hour each day and listens to all the troubles of her people,",-,TigerandLion,5,Brandi_TigerandLion,"sits in a throne of glistening emeralds for an hour each day and listens to all the troubles of her people,",12.229999,17.57,sits|in|a|throne|of|glistening|emeralds|for|an|hour|each|day|and|listens|to|all|the|troubles|of|her|people
+6,which they are sure to tell her about.,relative clause; >maximal segment,TigerandLion,6,Brandi_TigerandLion,which they are sure to tell her about.,17.71,19.44,which|they|are|sure|to|tell|her|about
+7,"Around Ozma's throne,",-,TigerandLion,7,Brandi_TigerandLion,"Around Ozma's throne,",20.64,21.865374,Around|Ozma's|throne
+8,"on such occasions,",nonrestrictive clause,TigerandLion,8,Brandi_TigerandLion,"on such occasions,",21.88,22.882798,on|such|occasions
+9,"are grouped all the important personages of Oz,",-,TigerandLion,9,Brandi_TigerandLion,"are grouped all the important personages of Oz,",22.88,25.53,are|grouped|all|the|important|personages|of|Oz
+10,"such as the Scarecrow, Tiktok the Clockwork Man, the Tin Woodman, the Wizard of Oz, and other famous fairy people.",nonrestrictive clause; >maximal segment,TigerandLion,10,Brandi_TigerandLion,"such as the Scarecrow, Tiktok the Clockwork Man, the Tin Woodman, the Wizard of Oz, and other famous fairy people.",25.59,32.809999,such|as|the|Scarecrow|Tiktok|the|Clockwork|Man|the|Tin|Woodman|the|Wizard|of|Oz|and|other|famous|fairy|people
+11,"Little Dorothy usually has a seat at Ozma's feet,",-,TigerandLion,11,Brandi_TigerandLion,"Little Dorothy usually has a seat at Ozma's feet,",33.34,36.069999,Little|Dorothy|usually|has|a|seat|at|Ozma's|feet
+12,and crouched on either side the throne are two enormous beasts,conjunction,TigerandLion,12,Brandi_TigerandLion,and crouched on either side the throne are two enormous beasts,36.2943,39.41,and|crouched|on|either|side|the|throne|are|two|enormous|beasts
+13,known as the Hungry Tiger and the Cowardly Lion.,nonrestrictive clause; >maximal segment,TigerandLion,13,Brandi_TigerandLion,known as the Hungry Tiger and the Cowardly Lion.,39.4,42.102868,known|as|the|Hungry|Tiger|and|the|Cowardly|Lion
+14,"These two beasts are Ozma's chief guardians,",-,TigerandLion,14,Brandi_TigerandLion,"These two beasts are Ozma's chief guardians,",43.02,45.76,These|two|beasts|are|Ozma's|chief|guardians
+15,"but, as everyone loves the beautiful girl Princess,",nonrestrictive clause,TigerandLion,15,Brandi_TigerandLion,"but, as everyone loves the beautiful girl Princess,",45.89,48.37,but|as|everyone|loves|the|beautiful|girl|Princess
+16,"there has never been any disturbance in the great Throne Room, or anything for the guardians",-,TigerandLion,16,Brandi_TigerandLion,"there has never been any disturbance in the great Throne Room, or anything for the guardians",48.35,52.813572,there|has|never|been|any|disturbance|in|the|great|Throne|Room|or|anything|for|the|guardians
+17,to do but look fierce and solemn and keep quiet,infinitival phrase,TigerandLion,17,Brandi_TigerandLion,to do but look fierce and solemn and keep quiet,52.813572,55.67,to|do|but|look|fierce|and|solemn|and|keep|quiet
+18,until the Royal Audience is over,conjunction,TigerandLion,18,Brandi_TigerandLion,until the Royal Audience is over,55.643861,57.45,until|the|Royal|Audience|is|over
+19,and the people go away to their homes.,conjunction; >maximal segment,TigerandLion,19,Brandi_TigerandLion,and the people go away to their homes.,57.512222,59.5,and|the|people|go|away|to|their|homes
+20,"Of course, no one would dare be naughty",-,TigerandLion,20,Brandi_TigerandLion,"Of course, no one would dare be naughty",60.44,62.617842,Of|course|no|one|would|dare|be|naughty
+21,while the huge Lion and Tiger crouched beside the throne;,conjunction; >maximal segment,TigerandLion,21,Brandi_TigerandLion,while the huge Lion and Tiger crouched beside the throne;,62.569999,65.43,while|the|huge|Lion|and|Tiger|crouched|beside|the|throne
+22,"but the fact is,",nonrestrictive clause,TigerandLion,22,Brandi_TigerandLion,"but the fact is,",66.609999,67.56,but|the|fact|is
+23,the people of Oz are very seldom naughty.,-,TigerandLion,23,Brandi_TigerandLion,the people of Oz are very seldom naughty.,67.519978,69.91,the|people|of|Oz|are|very|seldom|naughty
+24,So Ozma's big guards are more ornamental than useful.,>maximal segment,TigerandLion,24,Brandi_TigerandLion,So Ozma's big guards are more ornamental than useful.,70.669999,73.7,So|Ozma's|big|guards|are|more|ornamental|than|useful
+25,No one realizes that better than the beasts themselves.,>maximal segment,TigerandLion,25,Brandi_TigerandLion,No one realizes that better than the beasts themselves.,74.75,77.51,No|one|realizes|that|better|than|the|beasts|themselves
+26,"One day,",positioning element,TigerandLion,26,Brandi_TigerandLion,"One day,",78.23,78.82,One|day
+27,"after everyone had left the Throne Room except the Cowardly Lion and the Hungry Tiger,",positioning element,TigerandLion,27,Brandi_TigerandLion,"after everyone had left the Throne Room except the Cowardly Lion and the Hungry Tiger,",78.79,82.688849,after|everyone|had|left|the|Throne|Room|except|the|Cowardly|Lion|and|the|Hungry|Tiger
+28,"the Lion yawned and said to his friend: ""I'm getting tired of this job.",quotation; >maximal segment,TigerandLion,28,Brandi_TigerandLion,"the Lion yawned and said to his friend: ""I'm getting tired of this job.",83.595282,88.38,the|Lion|yawned|and|said|to|his|friend|I'm|getting|tired|of|this|job
+29,No one is afraid of us,-,TigerandLion,29,Brandi_TigerandLion,No one is afraid of us,88.749999,90.13,No|one|is|afraid|of|us
+30,"and no one pays any attention to us.""",conjunction; >maximal segment,TigerandLion,30,Brandi_TigerandLion,"and no one pays any attention to us.""",90.07,92.4,and|no|one|pays|any|attention|to|us
+31,"""That is true,"" replied the big Tiger,",-,TigerandLion,31,Brandi_TigerandLion,"""That is true,"" replied the big Tiger,",93.5,95.58239,That|is|true|replied|the|big|Tiger
+32,purring softly.,nonfinite clause; >maximal segment,TigerandLion,32,Brandi_TigerandLion,purring softly.,95.56,96.57,purring|softly
+33,"""We might as well be in the thick jungles",-,TigerandLion,33,Brandi_TigerandLion,"""We might as well be in the thick jungles",97.23,99.097129,We|might|as|well|be|in|the|thick|jungles
+34,"where we were born,",relative clause / quotation,TigerandLion,34,Brandi_TigerandLion,"where we were born,",99.115628,99.948066,where|we|were|born
+35,as trying,conjunction,TigerandLion,35,Brandi_TigerandLion,as trying,99.948066,100.449999,as|trying
+36,to protect Ozma when she needs no protection.,infinitival phrase; >maximal segment,TigerandLion,36,Brandi_TigerandLion,to protect Ozma when she needs no protection.,100.410531,103.01,to|protect|Ozma|when|she|needs|no|protection
+37,"And I'm dreadfully hungry all the time.""",quotation; >maximal segment,TigerandLion,37,Brandi_TigerandLion,"And I'm dreadfully hungry all the time.""",103.88,106.519999,And|I'm|dreadfully|hungry|all|the|time
+38,"""You have enough to eat, I'm sure,"" said the Lion,",quotation,TigerandLion,38,Brandi_TigerandLion,"""You have enough to eat, I'm sure,"" said the Lion,",107.529999,110.224051,You|have|enough|to|eat|I'm|sure|said|the|Lion
+39,swaying his tail slowly back and forth.,nonfinite clause; >maximal segment,TigerandLion,39,Brandi_TigerandLion,swaying his tail slowly back and forth.,110.2,112.46,swaying|his|tail|slowly|back|and|forth
+40,"""Enough, perhaps;",-,TigerandLion,40,Brandi_TigerandLion,"""Enough, perhaps;",112.63,113.91,Enough|perhaps
+41,"but not the kind of food I long for,"" answered the Tiger.",conjunction; >maximal segment,TigerandLion,41,Brandi_TigerandLion,"but not the kind of food I long for,"" answered the Tiger.",113.877529,117.050044,but|not|the|kind|of|food|I|long|for|answered|the|Tiger
+42,"""What I'm hungry for is fat babies.",>maximal segment,TigerandLion,42,Brandi_TigerandLion,"""What I'm hungry for is fat babies.",117.74,120.719999,What|I'm|hungry|for|is|fat|babies
+43,I have a great desire to eat a few fat babies.,>maximal segment,TigerandLion,43,Brandi_TigerandLion,I have a great desire to eat a few fat babies.,121.16,123.99,I|have|a|great|desire|to|eat|a|few|fat|babies
+44,"Then, perhaps, the people of Oz would fear me,",-,TigerandLion,44,Brandi_TigerandLion,"Then, perhaps, the people of Oz would fear me,",124.169999,126.539999,Then|perhaps|the|people|of|Oz|would|fear|me
+45,"and I'd become more important.""",conjunction; >maximal segment,TigerandLion,45,Brandi_TigerandLion,"and I'd become more important.""",126.660079,128.31,and|I'd|become|more|important
+46,"""True,"" agreed the Lion.",>maximal segment,TigerandLion,46,Brandi_TigerandLion,"""True,"" agreed the Lion.",128.45,129.814094,True|agreed|the|Lion
+47,"""It would stir up quite a scene",-,TigerandLion,47,Brandi_TigerandLion,"""It would stir up quite a scene",129.95,131.562214,It|would|stir|up|quite|a|scene
+48,if you ate but one fat baby.,conjunction; >maximal segment,TigerandLion,48,Brandi_TigerandLion,if you ate but one fat baby.,131.562214,133.31,if|you|ate|but|one|fat|baby
+49,"As for myself,",nonrestrictive clause,TigerandLion,49,Brandi_TigerandLion,"As for myself,",133.86,135.0,As|for|myself
+50,my claws are sharp as needles and strong as crowbars.,>maximal segment,TigerandLion,50,Brandi_TigerandLion,my claws are sharp as needles and strong as crowbars.,135.22,138.519999,my|claws|are|sharp|as|needles|and|strong|as|crowbars
+51,My teeth are powerful enough,-,TigerandLion,51,Brandi_TigerandLion,My teeth are powerful enough,138.939999,140.228819,My|teeth|are|powerful|enough
+52,to tear a person to pieces in a few seconds.,infinitival phrase; >maximal segment,TigerandLion,52,Brandi_TigerandLion,to tear a person to pieces in a few seconds.,140.265817,142.54,to|tear|a|person|to|pieces|in|a|few|seconds
+53,I could spring upon a man and make chop suey of him.,>maximal segment,TigerandLion,53,Brandi_TigerandLion,I could spring upon a man and make chop suey of him.,142.99,145.8,I|could|spring|upon|a|man|and|make|chop|suey|of|him
+54,There would be wild excitement in the Emerald City.,>maximal segment,TigerandLion,54,Brandi_TigerandLion,There would be wild excitement in the Emerald City.,146.47,148.784433,There|would|be|wild|excitement|in|the|Emerald|City
+55,People would fall upon their knees and beg me for mercy.,>maximal segment,TigerandLion,55,Brandi_TigerandLion,People would fall upon their knees and beg me for mercy.,148.96,151.98,People|would|fall|upon|their|knees|and|beg|me|for|mercy
+56,"That, in my opinion,",nonrestrictive clause,TigerandLion,56,Brandi_TigerandLion,"That, in my opinion,",152.94,154.389516,That|in|my|opinion
+57,"would render me very important.""",>maximal segment,TigerandLion,57,Brandi_TigerandLion,"would render me very important.""",154.34,156.03,would|render|me|very|important
+58,"""After you had torn the person to pieces,",-,TigerandLion,58,Brandi_TigerandLion,"""After you had torn the person to pieces,",156.729999,158.779999,After|you|had|torn|the|person|to|pieces
+59,"what would you do next?"" asked the Tiger sleepily.","conjunction (if, then...); >maximal segment",TigerandLion,59,Brandi_TigerandLion,"what would you do next?"" asked the Tiger sleepily.",159.319999,162.249999,what|would|you|do|next|asked|the|Tiger|sleepily
+60,"""Then I would roar so loudly",-,TigerandLion,60,Brandi_TigerandLion,"""Then I would roar so loudly",163.08,165.007726,Then|I|would|roar|so|loudly
+61,it would shake the earth and stalk away to the jungle,relative clause (that...),TigerandLion,61,Brandi_TigerandLion,it would shake the earth and stalk away to the jungle,165.007726,167.412547,it|would|shake|the|earth|and|stalk|away|to|the|jungle
+62,"to hide myself,",infinitival phrase,TigerandLion,62,Brandi_TigerandLion,"to hide myself,",167.421797,168.43,to|hide|myself
+63,"before anyone could attack me or kill me for what I had done.""",conjunction; >maximal segment,TigerandLion,63,Brandi_TigerandLion,"before anyone could attack me or kill me for what I had done.""",168.4,171.51,before|anyone|could|attack|me|or|kill|me|for|what|I|had|done
+64,"""I see,"" nodded the Tiger.",>maximal segment,TigerandLion,64,Brandi_TigerandLion,"""I see,"" nodded the Tiger.",172.45,174.192293,I|see|nodded|the|Tiger
+65,"""You are really cowardly.""",>maximal segment,TigerandLion,65,Brandi_TigerandLion,"""You are really cowardly.""",175.029999,176.77,You|are|really|cowardly
+66,"""To be sure.",>maximal segment,TigerandLion,66,Brandi_TigerandLion,"""To be sure.",177.45,178.326736,To|be|sure
+67,That is why I am named the Cowardly Lion.,>maximal segment,TigerandLion,67,Brandi_TigerandLion,That is why I am named the Cowardly Lion.,178.29,180.565069,That|is|why|I|am|named|the|Cowardly|Lion
+68,That is why I have always been so tame and peaceable.,>maximal segment,TigerandLion,68,Brandi_TigerandLion,That is why I have always been so tame and peaceable.,181.47,184.78,That|is|why|I|have|always|been|so|tame|and|peaceable
+69,"But I'm awfully tired of being tame,"" added the Lion,",-,TigerandLion,69,Brandi_TigerandLion,"But I'm awfully tired of being tame,"" added the Lion,",185.7,188.954195,But|I'm|awfully|tired|of|being|tame|added|the|Lion
+70,"with a sigh,",nonrestrictive clause,TigerandLion,70,Brandi_TigerandLion,"with a sigh,",188.954195,189.56465,with|a|sigh
+71,"""and it would be fun to raise a row and show people",conjunction,TigerandLion,71,Brandi_TigerandLion,"""and it would be fun to raise a row and show people",190.378589,192.626172,and|it|would|be|fun|to|raise|a|row|and|show|people
+72,"what a terrible beast I really am.""",complementizer; >maximal segment,TigerandLion,72,Brandi_TigerandLion,"what a terrible beast I really am.""",192.62,194.79,what|a|terrible|beast|I|really|am
+73,"The Tiger remained silent for several minutes,",-,TigerandLion,73,Brandi_TigerandLion,"The Tiger remained silent for several minutes,",196.140911,198.219999,The|Tiger|remained|silent|for|several|minutes
+74,thinking deeply,nonfinite clause,TigerandLion,74,Brandi_TigerandLion,thinking deeply,198.222006,198.980449,thinking|deeply
+75,as he slowly washed his face with his left paw.,conjunction; >maximal segment,TigerandLion,75,Brandi_TigerandLion,as he slowly washed his face with his left paw.,198.989699,201.47,as|he|slowly|washed|his|face|with|his|left|paw
+76,"Then he said: ""I'm getting old,",-,TigerandLion,76,Brandi_TigerandLion,"Then he said: ""I'm getting old,",202.38,204.34,Then|he|said|I'm|getting|old
+77,and it would please me,conjunction,TigerandLion,77,Brandi_TigerandLion,and it would please me,204.456042,205.362475,and|it|would|please|me
+78,to eat at least one fat baby,infinitival phrase,TigerandLion,78,Brandi_TigerandLion,to eat at least one fat baby,205.34,206.90711,to|eat|at|least|one|fat|baby
+79,before I die.,conjunction; >maximal segment,TigerandLion,79,Brandi_TigerandLion,before I die.,206.888611,207.86,before|I|die
+80,Suppose we surprise these people of Oz and prove our power.,>maximal segment,TigerandLion,80,Brandi_TigerandLion,Suppose we surprise these people of Oz and prove our power.,208.73,212.069999,Suppose|we|surprise|these|people|of|Oz|and|prove|our|power
+81,What do you say?,>maximal segment,TigerandLion,81,Brandi_TigerandLion,What do you say?,212.6,213.54,What|do|you|say
+82,We will walk out of here just as usual,-,TigerandLion,82,Brandi_TigerandLion,We will walk out of here just as usual,214.39,216.439999,We|will|walk|out|of|here|just|as|usual
+83,and the first baby we meet I'll eat in a jiffy.,conjunction; >maximal segment,TigerandLion,83,Brandi_TigerandLion,and the first baby we meet I'll eat in a jiffy.,216.58189,219.07,and|the|first|baby|we|meet|I'll|eat|in|a|jiffy
+84,"And the first man or woman you meet, you will tear to pieces.",>maximal segment,TigerandLion,84,Brandi_TigerandLion,"And the first man or woman you meet, you will tear to pieces.",219.87,223.0,And|the|first|man|or|woman|you|meet|you|will|tear|to|pieces
+85,Then we will both run out of the city gates and gallop across the country and hide in the jungle,-,TigerandLion,85,Brandi_TigerandLion,Then we will both run out of the city gates and gallop across the country and hide in the jungle,223.8,228.149999,Then|we|will|both|run|out|of|the|city|gates|and|gallop|across|the|country|and|hide|in|the|jungle
+86,"before anyone can stop us.""",conjunction; >maximal segment,TigerandLion,86,Brandi_TigerandLion,"before anyone can stop us.""",228.134281,229.859999,before|anyone|can|stop|us
+87,"""All right. I'm game,"" said the Lion,",-,TigerandLion,87,Brandi_TigerandLion,"""All right. I'm game,"" said the Lion,",230.72,233.461885,All|right|I'm|game|said|the|Lion
+88,yawning again,nonfinite clause,TigerandLion,88,Brandi_TigerandLion,yawning again,233.81,234.59955,yawning|again
+89,so that he showed two rows of large sharp teeth.,conjunction; >maximal segment,TigerandLion,89,Brandi_TigerandLion,so that he showed two rows of large sharp teeth.,234.59955,237.62,so|that|he|showed|two|rows|of|large|sharp|teeth
+90,"The Tiger got up and stretched his great, sleek body.",>maximal segment,TigerandLion,90,Brandi_TigerandLion,"The Tiger got up and stretched his great, sleek body.",237.984798,240.81,The|Tiger|got|up|and|stretched|his|great|sleek|body
+91,"""Seen any of them old Hydrophobies the last day or two?""",>maximal segment,TigerandLion,91,Brandi_TigerandLion,"""Seen any of them old Hydrophobies the last day or two?""",241.333049,244.92,Seen|any|of|them|old|Hydrophobies|the|last|day|or|two
+92,"""Come on,"" he said.",quotation; >maximal segment,TigerandLion,92,Brandi_TigerandLion,"""Come on,"" he said.",245.609999,246.969999,Come|on|he|said
+93,"The Lion stood up and proved he was the larger of the two,",-,TigerandLion,93,Brandi_TigerandLion,"The Lion stood up and proved he was the larger of the two,",247.90931,250.739999,The|Lion|stood|up|and|proved|he|was|the|larger|of|the|two
+94,for he was almost as big as a small horse.,conjunction; >maximal segment,TigerandLion,94,Brandi_TigerandLion,for he was almost as big as a small horse.,250.71,253.0,for|he|was|almost|as|big|as|a|small|horse
+95,"Out of the palace they walked,",positioning element,TigerandLion,95,Brandi_TigerandLion,"Out of the palace they walked,",253.78,255.16,Out|of|the|palace|they|walked
+96,and met no one.,>maximal segment,TigerandLion,96,Brandi_TigerandLion,and met no one.,255.188518,256.14,and|met|no|one
+97,"They passed through the beautiful grounds, past fountains and beds of lovely flowers,",positioning element,TigerandLion,97,Brandi_TigerandLion,"They passed through the beautiful grounds, past fountains and beds of lovely flowers,",256.85,261.519999,They|passed|through|the|beautiful|grounds|past|fountains|and|beds|of|lovely|flowers
+98,and met no one.,>maximal segment,TigerandLion,98,Brandi_TigerandLion,and met no one.,262.079256,263.339999,and|met|no|one
+99,"Then they unlatched a gate and entered a street of the city,",positioning element,TigerandLion,99,Brandi_TigerandLion,"Then they unlatched a gate and entered a street of the city,",264.33,267.239999,Then|they|unlatched|a|gate|and|entered|a|street|of|the|city
+100,and met no one.,>maximal segment,TigerandLion,100,Brandi_TigerandLion,and met no one.,267.887824,269.31,and|met|no|one
+101,"""I wonder how a fat baby will taste,"" said the Tiger,",-,TigerandLion,101,Brandi_TigerandLion,"""I wonder how a fat baby will taste,"" said the Tiger,",269.95967,272.974945,I|wonder|how|a|fat|baby|will|taste|said|the|Tiger
+102,"as they stalked majestically along, side by side.",conjunction; >maximal segment,TigerandLion,102,Brandi_TigerandLion,"as they stalked majestically along, side by side.",272.99,276.0,as|they|stalked|majestically|along|side|by|side
+103,"""I imagine it will taste like nutmegs,"" said the Lion.",quotation; >maximal segment,TigerandLion,103,Brandi_TigerandLion,"""I imagine it will taste like nutmegs,"" said the Lion.",276.83,279.856434,I|imagine|it|will|taste|like|nutmegs|said|the|Lion
+104,"""No,"" said the Tiger, ""I've an idea it will taste like gumdrops.""",>maximal segment,TigerandLion,104,Brandi_TigerandLion,"""No,"" said the Tiger, ""I've an idea it will taste like gumdrops.""",280.81,285.68,No|said|the|Tiger|I've|an|idea|it|will|taste|like|gumdrops
+105,"They turned a corner,",positioning element,TigerandLion,105,Brandi_TigerandLion,"They turned a corner,",286.749999,287.9,They|turned|a|corner
+106,"but met no one,",-,TigerandLion,106,Brandi_TigerandLion,"but met no one,",288.4,289.51,but|met|no|one
+107,for the people of the Emerald City usually take their naps at this hour of the afternoon.,conjunction; >maximal segment,TigerandLion,107,Brandi_TigerandLion,for the people of the Emerald City usually take their naps at this hour of the afternoon.,289.89,294.37,for|the|people|of|the|Emerald|City|usually|take|their|naps|at|this|hour|of|the|afternoon
+108," ""I wonder how many pieces I ought",-,TigerandLion,108,Brandi_TigerandLion," ""I wonder how many pieces I ought",295.36,297.124899,I|wonder|how|many|pieces|I|ought
+109,"to tear a person into,"" said the Lion,",infinitival phrase / quotation,TigerandLion,109,Brandi_TigerandLion,"to tear a person into,"" said the Lion,",297.109999,299.159748,to|tear|a|person|into|said|the|Lion
+110,in a thoughtful voice.,nonrestrictive clause; >maximal segment,TigerandLion,110,Brandi_TigerandLion,in a thoughtful voice.,299.159748,300.309999,in|a|thoughtful|voice
+111,"""Sixty would be about right,"" suggested the Tiger.",>maximal segment,TigerandLion,111,Brandi_TigerandLion,"""Sixty would be about right,"" suggested the Tiger.",301.13,303.849149,Sixty|would|be|about|right|suggested|the|Tiger
+112,"""Would that hurt any more",-,TigerandLion,112,Brandi_TigerandLion,"""Would that hurt any more",304.849999,306.078233,Would|that|hurt|any|more
+113,"than to tear one into about a dozen pieces?"" asked the Lion,",relative clause (minimal segment) / infinitival phrase / quotation,TigerandLion,113,Brandi_TigerandLion,"than to tear one into about a dozen pieces?"" asked the Lion,",306.068984,309.361245,than|to|tear|one|into|about|a|dozen|pieces|asked|the|Lion
+114,with a little shudder.,nonrestrictive clause; >maximal segment,TigerandLion,114,Brandi_TigerandLion,with a little shudder.,309.361245,310.35,with|a|little|shudder
+115,"""Who cares whether it hurts or not?"" growled the Tiger.",>maximal segment,TigerandLion,115,Brandi_TigerandLion,"""Who cares whether it hurts or not?"" growled the Tiger.",311.12,314.263874,Who|cares|whether|it|hurts|or|not|growled|the|Tiger
+116,The Lion did not reply.,>maximal segment,TigerandLion,116,Brandi_TigerandLion,The Lion did not reply.,315.198055,316.7,The|Lion|did|not|reply
+117,"They entered a side street,",positioning element,TigerandLion,117,Brandi_TigerandLion,"They entered a side street,",317.09,318.49,They|entered|a|side|street
+118,but met no one.,>maximal segment,TigerandLion,118,Brandi_TigerandLion,but met no one.,318.8,320.05,but|met|no|one
+119,Suddenly they heard a child crying.,>maximal segment,TigerandLion,119,Brandi_TigerandLion,Suddenly they heard a child crying.,321.0,323.4,Suddenly|they|heard|a|child|crying
+120,"""Aha!"" exclaimed the Tiger.",>maximal segment,TigerandLion,120,Brandi_TigerandLion,"""Aha!"" exclaimed the Tiger.",324.22,326.047498,Aha|exclaimed|the|Tiger
+121,"""There is my meat.""",>maximal segment,TigerandLion,121,Brandi_TigerandLion,"""There is my meat.""",326.27,327.56,There|is|my|meat
+122,"He rushed around a corner,",-,TigerandLion,122,Brandi_TigerandLion,"He rushed around a corner,",327.88,329.35,He|rushed|around|a|corner
+123,"the Lion following,",nonfinite clause,TigerandLion,123,Brandi_TigerandLion,"the Lion following,",329.608483,330.773896,the|Lion|following
+124,and came upon a nice fat baby,-,TigerandLion,124,Brandi_TigerandLion,and came upon a nice fat baby,330.949633,332.808745,and|came|upon|a|nice|fat|baby
+125,sitting in the middle of the street,nonfinite clause,TigerandLion,125,Brandi_TigerandLion,sitting in the middle of the street,332.81,334.2,sitting|in|the|middle|of|the|street
+126,and crying as if in great distress.,nonfinite clause; >maximal segment,TigerandLion,126,Brandi_TigerandLion,and crying as if in great distress.,334.177643,336.509999,and|crying|as|if|in|great|distress
+127,"""What's the matter?"" asked the Tiger,",-,TigerandLion,127,Brandi_TigerandLion,"""What's the matter?"" asked the Tiger,",337.38,339.237017,What's|the|matter|asked|the|Tiger
+128,crouching before the baby.,nonfinite clause; >maximal segment,TigerandLion,128,Brandi_TigerandLion,crouching before the baby.,339.269999,340.639999,crouching|before|the|baby
+129,"""I--I--I-lost my m-m-mamma!"" wailed the baby.",>maximal segment,TigerandLion,129,Brandi_TigerandLion,"""I--I--I-lost my m-m-mamma!"" wailed the baby.",341.95,346.23,I|I|I|lost|my|m|m|mamma|wailed|the|baby
+130,"""Why, you poor little thing,"" said the great beast,",-,TigerandLion,130,Brandi_TigerandLion,"""Why, you poor little thing,"" said the great beast,",347.46,350.52,Why|you|poor|little|thing|said|the|great|beast
+131,softly stroking the child's head with its paw.,nonfinite clause; >maximal segment,TigerandLion,131,Brandi_TigerandLion,softly stroking the child's head with its paw.,350.52,353.07,softly|stroking|the|child's|head|with|its|paw
+132,"""Don't cry, my dear,",-,TigerandLion,132,Brandi_TigerandLion,"""Don't cry, my dear,",354.399999,355.669999,Don't|cry|my|dear
+133,for mamma can't be far away.,conjunction; >maximal segment,TigerandLion,133,Brandi_TigerandLion,for mamma can't be far away.,355.649999,357.38,for|mamma|can't|be|far|away
+134,"I'll help you find her.""",>maximal segment,TigerandLion,134,Brandi_TigerandLion,"I'll help you find her.""",358.339999,359.57,I'll|help|you|find|her

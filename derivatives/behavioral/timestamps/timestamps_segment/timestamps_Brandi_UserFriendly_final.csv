@@ -1,0 +1,139 @@
+,segment,reason,story,idx,audio,segment_raw,onset,offset,words
+0,"More people than ever are living long, healthy lives.",>maximal segment,UserFriendly,0,Brandi_UserFriendly,"More people than ever are living long, healthy lives.",7.53,10.44,More|people|than|ever|are|living|long|healthy|lives
+1,"According to the U.S. Department of Health and Human Services,",nonrestrictive clause,UserFriendly,1,Brandi_UserFriendly,"According to the U.S. Department of Health and Human Services,",10.66,13.559999,According|to|the|U|S|Department|of|Health|and|Human|Services
+2,the average life expectancy is 78.6 years for men and 81.1 for women.,>maximal segment,UserFriendly,2,Brandi_UserFriendly,the average life expectancy is 78.6 years for men and 81.1 for women.,13.499999,19.33,the|average|life|expectancy|is|78|6|years|for|men|and|81|1|for|women
+3,"More relevant, however, is that as people grow older,",nonrestrictive clause,UserFriendly,3,Brandi_UserFriendly,"More relevant, however, is that as people grow older,",19.46,22.55,More|relevant|however|is|that|as|people|grow|older
+4,their total life expectancy increases.,conjunction (then...); >maximal segment,UserFriendly,4,Brandi_UserFriendly,their total life expectancy increases.,22.6,25.02,their|total|life|expectancy|increases
+5,"So for those who are now 65,",nonrestrictive clause,UserFriendly,5,Brandi_UserFriendly,"So for those who are now 65,",25.22,27.277711,So|for|those|who|are|now|65
+6,the average life expectancy is 83 for men and over 85 for women.,>maximal segment,UserFriendly,6,Brandi_UserFriendly,the average life expectancy is 83 for men and over 85 for women.,27.353799,32.83,the|average|life|expectancy|is|83|for|men|and|over|85|for|women
+7,"And because I'm 83,",-,UserFriendly,7,Brandi_UserFriendly,"And because I'm 83,",33.18,34.729999,And|because|I'm|83
+8,I'm expected to live past 90,conjunction (then...),UserFriendly,8,Brandi_UserFriendly,I'm expected to live past 90,34.669999,36.96,I'm|expected|to|live|past|90
+9,(but I'm aiming a lot higher than that).,conjunction; >maximal segment,UserFriendly,9,Brandi_UserFriendly,(but I'm aiming a lot higher than that).,37.18,39.1,but|I'm|aiming|a|lot|higher|than|that
+10,"And these are averages,",-,UserFriendly,10,Brandi_UserFriendly,"And these are averages,",39.36,40.62,And|these|are|averages
+11,which means that perhaps half of us will live even longer.,relative clause; >maximal segment,UserFriendly,11,Brandi_UserFriendly,which means that perhaps half of us will live even longer.,40.74,43.73,which|means|that|perhaps|half|of|us|will|live|even|longer
+12,Those of us who are still active and healthy at advanced ages-,-,UserFriendly,12,Brandi_UserFriendly,Those of us who are still active and healthy at advanced ages-,44.16,47.19,Those|of|us|who|are|still|active|and|healthy|at|advanced|ages
+13,I qualify-,nonrestrictive clause,UserFriendly,13,Brandi_UserFriendly,I qualify-,47.365063,48.439999,I|qualify
+14,discover that we aren't quite as capable as our younger selves.,complementizer; >maximal segment,UserFriendly,14,Brandi_UserFriendly,discover that we aren't quite as capable as our younger selves.,48.58,51.759999,discover|that|we|aren't|quite|as|capable|as|our|younger|selves
+15,That doesn't mean that we aren't healthy and workable-,>maximal segment,UserFriendly,15,Brandi_UserFriendly,That doesn't mean that we aren't healthy and workable-,52.009999,54.22,That|doesn't|mean|that|we|aren't|healthy|and|workable
+16,"I still have a very active job and travel on business around the world,",-,UserFriendly,16,Brandi_UserFriendly,"I still have a very active job and travel on business around the world,",54.251068,57.83,I|still|have|a|very|active|job|and|travel|on|business|around|the|world
+17,but I have to admit,conjunction,UserFriendly,17,Brandi_UserFriendly,but I have to admit,58.0,58.873442,but|I|have|to|admit
+18,"that I'm getting slower and weaker,",complementizer,UserFriendly,18,Brandi_UserFriendly,"that I'm getting slower and weaker,",58.88,60.58,that|I'm|getting|slower|and|weaker
+19,"with diminished eyesight, hearing, taste, touch, and, well, almost everything physical.",nonrestrictive clause; >maximal segment,UserFriendly,19,Brandi_UserFriendly,"with diminished eyesight, hearing, taste, touch, and, well, almost everything physical.",60.81,66.93,with|diminished|eyesight|hearing|taste|touch|and|well|almost|everything|physical
+20,"The number of active, healthy oldsters is large-and increasing.",>maximal segment,UserFriendly,20,Brandi_UserFriendly,"The number of active, healthy oldsters is large-and increasing.",67.09,71.349999,The|number|of|active|healthy|oldsters|is|large|and|increasing
+21,We are not a niche market.,>maximal segment,UserFriendly,21,Brandi_UserFriendly,We are not a niche market.,71.54,73.16,We|are|not|a|niche|market
+22,And businesses should take note:,>maximal segment,UserFriendly,22,Brandi_UserFriendly,And businesses should take note:,73.75,75.43,And|businesses|should|take|note
+23,"We are good customers,",-,UserFriendly,23,Brandi_UserFriendly,"We are good customers,",75.52,76.697162,We|are|good|customers
+24,often with more free time and discretionary income than younger people.,nonrestrictive clause; >maximal segment,UserFriendly,24,Brandi_UserFriendly,often with more free time and discretionary income than younger people.,76.7,80.36,often|with|more|free|time|and|discretionary|income|than|younger|people
+25,Despite our increasing numbers the world seems,-,UserFriendly,25,Brandi_UserFriendly,Despite our increasing numbers the world seems,80.55,82.784239,Despite|our|increasing|numbers|the|world|seems
+26,to be designed against the elderly.,infinitival phrase; >maximal segment,UserFriendly,26,Brandi_UserFriendly,to be designed against the elderly.,82.822283,84.68,to|be|designed|against|the|elderly
+27,Everyday household goods require knives and pliers to open.,>maximal segment,UserFriendly,27,Brandi_UserFriendly,Everyday household goods require knives and pliers to open.,85.229999,88.66,Everyday|household|goods|require|knives|and|pliers|to|open
+28,Containers with screw tops require more strength than my wife or I can muster.,>maximal segment,UserFriendly,28,Brandi_UserFriendly,Containers with screw tops require more strength than my wife or I can muster.,88.88,92.96,Containers|with|screw|tops|require|more|strength|than|my|wife|or|I|can|muster
+29,(We solve this by using a plumber's wrench to turn the caps.),>maximal segment,UserFriendly,29,Brandi_UserFriendly,(We solve this by using a plumber's wrench to turn the caps.),93.11,96.07,We|solve|this|by|using|a|plumber's|wrench|to|turn|the|caps
+30,Companies insist on printing critical instructions in tiny fonts with very low contrast.,>maximal segment,UserFriendly,30,Brandi_UserFriendly,Companies insist on printing critical instructions in tiny fonts with very low contrast.,96.66,101.72,Companies|insist|on|printing|critical|instructions|in|tiny|fonts|with|very|low|contrast
+31,Labels cannot be read without flashlights and magnifying lenses.,>maximal segment,UserFriendly,31,Brandi_UserFriendly,Labels cannot be read without flashlights and magnifying lenses.,101.97,105.469999,Labels|cannot|be|read|without|flashlights|and|magnifying|lenses
+32,"And when companies do design things specifically for the elderly,",-,UserFriendly,32,Brandi_UserFriendly,"And when companies do design things specifically for the elderly,",105.63,109.13,And|when|companies|do|design|things|specifically|for|the|elderly
+33,they tend to be ugly devices,conjunction (then...),UserFriendly,33,Brandi_UserFriendly,they tend to be ugly devices,109.48,111.203276,they|tend|to|be|ugly|devices
+34,"that shout out to the world ""I'm old and can't function!""",relative clause / quotation; >maximal segment,UserFriendly,34,Brandi_UserFriendly,"that shout out to the world ""I'm old and can't function!""",111.279365,114.45,that|shout|out|to|the|world|I'm|old|and|can't|function
+35,We can do better.,>maximal segment,UserFriendly,35,Brandi_UserFriendly,We can do better.,115.43,116.619999,We|can|do|better
+36,What older consumers want and need,>maximal segment,UserFriendly,36,Brandi_UserFriendly,What older consumers want and need,117.214264,119.64,What|older|consumers|want|and|need
+37,"As we age, we have more experience with life,",-,UserFriendly,37,Brandi_UserFriendly,"As we age, we have more experience with life,",119.95,122.72,As|we|age|we|have|more|experience|with|life
+38,which can make us better decision-makers and managers.,relative clause; >maximal segment,UserFriendly,38,Brandi_UserFriendly,which can make us better decision-makers and managers.,122.95,125.6,which|can|make|us|better|decision|makers|and|managers
+39,"Crystalized intelligence, it is called,",-,UserFriendly,39,Brandi_UserFriendly,"Crystalized intelligence, it is called,",125.87,128.21,Crystalized|intelligence|it|is|called
+40,and it gets better with experience.,conjunction; >maximal segment,UserFriendly,40,Brandi_UserFriendly,and it gets better with experience.,128.4,130.19,and|it|gets|better|with|experience
+41,A caveat is,-,UserFriendly,41,Brandi_UserFriendly,A caveat is,130.94,131.804225,A|caveat|is
+42,that we often face physical changes,relative clause,UserFriendly,42,Brandi_UserFriendly,that we often face physical changes,131.823247,133.65,that|we|often|face|physical|changes
+43,that designers fail,relative clause,UserFriendly,43,Brandi_UserFriendly,that designers fail,133.630348,134.53,that|designers|fail
+44,to account for into their work.,infinitival phrase; >maximal segment,UserFriendly,44,Brandi_UserFriendly,to account for into their work.,134.505365,136.179999,to|account|for|into|their|work
+45,Vision deteriorates.,>maximal segment,UserFriendly,45,Brandi_UserFriendly,Vision deteriorates.,136.47,137.93,Vision|deteriorates
+46,"The lens of our eyes harden,",-,UserFriendly,46,Brandi_UserFriendly,"The lens of our eyes harden,",138.25,139.793513,The|lens|of|our|eyes|harden
+47,making focusing more difficult.,nonfinite clause; >maximal segment,UserFriendly,47,Brandi_UserFriendly,making focusing more difficult.,139.899999,141.63,making|focusing|more|difficult
+48,I used to be able,-,UserFriendly,48,Brandi_UserFriendly,I used to be able,142.361498,143.236516,I|used|to|be|able
+49,"to read tiny text by holding it close to my eyes,",infinitival phrase,UserFriendly,49,Brandi_UserFriendly,"to read tiny text by holding it close to my eyes,",143.236516,145.88,to|read|tiny|text|by|holding|it|close|to|my|eyes
+50,but my inability,conjunction,UserFriendly,50,Brandi_UserFriendly,but my inability,146.15,147.05996,but|my|inability
+51,to focus at close distances,infinitival phrase,UserFriendly,51,Brandi_UserFriendly,to focus at close distances,147.04,148.67,to|focus|at|close|distances
+52,defeats that activity.,>maximal segment,UserFriendly,52,Brandi_UserFriendly,defeats that activity.,148.657818,149.92,defeats|that|activity
+53,Floaters and debris start,-,UserFriendly,53,Brandi_UserFriendly,Floaters and debris start,150.55,151.777445,Floaters|and|debris|start
+54,"accumulating inside the eye,",nonfinite clause,UserFriendly,54,Brandi_UserFriendly,"accumulating inside the eye,",151.77,153.3,accumulating|inside|the|eye
+55,"which scatters the light on its way to the retina,",relative clause,UserFriendly,55,Brandi_UserFriendly,"which scatters the light on its way to the retina,",153.55,155.81,which|scatters|the|light|on|its|way|to|the|retina
+56,reducing contrast,nonfinite clause,UserFriendly,56,Brandi_UserFriendly,reducing contrast,156.12,157.255813,reducing|contrast
+57,"and making it more difficult to see small, low-contrast objects.",conjunction / nonfinite clause; >maximal segment,UserFriendly,57,Brandi_UserFriendly,"and making it more difficult to see small, low-contrast objects.",157.274836,160.76,and|making|it|more|difficult|to|see|small|low|contrast|objects
+58,For the increasing number of people,-,UserFriendly,58,Brandi_UserFriendly,For the increasing number of people,161.609999,163.171691,For|the|increasing|number|of|people
+59,"who have cataract surgery,",relative clause,UserFriendly,59,Brandi_UserFriendly,"who have cataract surgery,",163.13,164.59,who|have|cataract|surgery
+60,"the eye's lenses have been replaced with plastic,",-,UserFriendly,60,Brandi_UserFriendly,"the eye's lenses have been replaced with plastic,",164.750526,167.24,the|eye's|lenses|have|been|replaced|with|plastic
+61,which usually have a fixed focus.,relative clause; >maximal segment,UserFriendly,61,Brandi_UserFriendly,which usually have a fixed focus.,167.27,169.25,which|usually|have|a|fixed|focus
+62,(Artificial lenses,-,UserFriendly,62,Brandi_UserFriendly,(Artificial lenses,169.44,170.419116,Artificial|lenses
+63,that can be focused are under development.),relative clause; >maximal segment,UserFriendly,63,Brandi_UserFriendly,that can be focused are under development.),170.419116,172.55,that|can|be|focused|are|under|development
+64,"A flashlight has become an essential item,",-,UserFriendly,64,Brandi_UserFriendly,"A flashlight has become an essential item,",172.93,175.139999,A|flashlight|has|become|an|essential|item
+65,"whether the one built into many phones or carried separately,",conjunction,UserFriendly,65,Brandi_UserFriendly,"whether the one built into many phones or carried separately,",175.519999,178.449999,whether|the|one|built|into|many|phones|or|carried|separately
+66,because illumination makes tiny type easier,conjunction,UserFriendly,66,Brandi_UserFriendly,because illumination makes tiny type easier,178.73,181.090522,because|illumination|makes|tiny|type|easier
+67,to read,infinitival phrase,UserFriendly,67,Brandi_UserFriendly,to read,181.09,181.7,to|read
+68,"although even then, a magnifying glass might be useful.",infinitival phrase; >maximal segment,UserFriendly,68,Brandi_UserFriendly,"although even then, a magnifying glass might be useful.",181.66,184.89,although|even|then|a|magnifying|glass|might|be|useful
+69,Hearing decreases.,>maximal segment,UserFriendly,69,Brandi_UserFriendly,Hearing decreases.,185.19,186.47,Hearing|decreases
+70,"High frequencies are first to go,",-,UserFriendly,70,Brandi_UserFriendly,"High frequencies are first to go,",186.69,188.38,High|frequencies|are|first|to|go
+71,"which also tends to impair directional sensitivity,",relative clause,UserFriendly,71,Brandi_UserFriendly,"which also tends to impair directional sensitivity,",188.54,191.38,which|also|tends|to|impair|directional|sensitivity
+72,which in turn makes it more difficult,relative clause,UserFriendly,72,Brandi_UserFriendly,which in turn makes it more difficult,191.46,193.569028,which|in|turn|makes|it|more|difficult
+73,"to attend to someone in a crowded, noisy environment.",infinitival phrase; >maximal segment,UserFriendly,73,Brandi_UserFriendly,"to attend to someone in a crowded, noisy environment.",193.55,196.42,to|attend|to|someone|in|a|crowded|noisy|environment
+74,Loud restaurants are torture.,>maximal segment,UserFriendly,74,Brandi_UserFriendly,Loud restaurants are torture.,196.759999,198.62,Loud|restaurants|are|torture
+75,"So, more and more, my wife and I select restaurants by their noise level",-,UserFriendly,75,Brandi_UserFriendly,"So, more and more, my wife and I select restaurants by their noise level",198.93,202.68,So|more|and|more|my|wife|and|I|select|restaurants|by|their|noise|level
+76,rather than by their food quality.,conjunction; >maximal segment,UserFriendly,76,Brandi_UserFriendly,rather than by their food quality.,202.65,204.42,rather|than|by|their|food|quality
+77,"At home while watching TV,",nonfinite clause,UserFriendly,77,Brandi_UserFriendly,"At home while watching TV,",204.78,206.46,At|home|while|watching|TV
+78,"whether shows, streaming events, or movies,",nonrestrictive clause,UserFriendly,78,Brandi_UserFriendly,"whether shows, streaming events, or movies,",206.64,209.269999,whether|shows|streaming|events|or|movies
+79,"we always turn on the captions,",-,UserFriendly,79,Brandi_UserFriendly,"we always turn on the captions,",209.49,211.26,we|always|turn|on|the|captions
+80,which often block critical parts of the image.,relative clause; >maximal segment,UserFriendly,80,Brandi_UserFriendly,which often block critical parts of the image.,211.35,213.64,which|often|block|critical|parts|of|the|image
+81,"Even worse,",nonrestrictive clause,UserFriendly,81,Brandi_UserFriendly,"Even worse,",214.019999,214.829999,Even|worse
+82,when a film shows someone,-,UserFriendly,82,Brandi_UserFriendly,when a film shows someone,215.019999,216.224366,when|a|film|shows|someone
+83,"speaking in a foreign language,",nonfinite clause,UserFriendly,83,Brandi_UserFriendly,"speaking in a foreign language,",216.224366,217.77,speaking|in|a|foreign|language
+84,"the film often translates the words,",conjunction,UserFriendly,84,Brandi_UserFriendly,"the film often translates the words,",217.71,220.08,the|film|often|translates|the|words
+85,"but so too does the closed captioning,",conjunction,UserFriendly,85,Brandi_UserFriendly,"but so too does the closed captioning,",220.22,222.18,but|so|too|does|the|closed|captioning
+86,"and the two are placed on top of one another,",conjunction,UserFriendly,86,Brandi_UserFriendly,"and the two are placed on top of one another,",222.41,224.45,and|the|two|are|placed|on|top|of|one|another
+87,making both attempts to help the viewer completely unhelpful.,nonfinite clause; >maximal segment,UserFriendly,87,Brandi_UserFriendly,making both attempts to help the viewer completely unhelpful.,224.649999,228.06,making|both|attempts|to|help|the|viewer|completely|unhelpful
+88,Bad design abounds,>maximal segment,UserFriendly,88,Brandi_UserFriendly,Bad design abounds,228.35,229.889999,Bad|design|abounds
+89,The problems I face are much milder,-,UserFriendly,89,Brandi_UserFriendly,The problems I face are much milder,230.109999,232.164897,The|problems|I|face|are|much|milder
+90,than those faced by millions of aging people.,relative clause; >maximal segment,UserFriendly,90,Brandi_UserFriendly,than those faced by millions of aging people.,232.164897,234.51,than|those|faced|by|millions|of|aging|people
+91,"With so many of us needing better devices,",nonrestrictive clause,UserFriendly,91,Brandi_UserFriendly,"With so many of us needing better devices,",234.81,237.16,With|so|many|of|us|needing|better|devices
+92,why are so many things still designed in ways,-,UserFriendly,92,Brandi_UserFriendly,why are so many things still designed in ways,237.35,239.82,why|are|so|many|things|still|designed|in|ways
+93,that defeat our ability to function?,relative clause; >maximal segment,UserFriendly,93,Brandi_UserFriendly,that defeat our ability to function?,239.76,241.64,that|defeat|our|ability|to|function
+94,Take the screen design for Apple's phones.,>maximal segment,UserFriendly,94,Brandi_UserFriendly,Take the screen design for Apple's phones.,242.02,244.249999,Take|the|screen|design|for|Apple's|phones
+95,The designers at Apple apparently believe,-,UserFriendly,95,Brandi_UserFriendly,The designers at Apple apparently believe,244.58,246.659747,The|designers|at|Apple|apparently|believe
+96,"that text is ugly,",complementizer,UserFriendly,96,Brandi_UserFriendly,"that text is ugly,",246.64,247.74,that|text|is|ugly
+97,so it should either be eliminated entirely or made as invisible as possible.,>maximal segment,UserFriendly,97,Brandi_UserFriendly,so it should either be eliminated entirely or made as invisible as possible.,248.019999,252.08,so|it|should|either|be|eliminated|entirely|or|made|as|invisible|as|possible
+98,"Bruce Tognazzini and I,",-,UserFriendly,98,Brandi_UserFriendly,"Bruce Tognazzini and I,",252.38,254.002283,Bruce|Tognazzini|and|I
+99,"both former employees of Apple,",nonrestrictive clause,UserFriendly,99,Brandi_UserFriendly,"both former employees of Apple,",254.04,255.82,both|former|employees|of|Apple
+100,"wrote a long article on Apple's usability sins,",-,UserFriendly,100,Brandi_UserFriendly,"wrote a long article on Apple's usability sins,",256.151782,259.15,wrote|a|long|article|on|Apple's|usability|sins
+101,which has been read by hundreds of thousands of people.,relative clause; >maximal segment,UserFriendly,101,Brandi_UserFriendly,which has been read by hundreds of thousands of people.,259.32,261.85,which|has|been|read|by|hundreds|of|thousands|of|people
+102,Once Apple products could be used without ever reading a manual.,>maximal segment,UserFriendly,102,Brandi_UserFriendly,Once Apple products could be used without ever reading a manual.,262.35,265.689999,Once|Apple|products|could|be|used|without|ever|reading|a|manual
+103,"Today, Apple's products violate all the fundamental rules of design for understanding and usability,",-,UserFriendly,103,Brandi_UserFriendly,"Today, Apple's products violate all the fundamental rules of design for understanding and usability,",266.029999,271.81,Today|Apple's|products|violate|all|the|fundamental|rules|of|design|for|understanding|and|usability
+104,many of which Tognazzini and I had helped develop.,nonrestrictive clause; >maximal segment,UserFriendly,104,Brandi_UserFriendly,many of which Tognazzini and I had helped develop.,272.25,274.99,many|of|which|Tognazzini|and|I|had|helped|develop
+105,"As a result, even a manual is not enough:",>maximal segment,UserFriendly,105,Brandi_UserFriendly,"As a result, even a manual is not enough:",275.4,278.22,As|a|result|even|a|manual|is|not|enough
+106,all the arbitrary gestures,-,UserFriendly,106,Brandi_UserFriendly,all the arbitrary gestures,278.51,280.119645,all|the|arbitrary|gestures
+107,"that control tablets, phones, and computers",relative clause,UserFriendly,107,Brandi_UserFriendly,"that control tablets, phones, and computers",280.14,282.52,that|control|tablets|phones|and|computers
+108,have to be memorized.,>maximal segment,UserFriendly,108,Brandi_UserFriendly,have to be memorized.,282.516432,283.78,have|to|be|memorized
+109,Everything has to be memorized.,>maximal segment,UserFriendly,109,Brandi_UserFriendly,Everything has to be memorized.,284.069999,286.019999,Everything|has|to|be|memorized
+110,"These thoughtless, inappropriate designs are not limited to Apple.",>maximal segment,UserFriendly,110,Brandi_UserFriendly,"These thoughtless, inappropriate designs are not limited to Apple.",286.359999,289.72,These|thoughtless|inappropriate|designs|are|not|limited|to|Apple
+111,"New technologies tend to rely on display screens,",-,UserFriendly,111,Brandi_UserFriendly,"New technologies tend to rely on display screens,",290.06,292.92,New|technologies|tend|to|rely|on|display|screens
+112,"often with tiny lettering,",nonrestrictive clause,UserFriendly,112,Brandi_UserFriendly,"often with tiny lettering,",293.06,294.46,often|with|tiny|lettering
+113,with touch-sensitive areas,-,UserFriendly,113,Brandi_UserFriendly,with touch-sensitive areas,294.68,296.098221,with|touch|sensitive|areas
+114,that are exceedingly difficult,relative clause,UserFriendly,114,Brandi_UserFriendly,that are exceedingly difficult,296.09,297.429769,that|are|exceedingly|difficult
+115,to hit as eye-hand coordination declines.,infinitival phrase; >maximal segment,UserFriendly,115,Brandi_UserFriendly,to hit as eye-hand coordination declines.,297.439999,300.29,to|hit|as|eye|hand|coordination|declines
+116,Physical controls are by far the easiest to control-,-,UserFriendly,116,Brandi_UserFriendly,Physical controls are by far the easiest to control-,300.64,303.6,Physical|controls|are|by|far|the|easiest|to|control
+117,"safer too,",nonrestrictive clause,UserFriendly,117,Brandi_UserFriendly,"safer too,",303.91,304.83,safer|too
+118,"especially in safety-critical tasks such as driving a car,",nonrestrictive clause,UserFriendly,118,Brandi_UserFriendly,"especially in safety-critical tasks such as driving a car,",304.97,308.5,especially|in|safety|critical|tasks|such|as|driving|a|car
+119,but they are disappearing.,conjunction; >maximal segment,UserFriendly,119,Brandi_UserFriendly,but they are disappearing.,308.9,310.34,but|they|are|disappearing
+120,Why?,>maximal segment,UserFriendly,120,Brandi_UserFriendly,Why?,310.71,311.24,Why
+121,To save a few cents in manufacturing and in a misplaced desire,-,UserFriendly,121,Brandi_UserFriendly,To save a few cents in manufacturing and in a misplaced desire,311.57,315.22,To|save|a|few|cents|in|manufacturing|and|in|a|misplaced|desire
+122,to be trendy.,infinitival phrase; >maximal segment,UserFriendly,122,Brandi_UserFriendly,to be trendy.,315.19,316.17,to|be|trendy
+123,"Speech can be a useful substitute for physical controls,",-,UserFriendly,123,Brandi_UserFriendly,"Speech can be a useful substitute for physical controls,",316.359999,319.4,Speech|can|be|a|useful|substitute|for|physical|controls
+124,though not as helpful as proponents claim.,conjunction; >maximal segment,UserFriendly,124,Brandi_UserFriendly,though not as helpful as proponents claim.,319.7,321.829999,though|not|as|helpful|as|proponents|claim
+125,Then there's the aesthetic problem.,>maximal segment,UserFriendly,125,Brandi_UserFriendly,Then there's the aesthetic problem.,322.160001,324.44,Then|there's|the|aesthetic|problem
+126,"When products are developed for the elderly,",-,UserFriendly,126,Brandi_UserFriendly,"When products are developed for the elderly,",324.9,326.88,When|products|are|developed|for|the|elderly
+127,they tend to be ugly and an unwanted signal of fragility.,conjunction (then...); >maximal segment,UserFriendly,127,Brandi_UserFriendly,they tend to be ugly and an unwanted signal of fragility.,327.07,330.3,they|tend|to|be|ugly|and|an|unwanted|signal|of|fragility
+128,"As a result, people who need walkers or canes often resist.",>maximal segment,UserFriendly,128,Brandi_UserFriendly,"As a result, people who need walkers or canes often resist.",330.64,334.96,As|a|result|people|who|need|walkers|or|canes|often|resist
+129,"Once upon a time,",positioning element,UserFriendly,129,Brandi_UserFriendly,"Once upon a time,",335.33,336.349013,Once|upon|a|time
+130,a cane was stylish:,>maximal segment,UserFriendly,130,Brandi_UserFriendly,a cane was stylish:,336.368035,337.74,a|cane|was|stylish
+131,Today it is seen as a medical device.,>maximal segment,UserFriendly,131,Brandi_UserFriendly,Today it is seen as a medical device.,338.26,340.549999,Today|it|is|seen|as|a|medical|device
+132,"Why can't we have walkers and canes for everyday use,",-,UserFriendly,132,Brandi_UserFriendly,"Why can't we have walkers and canes for everyday use,",340.829999,343.959999,Why|can't|we|have|walkers|and|canes|for|everyday|use
+133,"to help us in everyday life,",infinitival phrase,UserFriendly,133,Brandi_UserFriendly,"to help us in everyday life,",344.05,345.58,to|help|us|in|everyday|life
+134,"to carry our packages, provide a way to sit when we are tired, or viewing some event,",infinitival phrase,UserFriendly,134,Brandi_UserFriendly,"to carry our packages, provide a way to sit when we are tired, or viewing some event,",345.94,350.9,to|carry|our|packages|provide|a|way|to|sit|when|we|are|tired|or|viewing|some|event
+135,"and yes, to maintain our balance?",conjunction; >maximal segment,UserFriendly,135,Brandi_UserFriendly,"and yes, to maintain our balance?",351.23,353.46,and|yes|to|maintain|our|balance
+136,"Make them items of pride, stylish enough",-,UserFriendly,136,Brandi_UserFriendly,"Make them items of pride, stylish enough",353.689999,356.31,Make|them|items|of|pride|stylish|enough
+137,that everyone will want one.,relative clause; >maximal segment,UserFriendly,137,Brandi_UserFriendly,that everyone will want one.,356.279999,357.86,that|everyone|will|want|one

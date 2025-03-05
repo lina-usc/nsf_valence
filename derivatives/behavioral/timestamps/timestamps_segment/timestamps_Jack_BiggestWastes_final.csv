@@ -1,0 +1,153 @@
+,segment,reason,story,idx,audio,segment_raw,onset,offset,words
+0,We spend a lot of energy,-,BiggestWastes,0,Jack_BiggestWastes,We spend a lot of energy,5.67,7.339312,We|spend|a|lot|of|energy
+1,"looking for shortcuts to save time,",nonfinite clause,BiggestWastes,1,Jack_BiggestWastes,"looking for shortcuts to save time,",7.39,9.24,looking|for|shortcuts|to|save|time
+2,"and sure, those shortcuts add up.",conjunction; >maximal segment,BiggestWastes,2,Jack_BiggestWastes,"and sure, those shortcuts add up.",10.109999,12.219999,and|sure|those|shortcuts|add|up
+3,"But when I look back,",relative clause,BiggestWastes,3,Jack_BiggestWastes,"But when I look back,",12.99,14.02,But|when|I|look|back
+4,my biggest time regrets aren't,-,BiggestWastes,4,Jack_BiggestWastes,my biggest time regrets aren't,14.2,15.727097,my|biggest|time|regrets|aren't
+5,spending too much time on Twitter,nonfinite clause,BiggestWastes,5,Jack_BiggestWastes,spending too much time on Twitter,15.7,17.410001,spending|too|much|time|on|Twitter
+6,or mismanaging my daily tasks.,nonfinite clause; >maximal segment,BiggestWastes,6,Jack_BiggestWastes,or mismanaging my daily tasks.,17.39,19.35,or|mismanaging|my|daily|tasks
+7,"Those are bad habits,",-,BiggestWastes,7,Jack_BiggestWastes,"Those are bad habits,",20.153984,21.202457,Those|are|bad|habits
+8,"but there are bigger, more systematic time wasters",conjunction,BiggestWastes,8,Jack_BiggestWastes,"but there are bigger, more systematic time wasters",21.95,24.775032,but|there|are|bigger|more|systematic|time|wasters
+9,that have really gotten in the way.,relative clause; >maximal segment,BiggestWastes,9,Jack_BiggestWastes,that have really gotten in the way.,24.75,26.51,that|have|really|gotten|in|the|way
+10,Fixing these will free up a massive amount of time and energy.,>maximal segment,BiggestWastes,10,Jack_BiggestWastes,Fixing these will free up a massive amount of time and energy.,27.18,30.39,Fixing|these|will|free|up|a|massive|amount|of|time|and|energy
+11,Not Asking for Help,>maximal segment,BiggestWastes,11,Jack_BiggestWastes,Not Asking for Help,31.439999,32.65,Not|Asking|for|Help
+12,"My first week on my first job out of university,",positioning element,BiggestWastes,12,Jack_BiggestWastes,"My first week on my first job out of university,",33.38,36.14,My|first|week|on|my|first|job|out|of|university
+13,my boss handed me a huge spreadsheet.,>maximal segment,BiggestWastes,13,Jack_BiggestWastes,my boss handed me a huge spreadsheet.,36.64,38.85,my|boss|handed|me|a|huge|spreadsheet
+14,He told me,-,BiggestWastes,14,Jack_BiggestWastes,He told me,39.46,40.0,He|told|me
+15,to organize it in a way,infinitival clause,BiggestWastes,15,Jack_BiggestWastes,to organize it in a way,39.94,41.239944,to|organize|it|in|a|way
+16,that made zero sense to me.,relative clause; >maximal segment,BiggestWastes,16,Jack_BiggestWastes,that made zero sense to me.,41.22,42.72,that|made|zero|sense|to|me
+17,"Being a quiet, timid person,",nonrestrictive clause,BiggestWastes,17,Jack_BiggestWastes,"Being a quiet, timid person,",43.52,46.089999,Being|a|quiet|timid|person
+18,"I simply nodded, walked back to my desk and stared at that spreadsheet",-,BiggestWastes,18,Jack_BiggestWastes,"I simply nodded, walked back to my desk and stared at that spreadsheet",46.63,50.443208,I|simply|nodded|walked|back|to|my|desk|and|stared|at|that|spreadsheet
+19,"for like an hour,",positioning element,BiggestWastes,19,Jack_BiggestWastes,"for like an hour,",50.42,51.33,for|like|an|hour
+20,hoping to make some sense of it.,nonfinite clause; >maximal segment,BiggestWastes,20,Jack_BiggestWastes,hoping to make some sense of it.,51.999999,53.394466,hoping|to|make|some|sense|of|it
+21,"Finally, my coworker came in,",-,BiggestWastes,21,Jack_BiggestWastes,"Finally, my coworker came in,",54.67,56.21,Finally|my|coworker|came|in
+22,and I confessed,conjunction,BiggestWastes,22,Jack_BiggestWastes,and I confessed,56.97,57.627191,and|I|confessed
+23,I had no idea what,complementizer,BiggestWastes,23,Jack_BiggestWastes,I had no idea what,57.627191,58.889242,I|had|no|idea|what
+24,to do],infinitival phrase; >maximal segment,BiggestWastes,24,Jack_BiggestWastes,to do],58.84,60.06,to|do]
+25,"He broke it down for me,",-,BiggestWastes,25,Jack_BiggestWastes,"He broke it down for me,",60.0,61.16,He|broke|it|down|for|me
+26,then dropped some advice,conjunction,BiggestWastes,26,Jack_BiggestWastes,then dropped some advice,61.91,62.869557,then|dropped|some|advice
+27,that's stuck with me ever since:,relative clause; >maximal segment,BiggestWastes,27,Jack_BiggestWastes,that's stuck with me ever since:,62.819999,64.429999,that's|stuck|with|me|ever|since
+28,"""You might feel dumb",-,BiggestWastes,28,Jack_BiggestWastes,"""You might feel dumb",65.05,65.956728,You|might|feel|dumb
+29,"asking questions,",nonfinite clause,BiggestWastes,29,Jack_BiggestWastes,"asking questions,",65.939999,66.99,asking|questions
+30,but you look dumber,conjunction,BiggestWastes,30,Jack_BiggestWastes,but you look dumber,67.67,68.609999,but|you|look|dumber
+31,when you don't get it,relative clause,BiggestWastes,31,Jack_BiggestWastes,when you don't get it,68.55,69.479999,when|you|don't|get|it
+32,because you failed,conjunction,BiggestWastes,32,Jack_BiggestWastes,because you failed,69.43,70.208869,because|you|failed
+33,"to ask.""",infinitival phrase; >maximal segment,BiggestWastes,33,Jack_BiggestWastes,"to ask.""",70.21,70.919999,to|ask
+34,"It was harsh, but true.",>maximal segment,BiggestWastes,34,Jack_BiggestWastes,"It was harsh, but true.",71.579999,73.71,It|was|harsh|but|true
+35,"And not only did I look like an arse,",-,BiggestWastes,35,Jack_BiggestWastes,"And not only did I look like an arse,",74.363929,76.13,And|not|only|did|I|look|like|an|arse
+36,I could've also saved a fair amount of time that day by simply,conjunction [but...],BiggestWastes,36,Jack_BiggestWastes,I could've also saved a fair amount of time that day by simply,76.87,80.14,I|could've|also|saved|a|fair|amount|of|time|that|day|by|simply
+37,asking my boss what he meant.,nonfinite clause; >maximal segment,BiggestWastes,37,Jack_BiggestWastes,asking my boss what he meant.,80.12,81.829999,asking|my|boss|what|he|meant
+38,It made me wonder,-,BiggestWastes,38,Jack_BiggestWastes,It made me wonder,82.52,83.411864,It|made|me|wonder
+39,how much time I had wasted by,complementizer,BiggestWastes,39,Jack_BiggestWastes,how much time I had wasted by,83.38,84.869999,how|much|time|I|had|wasted|by
+40,not asking for help,nonfinite clause,BiggestWastes,40,Jack_BiggestWastes,not asking for help,84.819999,85.877718,not|asking|for|help
+41,over the years.,positioning element; >maximal segment,BiggestWastes,41,Jack_BiggestWastes,over the years.,85.88,86.75,over|the|years
+42,As dumb as you might feel,nonrestrictive clause,BiggestWastes,42,Jack_BiggestWastes,As dumb as you might feel,87.43,88.673646,As|dumb|as|you|might|feel
+43,"asking questions,",nonfinite clause,BiggestWastes,43,Jack_BiggestWastes,"asking questions,",88.679999,89.69,asking|questions
+44,it's the fastest way,-,BiggestWastes,44,Jack_BiggestWastes,it's the fastest way,90.439999,91.47,it's|the|fastest|way
+45,to get an answer.,infinitival phrase; >maximal segment,BiggestWastes,45,Jack_BiggestWastes,to get an answer.,91.411326,92.31,to|get|an|answer
+46,"Similarly, asking for help is a great way to, well, get help.",>maximal segment,BiggestWastes,46,Jack_BiggestWastes,"Similarly, asking for help is a great way to, well, get help.",93.34,98.109904,Similarly|asking|for|help|is|a|great|way|to|well|get|help
+47,This is why networking and finding a mentor are hugely valuable.,>maximal segment,BiggestWastes,47,Jack_BiggestWastes,This is why networking and finding a mentor are hugely valuable.,98.75,102.31,This|is|why|networking|and|finding|a|mentor|are|hugely|valuable
+48,If you feel stuck in your career or need,-,BiggestWastes,48,Jack_BiggestWastes,If you feel stuck in your career or need,103.29,106.051118,If|you|feel|stuck|in|your|career|or|need
+49,to learn new skills,infinitival phrase,BiggestWastes,49,Jack_BiggestWastes,to learn new skills,106.029999,107.14,to|learn|new|skills
+50,"and have no idea how to get started,",-,BiggestWastes,50,Jack_BiggestWastes,"and have no idea how to get started,",107.216088,109.086087,and|have|no|idea|how|to|get|started
+51,talking to other people in your field will go a long way.,nonfinite clause; >maximal segment,BiggestWastes,51,Jack_BiggestWastes,talking to other people in your field will go a long way.,109.75,112.45,talking|to|other|people|in|your|field|will|go|a|long|way
+52,Even if it's just,nonrestrictive clause,BiggestWastes,52,Jack_BiggestWastes,Even if it's just,113.71,114.671897,Even|if|it's|just
+53,"shooting someone a short email,",nonfinite clause,BiggestWastes,53,Jack_BiggestWastes,"shooting someone a short email,",114.67,116.32,shooting|someone|a|short|email
+54,asking for help is like a shortcut for your career.,nonfinite clause; >maximal segment,BiggestWastes,54,Jack_BiggestWastes,asking for help is like a shortcut for your career.,117.18,119.719999,asking|for|help|is|like|a|shortcut|for|your|career
+55,Here's another way to look at it:,>maximal segment,BiggestWastes,55,Jack_BiggestWastes,Here's another way to look at it:,120.359999,121.9,Here's|another|way|to|look|at|it
+56,"if you're not asking for help,",nonrestrictive clause,BiggestWastes,56,Jack_BiggestWastes,"if you're not asking for help,",122.6,124.11,if|you're|not|asking|for|help
+57,you're probably not challenging yourself enough.,"conjunction (if, then...); >maximal segment",BiggestWastes,57,Jack_BiggestWastes,you're probably not challenging yourself enough.,124.81,127.039999,you're|probably|not|challenging|yourself|enough
+58,"If you have all the answers,",-,BiggestWastes,58,Jack_BiggestWastes,"If you have all the answers,",127.64,129.07,If|you|have|all|the|answers
+59,"you're not learning new skills,","conjunction (if, then...) / nonfinite clause",BiggestWastes,59,Jack_BiggestWastes,"you're not learning new skills,",129.72,131.12,you're|not|learning|new|skills
+60,trying new things,nonfinite clause,BiggestWastes,60,Jack_BiggestWastes,trying new things,131.88,132.91,trying|new|things
+61,or moving forward and out of your comfort zone.,nonfinite clause; >maximal segment,BiggestWastes,61,Jack_BiggestWastes,or moving forward and out of your comfort zone.,133.65,135.85,or|moving|forward|and|out|of|your|comfort|zone
+62,There are a handful of reasons,-,BiggestWastes,62,Jack_BiggestWastes,There are a handful of reasons,136.97,138.398456,There|are|a|handful|of|reasons
+63,"we don't ask for help,",relative clause (that...),BiggestWastes,63,Jack_BiggestWastes,"we don't ask for help,",138.37904,139.47,we|don't|ask|for|help
+64,"but it's usually because we're too proud or scared,",conjunction,BiggestWastes,64,Jack_BiggestWastes,"but it's usually because we're too proud or scared,",140.21,142.89,but|it's|usually|because|we're|too|proud|or|scared
+65,"and that's a huge waste of time,",conjunction,BiggestWastes,65,Jack_BiggestWastes,"and that's a huge waste of time,",143.519999,145.41,and|that's|a|huge|waste|of|time
+66,because it keeps you from moving forward.,conjunction; >maximal segment,BiggestWastes,66,Jack_BiggestWastes,because it keeps you from moving forward.,145.57,147.4,because|it|keeps|you|from|moving|forward
+67,Trying to Make Bad Relationships Work,>maximal segment,BiggestWastes,67,Jack_BiggestWastes,Trying to Make Bad Relationships Work,150.42,152.68,Trying|to|Make|Bad|Relationships|Work
+68,"Relationships require maintenance,",-,BiggestWastes,68,Jack_BiggestWastes,"Relationships require maintenance,",153.75,155.77,Relationships|require|maintenance
+69,but there's a difference between,conjunction,BiggestWastes,69,Jack_BiggestWastes,but there's a difference between,156.5,157.73,but|there's|a|difference|between
+70,maintaining a good relationship,nonfinite clause,BiggestWastes,70,Jack_BiggestWastes,maintaining a good relationship,157.698128,159.51,maintaining|a|good|relationship
+71,and trying to force a bad one,nonfinite clause,BiggestWastes,71,Jack_BiggestWastes,and trying to force a bad one,160.279999,161.736692,and|trying|to|force|a|bad|one
+72,that doesn't make much sense to begin with.,relative clause; >maximal segment,BiggestWastes,72,Jack_BiggestWastes,that doesn't make much sense to begin with.,161.689999,163.89,that|doesn't|make|much|sense|to|begin|with
+73,"There's a lot of emotion in romance and friendships,",-,BiggestWastes,73,Jack_BiggestWastes,"There's a lot of emotion in romance and friendships,",164.979192,167.439192,There's|a|lot|of|emotion|in|romance|and|friendships
+74,so sometimes it's hard to tell,conjunction,BiggestWastes,74,Jack_BiggestWastes,so sometimes it's hard to tell,168.21,169.969148,so|sometimes|it's|hard|to|tell
+75,when you should keep trying or you should just call it quits.,conjunction; >maximal segment,BiggestWastes,75,Jack_BiggestWastes,when you should keep trying or you should just call it quits.,169.93,173.36,when|you|should|keep|trying|or|you|should|just|call|it|quits
+76,"Like a lot of people,",nonrestrictive clause,BiggestWastes,76,Jack_BiggestWastes,"Like a lot of people,",174.5,175.58,Like|a|lot|of|people
+77,I made some common bad decisions,-,BiggestWastes,77,Jack_BiggestWastes,I made some common bad decisions,176.3,178.129999,I|made|some|common|bad|decisions
+78,that wasted both my time and the time of the person I was with.,relative clause; >maximal segment,BiggestWastes,78,Jack_BiggestWastes,that wasted both my time and the time of the person I was with.,178.123939,182.31,that|wasted|both|my|time|and|the|time|of|the|person|I|was|with
+79,"For example,",nonrestrictive clause,BiggestWastes,79,Jack_BiggestWastes,"For example,",183.62,184.45,For|example
+80,(1) Thinking I have more in common with the person,-,BiggestWastes,80,Jack_BiggestWastes,(1) Thinking I have more in common with the person,185.19,188.239763,1|Thinking|I|have|more|in|common|with|the|person
+81,I'm dating than I actually do.,relative clause (that...) / nonfinite clause; >maximal segment,BiggestWastes,81,Jack_BiggestWastes,I'm dating than I actually do.,188.22,190.006634,I'm|dating|than|I|actually|do
+82,(2) Being in a relationship just to avoid loneliness.,>maximal segment,BiggestWastes,82,Jack_BiggestWastes,(2) Being in a relationship just to avoid loneliness.,190.59,194.57,2|Being|in|a|relationship|just|to|avoid|loneliness
+83,(3) Staying in a relationship only out of fear,-,BiggestWastes,83,Jack_BiggestWastes,(3) Staying in a relationship only out of fear,195.45,199.02,3|Staying|in|a|relationship|only|out|of|fear
+84,of losing the person.,nonfinite clause; >maximal segment,BiggestWastes,84,Jack_BiggestWastes,of losing the person.,199.015737,200.25,of|losing|the|person
+85,There are good reasons,-,BiggestWastes,85,Jack_BiggestWastes,There are good reasons,201.17,202.374734,There|are|good|reasons
+86,"for wanting to make a relationship work,",nonfinite clause,BiggestWastes,86,Jack_BiggestWastes,"for wanting to make a relationship work,",202.374734,204.47,for|wanting|to|make|a|relationship|work
+87,but those aren't good ones.,conjunction; >maximal segment,BiggestWastes,87,Jack_BiggestWastes,but those aren't good ones.,205.01,206.7,but|those|aren't|good|ones
+88,"They cloud your judgment, prolong your unhappiness and distract you from things",-,BiggestWastes,88,Jack_BiggestWastes,"They cloud your judgment, prolong your unhappiness and distract you from things",207.31,212.063403,They|cloud|your|judgment|prolong|your|unhappiness|and|distract|you|from|things
+89,that matter to you most.,relative clause; >maximal segment,BiggestWastes,89,Jack_BiggestWastes,that matter to you most.,212.063403,213.399999,that|matter|to|you|most
+90,"At the same time,",nonrestrictive clause,BiggestWastes,90,Jack_BiggestWastes,"At the same time,",213.98,214.95,At|the|same|time
+91,it's hard,-,BiggestWastes,91,Jack_BiggestWastes,it's hard,215.713643,216.218463,it's|hard
+92,"to say all bad relationships are a total waste of time,",infinitival phrase,BiggestWastes,92,Jack_BiggestWastes,"to say all bad relationships are a total waste of time,",216.189999,219.28,to|say|all|bad|relationships|are|a|total|waste|of|time
+93,because you learn a lot about yourself from them.,conjunction; >maximal segment,BiggestWastes,93,Jack_BiggestWastes,because you learn a lot about yourself from them.,219.94,222.53,because|you|learn|a|lot|about|yourself|from|them
+94,"That's a valid silver lining,",-,BiggestWastes,94,Jack_BiggestWastes,"That's a valid silver lining,",223.18,224.78,That's|a|valid|silver|lining
+95,"but still, the sooner you learn those lessons, the better.",conjunction; >maximal segment,BiggestWastes,95,Jack_BiggestWastes,"but still, the sooner you learn those lessons, the better.",224.779999,229.05,but|still|the|sooner|you|learn|those|lessons|the|better
+96,"Similarly, not dealing with the emotional impact of a breakup",nonfinite clause,BiggestWastes,96,Jack_BiggestWastes,"Similarly, not dealing with the emotional impact of a breakup",229.76,233.595935,Similarly|not|dealing|with|the|emotional|impact|of|a|breakup
+97,is also a big waste of time.,>maximal segment,BiggestWastes,97,Jack_BiggestWastes,is also a big waste of time.,233.599999,235.39,is|also|a|big|waste|of|time
+98,"When a relationship ends,",relative clause,BiggestWastes,98,Jack_BiggestWastes,"When a relationship ends,",236.11,237.41,When|a|relationship|ends
+99,we usually go through the typical stages of grief associated with loss.,>maximal segment,BiggestWastes,99,Jack_BiggestWastes,we usually go through the typical stages of grief associated with loss.,237.89,242.0,we|usually|go|through|the|typical|stages|of|grief|associated|with|loss
+100,It's easy to get comfortable with denial and convince ourselves,-,BiggestWastes,100,Jack_BiggestWastes,It's easy to get comfortable with denial and convince ourselves,243.069999,246.255277,It's|easy|to|get|comfortable|with|denial|and|convince|ourselves
+101,we don't really care and we're fine.,complementizer (that...); >maximal segment,BiggestWastes,101,Jack_BiggestWastes,we don't really care and we're fine.,246.22,248.33,we|don't|really|care|and|we're|fine
+102,"In reality,",nonrestrictive clause,BiggestWastes,102,Jack_BiggestWastes,"In reality,",249.479999,250.34,In|reality
+103,ignoring the pain,nonfinite clause,BiggestWastes,103,Jack_BiggestWastes,ignoring the pain,250.62,251.555892,ignoring|the|pain
+104,only prolongs it.,>maximal segment,BiggestWastes,104,Jack_BiggestWastes,only prolongs it.,251.57,252.6,only|prolongs|it
+105,Our work suffers;,>maximal segment,BiggestWastes,105,Jack_BiggestWastes,Our work suffers;,253.07,254.0,Our|work|suffers
+106,the rest of our relationships suffer.,>maximal segment,BiggestWastes,106,Jack_BiggestWastes,the rest of our relationships suffer.,254.49,256.45,the|rest|of|our|relationships|suffer
+107,Dwelling on Your Mistakes and Shortcomings,>maximal segment,BiggestWastes,107,Jack_BiggestWastes,Dwelling on Your Mistakes and Shortcomings,257.09,259.25,Dwelling|on|Your|Mistakes|and|Shortcomings
+108,Learning from your mistakes,nonfinite clause,BiggestWastes,108,Jack_BiggestWastes,Learning from your mistakes,259.82,261.1,Learning|from|your|mistakes
+109,is one thing.,>maximal segment,BiggestWastes,109,Jack_BiggestWastes,is one thing.,261.08,261.99,is|one|thing
+110,Dwelling on them,nonfinite clause,BiggestWastes,110,Jack_BiggestWastes,Dwelling on them,262.609999,263.55,Dwelling|on|them
+111,"wastes your time, diminishes your confidence, and keeps you from",-,BiggestWastes,111,Jack_BiggestWastes,"wastes your time, diminishes your confidence, and keeps you from",263.529999,267.83,wastes|your|time|diminishes|your|confidence|and|keeps|you|from
+112,getting on with your life.,nonfinite clause; >maximal segment,BiggestWastes,112,Jack_BiggestWastes,getting on with your life.,267.769999,269.189999,getting|on|with|your|life
+113,Dwelling also makes you more apt to repeat your mistakes.,>maximal segment,BiggestWastes,113,Jack_BiggestWastes,Dwelling also makes you more apt to repeat your mistakes.,269.599999,272.75,Dwelling|also|makes|you|more|apt|to|repeat|your|mistakes
+114,"In a recent study published in the Journal of Consumer Psychology,",nonrestrictive clause,BiggestWastes,114,Jack_BiggestWastes,"In a recent study published in the Journal of Consumer Psychology,",273.95,277.38,In|a|recent|study|published|in|the|Journal|of|Consumer|Psychology
+115,researchers asked subjects,-,BiggestWastes,115,Jack_BiggestWastes,researchers asked subjects,277.89,279.37,researchers|asked|subjects
+116,to spend money during an imaginary trip to the mall.,infinitival clause; >maximal segment,BiggestWastes,116,Jack_BiggestWastes,to spend money during an imaginary trip to the mall.,279.35,282.05,to|spend|money|during|an|imaginary|trip|to|the|mall
+117,"Before ""shopping"",",positioning element,BiggestWastes,117,Jack_BiggestWastes,"Before ""shopping"",",283.229999,284.55,Before|shopping
+118,some subjects were asked,-,BiggestWastes,118,Jack_BiggestWastes,some subjects were asked,285.069999,286.252587,some|subjects|were|asked
+119,to recall a past financial mistake.,infinitival clause; >maximal segment,BiggestWastes,119,Jack_BiggestWastes,to recall a past financial mistake.,286.252587,288.372587,to|recall|a|past|financial|mistake
+120,They found,-,BiggestWastes,120,Jack_BiggestWastes,They found,289.145596,289.572752,They|found
+121,those subjects were more likely,complementizer (that...),BiggestWastes,121,Jack_BiggestWastes,those subjects were more likely,289.579999,291.03,those|subjects|were|more|likely
+122,to incur debt.,infinitival clause; >maximal segment,BiggestWastes,122,Jack_BiggestWastes,to incur debt.,290.97,291.94,to|incur|debt
+123,A press release for the study concluded:,-,BiggestWastes,123,Jack_BiggestWastes,A press release for the study concluded:,292.52,294.54,A|press|release|for|the|study|concluded
+124,"Perhaps the most surprising, Haws said, is",complementizer (that...),BiggestWastes,124,Jack_BiggestWastes,"Perhaps the most surprising, Haws said, is",295.19,297.97,Perhaps|the|most|surprising|Haws|said|is
+125,"that searching through the past can negatively affect behavior,",complementizer,BiggestWastes,125,Jack_BiggestWastes,"that searching through the past can negatively affect behavior,",297.91,300.93,that|searching|through|the|past|can|negatively|affect|behavior
+126,"depending on the ease of recall,",nonrestrictive clause,BiggestWastes,126,Jack_BiggestWastes,"depending on the ease of recall,",301.39,303.08,depending|on|the|ease|of|recall
+127,even when past examples are positive...,>maximal segment,BiggestWastes,127,Jack_BiggestWastes,even when past examples are positive...,303.609999,305.729999,even|when|past|examples|are|positive
+128,"Instead of dwelling on the past,",nonrestrictive clause,BiggestWastes,128,Jack_BiggestWastes,"Instead of dwelling on the past,",306.929999,308.61,Instead|of|dwelling|on|the|past
+129,"Haws said, her research into behavior suggests",-,BiggestWastes,129,Jack_BiggestWastes,"Haws said, her research into behavior suggests",308.73,312.61,Haws|said|her|research|into|behavior|suggests
+130,that setting goals for the future,complementizer / nonfinite clause,BiggestWastes,130,Jack_BiggestWastes,that setting goals for the future,312.55,314.22,that|setting|goals|for|the|future
+131,can positively change present behavior...,complementizer cont.; >maximal segment,BiggestWastes,131,Jack_BiggestWastes,can positively change present behavior...,314.19,316.479999,can|positively|change|present|behavior
+132,"In short,",nonrestrictive clause,BiggestWastes,132,Jack_BiggestWastes,"In short,",317.63,318.36,In|short
+133,"if we want to have better self-control,",-,BiggestWastes,133,Jack_BiggestWastes,"if we want to have better self-control,",318.68,320.6,if|we|want|to|have|better|self|control
+134,"""Look forward,"" Haws says.","conjunction (if, then...); >maximal segment",BiggestWastes,134,Jack_BiggestWastes,"""Look forward,"" Haws says.",321.149999,322.890001,Look|forward|Haws|says
+135,"""Don't look back.""",>maximal segment,BiggestWastes,135,Jack_BiggestWastes,"""Don't look back.""",323.37,324.420001,Don't|look|back
+136,"When you think about your own experiences,",relative clause,BiggestWastes,136,Jack_BiggestWastes,"When you think about your own experiences,",325.259999,327.24,When|you|think|about|your|own|experiences
+137,it probably makes sense.,>maximal segment,BiggestWastes,137,Jack_BiggestWastes,it probably makes sense.,327.77,329.19,it|probably|makes|sense
+138,Dwelling makes you feel like a failure.,>maximal segment,BiggestWastes,138,Jack_BiggestWastes,Dwelling makes you feel like a failure.,329.88,331.6,Dwelling|makes|you|feel|like|a|failure
+139,"When I feel like a failure,",relative clause,BiggestWastes,139,Jack_BiggestWastes,"When I feel like a failure,",332.45,333.81,When|I|feel|like|a|failure
+140,it's easy to tell myself,-,BiggestWastes,140,Jack_BiggestWastes,it's easy to tell myself,334.23,335.589073,it's|easy|to|tell|myself
+141,"there's no point in trying,",complementizer (that....),BiggestWastes,141,Jack_BiggestWastes,"there's no point in trying,",335.56,336.96,there's|no|point|in|trying
+142,because I already suck.,conjunction; >maximal segment,BiggestWastes,142,Jack_BiggestWastes,because I already suck.,337.64,338.92,because|I|already|suck
+143,"(Hence, getting further into debt",nonfinite clause,BiggestWastes,143,Jack_BiggestWastes,"(Hence, getting further into debt",339.66,341.94,Hence|getting|further|into|debt
+144,when you already feel like an overspender.),relative clause; >maximal segment,BiggestWastes,144,Jack_BiggestWastes,when you already feel like an overspender.),341.9,343.91861,when|you|already|feel|like|an|overspender
+145,"Of course, you don't want",-,BiggestWastes,145,Jack_BiggestWastes,"Of course, you don't want",344.656424,346.559209,Of|course|you|don't|want
+146,to skip over your mistakes and ignore them either.,infinitival clause; >maximal segment,BiggestWastes,146,Jack_BiggestWastes,to skip over your mistakes and ignore them either.,346.53,349.11,to|skip|over|your|mistakes|and|ignore|them|either
+147,The goal is,-,BiggestWastes,147,Jack_BiggestWastes,The goal is,349.67,350.345362,The|goal|is
+148,"to glean something from them,",infinitival clause,BiggestWastes,148,Jack_BiggestWastes,"to glean something from them,",350.29,351.879999,to|glean|something|from|them
+149,then release the failure.,conjunction; >maximal segment,BiggestWastes,149,Jack_BiggestWastes,then release the failure.,352.35,353.639999,then|release|the|failure
+150,"In order to let the past go,",conjunction,BiggestWastes,150,Jack_BiggestWastes,"In order to let the past go,",354.31,356.21,In|order|to|let|the|past|go
+151,you must forgive yourself officially.,>maximal segment,BiggestWastes,151,Jack_BiggestWastes,you must forgive yourself officially.,356.92,359.1,you|must|forgive|yourself|officially

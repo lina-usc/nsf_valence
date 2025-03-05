@@ -1,0 +1,162 @@
+,segment,reason,story,idx,audio,segment_raw,onset,offset,words
+0,The Chief of Police was on TV.,>maximal segment,MetaphorsPronouns,0,Jack_MetaphorsPronouns,The Chief of Police was on TV.,4.16,6.14,The|Chief|of|Police|was|on|TV
+1,She reported,-,MetaphorsPronouns,1,Jack_MetaphorsPronouns,She reported,6.8,7.42,She|reported
+2,that a convict had just escaped from jail.,complementizer; >maximal segment,MetaphorsPronouns,2,Jack_MetaphorsPronouns,that a convict had just escaped from jail.,7.36,9.459999,that|a|convict|had|just|escaped|from|jail
+3,She said,-,MetaphorsPronouns,3,Jack_MetaphorsPronouns,She said,10.149999,10.569999,She|said
+4,that he just flew the coop and disappeared.,complementizer; >maximal segment,MetaphorsPronouns,4,Jack_MetaphorsPronouns,that he just flew the coop and disappeared.,10.51,12.77,that|he|just|flew|the|coop|and|disappeared
+5,She warned the viewers,-,MetaphorsPronouns,5,Jack_MetaphorsPronouns,She warned the viewers,13.689999,14.69,She|warned|the|viewers
+6,that he might be hiding in the suburbs.,complementizer; >maximal segment,MetaphorsPronouns,6,Jack_MetaphorsPronouns,that he might be hiding in the suburbs.,14.63,16.469999,that|he|might|be|hiding|in|the|suburbs
+7,She explained,-,MetaphorsPronouns,7,Jack_MetaphorsPronouns,She explained,17.39,18.05,She|explained
+8,that he had,complementizer,MetaphorsPronouns,8,Jack_MetaphorsPronouns,that he had,17.999999,18.61,that|he|had
+9,to be put back into his cell.,infinitival phrase; >maximal segment,MetaphorsPronouns,9,Jack_MetaphorsPronouns,to be put back into his cell.,18.529999,20.05,to|be|put|back|into|his|cell
+10,"At the end of the interview,",positioning element,MetaphorsPronouns,10,Jack_MetaphorsPronouns,"At the end of the interview,",20.79,22.03,At|the|end|of|the|interview
+11,she said,-,MetaphorsPronouns,11,Jack_MetaphorsPronouns,she said,22.52,22.98,she|said
+12,that this bird still had,complementizer,MetaphorsPronouns,12,Jack_MetaphorsPronouns,that this bird still had,22.92,24.14,that|this|bird|still|had
+13,to serve ten years.,infinitival phrase; >maximal segment,MetaphorsPronouns,13,Jack_MetaphorsPronouns,to serve ten years.,24.09,25.34,to|serve|ten|years
+14,She asked,-,MetaphorsPronouns,14,Jack_MetaphorsPronouns,She asked,26.109999,26.6,She|asked
+15,that any sightings of him would be reported immediately.,complementizer; >maximal segment,MetaphorsPronouns,15,Jack_MetaphorsPronouns,that any sightings of him would be reported immediately.,26.56,29.5,that|any|sightings|of|him|would|be|reported|immediately
+16,Alice dreamt,-,MetaphorsPronouns,16,Jack_MetaphorsPronouns,Alice dreamt,36.2,36.88,Alice|dreamt
+17,she got married.,complementizer (that...); >maximal segment,MetaphorsPronouns,17,Jack_MetaphorsPronouns,she got married.,36.859999,37.68,she|got|married
+18,"In the dream,",positioning element,MetaphorsPronouns,18,Jack_MetaphorsPronouns,"In the dream,",38.47,39.15,In|the|dream
+19,her husband never spent much time with her and the kids.,>maximal segment,MetaphorsPronouns,19,Jack_MetaphorsPronouns,her husband never spent much time with her and the kids.,39.3,42.01,her|husband|never|spent|much|time|with|her|and|the|kids
+20,She dreamt,-,MetaphorsPronouns,20,Jack_MetaphorsPronouns,She dreamt,42.62,43.07,She|dreamt
+21,that he was very cold to them.,complementizer; >maximal segment,MetaphorsPronouns,21,Jack_MetaphorsPronouns,that he was very cold to them.,43.01,44.56,that|he|was|very|cold|to|them
+22,She was shocked,-,MetaphorsPronouns,22,Jack_MetaphorsPronouns,She was shocked,45.38,46.12,She|was|shocked
+23,that he remained uncaring,complementizer,MetaphorsPronouns,23,Jack_MetaphorsPronouns,that he remained uncaring,46.08,47.41,that|he|remained|uncaring
+24,even after they became grandparents.,positioning element; >maximal segment,MetaphorsPronouns,24,Jack_MetaphorsPronouns,even after they became grandparents.,47.38,49.28,even|after|they|became|grandparents
+25,She dreamt,-,MetaphorsPronouns,25,Jack_MetaphorsPronouns,She dreamt,50.26,50.84,She|dreamt
+26,that he didn't even change,complementizer,MetaphorsPronouns,26,Jack_MetaphorsPronouns,that he didn't even change,50.779999,52.16,that|he|didn't|even|change
+27,when their grandson was born.,"relative clause; >maximal segment; In fact, she remembered",MetaphorsPronouns,27,Jack_MetaphorsPronouns,when their grandson was born.,52.099999,53.3,when|their|grandson|was|born
+28,"In fact, she remembered",-,MetaphorsPronouns,28,Jack_MetaphorsRepeatedNames,"In fact, Alice remembered",54.34493,55.990348,In|fact|she|remembered
+29,saying in the dream,nonfinite clause,MetaphorsPronouns,29,Jack_MetaphorsPronouns,saying in the dream,55.990348,56.93,saying|in|the|dream
+30,that the icebox did not even know his grandchild's name.,complementizer; >maximal segment,MetaphorsPronouns,30,Jack_MetaphorsPronouns,that the icebox did not even know his grandchild's name.,57.17,60.2,that|the|icebox|did|not|even|know|his|grandchild's|name
+31,"At the end of the dream,",positioning element,MetaphorsPronouns,31,Jack_MetaphorsPronouns,"At the end of the dream,",61.08,62.17,At|the|end|of|the|dream
+32,she finally divorced him.,>maximal segment,MetaphorsPronouns,32,Jack_MetaphorsPronouns,she finally divorced him.,62.47,63.81,she|finally|divorced|him
+33,Sandra needed an operation.,>maximal segment,MetaphorsPronouns,33,Jack_MetaphorsPronouns,Sandra needed an operation.,70.32,71.82,Sandra|needed|an|operation
+34,She was not sure about the surgeon at the local hospital.,>maximal segment,MetaphorsPronouns,34,Jack_MetaphorsPronouns,She was not sure about the surgeon at the local hospital.,72.660001,75.37,She|was|not|sure|about|the|surgeon|at|the|local|hospital
+35,She heard,-,MetaphorsPronouns,35,Jack_MetaphorsPronouns,She heard,76.03,76.64,She|heard
+36,he had the reputation of,complementizer (that...),MetaphorsPronouns,36,Jack_MetaphorsPronouns,he had the reputation of,76.58,77.8,he|had|the|reputation|of
+37,treating his patients like meat.,nonfinite clause; >maximal segment,MetaphorsPronouns,37,Jack_MetaphorsPronouns,treating his patients like meat.,77.75,79.56,treating|his|patients|like|meat
+38,She then read reviews,-,MetaphorsPronouns,38,Jack_MetaphorsPronouns,She then read reviews,80.46,81.639999,She|then|read|reviews
+39,saying that he dealt with patients unkindly with no regard for their feelings.,nonfinite clause (minimal segment) / complementizer; >maximal segment,MetaphorsPronouns,39,Jack_MetaphorsPronouns,saying that he dealt with patients unkindly with no regard for their feelings.,81.689999,85.42,saying|that|he|dealt|with|patients|unkindly|with|no|regard|for|their|feelings
+40,She was dismayed,-,MetaphorsPronouns,40,Jack_MetaphorsPronouns,She was dismayed,86.42,87.37,She|was|dismayed
+41,to read,infinitival phrase,MetaphorsPronouns,41,Jack_MetaphorsPronouns,to read,87.309999,87.78,to|read
+42,that he made some patients afraid,complementizer,MetaphorsPronouns,42,Jack_MetaphorsPronouns,that he made some patients afraid,87.769999,89.46,that|he|made|some|patients|afraid
+43,he would cut them in the wrong places.,complementizer (that...); >maximal segment,MetaphorsPronouns,43,Jack_MetaphorsPronouns,he would cut them in the wrong places.,89.410001,91.33,he|would|cut|them|in|the|wrong|places
+44,"At the end,",positioning element,MetaphorsPronouns,44,Jack_MetaphorsPronouns,"At the end,",92.4,93.09,At|the|end
+45,she said,-,MetaphorsPronouns,45,Jack_MetaphorsPronouns,she said,93.42,93.87,she|said
+46,that this butcher will not lay a hand on her.,complementizer; >maximal segment,MetaphorsPronouns,46,Jack_MetaphorsPronouns,that this butcher will not lay a hand on her.,93.81,95.91,that|this|butcher|will|not|lay|a|hand|on|her
+47,She decided,-,MetaphorsPronouns,47,Jack_MetaphorsPronouns,She decided,96.98,97.59,She|decided
+48,to find another surgeon.,infinitival phrase; >maximal segment,MetaphorsPronouns,48,Jack_MetaphorsPronouns,to find another surgeon.,97.53,98.69,to|find|another|surgeon
+49,Mary took a trip to a local car dealership.,>maximal segment,MetaphorsPronouns,49,Jack_MetaphorsPronouns,Mary took a trip to a local car dealership.,106.54,108.86,Mary|took|a|trip|to|a|local|car|dealership
+50,She was immediately approached by a big and pushy salesperson.,>maximal segment,MetaphorsPronouns,50,Jack_MetaphorsPronouns,She was immediately approached by a big and pushy salesperson.,109.48,112.73,She|was|immediately|approached|by|a|big|and|pushy|salesperson
+51,She thought,-,MetaphorsPronouns,51,Jack_MetaphorsPronouns,She thought,113.45,113.95,She|thought
+52,that he was aggressive and unpleasant.,complementizer; >maximal segment,MetaphorsPronouns,52,Jack_MetaphorsPronouns,that he was aggressive and unpleasant.,113.9,115.78,that|he|was|aggressive|and|unpleasant
+53,She felt,-,MetaphorsPronouns,53,Jack_MetaphorsPronouns,She felt,116.45,116.92,She|felt
+54,that he harassed her with his repetitive sales pitch.,complementizer; >maximal segment,MetaphorsPronouns,54,Jack_MetaphorsPronouns,that he harassed her with his repetitive sales pitch.,116.859999,119.51,that|he|harassed|her|with|his|repetitive|sales|pitch
+55,She was dismayed,-,MetaphorsPronouns,55,Jack_MetaphorsPronouns,She was dismayed,120.229999,121.229999,She|was|dismayed
+56,that he completely disregarded her questions.,complementizer; >maximal segment,MetaphorsPronouns,56,Jack_MetaphorsPronouns,that he completely disregarded her questions.,121.21,123.35,that|he|completely|disregarded|her|questions
+57,"With anger, she told the manager",-,MetaphorsPronouns,57,Jack_MetaphorsPronouns,"With anger, she told the manager",123.91,125.64,With|anger|she|told|the|manager
+58,that this bulldozer was certainly not getting her business.,complementizer; >maximal segment,MetaphorsPronouns,58,Jack_MetaphorsPronouns,that this bulldozer was certainly not getting her business.,125.609999,128.29,that|this|bulldozer|was|certainly|not|getting|her|business
+59,She eventually bought a car from the dealership,-,MetaphorsPronouns,59,Jack_MetaphorsPronouns,She eventually bought a car from the dealership,129.06,131.13,She|eventually|bought|a|car|from|the|dealership
+60,on the other side of town.,positioning element; >maximal segment,MetaphorsPronouns,60,Jack_MetaphorsPronouns,on the other side of town.,131.09,132.33,on|the|other|side|of|town
+61,Peter had,-,MetaphorsPronouns,61,Jack_MetaphorsPronouns,Peter had,138.96,139.44,Peter|had
+62,to take over his former colleague's office.,infinitival phrase; >maximal segment,MetaphorsPronouns,62,Jack_MetaphorsPronouns,to take over his former colleague's office.,139.38,141.54,to|take|over|his|former|colleague's|office
+63,He examined the office and found it,-,MetaphorsPronouns,63,Jack_MetaphorsPronouns,He examined the office and found it,142.019999,143.72,He|examined|the|office|and|found|it
+64,to be extremely cluttered.,infinitival phrase; >maximal segment,MetaphorsPronouns,64,Jack_MetaphorsPronouns,to be extremely cluttered.,143.660001,145.04,to|be|extremely|cluttered
+65,He realized,-,MetaphorsPronouns,65,Jack_MetaphorsPronouns,He realized,145.51,146.14,He|realized
+66,that it looked bad,complementizer,MetaphorsPronouns,66,Jack_MetaphorsPronouns,that it looked bad,146.11,146.87,that|it|looked|bad
+67,because it was filled with trash.,conjunction; >maximal segment,MetaphorsPronouns,67,Jack_MetaphorsPronouns,because it was filled with trash.,146.81,148.21,because|it|was|filled|with|trash
+68,He wondered,-,MetaphorsPronouns,68,Jack_MetaphorsPronouns,He wondered,148.9,149.44,He|wondered
+69,if it was the most littered office in the building.,complementizer; >maximal segment,MetaphorsPronouns,69,Jack_MetaphorsPronouns,if it was the most littered office in the building.,149.4,151.74,if|it|was|the|most|littered|office|in|the|building
+70,He thought,-,MetaphorsPronouns,70,Jack_MetaphorsPronouns,He thought,152.37,152.97,He|thought
+71,that it resembled a junkyard and made the entire floor look bad.,complementizer; >maximal segment,MetaphorsPronouns,71,Jack_MetaphorsPronouns,that it resembled a junkyard and made the entire floor look bad.,152.91,155.93,that|it|resembled|a|junkyard|and|made|the|entire|floor|look|bad
+72,"With frustration, he told his boss",-,MetaphorsPronouns,72,Jack_MetaphorsPronouns,"With frustration, he told his boss",156.55,158.6,With|frustration|he|told|his|boss
+73,that the dump was impossible,complementizer,MetaphorsPronouns,73,Jack_MetaphorsPronouns,that the dump was impossible,158.569999,159.929999,that|the|dump|was|impossible
+74,to work in.,infinitival phrase; >maximal segment,MetaphorsPronouns,74,Jack_MetaphorsPronouns,to work in.,159.87,160.49,to|work|in
+75,He could not bring himself near it.,>maximal segment,MetaphorsPronouns,75,Jack_MetaphorsPronouns,He could not bring himself near it.,160.97,162.650001,He|could|not|bring|himself|near|it
+76,The new teacher was shocked at the behavior of some of the kids.,>maximal segment,MetaphorsPronouns,76,Jack_MetaphorsPronouns,The new teacher was shocked at the behavior of some of the kids.,169.12,172.1,The|new|teacher|was|shocked|at|the|behavior|of|some|of|the|kids
+77,He noticed,-,MetaphorsPronouns,77,Jack_MetaphorsPronouns,He noticed,172.71,173.26,He|noticed
+78,that the big yard at school was always busy with fights.,complementizer; >maximal segment,MetaphorsPronouns,78,Jack_MetaphorsPronouns,that the big yard at school was always busy with fights.,173.21,175.99,that|the|big|yard|at|school|was|always|busy|with|fights
+79,He was surprised,-,MetaphorsPronouns,79,Jack_MetaphorsPronouns,He was surprised,176.729999,177.52,He|was|surprised
+80,to see,infinitival phrase,MetaphorsPronouns,80,Jack_MetaphorsPronouns,to see,177.519999,177.89,to|see
+81,that the young children were so ferocious and mean.,complementizer; >maximal segment,MetaphorsPronouns,81,Jack_MetaphorsPronouns,that the young children were so ferocious and mean.,177.859999,180.36,that|the|young|children|were|so|ferocious|and|mean
+82,He saw,-,MetaphorsPronouns,82,Jack_MetaphorsPronouns,He saw,180.999999,181.39,He|saw
+83,"that they ran wild and untamed on the playground,",complementizer,MetaphorsPronouns,83,Jack_MetaphorsPronouns,"that they ran wild and untamed on the playground,",181.33,183.84,that|they|ran|wild|and|untamed|on|the|playground
+84,ignoring all adults' directions.,nonfinite clause; >maximal segment,MetaphorsPronouns,84,Jack_MetaphorsPronouns,ignoring all adults' directions.,183.95,185.61,ignoring|all|adults'|directions
+85,He thought,-,MetaphorsPronouns,85,Jack_MetaphorsPronouns,He thought,186.49,187.13,He|thought
+86,that they seemed,complementizer,MetaphorsPronouns,86,Jack_MetaphorsPronouns,that they seemed,187.46,188.14,that|they|seemed
+87,to have just been let out of a cage at the zoo.,infinitival phrase; >maximal segment,MetaphorsPronouns,87,Jack_MetaphorsPronouns,to have just been let out of a cage at the zoo.,188.09,190.38,to|have|just|been|let|out|of|a|cage|at|the|zoo
+88,"At dinner,",positioning element,MetaphorsPronouns,88,Jack_MetaphorsPronouns,"At dinner,",191.25,191.78,At|dinner
+89,he told his family,-,MetaphorsPronouns,89,Jack_MetaphorsPronouns,he told his family,192.13,193.08,he|told|his|family
+90,that the beasts clearly needed,complementizer,MetaphorsPronouns,90,Jack_MetaphorsPronouns,that the beasts clearly needed,193.019999,194.79,that|the|beasts|clearly|needed
+91,to be disciplined.,infinitival phrase; >maximal segment,MetaphorsPronouns,91,Jack_MetaphorsPronouns,to be disciplined.,194.729999,195.62,to|be|disciplined
+92,He however noted with dismay,-,MetaphorsPronouns,92,Jack_MetaphorsPronouns,He however noted with dismay,196.579999,198.609999,He|however|noted|with|dismay
+93,that nobody at the school seemed,complementizer phrase,MetaphorsPronouns,93,Jack_MetaphorsPronouns,that nobody at the school seemed,198.77,200.31,that|nobody|at|the|school|seemed
+94,to care.,infinitival phrase; >maximal segment,MetaphorsPronouns,94,Jack_MetaphorsPronouns,to care.,200.29,200.83,to|care
+95,The parents of the students in the third grade met,-,MetaphorsPronouns,95,Jack_MetaphorsPronouns,The parents of the students in the third grade met,207.37,209.79,The|parents|of|the|students|in|the|third|grade|met
+96,after school,positioning element,MetaphorsPronouns,96,Jack_MetaphorsPronouns,after school,209.76,210.33,after|school
+97,to discuss a problem.,infinitival phrase; >maximal segment,MetaphorsPronouns,97,Jack_MetaphorsPronouns,to discuss a problem.,210.27,211.26,to|discuss|a|problem
+98,They were frustrated with the new teacher.,>maximal segment,MetaphorsPronouns,98,Jack_MetaphorsPronouns,They were frustrated with the new teacher.,211.84,213.46,They|were|frustrated|with|the|new|teacher
+99,They thought,-,MetaphorsPronouns,99,Jack_MetaphorsPronouns,They thought,213.999999,214.409999,They|thought
+100,that she was far too pliable and yielding.,complementizer; >maximal segment,MetaphorsPronouns,100,Jack_MetaphorsPronouns,that she was far too pliable and yielding.,214.349999,216.45,that|she|was|far|too|pliable|and|yielding
+101,They did not appreciate,-,MetaphorsPronouns,101,Jack_MetaphorsPronouns,They did not appreciate,216.4,218.19,They|did|not|appreciate
+102,how she stretched and bent her rules,relative clause,MetaphorsPronouns,102,Jack_MetaphorsPronouns,how she stretched and bent her rules,218.13,219.98,how|she|stretched|and|bent|her|rules
+103,when the children challenged her authority.,relative clause; >maximal segment,MetaphorsPronouns,103,Jack_MetaphorsPronouns,when the children challenged her authority.,219.92,221.65,when|the|children|challenged|her|authority
+104,They were dismayed,-,MetaphorsPronouns,104,Jack_MetaphorsPronouns,They were dismayed,222.95,223.83,They|were|dismayed
+105,that she was being molded by the kids' constant demands.,complementizer; >maximal segment,MetaphorsPronouns,105,Jack_MetaphorsPronouns,that she was being molded by the kids' constant demands.,223.77,226.63,that|she|was|being|molded|by|the|kids'|constant|demands
+106,"At the end of the meeting,",positioning element,MetaphorsPronouns,106,Jack_MetaphorsPronouns,"At the end of the meeting,",227.66,228.909999,At|the|end|of|the|meeting
+107,they said,-,MetaphorsPronouns,107,Jack_MetaphorsPronouns,they said,229.38,229.89,they|said
+108,that the putty couldn't have stood up to a two-year-old.,complementizer; >maximal segment,MetaphorsPronouns,108,Jack_MetaphorsPronouns,that the putty couldn't have stood up to a two-year-old.,229.83,232.869999,that|the|putty|couldn't|have|stood|up|to|a|two|year|old
+109,They decided,-,MetaphorsPronouns,109,Jack_MetaphorsPronouns,They decided,233.669999,234.32,They|decided
+110,to complain to the Principal.,infinitival phrase; >maximal segment,MetaphorsPronouns,110,Jack_MetaphorsPronouns,to complain to the Principal.,234.259999,235.66,to|complain|to|the|Principal
+111,Jenna went with a friend,-,MetaphorsPronouns,111,Jack_MetaphorsPronouns,Jenna went with a friend,242.59,243.89,Jenna|went|with|a|friend
+112,to see the Saturday night fights.,infinitival phrase; >maximal segment,MetaphorsPronouns,112,Jack_MetaphorsPronouns,to see the Saturday night fights.,243.89,245.68,to|see|the|Saturday|night|fights
+113,She read,-,MetaphorsPronouns,113,Jack_MetaphorsPronouns,She read,246.63,247.29,She|read
+114,that one of the boxers scheduled for the first match had never won a fight.,complementizer; >maximal segment,MetaphorsPronouns,114,Jack_MetaphorsPronouns,that one of the boxers scheduled for the first match had never won a fight.,247.269999,251.249999,that|one|of|the|boxers|scheduled|for|the|first|match|had|never|won|a|fight
+115,She was surprised,-,MetaphorsPronouns,115,Jack_MetaphorsPronouns,She was surprised,253.23,254.0,She|was|surprised
+116,to read,infinitival phrase,MetaphorsPronouns,116,Jack_MetaphorsPronouns,to read,253.99,254.463563,to|read
+117,that he was described,complementizer,MetaphorsPronouns,117,Jack_MetaphorsPronouns,that he was described,254.45,255.54,that|he|was|described
+118,being weak and soft.,nonfinite clause; >maximal segment,MetaphorsPronouns,118,Jack_MetaphorsPronouns,being weak and soft.,255.5,257.39,being|weak|and|soft
+119,She was even more baffled,-,MetaphorsPronouns,119,Jack_MetaphorsPronouns,She was even more baffled,258.18,259.54,She|was|even|more|baffled
+120,seeing that he was fat and spongy through the middle.,nonfinite clause (minimal segment) / complementizer; >maximal segment,MetaphorsPronouns,120,Jack_MetaphorsPronouns,seeing that he was fat and spongy through the middle.,259.49,262.14,seeing|that|he|was|fat|and|spongy|through|the|middle
+121,She thought,-,MetaphorsPronouns,121,Jack_MetaphorsPronouns,She thought,263.04,263.56,She|thought
+122,he looked like a wimpy ball of dough.,complementizer (that...); >maximal segment,MetaphorsPronouns,122,Jack_MetaphorsPronouns,he looked like a wimpy ball of dough.,263.51,265.49,he|looked|like|a|wimpy|ball|of|dough
+123,"At the end of the fight,",positioning element,MetaphorsPronouns,123,Jack_MetaphorsPronouns,"At the end of the fight,",266.47,267.6,At|the|end|of|the|fight
+124,she told her friend,-,MetaphorsPronouns,124,Jack_MetaphorsPronouns,she told her friend,267.88,268.859999,she|told|her|friend
+125,that the creampuff never had a chance.,complementizer; >maximal segment,MetaphorsPronouns,125,Jack_MetaphorsPronouns,that the creampuff never had a chance.,268.839999,270.74,that|the|creampuff|never|had|a|chance
+126,She decided,-,MetaphorsPronouns,126,Jack_MetaphorsPronouns,She decided,271.95,272.59,She|decided
+127,to go for a drink,infinitival phrase,MetaphorsPronouns,127,Jack_MetaphorsPronouns,to go for a drink,272.53,273.51,to|go|for|a|drink
+128,until the second match started.,positioning element; >maximal segment,MetaphorsPronouns,128,Jack_MetaphorsPronouns,until the second match started.,273.55,275.08,until|the|second|match|started
+129,Kate went to her very first practice on the varsity basketball team.,>maximal segment,MetaphorsPronouns,129,Jack_MetaphorsPronouns,Kate went to her very first practice on the varsity basketball team.,281.83,285.42,Kate|went|to|her|very|first|practice|on|the|varsity|basketball|team
+130,She found the coach,-,MetaphorsPronouns,130,Jack_MetaphorsPronouns,She found the coach,286.410001,287.36,She|found|the|coach
+131,to be very intimidating and cruel.,infinitival phrase; >maximal segment,MetaphorsPronouns,131,Jack_MetaphorsPronouns,to be very intimidating and cruel.,287.3,289.62,to|be|very|intimidating|and|cruel
+132,She thought,-,MetaphorsPronouns,132,Jack_MetaphorsPronouns,She thought,290.59,291.08,She|thought
+133,that he was harsh and demanding.,complementizer; >maximal segment,MetaphorsPronouns,133,Jack_MetaphorsPronouns,that he was harsh and demanding.,291.05,292.97,that|he|was|harsh|and|demanding
+134,She soon discovered,-,MetaphorsPronouns,134,Jack_MetaphorsPronouns,She soon discovered,294.28,295.39,She|soon|discovered
+135,that he was a merciless ruler,complementizer,MetaphorsPronouns,135,Jack_MetaphorsPronouns,that he was a merciless ruler,295.34,296.99,that|he|was|a|merciless|ruler
+136,who suppressed all opposition to his methods.,relative clause; >maximal segment,MetaphorsPronouns,136,Jack_MetaphorsPronouns,who suppressed all opposition to his methods.,297.13,299.56,who|suppressed|all|opposition|to|his|methods
+137,She complained,-,MetaphorsPronouns,137,Jack_MetaphorsPronouns,She complained,300.62,301.25,She|complained
+138,that he tortured the team with inhumanely long practice sessions.,complementizer; >maximal segment,MetaphorsPronouns,138,Jack_MetaphorsPronouns,that he tortured the team with inhumanely long practice sessions.,301.21,304.76,that|he|tortured|the|team|with|inhumanely|long|practice|sessions
+139,"At the end of the season,",positioning element,MetaphorsPronouns,139,Jack_MetaphorsPronouns,"At the end of the season,",305.439999,306.5,At|the|end|of|the|season
+140,she told her mom,-,MetaphorsPronouns,140,Jack_MetaphorsPronouns,she told her mom,306.68,307.51,she|told|her|mom
+141,that the tyrant made the season really miserable.,complementizer; >maximal segment,MetaphorsPronouns,141,Jack_MetaphorsPronouns,that the tyrant made the season really miserable.,307.48,310.13,that|the|tyrant|made|the|season|really|miserable
+142,The whole team prayed,-,MetaphorsPronouns,142,Jack_MetaphorsPronouns,The whole team prayed,310.81,311.89,The|whole|team|prayed
+143,he would leave soon.,complementizer; >maximal segment,MetaphorsPronouns,143,Jack_MetaphorsPronouns,he would leave soon.,311.84,312.77,he|would|leave|soon
+144,Betsy found a house,-,MetaphorsPronouns,144,Jack_MetaphorsPronouns,Betsy found a house,319.019999,319.99,Betsy|found|a|house
+145,she wanted,relative clause (that...),MetaphorsPronouns,145,Jack_MetaphorsPronouns,she wanted,319.95,320.54,she|wanted
+146,to buy,infinitival phrase,MetaphorsPronouns,146,Jack_MetaphorsPronouns,to buy,320.479999,320.969999,to|buy
+147,but it was too expensive.,conjunction; >maximal segment,MetaphorsPronouns,147,Jack_MetaphorsPronouns,but it was too expensive.,321.3,322.43,but|it|was|too|expensive
+148,She was put off by the owner,-,MetaphorsPronouns,148,Jack_MetaphorsPronouns,She was put off by the owner,323.359999,324.77,She|was|put|off|by|the|owner
+149,who refused,relative clause,MetaphorsPronouns,149,Jack_MetaphorsPronouns,who refused,324.76,325.43,who|refused
+150,to negotiate on any detail.,infinitival phrase; >maximal segment,MetaphorsPronouns,150,Jack_MetaphorsPronouns,to negotiate on any detail.,325.429999,327.12,to|negotiate|on|any|detail
+151,She thought,-,MetaphorsPronouns,151,Jack_MetaphorsPronouns,She thought,328.04,328.61,She|thought
+152,that he was overly stubborn and stood his ground uncompromisingly.,complementizer; >maximal segment,MetaphorsPronouns,152,Jack_MetaphorsPronouns,that he was overly stubborn and stood his ground uncompromisingly.,328.64,332.54,that|he|was|overly|stubborn|and|stood|his|ground|uncompromisingly
+153,She was somewhat annoyed,-,MetaphorsPronouns,153,Jack_MetaphorsPronouns,She was somewhat annoyed,333.6,335.18,She|was|somewhat|annoyed
+154,that he would not budge about the amount needed for the down payment.,complementizer; >maximal segment,MetaphorsPronouns,154,Jack_MetaphorsPronouns,that he would not budge about the amount needed for the down payment.,335.17,338.349999,that|he|would|not|budge|about|the|amount|needed|for|the|down|payment
+155,She was most frustrated however,-,MetaphorsPronouns,155,Jack_MetaphorsPronouns,She was most frustrated however,339.3,341.099999,She|was|most|frustrated|however
+156,that he would not move even an inch on the price.,complementizer; >maximal segment,MetaphorsPronouns,156,Jack_MetaphorsPronouns,that he would not move even an inch on the price.,341.599999,344.1,that|he|would|not|move|even|an|inch|on|the|price
+157,"In despair, she said",-,MetaphorsPronouns,157,Jack_MetaphorsPronouns,"In despair, she said",344.95,346.51,In|despair|she|said
+158,that the mule would only sell on his own terms.,complementizer; >maximal segment,MetaphorsPronouns,158,Jack_MetaphorsPronouns,that the mule would only sell on his own terms.,346.45,349.25,that|the|mule|would|only|sell|on|his|own|terms
+159,She finally gave up and decided,-,MetaphorsPronouns,159,Jack_MetaphorsPronouns,She finally gave up and decided,350.1,352.079999,She|finally|gave|up|and|decided
+160,to look for another house.,infinitival phrase; >maximal segment,MetaphorsPronouns,160,Jack_MetaphorsPronouns,to look for another house.,352.02,353.329999,to|look|for|another|house
