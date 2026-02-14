@@ -1,0 +1,117 @@
+segment,reason,narrative,segID,sentID,Nwords,onset,offset,voice_narrative
+Much of our understanding about sharks comes from the discoveries of Eugenie Clark.,||,FireSelected,1,1,13,-0.02,4.48,WavenetF_FireSelected
+Eugenie is a scientist,-,FireSelected,2,2,4,5.1,6.6,WavenetF_FireSelected
+who studies the behavior of sharks.,relative clause||,FireSelected,3,2,6,6.618145,8.52,WavenetF_FireSelected
+"Wearing a diving helmet and oxygen tank,",nonfinite clause,FireSelected,4,3,7,8.819999,11.357777,WavenetF_FireSelected
+she has observed numerous kinds of sharks in their natural environment.,||,FireSelected,5,3,11,11.34,15.14,WavenetF_FireSelected
+"As the director of a marine laboratory,",nonrestrictive clause,FireSelected,6,4,7,15.8,17.97,WavenetF_FireSelected
+she has also designed a project,-,FireSelected,7,4,6,17.97,19.796633,WavenetF_FireSelected
+for studying these creatures in captivity.,nonfinite clause||,FireSelected,8,4,6,19.854434,22.02,WavenetF_FireSelected
+Civilian airplane pilots have many important jobs.,||,FireSelected,9,5,7,26.59,29.709999,WavenetF_FireSelected
+"They transport passengers, freight, and mail from one city to another.",||,FireSelected,10,6,11,30.01,34.36,WavenetF_FireSelected
+In emergencies they are called upon,-,FireSelected,11,7,6,34.98,36.876649,WavenetF_FireSelected
+to make dangerous rescues in land and sea accidents and drop food and supplies,infinitive phrase,FireSelected,12,7,14,36.876649,41.240578,WavenetF_FireSelected
+where people or herds are starving.,relative clause||,FireSelected,13,7,6,41.298378,43.02,WavenetF_FireSelected
+Pilots also carry out special tasks,-,FireSelected,14,8,6,43.69,46.109999,WavenetF_FireSelected
+such as spraying and dusting crops.,nonfinite clause||,FireSelected,15,8,6,46.06,48.06,WavenetF_FireSelected
+All over the world,positioning element,FireSelected,16,9,4,52.62,53.609861,WavenetF_FireSelected
+farmers face many difficult problems.,||,FireSelected,17,9,5,53.667662,55.98,WavenetF_FireSelected
+"Fruits, vegetables, and other plants are frequently attacked by insects and diseases",-,FireSelected,18,10,12,56.31,61.31,WavenetF_FireSelected
+that can wipe out an entire crop.,relative clause||,FireSelected,19,10,7,61.297313,63.059999,WavenetF_FireSelected
+Farmers attempt,-,FireSelected,20,11,2,63.8,64.707536,WavenetF_FireSelected
+to control these pests,infinitive phrase,FireSelected,21,11,4,64.689999,65.929999,WavenetF_FireSelected
+"by using chemicals,",nonfinite clause,FireSelected,22,11,3,65.950245,67.159999,WavenetF_FireSelected
+but these poisons can make our food unsafe,conjunction,FireSelected,23,11,8,67.149999,69.447168,WavenetF_FireSelected
+to eat.,infinitive prhase||,FireSelected,24,11,2,69.42,69.94,WavenetF_FireSelected
+They can also harm useful insects and birds.,||,FireSelected,25,12,8,70.62,73.409999,WavenetF_FireSelected
+In the thirteenth century,positioning element,FireSelected,26,13,4,77.94,79.34,WavenetF_FireSelected
+the people of Europe were ignorant about many remote areas of the world.,||,FireSelected,27,13,13,79.331035,83.059999,WavenetF_FireSelected
+"China, a vast and powerful country in Asia,",nonrestrictive clause,FireSelected,28,14,8,83.74,86.61,WavenetF_FireSelected
+was uncharted territory on the Europeans' map.,||,FireSelected,29,14,7,86.6,89.369999,WavenetF_FireSelected
+One of the first European travelers,-,FireSelected,30,15,6,89.999999,91.97,WavenetF_FireSelected
+to visit this distant region,infinitive phrase,FireSelected,31,15,5,91.96042,93.318729,WavenetF_FireSelected
+was Marco Polo.,||,FireSelected,32,15,3,93.33,94.51,WavenetF_FireSelected
+He learned several languages spoken in China and served its great rulers for many years.,||,FireSelected,33,16,15,95.15,100.13,WavenetF_FireSelected
+The life of a movie star is rarely as exciting as we imagine.,||,FireSelected,34,17,13,104.649999,108.169999,WavenetF_FireSelected
+Most stars spend countless hours,-,FireSelected,35,18,5,108.81,110.76,WavenetF_FireSelected
+"studying their lines,",nonfinite clause,FireSelected,36,18,3,110.71,111.83,WavenetF_FireSelected
+"taking acting lessons,",nonfinite clause,FireSelected,37,18,3,111.82,113.26,WavenetF_FireSelected
+"and practicing other skills necessary for a career in show business,",nonfinite clause,FireSelected,38,18,11,113.24,117.04,WavenetF_FireSelected
+such as singing and dancing.,nonrestrictive clause||,FireSelected,39,18,5,117.069999,118.65,WavenetF_FireSelected
+"And for certain roles, a star may be required",-,FireSelected,40,19,9,119.29,121.881061,WavenetF_FireSelected
+to learn,infinitive phrase,FireSelected,41,19,2,121.881061,122.247824,WavenetF_FireSelected
+to ride a horse or play the piano.,infinitive phrase||,FireSelected,42,19,8,122.247824,124.23,WavenetF_FireSelected
+"During filming, stars have an exhausting schedule.",||,FireSelected,43,20,7,124.88,127.93,WavenetF_FireSelected
+The applauding spectators fell silent.,||,FireSelected,44,21,5,132.47,134.85,WavenetF_FireSelected
+They had cheered the dauntless Warriors,-,FireSelected,45,22,6,135.149999,136.959999,WavenetF_FireSelected
+through eight hard-fought innings,positioning element,FireSelected,46,22,4,136.958023,138.258532,WavenetF_FireSelected
+against their fiercest rivals.,||,FireSelected,47,22,4,138.287432,139.919999,WavenetF_FireSelected
+Only one run was required,-,FireSelected,48,23,5,140.569999,142.102258,WavenetF_FireSelected
+"to defeat the Pythons,",infinitive phrase,FireSelected,49,23,4,142.102258,143.380001,WavenetF_FireSelected
+whose unbeaten record had given them a reputation as formidable opponents.,relative clause||,FireSelected,50,23,11,143.39,147.34,WavenetF_FireSelected
+Another winning game would clench their title as champions and earn them the precious trophy.,||,FireSelected,51,24,15,147.99,152.44,WavenetF_FireSelected
+"As Teresa awaited liftoff,",positioning element,FireSelected,52,25,4,156.96,158.77,WavenetF_FireSelected
+she reflected on the stiff training program,-,FireSelected,53,25,7,158.8,161.089686,WavenetF_FireSelected
+that had prepared her for her first space flight.,relative clause||,FireSelected,54,25,9,161.089999,163.51,WavenetF_FireSelected
+"Unlike most career astronauts,",nonrestrictive clause,FireSelected,55,26,4,164.17,166.23,WavenetF_FireSelected
+Teresa had been selected for the flight,-,FireSelected,56,26,7,166.25,168.25,WavenetF_FireSelected
+because of her physics background,conjunction,FireSelected,57,26,5,168.256934,169.817545,WavenetF_FireSelected
+rather than her aviation experience.,conjunction||,FireSelected,58,26,5,169.82,171.92,WavenetF_FireSelected
+She had nevertheless been required,-,FireSelected,59,27,5,172.58,174.412676,WavenetF_FireSelected
+"to learn spacecraft design, celestial navigation, and communications procedures.",infinitive phrase||,FireSelected,60,27,9,174.399999,179.309999,WavenetF_FireSelected
+The gale's fury began,-,FireSelected,61,28,4,183.889999,185.192448,WavenetF_FireSelected
+to intensify,infinitive phrase,FireSelected,62,28,2,185.221349,186.088354,WavenetF_FireSelected
+as Winnie lugged the splintered rowboat,conjunction,FireSelected,63,28,6,186.088354,187.822366,WavenetF_FireSelected
+onto the barren reef.,positioning element||,FireSelected,64,28,4,187.83,188.999999,WavenetF_FireSelected
+Her younger brother had managed,-,FireSelected,65,29,5,189.68,191.261489,WavenetF_FireSelected
+"to stumble to shore through the churning surf,",infinitive phrase,FireSelected,66,29,8,191.25,193.24,WavenetF_FireSelected
+despite the gash on his leg and possibly a fractured wrist.,nonrestrictive clause||,FireSelected,67,29,11,193.229999,196.559999,WavenetF_FireSelected
+His dim outline was huddled against a heap of debris above the waterline-,-,FireSelected,68,30,13,197.2,201.0,WavenetF_FireSelected
+the dismal remnant of another vessel,nonrestrictive clause,FireSelected,69,30,6,200.94,202.734867,WavenetF_FireSelected
+that met defeat near these shoals.,relative clause||,FireSelected,70,30,6,202.734867,204.5,WavenetF_FireSelected
+Mark was delighted,-,FireSelected,71,31,3,209.04,210.104416,WavenetF_FireSelected
+"to obtain his deputy sheriff's badge,",infinitive phrase,FireSelected,72,31,6,210.104416,212.21,WavenetF_FireSelected
+but now he nervously pondered the difficult undertaking ahead.,conjunction||,FireSelected,73,31,9,212.189999,215.360001,WavenetF_FireSelected
+"As his first assignment, he had been appointed",-,FireSelected,74,32,8,216.029999,218.427672,WavenetF_FireSelected
+"to escort a prisoner to the authorities in Preston,",-,FireSelected,75,32,9,218.456573,221.04,WavenetF_FireSelected
+the county seat and the site of the impending trial.,nonrestrictive clause||,FireSelected,76,32,10,221.03,223.65,WavenetF_FireSelected
+The cunning prisoner had previously eluded the law and led state troopers in hot pursuit before finally surrendering.,||,FireSelected,77,33,18,224.3,230.549999,WavenetF_FireSelected
+"The biologist scanned the mouth of the cavern,",-,FireSelected,78,34,8,235.099999,237.52,WavenetF_FireSelected
+which harbored colonies of a rare fruit-eating bat.,relative clause||,FireSelected,79,34,8,237.51,240.26,WavenetF_FireSelected
+On this particular outing he hoped,-,FireSelected,80,35,6,240.9,242.732736,WavenetF_FireSelected
+to snare a few specimens for his study of the bat's role in seed dispersal.,infinitive phrase||,FireSelected,81,35,15,242.64,246.63,WavenetF_FireSelected
+At the entrance of the main chamber,positioning element,FireSelected,82,36,7,247.269999,248.888478,WavenetF_FireSelected
+was a stagnant pool,-,FireSelected,83,36,4,248.917378,250.073386,WavenetF_FireSelected
+in which untold numbers of bats had deposited morsels of fruit,relative clause,FireSelected,84,36,11,250.102286,253.512509,WavenetF_FireSelected
+as they made the daily pilgrimage back to their roost.,conjunction||,FireSelected,85,36,10,253.570309,256.24,WavenetF_FireSelected
+For days,positioning element,FireSelected,86,37,2,260.76,261.301111,WavenetF_FireSelected
+the zoologist had scoured the protected area for a coyote den.,||,FireSelected,87,37,11,261.286661,264.9,WavenetF_FireSelected
+"Unless she could stake one out for field study,",nonrestrictive clause,FireSelected,88,38,9,265.54,268.089999,WavenetF_FireSelected
+it would be impossible,-,FireSelected,89,38,4,268.079999,269.169999,WavenetF_FireSelected
+to document her theory,infinitive phrase,FireSelected,90,38,4,269.147514,270.448023,WavenetF_FireSelected
+"that a coyote is a social creature staunchly devoted to its family and clan,",relative clause,FireSelected,91,38,14,270.448023,274.63,WavenetF_FireSelected
+not the loner of popular imagination.,conjunction||,FireSelected,92,38,6,274.61,276.87,WavenetF_FireSelected
+The wildlife sanctuary had seemed the ideal setting for tracking coyotes.,||,FireSelected,93,39,11,277.49,281.69,WavenetF_FireSelected
+The entomologist had contemplated the hazards,-,FireSelected,94,40,6,286.2,288.712946,WavenetF_FireSelected
+of working with this lethal strain of honeybee.,nonfinite clause||,FireSelected,95,40,8,288.741846,290.95,WavenetF_FireSelected
+"These bees were high-strung and aggressive,",-,FireSelected,96,41,6,291.6,293.85,WavenetF_FireSelected
+quick to incite the entire colony,nonrestrictive clause,FireSelected,97,41,6,293.85,295.87,WavenetF_FireSelected
+when antagonized.,relative clause||,FireSelected,98,41,2,295.851294,296.97,WavenetF_FireSelected
+Their excitability often provoked them to mass attacks,-,FireSelected,99,42,8,297.609999,300.590926,WavenetF_FireSelected
+that resulted in fatalities.,relative clause||,FireSelected,100,42,4,300.619826,302.33,WavenetF_FireSelected
+"Yet they produced extravagant quantities of honey,",-,FireSelected,101,43,7,302.97,305.76,WavenetF_FireSelected
+sometimes double that of their more docile European cousins.,nonrestrictive clause||,FireSelected,102,43,9,305.779999,309.0,WavenetF_FireSelected
+The folk dances,-,FireSelected,103,44,3,313.54,314.46302,WavenetF_FireSelected
+of seventeenth- and eighteenth-century America,positioning element,FireSelected,104,44,5,314.52082,316.948436,WavenetF_FireSelected
+represented the retention of Old World dances,-,FireSelected,105,44,7,316.939999,319.433853,WavenetF_FireSelected
+that had been imported by the colonists.,relative clause||,FireSelected,106,44,7,319.462753,321.549999,WavenetF_FireSelected
+"Although most of these dances have passed into oblivion,",nonrestrictive clause,FireSelected,107,45,9,322.2,325.149999,WavenetF_FireSelected
+recognizable traces of this tradition persist in secluded regions,-,FireSelected,108,45,9,325.12,328.855317,WavenetF_FireSelected
+"that have retained their ancestral character,",relative clause,FireSelected,109,45,6,328.913117,331.0,WavenetF_FireSelected
+such as Appalachia.,nonrestrictive clause||,FireSelected,110,45,3,331.0,332.207739,WavenetF_FireSelected
+The function of children's games has recently attained importance,-,FireSelected,111,46,9,336.75,340.039692,WavenetF_FireSelected
+as a subject of investigation in the social sciences.,conjunction||,FireSelected,112,46,9,340.097493,343.16,WavenetF_FireSelected
+"Games, particularly those that accentuate rhyme, rhythm, or dramatic action,",nonrestrictive clause,FireSelected,113,47,10,343.83,348.68,WavenetF_FireSelected
+cater to an innate need,-,FireSelected,114,47,5,348.69,349.952459,WavenetF_FireSelected
+to engage in imaginative and expressive behavior.,infinitive phrase||,FireSelected,115,47,7,349.94,352.74,WavenetF_FireSelected
+"Games likewise provide a socially acceptable outlet for excess energy, tension, and aggression.",||,FireSelected,116,48,13,353.399999,359.171621,WavenetF_FireSelected

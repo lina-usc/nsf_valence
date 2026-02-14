@@ -1,0 +1,162 @@
+segment,reason,narrative,segID,sentID,Nwords
+The Chief of Police was on TV.,||,MetaphorsPronouns,1,1,7
+She reported,-,MetaphorsPronouns,2,2,2
+that a convict had just escaped from jail.,complementizer||,MetaphorsPronouns,3,2,8
+She said,-,MetaphorsPronouns,4,3,2
+that he just flew the coop and disappeared.,complementizer||,MetaphorsPronouns,5,3,8
+She warned the viewers,-,MetaphorsPronouns,6,4,4
+that he might be hiding in the suburbs.,complementizer||,MetaphorsPronouns,7,4,8
+She explained,-,MetaphorsPronouns,8,5,2
+that he had,complementizer,MetaphorsPronouns,9,5,3
+to be put back into his cell.,infinitive phrase||,MetaphorsPronouns,10,5,7
+"At the end of the interview,",positioning element,MetaphorsPronouns,11,6,6
+she said,-,MetaphorsPronouns,12,6,2
+that this bird still had,complementizer,MetaphorsPronouns,13,6,5
+to serve ten years.,infinitive phrase||,MetaphorsPronouns,14,6,4
+She asked,-,MetaphorsPronouns,15,7,2
+that any sightings of him would be reported immediately.,complementizer||,MetaphorsPronouns,16,7,9
+Alice dreamt,-,MetaphorsPronouns,17,8,2
+she got married.,complementizer (that...)||,MetaphorsPronouns,18,8,3
+"In the dream,",positioning element,MetaphorsPronouns,19,9,3
+her husband never spent much time with her and the kids.,||,MetaphorsPronouns,20,9,11
+She dreamt,-,MetaphorsPronouns,21,10,2
+that he was very cold to them.,complementizer||,MetaphorsPronouns,22,10,7
+She was shocked,-,MetaphorsPronouns,23,11,3
+that he remained uncaring,complementizer,MetaphorsPronouns,24,11,4
+even after they became grandparents.,positioning element||,MetaphorsPronouns,25,11,5
+She dreamt,-,MetaphorsPronouns,26,12,2
+that he didn't even change,complementizer,MetaphorsPronouns,27,12,5
+when their grandson was born.,relative clause||,MetaphorsPronouns,28,12,5
+"In fact, she remembered",-,MetaphorsPronouns,29,13,4
+saying in the dream,nonfinite clause,MetaphorsPronouns,30,13,4
+that the icebox did not even know his grandchild's name.,complementizer||,MetaphorsPronouns,31,13,10
+"At the end of the dream,",positioning element,MetaphorsPronouns,32,14,6
+she finally divorced him.,||,MetaphorsPronouns,33,14,4
+Sandra needed an operation.,||,MetaphorsPronouns,34,15,4
+She was not sure about the surgeon at the local hospital.,||,MetaphorsPronouns,35,16,11
+She heard,-,MetaphorsPronouns,36,17,2
+he had the reputation of,complementizer (that...),MetaphorsPronouns,37,17,5
+treating his patients like meat.,nonfinite clause||,MetaphorsPronouns,38,17,5
+She then read reviews,-,MetaphorsPronouns,39,18,4
+saying that he dealt with patients unkindly with no regard for their feelings.,nonfinite clause (minimal segment) / complementizer||,MetaphorsPronouns,40,18,13
+She was dismayed,-,MetaphorsPronouns,41,19,3
+to read,infinitive phrase,MetaphorsPronouns,42,19,2
+that he made some patients afraid,complementizer,MetaphorsPronouns,43,19,6
+he would cut them in the wrong places.,complementizer (that...)||,MetaphorsPronouns,44,19,8
+"At the end,",positioning element,MetaphorsPronouns,45,20,3
+she said,-,MetaphorsPronouns,46,20,2
+that this butcher will not lay a hand on her.,complementizer||,MetaphorsPronouns,47,20,10
+She decided,-,MetaphorsPronouns,48,21,2
+to find another surgeon.,infinitive phrase||,MetaphorsPronouns,49,21,4
+Mary took a trip to a local car dealership.,||,MetaphorsPronouns,50,22,9
+She was immediately approached by a big and pushy salesperson.,||,MetaphorsPronouns,51,23,10
+She thought,-,MetaphorsPronouns,52,24,2
+that he was aggressive and unpleasant.,complementizer||,MetaphorsPronouns,53,24,6
+She felt,-,MetaphorsPronouns,54,25,2
+that he harassed her with his repetitive sales pitch.,complementizer||,MetaphorsPronouns,55,25,9
+She was dismayed,-,MetaphorsPronouns,56,26,3
+that he completely disregarded her questions.,complementizer||,MetaphorsPronouns,57,26,6
+"With anger, she told the manager",-,MetaphorsPronouns,58,27,6
+that this bulldozer was certainly not getting her business.,complementizer||,MetaphorsPronouns,59,27,9
+She eventually bought a car from the dealership,-,MetaphorsPronouns,60,28,8
+on the other side of town.,positioning element||,MetaphorsPronouns,61,28,6
+Peter had,-,MetaphorsPronouns,62,29,2
+to take over his former colleague's office.,infinitive phrase||,MetaphorsPronouns,63,29,7
+He examined the office and found it,-,MetaphorsPronouns,64,30,7
+to be extremely cluttered.,infinitive phrase||,MetaphorsPronouns,65,30,4
+He realized,-,MetaphorsPronouns,66,31,2
+that it looked bad,complementizer,MetaphorsPronouns,67,31,4
+because it was filled with trash.,conjunction||,MetaphorsPronouns,68,31,6
+He wondered,-,MetaphorsPronouns,69,32,2
+if it was the most littered office in the building.,complementizer||,MetaphorsPronouns,70,32,10
+He thought,-,MetaphorsPronouns,71,33,2
+that it resembled a junkyard and made the entire floor look bad.,complementizer||,MetaphorsPronouns,72,33,12
+"With frustration, he told his boss",-,MetaphorsPronouns,73,34,6
+that the dump was impossible,complementizer,MetaphorsPronouns,74,34,5
+to work in.,infinitive phrase||,MetaphorsPronouns,75,34,3
+He could not bring himself near it.,||,MetaphorsPronouns,76,35,7
+The new teacher was shocked at the behavior of some of the kids.,||,MetaphorsPronouns,77,36,13
+He noticed,-,MetaphorsPronouns,78,37,2
+that the big yard at school was always busy with fights.,complementizer||,MetaphorsPronouns,79,37,11
+He was surprised,-,MetaphorsPronouns,80,38,3
+to see,infinitive phrase,MetaphorsPronouns,81,38,2
+that the young children were so ferocious and mean.,complementizer||,MetaphorsPronouns,82,38,9
+He saw,-,MetaphorsPronouns,83,39,2
+"that they ran wild and untamed on the playground,",complementizer,MetaphorsPronouns,84,39,9
+ignoring all adults' directions.,nonfinite clause||,MetaphorsPronouns,85,39,4
+He thought,-,MetaphorsPronouns,86,40,2
+that they seemed,complementizer,MetaphorsPronouns,87,40,3
+to have just been let out of a cage at the zoo.,infinitive phrase||,MetaphorsPronouns,88,40,12
+"At dinner,",positioning element,MetaphorsPronouns,89,41,2
+he told his family,-,MetaphorsPronouns,90,41,4
+that the beasts clearly needed,complementizer,MetaphorsPronouns,91,41,5
+to be disciplined.,infinitive phrase||,MetaphorsPronouns,92,41,3
+He however noted with dismay,-,MetaphorsPronouns,93,42,5
+that nobody at the school seemed,complementizer phrase,MetaphorsPronouns,94,42,6
+to care.,infinitive phrase||,MetaphorsPronouns,95,42,2
+The parents of the students in the third grade met,-,MetaphorsPronouns,96,43,10
+after school,positioning element,MetaphorsPronouns,97,43,2
+to discuss a problem.,infinitive phrase||,MetaphorsPronouns,98,43,4
+They were frustrated with the new teacher.,||,MetaphorsPronouns,99,44,7
+They thought,-,MetaphorsPronouns,100,45,2
+that she was far too pliable and yielding.,complementizer||,MetaphorsPronouns,101,45,8
+They did not appreciate,-,MetaphorsPronouns,102,46,4
+how she stretched and bent her rules,relative clause,MetaphorsPronouns,103,46,7
+when the children challenged her authority.,relative clause||,MetaphorsPronouns,104,46,6
+They were dismayed,-,MetaphorsPronouns,105,47,3
+that she was being molded by the kids' constant demands.,complementizer||,MetaphorsPronouns,106,47,10
+"At the end of the meeting,",positioning element,MetaphorsPronouns,107,48,6
+they said,-,MetaphorsPronouns,108,48,2
+that the putty couldn't have stood up to a two-year-old.,complementizer||,MetaphorsPronouns,109,48,10
+They decided,-,MetaphorsPronouns,110,49,2
+to complain to the Principal.,infinitive phrase||,MetaphorsPronouns,111,49,5
+Jenna went with a friend,-,MetaphorsPronouns,112,50,5
+to see the Saturday night fights.,infinitive phrase||,MetaphorsPronouns,113,50,6
+She read,-,MetaphorsPronouns,114,51,2
+that one of the boxers scheduled for the first match had never won a fight.,complementizer||,MetaphorsPronouns,115,51,15
+She was surprised,-,MetaphorsPronouns,116,52,3
+to read,infinitive phrase,MetaphorsPronouns,117,52,2
+that he was described,complementizer,MetaphorsPronouns,118,52,4
+being weak and soft.,nonfinite clause||,MetaphorsPronouns,119,52,4
+She was even more baffled,-,MetaphorsPronouns,120,53,5
+seeing that he was fat and spongy through the middle.,nonfinite clause (minimal segment) / complementizer||,MetaphorsPronouns,121,53,10
+She thought,-,MetaphorsPronouns,122,54,2
+he looked like a wimpy ball of dough.,complementizer (that...)||,MetaphorsPronouns,123,54,8
+"At the end of the fight,",positioning element,MetaphorsPronouns,124,55,6
+she told her friend,-,MetaphorsPronouns,125,55,4
+that the creampuff never had a chance.,complementizer||,MetaphorsPronouns,126,55,7
+She decided,-,MetaphorsPronouns,127,56,2
+to go for a drink,infinitive phrase,MetaphorsPronouns,128,56,5
+until the second match started.,positioning element||,MetaphorsPronouns,129,56,5
+Kate went to her very first practice on the varsity basketball team.,||,MetaphorsPronouns,130,57,12
+She found the coach,-,MetaphorsPronouns,131,58,4
+to be very intimidating and cruel.,infinitive phrase||,MetaphorsPronouns,132,58,6
+She thought,-,MetaphorsPronouns,133,59,2
+that he was harsh and demanding.,complementizer||,MetaphorsPronouns,134,59,6
+She soon discovered,-,MetaphorsPronouns,135,60,3
+that he was a merciless ruler,complementizer,MetaphorsPronouns,136,60,6
+who suppressed all opposition to his methods.,relative clause||,MetaphorsPronouns,137,60,7
+She complained,-,MetaphorsPronouns,138,61,2
+that he tortured the team with inhumanely long practice sessions.,complementizer||,MetaphorsPronouns,139,61,10
+"At the end of the season,",positioning element,MetaphorsPronouns,140,62,6
+she told her mom,-,MetaphorsPronouns,141,62,4
+that the tyrant made the season really miserable.,complementizer||,MetaphorsPronouns,142,62,8
+The whole team prayed,-,MetaphorsPronouns,143,63,4
+he would leave soon.,complementizer||,MetaphorsPronouns,144,63,4
+Betsy found a house,-,MetaphorsPronouns,145,64,4
+she wanted,relative clause (that...),MetaphorsPronouns,146,64,2
+to buy,infinitive phrase,MetaphorsPronouns,147,64,2
+but it was too expensive.,conjunction||,MetaphorsPronouns,148,64,5
+She was put off by the owner,-,MetaphorsPronouns,149,65,7
+who refused,relative clause,MetaphorsPronouns,150,65,2
+to negotiate on any detail.,infinitive phrase||,MetaphorsPronouns,151,65,5
+She thought,-,MetaphorsPronouns,152,66,2
+that he was overly stubborn and stood his ground uncompromisingly.,complementizer||,MetaphorsPronouns,153,66,10
+She was somewhat annoyed,-,MetaphorsPronouns,154,67,4
+that he would not budge about the amount needed for the down payment.,complementizer||,MetaphorsPronouns,155,67,13
+She was most frustrated however,-,MetaphorsPronouns,156,68,5
+that he would not move even an inch on the price.,complementizer||,MetaphorsPronouns,157,68,11
+"In despair, she said",-,MetaphorsPronouns,158,69,4
+that the mule would only sell on his own terms.,complementizer||,MetaphorsPronouns,159,69,10
+She finally gave up and decided,-,MetaphorsPronouns,160,70,6
+to look for another house.,infinitive phrase||,MetaphorsPronouns,161,70,5

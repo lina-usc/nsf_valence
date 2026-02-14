@@ -1,0 +1,128 @@
+segment,reason,narrative,segID,sentID,Nwords,onset,offset,voice_narrative
+"""It's not true",-,ProfessionalDecline,1,1,3,9.109999,10.042595,Jewell_ProfessionalDecline
+"that no one needs you anymore.""",relative clause||,ProfessionalDecline,2,1,6,10.05,11.709999,Jewell_ProfessionalDecline
+These words came from an elderly woman,-,ProfessionalDecline,3,2,7,12.58,14.470599,Jewell_ProfessionalDecline
+sitting behind me on a late-night flight,nonfinite clause,ProfessionalDecline,4,2,7,14.5,16.389999,Jewell_ProfessionalDecline
+"from Los Angeles to Washington, D.C.",positioning element||,ProfessionalDecline,5,2,6,16.329999,18.35,Jewell_ProfessionalDecline
+The plane was dark and quiet.,||,ProfessionalDecline,6,3,6,18.88,20.34,Jewell_ProfessionalDecline
+"A man I assumed to be her husband murmured almost inaudibly in response,",-,ProfessionalDecline,7,4,13,20.98,24.96,Jewell_ProfessionalDecline
+"something to the effect of ""I wish I was dead.""",nonrestrictive clause||,ProfessionalDecline,8,4,10,24.94,27.99,Jewell_ProfessionalDecline
+"Again, the woman: ""Oh, stop saying that.""",||,ProfessionalDecline,9,5,7,28.689999,31.53,Jewell_ProfessionalDecline
+I didn't mean,-,ProfessionalDecline,10,6,3,32.066846,32.703553,Jewell_ProfessionalDecline
+to eavesdrop but couldn't help it.,infinitive phrase||,ProfessionalDecline,11,6,6,32.761435,34.329999,Jewell_ProfessionalDecline
+"I listened with morbid fascination,",-,ProfessionalDecline,12,7,5,34.839999,36.66,Jewell_ProfessionalDecline
+forming an image of the man in my head,nonfinite clause,ProfessionalDecline,13,7,9,37.21,39.041675,Jewell_ProfessionalDecline
+as they talked.,conjunction||,ProfessionalDecline,14,7,3,39.03,39.967793,Jewell_ProfessionalDecline
+I imagined someone,-,ProfessionalDecline,15,8,3,40.44,41.848971,Jewell_ProfessionalDecline
+"who had worked hard all his life in relative obscurity,",relative clause,ProfessionalDecline,16,8,10,41.86,45.42,Jewell_ProfessionalDecline
+someone with unfulfilled dreams-,nonrestrictive clause,ProfessionalDecline,17,8,4,46.1,47.82,Jewell_ProfessionalDecline
+"perhaps of the degree he never attained, the career he never pursued, the company he never started.",nonrestrictive clause||,ProfessionalDecline,18,8,17,47.76,54.47,Jewell_ProfessionalDecline
+"At the end of the flight,",positioning element,ProfessionalDecline,19,9,6,55.12,56.16,Jewell_ProfessionalDecline
+"as the lights switched on,",nonrestrictive clause,ProfessionalDecline,20,9,5,56.15,57.36,Jewell_ProfessionalDecline
+I finally got a look at the desolate man.,||,ProfessionalDecline,21,9,9,57.97,60.11,Jewell_ProfessionalDecline
+I was shocked.,||,ProfessionalDecline,22,10,3,61.181691,62.18,Jewell_ProfessionalDecline
+I recognized him-,||,ProfessionalDecline,23,11,3,62.819999,64.046869,Jewell_ProfessionalDecline
+"he was, and still is, world-famous.",||,ProfessionalDecline,24,12,6,64.51,67.409999,Jewell_ProfessionalDecline
+"Then in his mid-80s,",nonrestrictive clause,ProfessionalDecline,25,13,4,67.780284,68.966873,Jewell_ProfessionalDecline
+"he was beloved as a hero for his courage, patriotism, and accomplishments many decades ago.",||,ProfessionalDecline,26,13,15,69.024755,74.67,Jewell_ProfessionalDecline
+"As he walked up the aisle of the plane behind me,",conjunction,ProfessionalDecline,27,14,11,75.3,77.5,Jewell_ProfessionalDecline
+other passengers greeted him with veneration.,||,ProfessionalDecline,28,14,6,77.47,79.78,Jewell_ProfessionalDecline
+"Standing at the door of the cockpit,",nonfinite clause,ProfessionalDecline,29,15,7,80.45,82.24,Jewell_ProfessionalDecline
+the pilot stopped him,-,ProfessionalDecline,30,15,4,82.2,83.292766,Jewell_ProfessionalDecline
+"and said, ""Sir, I have admired you since I was a little boy.""",quotation||,ProfessionalDecline,31,15,13,83.26,86.869999,Jewell_ProfessionalDecline
+The older man-,-,ProfessionalDecline,32,16,3,87.399999,88.357475,Jewell_ProfessionalDecline
+apparently wishing for death just a few minutes earlier-,nonrestrictive clause,ProfessionalDecline,33,16,9,88.859999,91.830419,Jewell_ProfessionalDecline
+beamed with pride at the recognition of his past glories.,||,ProfessionalDecline,34,16,10,92.41,95.48,Jewell_ProfessionalDecline
+"For selfish reasons,",nonrestrictive clause,ProfessionalDecline,35,17,3,96.28,97.39,Jewell_ProfessionalDecline
+I couldn't get the cognitive dissonance of that scene out of my mind.,||,ProfessionalDecline,36,17,13,97.41607,100.52,Jewell_ProfessionalDecline
+"It was the summer of 2015,",positioning element,ProfessionalDecline,37,18,6,101.14,102.828074,Jewell_ProfessionalDecline
+shortly after my 51st birthday.,||,ProfessionalDecline,38,18,5,102.819999,104.689999,Jewell_ProfessionalDecline
+"I was not world-famous like the man on the plane,",-,ProfessionalDecline,39,19,10,105.319999,107.719136,Jewell_ProfessionalDecline
+but my professional life was going very well.,conjunction||,ProfessionalDecline,40,19,8,107.939999,110.28,Jewell_ProfessionalDecline
+"I was the president of a flourishing Washington think tank,",-,ProfessionalDecline,41,20,10,110.91,113.69,Jewell_ProfessionalDecline
+the American Enterprise Institute.,nonrestrictive clause||,ProfessionalDecline,42,20,4,113.65,115.78,Jewell_ProfessionalDecline
+I had written some best-selling books.,||,ProfessionalDecline,43,21,6,116.33,118.24,Jewell_ProfessionalDecline
+People came to my speeches.,||,ProfessionalDecline,44,22,5,118.79,120.319999,Jewell_ProfessionalDecline
+My columns were published in The New York Times.,||,ProfessionalDecline,45,23,9,120.97,123.199999,Jewell_ProfessionalDecline
+But I had started to wonder:,||,ProfessionalDecline,46,24,6,123.769999,124.979999,Jewell_ProfessionalDecline
+Can I really keep this going?,||,ProfessionalDecline,47,25,6,125.609999,127.06,Jewell_ProfessionalDecline
+I work like a maniac.,||,ProfessionalDecline,48,26,5,127.63,128.87,Jewell_ProfessionalDecline
+"But even if I stayed at it 12 hours a day, seven days a week,",conjunction,ProfessionalDecline,49,27,15,129.47,133.26,Jewell_ProfessionalDecline
+at some point my career would slow and stop.,||,ProfessionalDecline,50,27,9,133.89,136.54,Jewell_ProfessionalDecline
+"And when it did,",conjunction,ProfessionalDecline,51,28,4,137.21,138.107393,Jewell_ProfessionalDecline
+what then?,||,ProfessionalDecline,52,28,2,138.657276,139.149276,Jewell_ProfessionalDecline
+Would I one day be looking back wistfully and wishing I were dead?,||,ProfessionalDecline,53,29,13,139.91,143.719999,Jewell_ProfessionalDecline
+"Was there anything I could do, starting now,",-,ProfessionalDecline,54,30,8,144.439999,146.62,Jewell_ProfessionalDecline
+to give myself a shot at avoiding misery-,infinitive phrase,ProfessionalDecline,55,30,8,146.587164,148.931401,Jewell_ProfessionalDecline
+and maybe even achieve happiness-,nonrestrictive clause,ProfessionalDecline,56,30,5,149.94,152.143874,Jewell_ProfessionalDecline
+when the music inevitably stops?,relative clause||,ProfessionalDecline,57,30,5,152.67,154.57,Jewell_ProfessionalDecline
+"Though these questions were personal,",nonrestrictive clause,ProfessionalDecline,58,31,5,155.83,157.519999,Jewell_ProfessionalDecline
+I decided,-,ProfessionalDecline,59,31,2,158.018937,158.597761,Jewell_ProfessionalDecline
+"to approach them as the social scientist I am,",infinitive phrase,ProfessionalDecline,60,31,9,158.62,161.0,Jewell_ProfessionalDecline
+treating them as a research project.,nonfinite clause||,ProfessionalDecline,61,31,6,161.88,163.67,Jewell_ProfessionalDecline
+It felt unnatural-,||,ProfessionalDecline,62,32,3,164.33,165.60153,Jewell_ProfessionalDecline
+like a surgeon taking out his own appendix.,||,ProfessionalDecline,63,33,8,165.68,167.82,Jewell_ProfessionalDecline
+"But I plunged ahead,",-,ProfessionalDecline,64,34,4,168.48,169.5,Jewell_ProfessionalDecline
+"and for the past four years,",conjunction / positioning element,ProfessionalDecline,65,34,6,169.51,171.01,Jewell_ProfessionalDecline
+I have been on a quest,-,ProfessionalDecline,66,34,6,171.64,172.721065,Jewell_ProfessionalDecline
+to figure out how,infinitive phrase,ProfessionalDecline,67,34,4,172.721065,173.357771,Jewell_ProfessionalDecline
+to turn my eventual professional decline from a matter of dread into an opportunity for progress.,infinitive phrase||,ProfessionalDecline,68,34,16,173.357771,180.089999,Jewell_ProfessionalDecline
+Here's what I've found.,||,ProfessionalDecline,69,35,4,181.099999,182.09,Jewell_ProfessionalDecline
+"The field of ""happiness studies"" has boomed over the past two decades,",-,ProfessionalDecline,70,36,12,183.07,186.7,Jewell_ProfessionalDecline
+and a consensus has developed about well-being,conjunction,ProfessionalDecline,71,36,7,187.31,189.96,Jewell_ProfessionalDecline
+as we advance through life.,conjunction||,ProfessionalDecline,72,36,5,190.54,191.899999,Jewell_ProfessionalDecline
+"In The Happiness Curve: Why Life Gets Better After 50,",positioning element,ProfessionalDecline,73,37,10,192.59,195.86,Jewell_ProfessionalDecline
+"Jonathan Rauch,",-,ProfessionalDecline,74,37,2,196.337082,197.29,Jewell_ProfessionalDecline
+"a Brookings Institution scholar and an Atlantic contributing editor,",nonrestrictive clause,ProfessionalDecline,75,37,9,197.279999,201.32,Jewell_ProfessionalDecline
+reviews the strong evidence suggesting,-,ProfessionalDecline,76,37,5,201.88,203.774969,Jewell_ProfessionalDecline
+"that the happiness of most adults declines through their 30s and 40s,",complementizer,ProfessionalDecline,77,37,12,203.774969,208.405561,Jewell_ProfessionalDecline
+then bottoms out in their early 50s.,conjunction||,ProfessionalDecline,78,37,7,208.92,211.0,Jewell_ProfessionalDecline
+"Nothing about this pattern is set in stone, of course.",||,ProfessionalDecline,79,38,10,211.63,214.02,Jewell_ProfessionalDecline
+But the data seem eerily consistent with my experience:,||,ProfessionalDecline,80,39,9,214.660001,217.51,Jewell_ProfessionalDecline
+"My 40s and early 50s were not an especially happy period of my life,",-,ProfessionalDecline,81,40,14,218.1,222.0,Jewell_ProfessionalDecline
+notwithstanding my professional fortunes.,nonrestrictive clause||,ProfessionalDecline,82,40,4,222.6,224.67,Jewell_ProfessionalDecline
+"So what can people expect after that,",-,ProfessionalDecline,83,41,7,225.47,227.48,Jewell_ProfessionalDecline
+based on the data?,nonrestrictive clause||,ProfessionalDecline,84,41,4,227.43,228.359999,Jewell_ProfessionalDecline
+The news is mixed.,||,ProfessionalDecline,85,42,4,228.97,230.13,Jewell_ProfessionalDecline
+Almost all studies of happiness over the life span show,-,ProfessionalDecline,86,43,10,230.79,233.76,Jewell_ProfessionalDecline
+"that, in wealthier countries,",complementizer / nonrestrictive clause,ProfessionalDecline,87,43,4,233.786991,235.13,Jewell_ProfessionalDecline
+most people's contentment starts,-,ProfessionalDecline,88,43,4,235.7,237.375699,Jewell_ProfessionalDecline
+"to increase again in their 50s, until age 70 or so.",infinitive phrase||,ProfessionalDecline,89,43,11,237.35,240.47,Jewell_ProfessionalDecline
+"That is where things get less predictable, however.",||,ProfessionalDecline,90,44,8,240.85,243.35,Jewell_ProfessionalDecline
+"After 70, some people stay steady in happiness;",||,ProfessionalDecline,91,45,8,243.55,246.636882,Jewell_ProfessionalDecline
+others get happier until death.,||,ProfessionalDecline,92,46,5,246.96,248.61,Jewell_ProfessionalDecline
+Others-men in particular-,nonrestrictive clause,ProfessionalDecline,93,47,3,249.010061,250.833356,Jewell_ProfessionalDecline
+see their happiness plummet.,||,ProfessionalDecline,94,47,4,251.329999,252.809999,Jewell_ProfessionalDecline
+"Indeed, depression and suicide rates for men increase after age 75.",||,ProfessionalDecline,95,48,11,253.429999,257.6,Jewell_ProfessionalDecline
+This last group would seem,-,ProfessionalDecline,96,49,5,258.19,259.428892,Jewell_ProfessionalDecline
+to include the hero on the plane.,infinitive phrase||,ProfessionalDecline,97,49,7,259.486774,261.19,Jewell_ProfessionalDecline
+A few researchers have looked at this cohort,-,ProfessionalDecline,98,50,8,261.74,264.0,Jewell_ProfessionalDecline
+to understand,infinitive phrase,ProfessionalDecline,99,50,2,263.943718,264.493601,Jewell_ProfessionalDecline
+what drives their unhappiness.,complementizer||,ProfessionalDecline,100,50,4,264.522542,266.1,Jewell_ProfessionalDecline
+"It is, in a word, irrelevance.",||,ProfessionalDecline,101,51,6,266.66,268.7,Jewell_ProfessionalDecline
+"In 2007, a team of academic researchers at UCLA and Princeton analyzed data on more than 1,000 older adults.",||,ProfessionalDecline,102,52,19,269.24,276.764669,Jewell_ProfessionalDecline
+"Their findings,",-,ProfessionalDecline,103,53,2,277.26,277.980199,Jewell_ProfessionalDecline
+"published in the Journal of Gerontology,",nonrestrictive clause,ProfessionalDecline,104,53,6,278.01,279.889999,Jewell_ProfessionalDecline
+showed that senior citizens,complementizer,ProfessionalDecline,105,53,4,280.42,281.800437,Jewell_ProfessionalDecline
+"who rarely or never ""felt useful""",relative clause,ProfessionalDecline,106,53,6,281.829378,284.03,Jewell_ProfessionalDecline
+were nearly three times as likely as those,-,ProfessionalDecline,107,53,8,284.54,287.212441,Jewell_ProfessionalDecline
+who frequently felt useful,relative clause,ProfessionalDecline,108,53,4,287.241382,288.72,Jewell_ProfessionalDecline
+to develop a mild disability and were more than three times as likely,infinitive phrase,ProfessionalDecline,109,53,13,288.71,292.971739,Jewell_ProfessionalDecline
+to have died during the course of the study.,infinitive phrase||,ProfessionalDecline,110,53,9,293.00068,294.85,Jewell_ProfessionalDecline
+One might think,-,ProfessionalDecline,111,54,3,295.344917,296.242094,Jewell_ProfessionalDecline
+"that gifted and accomplished people,",complementizer,ProfessionalDecline,112,54,5,296.24,297.718096,Jewell_ProfessionalDecline
+"such as the man on the plane,",nonrestrictive clause,ProfessionalDecline,113,54,7,297.74,299.069999,Jewell_ProfessionalDecline
+would be less susceptible than others to this sense of irrelevance;,||,ProfessionalDecline,114,54,11,299.56,302.819999,Jewell_ProfessionalDecline
+"after all, accomplishment is a well-documented source of happiness.",||,ProfessionalDecline,115,55,9,302.809999,307.095043,Jewell_ProfessionalDecline
+"If current accomplishment brings happiness,",-,ProfessionalDecline,116,56,5,308.17,310.452222,Jewell_ProfessionalDecline
+then shouldn't the memory of that accomplishment provide some happiness as well?,conjunction||,ProfessionalDecline,117,56,12,310.84,314.4,Jewell_ProfessionalDecline
+Maybe not.,||,ProfessionalDecline,118,57,2,315.516932,316.309999,Jewell_ProfessionalDecline
+"Though the literature on this question is sparse,",nonrestrictive clause,ProfessionalDecline,119,58,8,316.87,319.0,Jewell_ProfessionalDecline
+ giftedness and achievements early in life do not appear,-,ProfessionalDecline,120,58,10,319.519999,322.469999,Jewell_ProfessionalDecline
+to provide an insurance policy against suffering later on.,infinitive phrase||,ProfessionalDecline,121,58,9,322.462819,325.429999,Jewell_ProfessionalDecline
+"In 1999, Carole Holahan and Charles Holahan,",-,ProfessionalDecline,122,59,7,325.935763,329.842824,Jewell_ProfessionalDecline
+"0psychologists at the University of Texas,",nonrestrictive clause,ProfessionalDecline,123,59,6,330.42,332.77,Jewell_ProfessionalDecline
+published an influential paper in The International Journal of Aging and Human] Developmen,-,ProfessionalDecline,124,59,13,333.38,337.98,Jewell_ProfessionalDecline
+that looked at hundreds of older adults,complementizer,ProfessionalDecline,125,59,7,338.479999,340.493185,Jewell_ProfessionalDecline
+who early in life had been identified as highly gifted.,relative clause||,ProfessionalDecline,126,59,10,341.14,344.24,Jewell_ProfessionalDecline
+"The Holahans' conclusion: ""Learning at a younger age of membership in a study of intellectual giftedness was related to... less favorable psychological well-being at age eighty.""",||,ProfessionalDecline,127,60,26,345.44,357.079999,Jewell_ProfessionalDecline

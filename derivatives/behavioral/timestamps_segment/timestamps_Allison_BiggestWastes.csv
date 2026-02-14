@@ -1,0 +1,153 @@
+segment,reason,narrative,segID,sentID,Nwords,onset,offset,voice_narrative
+We spend a lot of energy,-,BiggestWastes,1,1,6,6.13,7.597514,Allison_BiggestWastes
+"looking for shortcuts to save time,",nonfinite clause,BiggestWastes,2,1,6,7.56,9.579999,Allison_BiggestWastes
+"and sure, those shortcuts add up.",conjunction||,BiggestWastes,3,1,6,10.819999,12.62,Allison_BiggestWastes
+"But when I look back,",relative clause,BiggestWastes,4,2,5,13.019999,14.009999,Allison_BiggestWastes
+my biggest time regrets aren't,-,BiggestWastes,5,2,5,14.0,15.781185,Allison_BiggestWastes
+spending too much time on Twitter,nonfinite clause,BiggestWastes,6,2,6,15.79,17.389999,Allison_BiggestWastes
+or mismanaging my daily tasks.,nonfinite clause||,BiggestWastes,7,2,5,17.339999,19.35,Allison_BiggestWastes
+"Those are bad habits,",-,BiggestWastes,8,3,4,20.31,21.65,Allison_BiggestWastes
+"but there are bigger, more systematic time wasters",conjunction,BiggestWastes,9,3,8,22.07,24.759553,Allison_BiggestWastes
+that have really gotten in the way.,relative clause||,BiggestWastes,10,3,7,24.72,26.19,Allison_BiggestWastes
+Fixing these will free up a massive amount of time and energy.,||,BiggestWastes,11,4,12,27.13,30.21,Allison_BiggestWastes
+Not Asking for Help,||,BiggestWastes,12,5,4,32.859999,33.849999,Allison_BiggestWastes
+"My first week on my first job out of university,",positioning element,BiggestWastes,13,6,10,35.749999,38.45,Allison_BiggestWastes
+my boss handed me a huge spreadsheet.,||,BiggestWastes,14,6,7,39.01,41.15,Allison_BiggestWastes
+He told me,-,BiggestWastes,15,7,3,41.8,42.32,Allison_BiggestWastes
+to organize it in a way,infinitive clause,BiggestWastes,16,7,6,42.282305,43.56,Allison_BiggestWastes
+that made zero sense to me.,relative clause||,BiggestWastes,17,7,6,43.5,45.07,Allison_BiggestWastes
+"Being a quiet, timid person,",nonrestrictive clause,BiggestWastes,18,8,5,45.85,47.52,Allison_BiggestWastes
+"I simply nodded, walked back to my desk and stared at that spreadsheet",-,BiggestWastes,19,8,13,48.029999,52.07,Allison_BiggestWastes
+"for like an hour,",positioning element,BiggestWastes,20,8,4,52.65,53.69,Allison_BiggestWastes
+hoping to make some sense of it.,nonfinite clause||,BiggestWastes,21,8,7,54.15,55.7,Allison_BiggestWastes
+"Finally, my coworker came in,",-,BiggestWastes,22,9,5,56.92,59.36,Allison_BiggestWastes
+and I confessed,conjunction,BiggestWastes,23,9,3,59.81,60.537754,Allison_BiggestWastes
+I had no idea what,complementizer,BiggestWastes,24,9,5,60.52,61.524078,Allison_BiggestWastes
+to do],infinitive phrase||,BiggestWastes,25,9,2,61.51,62.61,Allison_BiggestWastes
+"He broke it down for me,",-,BiggestWastes,26,10,6,62.55,63.86,Allison_BiggestWastes
+then dropped some advice,conjunction,BiggestWastes,27,10,4,63.83,65.01,Allison_BiggestWastes
+that's stuck with me ever since:,relative clause||,BiggestWastes,28,10,6,64.984667,66.65,Allison_BiggestWastes
+"""You might feel dumb",-,BiggestWastes,29,11,4,67.47,68.355077,Allison_BiggestWastes
+"asking questions,",nonfinite clause,BiggestWastes,30,11,2,68.359999,69.31,Allison_BiggestWastes
+but you look dumber,conjunction,BiggestWastes,31,11,4,69.448488,70.192458,Allison_BiggestWastes
+when you don't get it,relative clause,BiggestWastes,32,11,5,70.153005,71.2,Allison_BiggestWastes
+because you failed,conjunction,BiggestWastes,33,11,3,71.14,71.96,Allison_BiggestWastes
+"to ask.""",infinitive phrase||,BiggestWastes,34,11,2,71.9,72.475094,Allison_BiggestWastes
+"It was harsh, but true.",||,BiggestWastes,35,12,5,73.35,74.62,Allison_BiggestWastes
+"And not only did I look like an arse,",-,BiggestWastes,36,13,9,75.23,77.09,Allison_BiggestWastes
+I could've also saved a fair amount of time that day by simply,conjunction [but...],BiggestWastes,37,13,13,77.74,80.95,Allison_BiggestWastes
+asking my boss what he meant.,nonfinite clause||,BiggestWastes,38,13,6,80.93,82.68,Allison_BiggestWastes
+It made me wonder,-,BiggestWastes,39,14,4,83.3,84.09681,Allison_BiggestWastes
+how much time I had wasted by,complementizer,BiggestWastes,40,14,7,84.09681,85.691837,Allison_BiggestWastes
+not asking for help,nonfinite clause,BiggestWastes,41,14,4,85.663656,86.858517,Allison_BiggestWastes
+over the years.,positioning element||,BiggestWastes,42,14,3,86.858517,87.71,Allison_BiggestWastes
+As dumb as you might feel,nonrestrictive clause,BiggestWastes,43,15,6,87.729999,89.253876,Allison_BiggestWastes
+"asking questions,",nonfinite clause,BiggestWastes,44,15,2,89.349999,90.469999,Allison_BiggestWastes
+it's the fastest way,-,BiggestWastes,45,15,4,91.099999,92.23,Allison_BiggestWastes
+to get an answer.,infinitive phrase||,BiggestWastes,46,15,4,92.19,93.12,Allison_BiggestWastes
+"Similarly, asking for help is a great way to, well, get help.",||,BiggestWastes,47,16,12,94.92,100.16,Allison_BiggestWastes
+This is why networking and finding a mentor are hugely valuable.,||,BiggestWastes,48,17,11,101.09,104.54,Allison_BiggestWastes
+If you feel stuck in your career or need,-,BiggestWastes,49,18,9,105.229999,107.300788,Allison_BiggestWastes
+to learn new skills,infinitive phrase,BiggestWastes,50,18,4,107.279999,108.48,Allison_BiggestWastes
+"and have no idea how to get started,",-,BiggestWastes,51,18,8,109.03,111.36,Allison_BiggestWastes
+talking to other people in your field will go a long way.,nonfinite clause||,BiggestWastes,52,18,12,111.97,114.69,Allison_BiggestWastes
+Even if it's just,nonrestrictive clause,BiggestWastes,53,19,4,115.315376,116.166433,Allison_BiggestWastes
+"shooting someone a short email,",nonfinite clause,BiggestWastes,54,19,5,116.166433,117.79,Allison_BiggestWastes
+asking for help is like a shortcut for your career.,nonfinite clause||,BiggestWastes,55,19,10,118.31,121.97,Allison_BiggestWastes
+Here's another way to look at it:,||,BiggestWastes,56,20,7,122.75,124.069999,Allison_BiggestWastes
+"if you're not asking for help,",nonrestrictive clause,BiggestWastes,57,21,6,124.57,125.85,Allison_BiggestWastes
+you're probably not challenging yourself enough.,"conjunction (if, then...)||",BiggestWastes,58,21,6,126.39,128.72,Allison_BiggestWastes
+"If you have all the answers,",-,BiggestWastes,59,22,6,129.34,130.61749,Allison_BiggestWastes
+"you're not learning new skills,","conjunction (if, then...) / nonfinite clause",BiggestWastes,60,22,5,130.623126,131.98,Allison_BiggestWastes
+trying new things,nonfinite clause,BiggestWastes,61,22,3,131.98,132.93,Allison_BiggestWastes
+or moving forward and out of your comfort zone.,nonfinite clause||,BiggestWastes,62,22,9,133.6,136.01,Allison_BiggestWastes
+There are a handful of reasons,-,BiggestWastes,63,23,6,136.649999,138.153006,Allison_BiggestWastes
+"we don't ask for help,",relative clause (that...),BiggestWastes,64,23,5,138.13,139.37,Allison_BiggestWastes
+"but it's usually because we're too proud or scared,",conjunction,BiggestWastes,65,23,9,140.279999,143.239999,Allison_BiggestWastes
+"and that's a huge waste of time,",conjunction,BiggestWastes,66,23,7,143.669999,145.38,Allison_BiggestWastes
+because it keeps you from moving forward.,conjunction||,BiggestWastes,67,23,7,145.72,147.63,Allison_BiggestWastes
+Trying to Make Bad Relationships Work,||,BiggestWastes,68,24,6,149.84,151.719189,Allison_BiggestWastes
+"Relationships require maintenance,",-,BiggestWastes,69,25,3,154.13,156.02,Allison_BiggestWastes
+but there's a difference between,conjunction,BiggestWastes,70,25,5,156.228099,157.959999,Allison_BiggestWastes
+maintaining a good relationship,nonfinite clause,BiggestWastes,71,25,4,157.899999,159.77,Allison_BiggestWastes
+and trying to force a bad one,nonfinite clause,BiggestWastes,72,25,7,160.39,161.971323,Allison_BiggestWastes
+that doesn't make much sense to begin with.,relative clause||,BiggestWastes,73,25,8,161.929999,164.13,Allison_BiggestWastes
+"There's a lot of emotion in romance and friendships,",-,BiggestWastes,74,26,9,164.85,167.49,Allison_BiggestWastes
+so sometimes it's hard to tell,conjunction,BiggestWastes,75,26,6,168.05,169.7,Allison_BiggestWastes
+when you should keep trying or you should just call it quits.,conjunction||,BiggestWastes,76,26,12,169.64,173.46,Allison_BiggestWastes
+"Like a lot of people,",nonrestrictive clause,BiggestWastes,77,27,5,174.05,175.16,Allison_BiggestWastes
+I made some common bad decisions,-,BiggestWastes,78,27,6,175.13,177.09,Allison_BiggestWastes
+that wasted both my time and the time of the person I was with.,relative clause||,BiggestWastes,79,27,14,177.68,181.692169,Allison_BiggestWastes
+"For example,",nonrestrictive clause,BiggestWastes,80,28,2,182.46,183.36,Allison_BiggestWastes
+(1) Thinking I have more in common with the person,-,BiggestWastes,81,28,10,184.17207,187.61575,Allison_BiggestWastes
+I'm dating than I actually do.,relative clause (that...) / nonfinite clause||,BiggestWastes,82,28,6,187.621386,190.016744,Allison_BiggestWastes
+(2) Being in a relationship just to avoid loneliness.,||,BiggestWastes,83,29,9,190.38,194.97,Allison_BiggestWastes
+(3) Staying in a relationship only out of fear,-,BiggestWastes,84,30,9,195.939999,200.375965,Allison_BiggestWastes
+of losing the person.,nonfinite clause||,BiggestWastes,85,30,4,200.34,201.6,Allison_BiggestWastes
+There are good reasons,-,BiggestWastes,86,31,4,203.46,204.546707,Allison_BiggestWastes
+"for wanting to make a relationship work,",nonfinite clause,BiggestWastes,87,31,7,204.524163,206.327727,Allison_BiggestWastes
+but those aren't good ones.,conjunction||,BiggestWastes,88,31,5,206.96,208.14,Allison_BiggestWastes
+"They cloud your judgment, prolong your unhappiness and distract you from things",-,BiggestWastes,89,32,12,208.529999,212.22,Allison_BiggestWastes
+that matter to you most.,relative clause||,BiggestWastes,90,32,5,212.200582,213.6,Allison_BiggestWastes
+"At the same time,",nonrestrictive clause,BiggestWastes,91,33,4,214.37,215.519999,Allison_BiggestWastes
+it's hard,-,BiggestWastes,92,33,2,215.47,215.970001,Allison_BiggestWastes
+"to say all bad relationships are a total waste of time,",infinitive phrase,BiggestWastes,93,33,11,215.910001,219.24,Allison_BiggestWastes
+because you learn a lot about yourself from them.,conjunction||,BiggestWastes,94,33,9,220.17,222.43,Allison_BiggestWastes
+"That's a valid silver lining,",-,BiggestWastes,95,34,5,223.38,224.879999,Allison_BiggestWastes
+"but still, the sooner you learn those lessons, the better.",conjunction||,BiggestWastes,96,34,10,225.43,228.569999,Allison_BiggestWastes
+"Similarly, not dealing with the emotional impact of a breakup",nonfinite clause,BiggestWastes,97,35,10,229.59,233.279999,Allison_BiggestWastes
+is also a big waste of time.,||,BiggestWastes,98,35,7,233.249999,234.88,Allison_BiggestWastes
+"When a relationship ends,",relative clause,BiggestWastes,99,36,4,236.23,237.73,Allison_BiggestWastes
+we usually go through the typical stages of grief associated with loss.,||,BiggestWastes,100,36,12,238.29,242.22,Allison_BiggestWastes
+It's easy to get comfortable with denial and convince ourselves,-,BiggestWastes,101,37,10,242.73,245.786326,Allison_BiggestWastes
+we don't really care and we're fine.,complementizer (that...)||,BiggestWastes,102,37,7,245.76,247.59,Allison_BiggestWastes
+"In reality,",nonrestrictive clause,BiggestWastes,103,38,2,248.31,249.19,Allison_BiggestWastes
+ignoring the pain,nonfinite clause,BiggestWastes,104,38,3,249.149999,250.2,Allison_BiggestWastes
+only prolongs it.,||,BiggestWastes,105,38,3,250.189999,251.39,Allison_BiggestWastes
+Our work suffers;,||,BiggestWastes,106,39,3,252.75,253.87,Allison_BiggestWastes
+the rest of our relationships suffer.,||,BiggestWastes,107,40,6,253.86,255.8,Allison_BiggestWastes
+Dwelling on Your Mistakes and Shortcomings,||,BiggestWastes,108,41,6,257.49,259.7,Allison_BiggestWastes
+Learning from your mistakes,nonfinite clause,BiggestWastes,109,42,4,261.43,262.59,Allison_BiggestWastes
+is one thing.,||,BiggestWastes,110,42,3,262.570744,263.279999,Allison_BiggestWastes
+Dwelling on them,nonfinite clause,BiggestWastes,111,43,3,263.247081,264.030504,Allison_BiggestWastes
+"wastes your time, diminishes your confidence, and keeps you from",-,BiggestWastes,112,43,10,263.979999,266.724578,Allison_BiggestWastes
+getting on with your life.,nonfinite clause||,BiggestWastes,113,43,5,266.689999,268.037798,Allison_BiggestWastes
+Dwelling also makes you more apt to repeat your mistakes.,||,BiggestWastes,114,44,10,268.679999,272.21,Allison_BiggestWastes
+"In a recent study published in the Journal of Consumer Psychology,",nonrestrictive clause,BiggestWastes,115,45,11,272.2,275.58,Allison_BiggestWastes
+researchers asked subjects,-,BiggestWastes,116,45,3,276.18,277.79,Allison_BiggestWastes
+to spend money during an imaginary trip to the mall.,infinitive clause||,BiggestWastes,117,45,10,277.74,280.499999,Allison_BiggestWastes
+"Before ""shopping"",",positioning element,BiggestWastes,118,46,2,281.08,282.19,Allison_BiggestWastes
+some subjects were asked,-,BiggestWastes,119,46,4,282.18,283.503359,Allison_BiggestWastes
+to recall a past financial mistake.,infinitive clause||,BiggestWastes,120,46,6,283.480815,285.54,Allison_BiggestWastes
+They found,-,BiggestWastes,121,47,2,286.109999,286.608871,Allison_BiggestWastes
+those subjects were more likely,complementizer (that...),BiggestWastes,122,47,5,286.57,288.164445,Allison_BiggestWastes
+to incur debt.,infinitive clause||,BiggestWastes,123,47,3,288.141901,289.15,Allison_BiggestWastes
+A press release for the study concluded:,-,BiggestWastes,124,48,7,289.91,292.18,Allison_BiggestWastes
+"Perhaps the most surprising, Haws said, is",complementizer (that...),BiggestWastes,125,48,7,293.05,296.06,Allison_BiggestWastes
+"that searching through the past can negatively affect behavior,",complementizer,BiggestWastes,126,48,9,296.038129,299.51,Allison_BiggestWastes
+"depending on the ease of recall,",nonrestrictive clause,BiggestWastes,127,48,6,300.04,301.679999,Allison_BiggestWastes
+even when past examples are positive...,||,BiggestWastes,128,48,6,302.38,304.43,Allison_BiggestWastes
+"Instead of dwelling on the past,",nonrestrictive clause,BiggestWastes,129,49,6,305.249999,306.78,Allison_BiggestWastes
+"Haws said, her research into behavior suggests",-,BiggestWastes,130,49,7,306.729883,309.94,Allison_BiggestWastes
+that setting goals for the future,complementizer / nonfinite clause,BiggestWastes,131,49,6,309.936845,311.57612,Allison_BiggestWastes
+can positively change present behavior...,complementizer cont.||,BiggestWastes,132,49,5,312.09,314.32,Allison_BiggestWastes
+"In short,",nonrestrictive clause,BiggestWastes,133,50,2,315.109999,315.84,Allison_BiggestWastes
+"if we want to have better self-control,",-,BiggestWastes,134,50,7,316.48,318.509999,Allison_BiggestWastes
+"""Look forward,"" Haws says.","conjunction (if, then...)||",BiggestWastes,135,50,4,318.819999,320.53,Allison_BiggestWastes
+"""Don't look back.""",||,BiggestWastes,136,51,3,321.14,322.4,Allison_BiggestWastes
+"When you think about your own experiences,",relative clause,BiggestWastes,137,52,7,323.37,325.47,Allison_BiggestWastes
+it probably makes sense.,||,BiggestWastes,138,52,4,325.86,327.26,Allison_BiggestWastes
+Dwelling makes you feel like a failure.,||,BiggestWastes,139,53,7,327.93,329.67,Allison_BiggestWastes
+"When I feel like a failure,",relative clause,BiggestWastes,140,54,6,330.31,331.68,Allison_BiggestWastes
+it's easy to tell myself,-,BiggestWastes,141,54,5,332.09,333.48,Allison_BiggestWastes
+"there's no point in trying,",complementizer (that....),BiggestWastes,142,54,5,333.456447,334.709999,Allison_BiggestWastes
+because I already suck.,conjunction||,BiggestWastes,143,54,4,335.229999,336.57,Allison_BiggestWastes
+"(Hence, getting further into debt",nonfinite clause,BiggestWastes,144,55,5,337.45,339.24,Allison_BiggestWastes
+when you already feel like an overspender.),relative clause||,BiggestWastes,145,55,7,339.239124,341.008872,Allison_BiggestWastes
+"Of course, you don't want",-,BiggestWastes,146,56,5,341.8,343.409866,Allison_BiggestWastes
+to skip over your mistakes and ignore them either.,infinitive clause||,BiggestWastes,147,56,9,343.38,345.71,Allison_BiggestWastes
+The goal is,-,BiggestWastes,148,57,3,346.35,347.08,Allison_BiggestWastes
+"to glean something from them,",infinitive clause,BiggestWastes,149,57,5,347.062083,348.48,Allison_BiggestWastes
+then release the failure.,conjunction||,BiggestWastes,150,57,4,348.98,350.23,Allison_BiggestWastes
+"In order to let the past go,",conjunction,BiggestWastes,151,58,7,351.04,352.72,Allison_BiggestWastes
+you must forgive yourself officially.,||,BiggestWastes,152,58,5,353.14,355.19,Allison_BiggestWastes

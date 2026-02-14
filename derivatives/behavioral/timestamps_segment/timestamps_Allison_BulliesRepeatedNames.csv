@@ -1,0 +1,159 @@
+segment,reason,narrative,segID,sentID,Nwords,onset,offset,voice_narrative
+The text message said,-,BulliesRepeatedNames,1,1,4,4.61,5.8,Allison_BulliesRepeatedNames
+that Lucy Josephs was a failure.,complementizer||,BulliesRepeatedNames,2,1,6,5.75,7.72,Allison_BulliesRepeatedNames
+It said,-,BulliesRepeatedNames,3,2,2,8.55,9.1,Allison_BulliesRepeatedNames
+"Lucy was ugly, had no style and the world hated her.",complementizer (that...)||,BulliesRepeatedNames,4,2,11,9.04,12.929999,Allison_BulliesRepeatedNames
+At least that was what it said to Lucy.,||,BulliesRepeatedNames,5,3,9,13.56,16.07,Allison_BulliesRepeatedNames
+It said that and a whole lot more,-,BulliesRepeatedNames,6,4,8,16.509999,18.429999,Allison_BulliesRepeatedNames
+that Lucy was struggling to understand.,relative clause||,BulliesRepeatedNames,7,4,6,18.37,20.31,Allison_BulliesRepeatedNames
+The actual text of the note said,-,BulliesRepeatedNames,8,5,7,21.25,23.456712,Allison_BulliesRepeatedNames
+"that Lucy better not show up at the party tonight,",complementizer,BulliesRepeatedNames,9,5,10,23.43,26.11,Allison_BulliesRepeatedNames
+because it was going,conjunction,BulliesRepeatedNames,10,5,4,26.41,27.26,Allison_BulliesRepeatedNames
+to be bad enough already!,infinitive phrase||,BulliesRepeatedNames,11,5,5,27.240691,28.759999,Allison_BulliesRepeatedNames
+"Lucy, who had started receiving these messages a few weeks ago,",relative clause,BulliesRepeatedNames,12,6,11,29.55,33.41,Allison_BulliesRepeatedNames
+tapped the mobile screen,-,BulliesRepeatedNames,13,6,4,33.93,35.327709,Allison_BulliesRepeatedNames
+to make the message disappear from view.,infinitive phrase||,BulliesRepeatedNames,14,6,7,35.323747,37.58,Allison_BulliesRepeatedNames
+Lucy only wished,-,BulliesRepeatedNames,15,7,3,38.21,39.37,Allison_BulliesRepeatedNames
+it was as easy,complementizer,BulliesRepeatedNames,16,7,4,39.3732,40.25,Allison_BulliesRepeatedNames
+to tap her heart and erase the trace the message had left there.,infinitive phrase||,BulliesRepeatedNames,17,7,13,40.213204,44.06,Allison_BulliesRepeatedNames
+"'Was that another one of those messages?' Lucy's mom asked,",-,BulliesRepeatedNames,18,8,10,44.88,48.56,Allison_BulliesRepeatedNames
+who was driving the car.,relative clause||,BulliesRepeatedNames,19,8,5,48.72,49.919999,Allison_BulliesRepeatedNames
+Lucy confirmed,-,BulliesRepeatedNames,20,9,2,50.96,51.879999,Allison_BulliesRepeatedNames
+her mother's suspicion was founded,complementizer,BulliesRepeatedNames,21,9,5,51.850427,53.52,Allison_BulliesRepeatedNames
+"as she answered dejectedly, 'I'm sorry to say it was.'",conjunction||,BulliesRepeatedNames,22,9,10,53.514585,57.579887,Allison_BulliesRepeatedNames
+"'Haven't you reported it yet?' asked Jill,",-,BulliesRepeatedNames,23,10,7,58.32,60.79,Allison_BulliesRepeatedNames
+Lucy's older sister,nonrestrictive clause,BulliesRepeatedNames,24,10,3,60.844808,62.23,Allison_BulliesRepeatedNames
+who was sitting in the passenger seat.,relative clause||,BulliesRepeatedNames,25,10,7,62.569999,64.5,Allison_BulliesRepeatedNames
+"'Yes,' Lucy replied,",-,BulliesRepeatedNames,26,11,3,65.17,66.849999,Allison_BulliesRepeatedNames
+lying through her teeth.,nonfinite clause||,BulliesRepeatedNames,27,11,4,67.01,68.48,Allison_BulliesRepeatedNames
+That Lucy should not let the messages get to her,-,BulliesRepeatedNames,28,12,10,69.309999,71.989999,Allison_BulliesRepeatedNames
+and that the sender was only jealous,conjunction / relative clause,BulliesRepeatedNames,29,12,7,72.24,74.76,Allison_BulliesRepeatedNames
+"were Lucy's mom's arguments,",-,BulliesRepeatedNames,30,12,4,74.94,76.81,Allison_BulliesRepeatedNames
+in an effort,nonrestrictive clause,BulliesRepeatedNames,31,12,3,77.38,78.009415,Allison_BulliesRepeatedNames
+to comfort her daughter.,infinitive phrase||,BulliesRepeatedNames,32,12,4,77.99,79.13,Allison_BulliesRepeatedNames
+"Lucy's mom suddenly felt guilty,",-,BulliesRepeatedNames,33,13,5,80.29169,82.38,Allison_BulliesRepeatedNames
+for she had been the one,conjunction,BulliesRepeatedNames,34,13,6,83.1,84.29,Allison_BulliesRepeatedNames
+to buy the phone for Lucy,infinitive phrase,BulliesRepeatedNames,35,13,6,84.281708,85.869999,Allison_BulliesRepeatedNames
+just a couple of months ago.,positioning element||,BulliesRepeatedNames,36,13,6,85.866621,87.33,Allison_BulliesRepeatedNames
+Lucy's mom then admitted,-,BulliesRepeatedNames,37,14,4,88.48,90.069999,Allison_BulliesRepeatedNames
+her regret about the phone was still bugging her out loud,complementizer,BulliesRepeatedNames,38,14,11,90.06664,93.438542,Allison_BulliesRepeatedNames
+"as she sighed, 'I never should have given you that phone Lucy.'",conjunction||,BulliesRepeatedNames,39,14,12,93.45,97.971393,Allison_BulliesRepeatedNames
+"'No, it's fine. I love it,' said Lucy",-,BulliesRepeatedNames,40,15,8,98.014979,100.95,Allison_BulliesRepeatedNames
+knowing that,>minimal segment,BulliesRepeatedNames,41,15,2,100.89,101.52,Allison_BulliesRepeatedNames
+affording the phone had been no small thing for her mother.,nonfinite clause||,BulliesRepeatedNames,42,15,11,101.450277,104.445763,Allison_BulliesRepeatedNames
+It had been nothing but trouble though.,||,BulliesRepeatedNames,43,16,7,105.7,107.379999,Allison_BulliesRepeatedNames
+Lucy did not know who it was,-,BulliesRepeatedNames,44,17,7,107.97,109.58,Allison_BulliesRepeatedNames
+"that was sending her the messages,",relative clause,BulliesRepeatedNames,45,17,6,109.568994,111.14,Allison_BulliesRepeatedNames
+and Lucy did not know,conjunction,BulliesRepeatedNames,46,17,5,111.86,112.99,Allison_BulliesRepeatedNames
+"how they had got her number,",relative clause,BulliesRepeatedNames,47,17,6,112.96467,114.49,Allison_BulliesRepeatedNames
+"but whoever it was,",conjunction / relative clause,BulliesRepeatedNames,48,17,4,115.17,116.39,Allison_BulliesRepeatedNames
+he or she had slowly taken over Lucy's life.,conjunction cont.||,BulliesRepeatedNames,49,17,9,116.69,119.56,Allison_BulliesRepeatedNames
+"Lucy was getting several texts a day now,",-,BulliesRepeatedNames,50,18,8,120.08,122.989999,Allison_BulliesRepeatedNames
+all of which were abusive and hurtful.,relative clause||,BulliesRepeatedNames,51,18,7,123.49,125.459999,Allison_BulliesRepeatedNames
+Lucy wondered,-,BulliesRepeatedNames,52,19,2,126.439999,127.22,Allison_BulliesRepeatedNames
+what the person,complementizer,BulliesRepeatedNames,53,19,3,127.16,128.08,Allison_BulliesRepeatedNames
+who was messaging her,relative clause,BulliesRepeatedNames,54,19,4,128.064928,129.1,Allison_BulliesRepeatedNames
+might be thinking or trying,-,BulliesRepeatedNames,55,19,5,129.04,131.26,Allison_BulliesRepeatedNames
+to achieve with all of their hateful messages.,infinitive phrase||,BulliesRepeatedNames,56,19,8,131.250603,133.88,Allison_BulliesRepeatedNames
+"As the car pulled up outside the school,",-,BulliesRepeatedNames,57,20,8,135.06,137.25,Allison_BulliesRepeatedNames
+"which looked like a large shadow in the darkness of a November evening,",relative clause,BulliesRepeatedNames,58,20,13,138.149999,141.719999,Allison_BulliesRepeatedNames
+Lucy felt a shiver run down her spine.,||,BulliesRepeatedNames,59,20,8,142.179999,144.4,Allison_BulliesRepeatedNames
+"Hastened by Jill,",-,BulliesRepeatedNames,60,21,3,145.04,146.07,Allison_BulliesRepeatedNames
+"who did not want to be late to her own concert,",relative clause,BulliesRepeatedNames,61,21,11,146.061614,148.48,Allison_BulliesRepeatedNames
+Lucy hesitantly stepped out of the car and walked toward the school.,||,BulliesRepeatedNames,62,21,12,149.15,152.99,Allison_BulliesRepeatedNames
+It was Jill,-,BulliesRepeatedNames,63,22,3,154.149999,154.91,Allison_BulliesRepeatedNames
+"who, in her final year of high school,",relative clause / nonrestrictive clause,BulliesRepeatedNames,64,22,8,154.901466,156.466568,Allison_BulliesRepeatedNames
+"had become involved in helping organize this year's school talent show,",relative clause cont.,BulliesRepeatedNames,65,22,11,156.45,160.14,Allison_BulliesRepeatedNames
+and Jill took her position very seriously.,conjunction||,BulliesRepeatedNames,66,22,7,160.529999,162.869999,Allison_BulliesRepeatedNames
+"Lucy hurried behind Jill,",-,BulliesRepeatedNames,67,23,4,163.531317,164.921317,Allison_BulliesRepeatedNames
+"pulling on the worn, oversized coat",nonfinite clause,BulliesRepeatedNames,68,23,6,165.13,167.29,Allison_BulliesRepeatedNames
+"that had originally belonged to Jill,",relative clause,BulliesRepeatedNames,69,23,6,167.5,169.26,Allison_BulliesRepeatedNames
+in order to keep her dry,conjunction,BulliesRepeatedNames,70,23,6,169.71,171.03,Allison_BulliesRepeatedNames
+as the raindrops fell all around them.,conjunction||,BulliesRepeatedNames,71,23,7,170.97,173.07,Allison_BulliesRepeatedNames
+As the sisters entered the hall,-,BulliesRepeatedNames,72,24,6,173.63,175.41,Allison_BulliesRepeatedNames
+"where the show was to take place,",relative clause,BulliesRepeatedNames,73,24,7,175.374579,176.909999,Allison_BulliesRepeatedNames
+Jill filled with excitement,-,BulliesRepeatedNames,74,24,4,177.17,178.669999,Allison_BulliesRepeatedNames
+while Lucy regretted,conjunction,BulliesRepeatedNames,75,24,3,178.62,179.829999,Allison_BulliesRepeatedNames
+that she had promised her mother,complementizer,BulliesRepeatedNames,76,24,6,179.999999,181.73,Allison_BulliesRepeatedNames
+she would participate in the show.,complementizer (that...)||,BulliesRepeatedNames,77,24,6,181.68,183.61,Allison_BulliesRepeatedNames
+"'To waste your talent would be a real shame,",-,BulliesRepeatedNames,78,25,9,184.68,186.86,Allison_BulliesRepeatedNames
+"for you have such a beautiful voice,'",conjunction,BulliesRepeatedNames,79,25,7,187.56,189.33,Allison_BulliesRepeatedNames
+"Lucy's mother had argued two months back,",positioning element,BulliesRepeatedNames,80,25,7,189.674456,191.969999,Allison_BulliesRepeatedNames
+when the concert was first announced.,relative clause||,BulliesRepeatedNames,81,25,6,192.18,194.09,Allison_BulliesRepeatedNames
+"Lucy had been considering it,",-,BulliesRepeatedNames,82,26,5,194.88,196.490001,Allison_BulliesRepeatedNames
+for Lucy did love to sing.,conjunction||,BulliesRepeatedNames,83,26,6,196.669999,198.29,Allison_BulliesRepeatedNames
+"That very night,",positioning element,BulliesRepeatedNames,84,27,3,198.87,199.83,Allison_BulliesRepeatedNames
+the first text message had come through.,||,BulliesRepeatedNames,85,27,7,200.26,201.88,Allison_BulliesRepeatedNames
+'How does it feel,quotation,BulliesRepeatedNames,86,28,4,202.45,203.24,Allison_BulliesRepeatedNames
+"to be tall and lanky like a giraffe?' it had asked,",infinitive phrase / quotation,BulliesRepeatedNames,87,28,11,203.217537,206.629999,Allison_BulliesRepeatedNames
+taking Lucy by surprise.,nonfinite clause||,BulliesRepeatedNames,88,28,4,207.24,208.96,Allison_BulliesRepeatedNames
+"One of the popular girls, Lucy had always known she wasn't,",-,BulliesRepeatedNames,89,29,11,209.729999,213.41,Allison_BulliesRepeatedNames
+"but before the messages began,",conjunction / positioning element,BulliesRepeatedNames,90,29,5,213.779999,215.49,Allison_BulliesRepeatedNames
+Lucy had always been quite proud,conjunction cont.,BulliesRepeatedNames,91,29,6,215.95,217.644207,Allison_BulliesRepeatedNames
+of being a little different.,nonfinite clause||,BulliesRepeatedNames,92,29,5,217.644207,219.05,Allison_BulliesRepeatedNames
+"But text by text, Lucy's self-confidence had deflated",-,BulliesRepeatedNames,93,30,8,220.01,223.89,Allison_BulliesRepeatedNames
+"and, in the end,",conjunction / positioning element,BulliesRepeatedNames,94,30,4,224.569999,225.51,Allison_BulliesRepeatedNames
+it had taken some doing,-,BulliesRepeatedNames,95,30,5,226.109999,227.349999,Allison_BulliesRepeatedNames
+to get Lucy,infinitive phrase,BulliesRepeatedNames,96,30,3,227.3,227.95,Allison_BulliesRepeatedNames
+to agree,infinitive phrase,BulliesRepeatedNames,97,30,2,227.922368,228.43,Allison_BulliesRepeatedNames
+to perform in the show.,infinitive phrase||,BulliesRepeatedNames,98,30,5,228.401804,229.54,Allison_BulliesRepeatedNames
+"Now, however,",positioning element / nonrestrictive clause (minimal segment),BulliesRepeatedNames,99,31,2,230.769999,231.689999,Allison_BulliesRepeatedNames
+Lucy had no choice,-,BulliesRepeatedNames,100,31,4,231.67,232.998051,Allison_BulliesRepeatedNames
+but to make her way towards the stage,conjunction,BulliesRepeatedNames,101,31,8,232.982202,234.81,Allison_BulliesRepeatedNames
+where Jill was beckoning encouragingly to her.,relative clause||,BulliesRepeatedNames,102,31,7,235.05,238.0,Allison_BulliesRepeatedNames
+Lucy was the first performer.,||,BulliesRepeatedNames,103,32,5,238.56,240.21,Allison_BulliesRepeatedNames
+"Lucy, announced by her sister to the audience,",nonrestrictive clause,BulliesRepeatedNames,104,33,8,240.55,242.939999,Allison_BulliesRepeatedNames
+was all nerves,-,BulliesRepeatedNames,105,33,3,243.12,244.017159,Allison_BulliesRepeatedNames
+"as she walked out onto the middle of the stage,",conjunction,BulliesRepeatedNames,106,33,10,243.9498,246.18,Allison_BulliesRepeatedNames
+where there was nothing but a microphone and her.,relative clause||,BulliesRepeatedNames,107,33,9,246.47,248.93,Allison_BulliesRepeatedNames
+Lucy heard the audience applaud and could feel a sense of anticipation emanate from the other side of the heavy curtain.,||,BulliesRepeatedNames,108,34,21,250.519999,257.06,Allison_BulliesRepeatedNames
+"As the curtains began to part,",positioning element,BulliesRepeatedNames,109,35,6,257.6,259.15,Allison_BulliesRepeatedNames
+"Lucy cast a worried look at Jill in the wings,",-,BulliesRepeatedNames,110,35,10,259.59,262.1,Allison_BulliesRepeatedNames
+who assured Lucy with a positive thumbs up.,relative clause||,BulliesRepeatedNames,111,35,8,262.819999,265.14,Allison_BulliesRepeatedNames
+Lucy thought to herself,-,BulliesRepeatedNames,112,36,4,265.819999,267.06,Allison_BulliesRepeatedNames
+that she could not go through with this,complementizer,BulliesRepeatedNames,113,36,8,267.018208,268.619999,Allison_BulliesRepeatedNames
+"and that she,",conjunction,BulliesRepeatedNames,114,36,3,268.88,269.75,Allison_BulliesRepeatedNames
+"unlike her older sister,",nonrestrictive clause,BulliesRepeatedNames,115,36,4,269.759999,271.16,Allison_BulliesRepeatedNames
+was not confident enough,-,BulliesRepeatedNames,116,36,4,271.4,272.63,Allison_BulliesRepeatedNames
+to put herself before the judging audience.,infinitive phrase||,BulliesRepeatedNames,117,36,7,272.57,274.81,Allison_BulliesRepeatedNames
+The crowd looked up at Lucy,-,BulliesRepeatedNames,118,37,6,276.020513,277.460513,Allison_BulliesRepeatedNames
+and Lucy was ready,conjunction,BulliesRepeatedNames,119,37,4,277.42,278.374109,Allison_BulliesRepeatedNames
+to run,infinitive phrase,BulliesRepeatedNames,120,37,2,278.33,278.9,Allison_BulliesRepeatedNames
+when the first notes of the music sounded out,relative clause,BulliesRepeatedNames,121,37,9,278.84,281.07,Allison_BulliesRepeatedNames
+and a sudden calm settled over her.,conjunction||,BulliesRepeatedNames,122,37,7,281.25,283.29,Allison_BulliesRepeatedNames
+"Lucy closed her eyes and shut everything out,",-,BulliesRepeatedNames,123,38,8,284.08,286.4,Allison_BulliesRepeatedNames
+"including the audience, the nerves",nonrestrictive clause,BulliesRepeatedNames,124,38,5,287.12,289.1,Allison_BulliesRepeatedNames
+that threatened ,relative clause,BulliesRepeatedNames,125,38,3,289.04,289.38,Allison_BulliesRepeatedNames
+"to take over,",infinitive phrase,BulliesRepeatedNames,126,38,3,289.32,290.1,Allison_BulliesRepeatedNames
+"the text messages, and the way",-,BulliesRepeatedNames,127,38,6,290.76,293.08,Allison_BulliesRepeatedNames
+they made her feel.,relative clause (that...)||,BulliesRepeatedNames,128,38,4,293.046441,293.95,Allison_BulliesRepeatedNames
+"It was just Lucy and the music,",-,BulliesRepeatedNames,129,39,7,294.54,296.18,Allison_BulliesRepeatedNames
+and it was a love story,conjunction,BulliesRepeatedNames,130,39,6,296.149999,297.289999,Allison_BulliesRepeatedNames
+that had been going on her whole life.,relative clause||,BulliesRepeatedNames,131,39,8,297.230611,299.170611,Allison_BulliesRepeatedNames
+"Lucy began to sing,",-,BulliesRepeatedNames,132,40,4,299.68,300.96,Allison_BulliesRepeatedNames
+and all the pain and confusion,conjunction,BulliesRepeatedNames,133,40,6,301.729999,303.299999,Allison_BulliesRepeatedNames
+that the messages had been causing inside Lucy,relative clause,BulliesRepeatedNames,134,40,8,303.279999,306.269999,Allison_BulliesRepeatedNames
+just flowed out.,conjunction cont.||,BulliesRepeatedNames,135,40,3,306.21,307.25,Allison_BulliesRepeatedNames
+"The words were not important,",-,BulliesRepeatedNames,136,41,5,307.98,309.49,Allison_BulliesRepeatedNames
+for it was the feeling behind them,conjunction,BulliesRepeatedNames,137,41,7,309.82,311.29,Allison_BulliesRepeatedNames
+that Lucy latched onto.,relative clause||,BulliesRepeatedNames,138,41,4,311.23,312.52,Allison_BulliesRepeatedNames
+Lucy was in the heart of the song,-,BulliesRepeatedNames,139,42,8,313.07,314.749999,Allison_BulliesRepeatedNames
+with the rest of the world slipping away.,nonfinite clause||,BulliesRepeatedNames,140,42,8,314.98,316.91,Allison_BulliesRepeatedNames
+When the song finished,relative clause,BulliesRepeatedNames,141,43,4,317.21,318.379999,Allison_BulliesRepeatedNames
+"and the last note died away,",conjunction,BulliesRepeatedNames,142,43,6,318.45,319.92,Allison_BulliesRepeatedNames
+Lucy opened her eyes.,||,BulliesRepeatedNames,143,43,4,320.689999,322.089999,Allison_BulliesRepeatedNames
+To see the whole audience on their feet and the hall filled with cheers and applause,infinitive phrase,BulliesRepeatedNames,144,44,16,322.609999,326.79,Allison_BulliesRepeatedNames
+was not what Lucy had expected.,||,BulliesRepeatedNames,145,44,6,326.94,328.59,Allison_BulliesRepeatedNames
+Lucy allowed herself,-,BulliesRepeatedNames,146,45,3,329.04,330.09,Allison_BulliesRepeatedNames
+to enjoy the sense of achievement and belonging,infinitive phrase,BulliesRepeatedNames,147,45,8,330.03,332.51,Allison_BulliesRepeatedNames
+that she had not felt in a very long time.,relative clause||,BulliesRepeatedNames,148,45,10,332.69,334.9,Allison_BulliesRepeatedNames
+"Then Lucy saw her mother,",-,BulliesRepeatedNames,149,46,5,336.01,337.82,Allison_BulliesRepeatedNames
+"who was cheering the loudest of all in the crowd,",relative clause,BulliesRepeatedNames,150,46,10,338.29,340.47,Allison_BulliesRepeatedNames
+"and Jill,",conjunction,BulliesRepeatedNames,151,46,2,340.769999,341.47,Allison_BulliesRepeatedNames
+who was beaming at her with pride from the wings.,relative clause||,BulliesRepeatedNames,152,46,10,341.689999,344.02,Allison_BulliesRepeatedNames
+Lucy knew she owed them big time for reminding her,-,BulliesRepeatedNames,153,47,10,345.12,347.96,Allison_BulliesRepeatedNames
+what she was capable of,complementizer,BulliesRepeatedNames,154,47,5,347.935938,349.32,Allison_BulliesRepeatedNames
+and who she really was.,complementizer||,BulliesRepeatedNames,155,47,5,350.19,351.51,Allison_BulliesRepeatedNames
+The next time Lucy's phone bleeped,positioning element,BulliesRepeatedNames,156,48,6,352.09,354.04,Allison_BulliesRepeatedNames
+Lucy would tap the message straight into oblivion,-,BulliesRepeatedNames,157,48,8,354.91,358.36,Allison_BulliesRepeatedNames
+where it belonged.,relative clause||,BulliesRepeatedNames,158,48,3,358.339999,359.32,Allison_BulliesRepeatedNames

@@ -1,0 +1,111 @@
+segment,reason,narrative,segID,sentID,Nwords
+"Long, long ago,",positioning element - positioning element - generic convention,FairyTree,1,1,3
+"on an island in the sea,",positioning element,FairyTree,2,1,6
+lived a family of seven sisters.,||,FairyTree,3,1,6
+"The oldest girl ruled the household,",-,FairyTree,4,2,6
+and her sisters obeyed her commands.,conjunction||,FairyTree,5,2,6
+"Flora, the youngest sister,",nonrestrictive clause,FairyTree,6,3,4
+was sent to the forest each day,-,FairyTree,7,3,7
+to gather wood for the kitchen fire.,infinitive clause||,FairyTree,8,3,7
+Near the edge of the forest,positioning element,FairyTree,9,4,6
+was a cave under some rocks.,||,FairyTree,10,4,6
+A stream of water fell over the rocks into a basin in the cave.,||,FairyTree,11,5,14
+"This was a delightfully cool spot,",-,FairyTree,12,6,6
+and Flora often rested here on her way home,conjunction,FairyTree,13,6,9
+after gathering wood in the forest.,nonfinite clause||,FairyTree,14,6,6
+She would lie on the mossy bank of the stream for hours and dream.,||,FairyTree,15,7,14
+One morning,positioning element,FairyTree,16,8,2
+"as Flora ran along the grassy path that led to the cave,",nonrestrictive clause,FairyTree,17,8,12
+she saw a little fish in the stream.,||,FairyTree,18,8,8
+Its scales flashed out all the colors of the rainbow.,||,FairyTree,19,9,10
+"""I am going to keep the fish for a pet,"" said the girl to herself.",||,FairyTree,20,10,15
+"""I will call him Rainbow.""",||,FairyTree,21,11,5
+"So, she caught the pretty fish and put him into the basin in the cave.",||,FairyTree,22,12,15
+The next day,positioning element,FairyTree,23,13,3
+Flora went to the forest for wood.,||,FairyTree,24,13,7
+She carried some crumbs of bread,-,FairyTree,25,14,6
+which she had saved from her breakfast.,relative clause||,FairyTree,26,14,7
+On the way home she stopped at the cave.,||,FairyTree,27,15,9
+The fish was waiting for her.,||,FairyTree,28,16,6
+"He came to the edge of the basin,",-,FairyTree,29,17,8
+and she fed the crumbs to him.,conjunction||,FairyTree,30,17,7
+How delighted the girl was!,||,FairyTree,31,18,5
+"She had been so lonely,",-,FairyTree,32,19,5
+and now she had a playfellow!,conjunction||,FairyTree,33,19,6
+"Every morning,",positioning element,FairyTree,34,20,2
+"instead of eating the bread which her sister gave to her,",nonrestrictive clause,FairyTree,35,20,11
+Flora would save it and feed the crumbs to her pet.,||,FairyTree,36,20,11
+The fish would leap,-,FairyTree,37,21,4
+to catch them.,infinitive phrase||,FairyTree,38,21,3
+"""Here are some crumbs, Rainbow,"" she would say.",||,FairyTree,39,22,8
+"""This is all today,",-,FairyTree,40,23,4
+"but I will come again tomorrow.""",conjunction||,FairyTree,41,23,6
+Then she would sing a little song.,||,FairyTree,42,24,7
+"Flora began to grow thin,",-,FairyTree,43,25,5
+and her sisters wondered,conjunction,FairyTree,44,25,4
+what could be the matter.,complementizer||,FairyTree,45,25,5
+One day,positioning element,FairyTree,46,26,2
+the oldest sister followed her to the cave and saw her feed the crumbs of bread to the fish.,||,FairyTree,47,26,19
+"While Flora was away in the forest,",relative clause,FairyTree,48,27,7
+"the oldest sister caught the fish, carried him home and baked him for supper.",||,FairyTree,49,27,14
+The bones were buried under the kitchen fire.,||,FairyTree,50,28,8
+"The next morning,",positioning element,FairyTree,51,29,3
+"Flora went to the cave as usual,",-,FairyTree,52,29,7
+but no fish was there.,conjunction||,FairyTree,53,29,5
+"She sang her little song,",-,FairyTree,54,30,5
+and he still did not come.,conjunction||,FairyTree,55,30,6
+"""Rainbow cannot be dead,"" she said,",-,FairyTree,56,31,6
+"""for I do not see him in the water.""",conjunction||,FairyTree,57,31,9
+Then Flora hastened home.,||,FairyTree,58,32,4
+She threw herself upon her bed and was soon fast asleep.,||,FairyTree,59,33,11
+"The following morning,",positioning element,FairyTree,60,34,3
+"a rooster flew up to Flora's window and crowed, ""Cock-a-doodle-doodle-doo!",||,FairyTree,61,34,10
+"The bones of Rainbow wait for you, Under the kitchen fire, too.""",||,FairyTree,62,35,12
+Flora arose at once and went downstairs.,||,FairyTree,63,36,7
+"There, under the kitchen fire,",nonrestrictive clause,FairyTree,64,37,5
+she found the bones of her pet.,||,FairyTree,65,37,7
+She wept as she gathered the bones and placed them in a box.,||,FairyTree,66,38,13
+She went to the forest and buried the box near the cave.,||,FairyTree,67,39,12
+Then Flora sat down on a mossy bank near the cave and sang this song:,||,FairyTree,68,40,15
+"""Rainbow, Rainbow, hear my cry,",||,FairyTree,69,41,5
+My great wish do not deny.,||,FairyTree,70,42,6
+If you can't come back to me,-,FairyTree,71,43,7
+"Pray, O pray, become a tree!""","conjunction (if, then...)||",FairyTree,72,43,6
+"As the last words of the song echoed through the cave,",positioning element,FairyTree,73,44,11
+there sprang up a wonderful Fairy Tree beside the girl.,||,FairyTree,74,44,10
+Its trunk was of ivory.,||,FairyTree,75,45,5
+Its leaves were of silver fringed with pearls.,||,FairyTree,76,46,8
+"Its flowers were gold, and its fruit gems",-,FairyTree,77,47,8
+from which sparkled the bright colors of the rainbow.,relative clause||,FairyTree,78,47,9
+One day,positioning element,FairyTree,79,48,2
+the summer breeze carried a leaf from the Fairy Tree,-,FairyTree,80,48,10
+across the sea to another island.,positioning element||,FairyTree,81,48,6
+It fell at the feet of the king.,||,FairyTree,82,49,8
+He picked up the wonderful leaf,-,FairyTree,83,50,6
+"and said, ""I shall never rest until I find the tree from which this leaf came.""",quotation||,FairyTree,84,50,16
+The king set sail with his attendants.,||,FairyTree,85,51,7
+He soon landed on the island,-,FairyTree,86,52,6
+where the seven sisters lived.,relative clause||,FairyTree,87,52,5
+"As the king and his men were marching through the forest,",nonrestrictive clause,FairyTree,88,53,11
+they found the Fairy Tree,-,FairyTree,89,53,5
+growing at the entrance to the cave.,nonfinite clause||,FairyTree,90,53,7
+The king tried,-,FairyTree,91,54,3
+"to pick some of the leaves,",infinitive phrase,FairyTree,92,54,6
+but he could not.,conjunction||,FairyTree,93,54,4
+Then he heard the sweet voice of a girl.,||,FairyTree,94,55,9
+"She was singing, ""Rainbow, Rainbow, speak to me!",||,FairyTree,95,56,8
+"Bend your branches, Fairy Tree!""",||,FairyTree,96,57,5
+And Flora came,-,FairyTree,97,58,3
+tripping along the grassy path that led to the cave.,nonfinite clause||,FairyTree,98,58,10
+"The king said, ""Fair maiden, if you can pick a leaf or a flower from this tree,",-,FairyTree,99,59,17
+"you shall be my queen.""","conjunction (if, then...)||",FairyTree,100,59,5
+"As Flora reached to pick a flower,",nonrestrictive clause,FairyTree,101,60,7
+"the tree bowed low,",-,FairyTree,102,60,4
+and every leaf trembled with delight.,conjunction||,FairyTree,103,60,6
+The maiden at once presented the flower to the king.,||,FairyTree,104,61,10
+"As he took the flower,",nonrestrictive clause,FairyTree,105,62,5
+"the king exclaimed, ""To you belongs the Fairy Tree;",||,FairyTree,106,62,9
+"Pray be my bride and rule with me.""",||,FairyTree,107,63,8
+"Flora thought she must be dreaming,",-,FairyTree,108,64,6
+but they were married the next day,conjunction,FairyTree,109,64,7
+beneath the branches of the Fairy Tree.,positioning element||,FairyTree,110,64,7

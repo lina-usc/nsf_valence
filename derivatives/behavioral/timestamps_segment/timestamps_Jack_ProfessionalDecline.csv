@@ -1,0 +1,128 @@
+segment,reason,narrative,segID,sentID,Nwords,onset,offset,voice_narrative
+"""It's not true",-,ProfessionalDecline,1,1,3,9.22,9.978086,Jack_ProfessionalDecline
+"that no one needs you anymore.""",relative clause||,ProfessionalDecline,2,1,6,9.96,11.27,Jack_ProfessionalDecline
+These words came from an elderly woman,-,ProfessionalDecline,3,2,7,12.68,14.301924,Jack_ProfessionalDecline
+sitting behind me on a late-night flight,nonfinite clause,ProfessionalDecline,4,2,7,14.29,15.878172,Jack_ProfessionalDecline
+"from Los Angeles to Washington, D.C.",positioning element||,ProfessionalDecline,5,2,6,15.859999,17.819999,Jack_ProfessionalDecline
+The plane was dark and quiet.,||,ProfessionalDecline,6,3,6,18.712527,20.282527,Jack_ProfessionalDecline
+"A man I assumed to be her husband murmured almost inaudibly in response,",-,ProfessionalDecline,7,4,13,21.3,24.72,Jack_ProfessionalDecline
+"something to the effect of ""I wish I was dead.""",nonrestrictive clause||,ProfessionalDecline,8,4,10,25.45,28.51,Jack_ProfessionalDecline
+"Again, the woman: ""Oh, stop saying that.""",||,ProfessionalDecline,9,5,7,29.81,32.94,Jack_ProfessionalDecline
+I didn't mean,-,ProfessionalDecline,10,6,3,34.8,35.284828,Jack_ProfessionalDecline
+to eavesdrop but couldn't help it.,infinitive phrase||,ProfessionalDecline,11,6,6,35.270367,37.34,Jack_ProfessionalDecline
+"I listened with morbid fascination,",-,ProfessionalDecline,12,7,5,37.86,39.61,Jack_ProfessionalDecline
+forming an image of the man in my head,nonfinite clause,ProfessionalDecline,13,7,9,40.22,41.676587,Jack_ProfessionalDecline
+as they talked.,conjunction||,ProfessionalDecline,14,7,3,41.66,42.43,Jack_ProfessionalDecline
+I imagined someone,-,ProfessionalDecline,15,8,3,43.46,44.23,Jack_ProfessionalDecline
+"who had worked hard all his life in relative obscurity,",relative clause,ProfessionalDecline,16,8,10,44.250644,47.489999,Jack_ProfessionalDecline
+someone with unfulfilled dreams-,nonrestrictive clause,ProfessionalDecline,17,8,4,48.0,49.572291,Jack_ProfessionalDecline
+"perhaps of the degree he never attained, the career he never pursued, the company he never started.",nonrestrictive clause||,ProfessionalDecline,18,8,17,50.09,55.71,Jack_ProfessionalDecline
+"At the end of the flight,",positioning element,ProfessionalDecline,19,9,6,57.18,58.18,Jack_ProfessionalDecline
+"as the lights switched on,",nonrestrictive clause,ProfessionalDecline,20,9,5,58.2,59.27,Jack_ProfessionalDecline
+I finally got a look at the desolate man.,||,ProfessionalDecline,21,9,9,59.28,61.27,Jack_ProfessionalDecline
+I was shocked.,||,ProfessionalDecline,22,10,3,62.31,63.03,Jack_ProfessionalDecline
+I recognized him-,||,ProfessionalDecline,23,11,3,63.609999,64.669569,Jack_ProfessionalDecline
+"he was, and still is, world-famous.",||,ProfessionalDecline,24,12,6,65.14,67.77,Jack_ProfessionalDecline
+"Then in his mid-80s,",nonrestrictive clause,ProfessionalDecline,25,13,4,68.66,69.74,Jack_ProfessionalDecline
+"he was beloved as a hero for his courage, patriotism, and accomplishments many decades ago.",||,ProfessionalDecline,26,13,15,69.96,75.28,Jack_ProfessionalDecline
+"As he walked up the aisle of the plane behind me,",conjunction,ProfessionalDecline,27,14,11,76.62,78.59,Jack_ProfessionalDecline
+other passengers greeted him with veneration.,||,ProfessionalDecline,28,14,6,79.15,81.19,Jack_ProfessionalDecline
+"Standing at the door of the cockpit,",nonfinite clause,ProfessionalDecline,29,15,7,81.67,83.1,Jack_ProfessionalDecline
+the pilot stopped him,-,ProfessionalDecline,30,15,4,83.18,84.495593,Jack_ProfessionalDecline
+"and said, ""Sir, I have admired you since I was a little boy.""",quotation||,ProfessionalDecline,31,15,13,85.17526,87.58,Jack_ProfessionalDecline
+The older man-,-,ProfessionalDecline,32,16,3,88.589999,89.282183,Jack_ProfessionalDecline
+apparently wishing for death just a few minutes earlier-,nonrestrictive clause,ProfessionalDecline,33,16,9,89.279999,91.668247,Jack_ProfessionalDecline
+beamed with pride at the recognition of his past glories.,||,ProfessionalDecline,34,16,10,92.03,94.6,Jack_ProfessionalDecline
+"For selfish reasons,",nonrestrictive clause,ProfessionalDecline,35,17,3,96.51,97.55,Jack_ProfessionalDecline
+I couldn't get the cognitive dissonance of that scene out of my mind.,||,ProfessionalDecline,36,17,13,97.96,100.649999,Jack_ProfessionalDecline
+"It was the summer of 2015,",positioning element,ProfessionalDecline,37,18,6,101.35,103.005667,Jack_ProfessionalDecline
+shortly after my 51st birthday.,||,ProfessionalDecline,38,18,5,103.45,105.209999,Jack_ProfessionalDecline
+"I was not world-famous like the man on the plane,",-,ProfessionalDecline,39,19,10,106.099999,108.21,Jack_ProfessionalDecline
+but my professional life was going very well.,conjunction||,ProfessionalDecline,40,19,8,108.689999,111.14,Jack_ProfessionalDecline
+"I was the president of a flourishing Washington think tank,",-,ProfessionalDecline,41,20,10,112.1,114.54,Jack_ProfessionalDecline
+the American Enterprise Institute.,nonrestrictive clause||,ProfessionalDecline,42,20,4,115.01,116.54,Jack_ProfessionalDecline
+I had written some best-selling books.,||,ProfessionalDecline,43,21,6,117.29,119.04,Jack_ProfessionalDecline
+People came to my speeches.,||,ProfessionalDecline,44,22,5,119.8,121.12,Jack_ProfessionalDecline
+My columns were published in The New York Times.,||,ProfessionalDecline,45,23,9,121.56,123.54,Jack_ProfessionalDecline
+But I had started to wonder:,||,ProfessionalDecline,46,24,6,124.349999,125.829999,Jack_ProfessionalDecline
+Can I really keep this going?,||,ProfessionalDecline,47,25,6,126.859999,128.2,Jack_ProfessionalDecline
+I work like a maniac.,||,ProfessionalDecline,48,26,5,128.818543,130.22,Jack_ProfessionalDecline
+"But even if I stayed at it 12 hours a day, seven days a week,",conjunction,ProfessionalDecline,49,27,15,130.7,134.77,Jack_ProfessionalDecline
+at some point my career would slow and stop.,||,ProfessionalDecline,50,27,9,135.55,138.31,Jack_ProfessionalDecline
+"And when it did,",conjunction,ProfessionalDecline,51,28,4,138.779999,139.51,Jack_ProfessionalDecline
+what then?,||,ProfessionalDecline,52,28,2,140.01,140.64,Jack_ProfessionalDecline
+Would I one day be looking back wistfully and wishing I were dead?,||,ProfessionalDecline,53,29,13,141.689999,144.63,Jack_ProfessionalDecline
+"Was there anything I could do, starting now,",-,ProfessionalDecline,54,30,8,145.81,148.7,Jack_ProfessionalDecline
+to give myself a shot at avoiding misery-,infinitive phrase,ProfessionalDecline,55,30,8,149.28,151.406617,Jack_ProfessionalDecline
+and maybe even achieve happiness-,nonrestrictive clause,ProfessionalDecline,56,30,5,151.88,153.517922,Jack_ProfessionalDecline
+when the music inevitably stops?,relative clause||,ProfessionalDecline,57,30,5,154.05,155.74,Jack_ProfessionalDecline
+"Though these questions were personal,",nonrestrictive clause,ProfessionalDecline,58,31,5,157.42,158.82,Jack_ProfessionalDecline
+I decided,-,ProfessionalDecline,59,31,2,158.93,159.44693,Jack_ProfessionalDecline
+"to approach them as the social scientist I am,",infinitive phrase,ProfessionalDecline,60,31,9,159.41,161.489999,Jack_ProfessionalDecline
+treating them as a research project.,nonfinite clause||,ProfessionalDecline,61,31,6,162.04,163.7,Jack_ProfessionalDecline
+It felt unnatural-,||,ProfessionalDecline,62,32,3,164.3,165.375938,Jack_ProfessionalDecline
+like a surgeon taking out his own appendix.,||,ProfessionalDecline,63,33,8,165.88,167.8,Jack_ProfessionalDecline
+"But I plunged ahead,",-,ProfessionalDecline,64,34,4,168.4,169.65,Jack_ProfessionalDecline
+"and for the past four years,",conjunction / positioning element,ProfessionalDecline,65,34,6,169.68,170.98,Jack_ProfessionalDecline
+I have been on a quest,-,ProfessionalDecline,66,34,6,171.0,171.96,Jack_ProfessionalDecline
+to figure out how,infinitive phrase,ProfessionalDecline,67,34,4,171.939999,172.86,Jack_ProfessionalDecline
+to turn my eventual professional decline from a matter of dread into an opportunity for progress.,infinitive phrase||,ProfessionalDecline,68,34,16,172.83,178.49,Jack_ProfessionalDecline
+Here's what I've found.,||,ProfessionalDecline,69,35,4,179.49,180.54,Jack_ProfessionalDecline
+"The field of ""happiness studies"" has boomed over the past two decades,",-,ProfessionalDecline,70,36,12,181.85,185.61,Jack_ProfessionalDecline
+and a consensus has developed about well-being,conjunction,ProfessionalDecline,71,36,7,186.12,188.137544,Jack_ProfessionalDecline
+as we advance through life.,conjunction||,ProfessionalDecline,72,36,5,188.109999,189.31,Jack_ProfessionalDecline
+"In The Happiness Curve: Why Life Gets Better After 50,",positioning element,ProfessionalDecline,73,37,10,189.89,193.01,Jack_ProfessionalDecline
+"Jonathan Rauch,",-,ProfessionalDecline,74,37,2,193.54,194.39,Jack_ProfessionalDecline
+"a Brookings Institution scholar and an Atlantic contributing editor,",nonrestrictive clause,ProfessionalDecline,75,37,9,194.62,197.97,Jack_ProfessionalDecline
+reviews the strong evidence suggesting,-,ProfessionalDecline,76,37,5,198.48,200.169092,Jack_ProfessionalDecline
+"that the happiness of most adults declines through their 30s and 40s,",complementizer,ProfessionalDecline,77,37,12,200.16,203.25,Jack_ProfessionalDecline
+then bottoms out in their early 50s.,conjunction||,ProfessionalDecline,78,37,7,203.74,205.47,Jack_ProfessionalDecline
+"Nothing about this pattern is set in stone, of course.",||,ProfessionalDecline,79,38,10,206.56,208.9,Jack_ProfessionalDecline
+But the data seem eerily consistent with my experience:,||,ProfessionalDecline,80,39,9,209.52,212.68,Jack_ProfessionalDecline
+"My 40s and early 50s were not an especially happy period of my life,",-,ProfessionalDecline,81,40,14,213.399999,217.33,Jack_ProfessionalDecline
+notwithstanding my professional fortunes.,nonrestrictive clause||,ProfessionalDecline,82,40,4,217.81,219.76,Jack_ProfessionalDecline
+"So what can people expect after that,",-,ProfessionalDecline,83,41,7,220.78,222.28,Jack_ProfessionalDecline
+based on the data?,nonrestrictive clause||,ProfessionalDecline,84,41,4,222.29,223.21,Jack_ProfessionalDecline
+The news is mixed.,||,ProfessionalDecline,85,42,4,224.21,225.12,Jack_ProfessionalDecline
+Almost all studies of happiness over the life span show,-,ProfessionalDecline,86,43,10,226.2,228.93,Jack_ProfessionalDecline
+"that, in wealthier countries,",complementizer / nonrestrictive clause,ProfessionalDecline,87,43,4,228.91755,230.959999,Jack_ProfessionalDecline
+most people's contentment starts,-,ProfessionalDecline,88,43,4,231.479999,233.0,Jack_ProfessionalDecline
+"to increase again in their 50s, until age 70 or so.",infinitive phrase||,ProfessionalDecline,89,43,11,233.024472,236.35,Jack_ProfessionalDecline
+"That is where things get less predictable, however.",||,ProfessionalDecline,90,44,8,237.35,239.91,Jack_ProfessionalDecline
+"After 70, some people stay steady in happiness;",||,ProfessionalDecline,91,45,8,240.49,243.523155,Jack_ProfessionalDecline
+others get happier until death.,||,ProfessionalDecline,92,46,5,243.84,245.36,Jack_ProfessionalDecline
+Others-men in particular-,nonrestrictive clause,ProfessionalDecline,93,47,3,245.807992,248.006063,Jack_ProfessionalDecline
+see their happiness plummet.,||,ProfessionalDecline,94,47,4,248.39,249.649999,Jack_ProfessionalDecline
+"Indeed, depression and suicide rates for men increase after age 75.",||,ProfessionalDecline,95,48,11,250.14,254.14,Jack_ProfessionalDecline
+This last group would seem,-,ProfessionalDecline,96,49,5,255.21,256.53805,Jack_ProfessionalDecline
+to include the hero on the plane.,infinitive phrase||,ProfessionalDecline,97,49,7,256.51,258.03,Jack_ProfessionalDecline
+A few researchers have looked at this cohort,-,ProfessionalDecline,98,50,8,258.54,260.54,Jack_ProfessionalDecline
+to understand,infinitive phrase,ProfessionalDecline,99,50,2,260.54,261.19449,Jack_ProfessionalDecline
+what drives their unhappiness.,complementizer||,ProfessionalDecline,100,50,4,261.17,263.17,Jack_ProfessionalDecline
+"It is, in a word, irrelevance.",||,ProfessionalDecline,101,51,6,264.029999,267.03,Jack_ProfessionalDecline
+"In 2007, a team of academic researchers at UCLA and Princeton analyzed data on more than 1,000 older adults.",||,ProfessionalDecline,102,52,19,267.819999,274.81,Jack_ProfessionalDecline
+"Their findings,",-,ProfessionalDecline,103,53,2,275.57,276.3,Jack_ProfessionalDecline
+"published in the Journal of Gerontology,",nonrestrictive clause,ProfessionalDecline,104,53,6,276.62,278.36,Jack_ProfessionalDecline
+showed that senior citizens,complementizer,ProfessionalDecline,105,53,4,279.3,280.36977,Jack_ProfessionalDecline
+"who rarely or never ""felt useful""",relative clause,ProfessionalDecline,106,53,6,280.398692,282.89,Jack_ProfessionalDecline
+were nearly three times as likely as those,-,ProfessionalDecline,107,53,8,283.68,285.546806,Jack_ProfessionalDecline
+who frequently felt useful,relative clause,ProfessionalDecline,108,53,4,285.529999,286.940001,Jack_ProfessionalDecline
+to develop a mild disability and were more than three times as likely,infinitive phrase,ProfessionalDecline,109,53,13,286.910001,290.434622,Jack_ProfessionalDecline
+to have died during the course of the study.,infinitive phrase||,ProfessionalDecline,110,53,9,290.4,292.11,Jack_ProfessionalDecline
+One might think,-,ProfessionalDecline,111,54,3,293.09,294.07,Jack_ProfessionalDecline
+"that gifted and accomplished people,",complementizer,ProfessionalDecline,112,54,5,294.2,295.85,Jack_ProfessionalDecline
+"such as the man on the plane,",nonrestrictive clause,ProfessionalDecline,113,54,7,296.37,297.6,Jack_ProfessionalDecline
+would be less susceptible than others to this sense of irrelevance;,||,ProfessionalDecline,114,54,11,298.42,301.449999,Jack_ProfessionalDecline
+"after all, accomplishment is a well-documented source of happiness.",||,ProfessionalDecline,115,55,9,302.029999,305.821121,Jack_ProfessionalDecline
+"If current accomplishment brings happiness,",-,ProfessionalDecline,116,56,5,306.839999,308.71332,Jack_ProfessionalDecline
+then shouldn't the memory of that accomplishment provide some happiness as well?,conjunction||,ProfessionalDecline,117,56,12,309.39,312.85,Jack_ProfessionalDecline
+Maybe not.,||,ProfessionalDecline,118,57,2,313.95,314.62,Jack_ProfessionalDecline
+"Though the literature on this question is sparse,",nonrestrictive clause,ProfessionalDecline,119,58,8,315.52,317.447761,Jack_ProfessionalDecline
+ giftedness and achievements early in life do not appear,-,ProfessionalDecline,120,58,10,318.112966,321.729999,Jack_ProfessionalDecline
+to provide an insurance policy against suffering later on.,infinitive phrase||,ProfessionalDecline,121,58,9,321.699293,325.31,Jack_ProfessionalDecline
+"In 1999, Carole Holahan and Charles Holahan,",-,ProfessionalDecline,122,59,7,326.21,330.08667,Jack_ProfessionalDecline
+"0psychologists at the University of Texas,",nonrestrictive clause,ProfessionalDecline,123,59,6,330.6,332.669999,Jack_ProfessionalDecline
+published an influential paper in The International Journal of Aging and Human] Developmen,-,ProfessionalDecline,124,59,13,333.27,338.08,Jack_ProfessionalDecline
+that looked at hundreds of older adults,complementizer,ProfessionalDecline,125,59,7,338.58,340.44,Jack_ProfessionalDecline
+who early in life had been identified as highly gifted.,relative clause||,ProfessionalDecline,126,59,10,340.4,344.05,Jack_ProfessionalDecline
+"The Holahans' conclusion: ""Learning at a younger age of membership in a study of intellectual giftedness was related to... less favorable psychological well-being at age eighty.""",||,ProfessionalDecline,127,60,26,345.02,357.13,Jack_ProfessionalDecline

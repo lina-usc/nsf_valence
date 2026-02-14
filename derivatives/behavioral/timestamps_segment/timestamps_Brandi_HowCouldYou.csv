@@ -1,0 +1,125 @@
+segment,reason,narrative,segID,sentID,Nwords,onset,offset,voice_narrative
+"""When I was a puppy,",positioning element,HowCouldYou,1,1,5,5.58,6.496594,Brandi_HowCouldYou
+I made you laugh.,||,HowCouldYou,2,1,4,6.51,7.43,Brandi_HowCouldYou
+You called me your child,-,HowCouldYou,3,2,5,8.668366,9.82914,Brandi_HowCouldYou
+"and despite a number of chewed shoes,",conjunction / nonrestrictive clause,HowCouldYou,4,2,7,9.847862,11.476691,Brandi_HowCouldYou
+I became your best friend.,conjunction cont.||,HowCouldYou,5,2,5,11.47,12.749999,Brandi_HowCouldYou
+"Whenever I was ""bad,""",relative clause,HowCouldYou,6,3,4,13.96,15.37,Brandi_HowCouldYou
+"you'd shake your finger at me and ask ""How could you?""",conjunction / quotation||,HowCouldYou,7,3,11,15.47,18.09,Brandi_HowCouldYou
+- but then you'd relent and roll me over for a belly rub.,||,HowCouldYou,8,4,13,19.52,21.99,Brandi_HowCouldYou
+"My housetraining took longer than expected,",-,HowCouldYou,9,5,6,23.26,25.27,Brandi_HowCouldYou
+"because you were terribly busy,",conjunction,HowCouldYou,10,5,5,25.21,26.67,Brandi_HowCouldYou
+but we worked on that together.,conjunction||,HowCouldYou,11,5,6,27.43,28.83,Brandi_HowCouldYou
+I remember those nights,-,HowCouldYou,12,6,4,29.71,30.69,Brandi_HowCouldYou
+"of nuzzling you in bed,",nonfinite clause,HowCouldYou,13,6,5,30.68564,31.84,Brandi_HowCouldYou
+"listening to your confidences and secret dreams,",nonfinite clause,HowCouldYou,14,6,7,32.39,35.12,Brandi_HowCouldYou
+and I believed,conjunction,HowCouldYou,15,6,3,36.46,37.19,Brandi_HowCouldYou
+that life could not be more perfect.,complementizer||,HowCouldYou,16,6,7,37.15,39.33,Brandi_HowCouldYou
+"We went for long walks and runs in the park, car rides, stops for ice cream,",-,HowCouldYou,17,7,16,42.22,46.84,Brandi_HowCouldYou
+and I took long naps in the sun,conjunction,HowCouldYou,18,7,8,46.88,48.527869,Brandi_HowCouldYou
+waiting for you,nonfinite clause,HowCouldYou,19,7,3,48.5,49.014646,Brandi_HowCouldYou
+to come home at the end of the day.,infinitive clause||,HowCouldYou,20,7,9,48.986562,50.55,Brandi_HowCouldYou
+"Gradually, you began",-,HowCouldYou,21,8,3,52.21,53.376912,Brandi_HowCouldYou
+"spending more time at work and on your career,",nonfinite clause,HowCouldYou,22,8,9,53.359999,55.57,Brandi_HowCouldYou
+and more time searching for a human mate.,nonfinite clause||,HowCouldYou,23,8,8,55.62,57.59,Brandi_HowCouldYou
+"I waited for you patiently, comforted you through heartbreaks, never chided you about bad decisions, and romped with glee at your homecomings,",-,HowCouldYou,24,9,22,59.13,68.03,Brandi_HowCouldYou
+and when you fell in love.,conjunction||,HowCouldYou,25,9,6,69.24,70.509999,Brandi_HowCouldYou
+"She, now your wife,",nonrestrictive clause,HowCouldYou,26,10,4,72.099999,74.63,Brandi_HowCouldYou
+"is not a ""dog person""",||,HowCouldYou,27,10,5,75.61,77.2,Brandi_HowCouldYou
+"- still I welcomed her into our home, tried",-,HowCouldYou,28,11,9,78.22,81.956307,Brandi_HowCouldYou
+"to show her affection, and obeyed her.",infinitive phrase||,HowCouldYou,29,11,7,81.939999,83.87,Brandi_HowCouldYou
+I was happy,-,HowCouldYou,30,12,3,84.87,85.541603,Brandi_HowCouldYou
+because you were happy.,conjunction||,HowCouldYou,31,12,4,85.51,86.67,Brandi_HowCouldYou
+Then the human babies came along,-,HowCouldYou,32,13,6,87.96,89.65,Brandi_HowCouldYou
+and I shared your excitement.,conjunction||,HowCouldYou,33,13,5,89.609999,91.04,Brandi_HowCouldYou
+I was fascinated by their pinkness,-,HowCouldYou,34,14,6,92.33,94.27,Brandi_HowCouldYou
+"and I wanted to mother them, too.",conjunction||,HowCouldYou,35,14,7,95.02,96.64,Brandi_HowCouldYou
+Only she and you worried,-,HowCouldYou,36,15,5,97.74,99.293038,Brandi_HowCouldYou
+"that I might hurt them,",complementizer,HowCouldYou,37,15,5,99.27,100.32,Brandi_HowCouldYou
+"and I spent most of my time banished to another room, or to a dog crate.",conjunction||,HowCouldYou,38,15,16,101.2,105.02,Brandi_HowCouldYou
+"I wanted to love them,",-,HowCouldYou,39,16,5,105.92,107.129999,Brandi_HowCouldYou
+"but I became a ""prisoner of love.""",conjunction||,HowCouldYou,40,16,7,108.55,110.48,Brandi_HowCouldYou
+"As they began to grow,",conjunction,HowCouldYou,41,17,5,113.2,114.37,Brandi_HowCouldYou
+I became their friend.,||,HowCouldYou,42,17,4,114.35,115.58,Brandi_HowCouldYou
+"They clung to my fur and pulled themselves up on wobbly legs, poked fingers in my eyes, investigated my ears, and gave me kisses on my nose.",||,HowCouldYou,43,18,27,116.47,125.529999,Brandi_HowCouldYou
+"I loved everything about them,",-,HowCouldYou,44,19,5,126.99,128.73,Brandi_HowCouldYou
+especially their touch,nonrestrictive clause,HowCouldYou,45,19,3,128.72,130.19,Brandi_HowCouldYou
+- because your touch was now so infrequent,conjunction,HowCouldYou,46,19,8,131.44,133.83,Brandi_HowCouldYou
+- and I would have defended them with my life if need be.,conjunction||,HowCouldYou,47,19,13,134.819999,137.53,Brandi_HowCouldYou
+I would listen to their worries and secret dreams.,||,HowCouldYou,48,20,9,139.09,141.939999,Brandi_HowCouldYou
+Together we waited for the sound of your car in the driveway.,||,HowCouldYou,49,21,12,143.109999,145.98,Brandi_HowCouldYou
+"There had been a time,",positioning element,HowCouldYou,50,22,5,147.25,148.39,Brandi_HowCouldYou
+"when others asked you if you had a dog,",relative clause,HowCouldYou,51,22,9,149.66,151.48,Brandi_HowCouldYou
+that you produced a photo of me from your wallet and told them stories about me.,relative clause||,HowCouldYou,52,22,16,152.43,156.05,Brandi_HowCouldYou
+"These past few years,",positioning element,HowCouldYou,53,23,4,157.38,158.73,Brandi_HowCouldYou
+"you just answered ""yes"" and changed the subject.",||,HowCouldYou,54,23,8,158.779999,161.53,Brandi_HowCouldYou
+"I had gone from being your dog to ""just a dog,""",-,HowCouldYou,55,24,11,162.770561,167.000562,Brandi_HowCouldYou
+and you resented every expenditure on my behalf.,conjunction||,HowCouldYou,56,24,8,168.53699,171.23699,Brandi_HowCouldYou
+Now you have a new career opportunity in another city,-,HowCouldYou,57,25,10,173.854087,176.584087,Brandi_HowCouldYou
+and you and they will be moving to an apartment,conjunction,HowCouldYou,58,25,10,177.689999,179.732849,Brandi_HowCouldYou
+that doesn't allow pets.,relative clause||,HowCouldYou,59,25,4,179.72,181.0,Brandi_HowCouldYou
+"You've made the right decision for your ""family,""",-,HowCouldYou,60,26,8,182.14,184.36,Brandi_HowCouldYou
+but there was a time,conjunction,HowCouldYou,61,26,5,185.75,186.603886,Brandi_HowCouldYou
+when I was your only family.,relative clause||,HowCouldYou,62,26,6,186.57,188.09,Brandi_HowCouldYou
+I was excited about the car ride,-,HowCouldYou,63,27,7,189.43,190.928708,Brandi_HowCouldYou
+until we arrived at the animal shelter.,positioning element||,HowCouldYou,64,27,7,190.91,192.91,Brandi_HowCouldYou
+"It smelled of fear, of hopelessness.",||,HowCouldYou,65,28,6,194.019999,196.08,Brandi_HowCouldYou
+You filled out the paperwork,-,HowCouldYou,66,29,5,197.050858,198.305243,Brandi_HowCouldYou
+"and said ""I know you will find a good home for her.""",quotation||,HowCouldYou,67,29,12,198.259999,201.34,Brandi_HowCouldYou
+They shrugged and gave you a pained look.,||,HowCouldYou,68,30,8,202.53,204.51,Brandi_HowCouldYou
+They understand the realities facing a middle-aged dog or cat.,||,HowCouldYou,69,31,10,205.32,208.65,Brandi_HowCouldYou
+You had to pry your son's fingers loose from my collar,-,HowCouldYou,70,32,11,210.231267,212.871093,Brandi_HowCouldYou
+"as he screamed ""No, Daddy!",conjunction||,HowCouldYou,71,32,5,212.85,214.32,Brandi_HowCouldYou
+"Please don't let them take my dog!""",||,HowCouldYou,72,33,7,215.329999,217.19,Brandi_HowCouldYou
+And I worried for him,-,HowCouldYou,73,34,5,218.27,219.53,Brandi_HowCouldYou
+and what lessons you had just taught him about friendship and loyalty and about respect for all life.,conjunction / relative clause||,HowCouldYou,74,34,18,220.35,226.24,Brandi_HowCouldYou
+"You gave me a goodbye pat on the head, avoided my eyes, and politely refused",-,HowCouldYou,75,35,15,227.41822,232.491929,Brandi_HowCouldYou
+to take my collar and leash with you.,infinitive clause||,HowCouldYou,76,35,8,232.454485,234.149999,Brandi_HowCouldYou
+You had a deadline,-,HowCouldYou,77,36,4,235.169199,235.99,Brandi_HowCouldYou
+to meet,infinitive phrase,HowCouldYou,78,36,2,235.93,236.51,Brandi_HowCouldYou
+"and now I have one, too.",conjunction||,HowCouldYou,79,36,6,237.05,239.49,Brandi_HowCouldYou
+"After you left,",positioning element,HowCouldYou,80,37,3,240.66,241.64,Brandi_HowCouldYou
+the two ladies said,-,HowCouldYou,81,37,4,241.58,242.227458,Brandi_HowCouldYou
+you probably knew about your upcoming move months ago and made no attempt,complementizer (that...),HowCouldYou,82,37,13,242.23,245.609999,Brandi_HowCouldYou
+to find me another good home.,infinitive clause||,HowCouldYou,83,37,6,245.56,246.919999,Brandi_HowCouldYou
+They shook their heads,-,HowCouldYou,84,38,4,248.39,249.285717,Brandi_HowCouldYou
+"and asked ""How could you?""",quotation||,HowCouldYou,85,38,5,249.304439,250.81,Brandi_HowCouldYou
+They are as attentive to us here in the shelter,-,HowCouldYou,86,39,10,252.61,254.677702,Brandi_HowCouldYou
+as their busy schedules allow.,conjunction||,HowCouldYou,87,39,5,254.696425,256.19,Brandi_HowCouldYou
+"They feed us, of course,",-,HowCouldYou,88,40,5,257.13,258.39,Brandi_HowCouldYou
+but I lost my appetite days ago.,conjunction||,HowCouldYou,89,40,7,258.44,260.28,Brandi_HowCouldYou
+"At first, whenever anyone passed my pen,",positioning element,HowCouldYou,90,41,7,261.2,263.55,Brandi_HowCouldYou
+"I rushed to the front,",-,HowCouldYou,91,41,5,263.569999,264.87,Brandi_HowCouldYou
+hoping it was you,nonfinite clause,HowCouldYou,92,41,4,264.96,266.07,Brandi_HowCouldYou
+- that you had changed your mind -,complementizer,HowCouldYou,93,41,8,269.4,271.02,Brandi_HowCouldYou
+or I hoped,conjunction,HowCouldYou,94,41,3,272.76,273.493485,Brandi_HowCouldYou
+it would at least be someone,complementizer (that...),HowCouldYou,95,41,6,273.512207,274.65426,Brandi_HowCouldYou
+who cared.,relative clause||,HowCouldYou,96,41,2,274.68,275.36,Brandi_HowCouldYou
+When I realized,-,HowCouldYou,97,42,3,276.83,277.612363,Brandi_HowCouldYou
+"I could not compete with the attention of happy puppies,",complementizer (that...),HowCouldYou,98,42,10,277.63,280.2,Brandi_HowCouldYou
+"oblivious to their own fate,",nonrestrictive clause,HowCouldYou,99,42,5,280.21,281.87,Brandi_HowCouldYou
+I retreated to a corner and waited.,||,HowCouldYou,100,42,7,283.04,285.02,Brandi_HowCouldYou
+I heard her footsteps,-,HowCouldYou,101,43,4,286.48,287.59128,Brandi_HowCouldYou
+as she came for me,conjunction,HowCouldYou,102,43,5,287.610003,288.358889,Brandi_HowCouldYou
+"at the end of the day,",positioning element,HowCouldYou,103,43,6,288.349999,289.41,Brandi_HowCouldYou
+and I padded along the aisle after her,conjunction,HowCouldYou,104,43,8,289.46,291.81,Brandi_HowCouldYou
+to a separate room.,positioning element||,HowCouldYou,105,43,4,291.79,292.88,Brandi_HowCouldYou
+"She placed me on the table, rubbed my ears and told me",-,HowCouldYou,106,44,12,294.03,296.793228,Brandi_HowCouldYou
+not to worry.,infinitive clause||,HowCouldYou,107,44,3,296.793228,297.57,Brandi_HowCouldYou
+"My heart pounded in anticipation of what was to come,",-,HowCouldYou,108,45,10,298.68,301.32,Brandi_HowCouldYou
+but there was also a sense of relief.,conjunction||,HowCouldYou,109,45,8,302.2,304.009999,Brandi_HowCouldYou
+The prisoner of love had run out of days.,||,HowCouldYou,110,46,9,305.527121,307.48,Brandi_HowCouldYou
+She gently placed a tourniquet around my foreleg,-,HowCouldYou,111,47,8,308.95,311.256105,Brandi_HowCouldYou
+as a tear ran down her cheek.,conjunction||,HowCouldYou,112,47,7,311.24,312.75,Brandi_HowCouldYou
+She expertly slid the hypodermic needle into my vein.,||,HowCouldYou,113,48,9,313.7,316.62,Brandi_HowCouldYou
+"As I felt the sting and the cool liquid coursing through my body,",conjunction,HowCouldYou,114,49,13,317.729999,320.77,Brandi_HowCouldYou
+"I lay down sleepily, looked into her kind eyes",-,HowCouldYou,115,49,9,321.64,325.035624,Brandi_HowCouldYou
+"and murmured ""How could you?""",quotation||,HowCouldYou,116,49,5,325.054346,327.5,Brandi_HowCouldYou
+"Perhaps because she understood my dogspeak,",-,HowCouldYou,117,50,6,329.85,332.15,Brandi_HowCouldYou
+"she said ""I'm so sorry.""",quotation||,HowCouldYou,118,50,5,332.14,334.68,Brandi_HowCouldYou
+She hugged me and hurriedly explained,-,HowCouldYou,119,51,6,336.149999,338.047533,Brandi_HowCouldYou
+it was her job to make sure,complementizer (that...),HowCouldYou,120,51,7,338.029999,339.339363,Brandi_HowCouldYou
+"I went to a better place,",complementizer (that...),HowCouldYou,121,51,6,339.33,340.629999,Brandi_HowCouldYou
+"where I wouldn't be ignored or abused or abandoned, or have",relative clause,HowCouldYou,122,51,11,341.65,345.21,Brandi_HowCouldYou
+to fend for myself,infinitive phrase||,HowCouldYou,123,51,4,345.15,346.4,Brandi_HowCouldYou
+- a place of love and light so very different from this earthly place.,||,HowCouldYou,124,52,14,347.371175,352.26,Brandi_HowCouldYou

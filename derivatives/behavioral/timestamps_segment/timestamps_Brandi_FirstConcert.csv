@@ -1,0 +1,119 @@
+segment,reason,narrative,segID,sentID,Nwords,onset,offset,voice_narrative
+"The most popular teen band was coming to town,",-,FirstConcert,1,1,9,7.42,10.09,Brandi_FirstConcert
+and both Alex and his twin sister Amanda really wanted,conjunction,FirstConcert,2,1,10,10.03,13.521978,Brandi_FirstConcert
+to go to the concert.,infinitive phrase||,FirstConcert,3,1,5,13.49,14.72,Brandi_FirstConcert
+They had never been to a concert,-,FirstConcert,4,2,7,15.973555,17.553555,Brandi_FirstConcert
+because their parents' rule was,conjunction,FirstConcert,5,2,5,17.509999,18.961414,Brandi_FirstConcert
+that you must be in sixth grade to go to a concert.,complementizer||,FirstConcert,6,2,12,18.95,21.88,Brandi_FirstConcert
+Alex and Amanda were only in fifth grade.,||,FirstConcert,7,3,8,23.366591,25.78,Brandi_FirstConcert
+"""Please, Mom and Dad.",||,FirstConcert,8,4,4,27.779999,29.11,Brandi_FirstConcert
+"We will do anything if you let us go,"" they begged their parents.",quotation||,FirstConcert,9,5,13,29.06,33.670875,Brandi_FirstConcert
+"Their two older sisters had both been to concerts before,",-,FirstConcert,10,6,10,35.079999,38.04,Brandi_FirstConcert
+and always talked about how great it is,conjunction,FirstConcert,11,6,8,37.98,39.85,Brandi_FirstConcert
+to experience live music.,infinitive clause||,FirstConcert,12,6,4,39.838123,41.35,Brandi_FirstConcert
+"""Is there any possibility we can go?",||,FirstConcert,13,7,7,43.35,45.76,Brandi_FirstConcert
+The production is supposed,-,FirstConcert,14,8,4,46.73,47.978124,Brandi_FirstConcert
+to be amazing with lots of special effects.,infinitive phrase||,FirstConcert,15,8,8,47.939818,50.84,Brandi_FirstConcert
+It is going,quotation,FirstConcert,16,9,3,51.8,52.287537,Brandi_FirstConcert
+"to be the band's best show yet,",infinitive phrase,FirstConcert,17,9,7,52.287537,54.32,Brandi_FirstConcert
+and they aren't going,conjunction,FirstConcert,18,9,4,54.681655,55.600996,Brandi_FirstConcert
+"to tour again for three years,"" explained Alex with excitement.",infinitive phrase||,FirstConcert,19,9,10,55.581843,60.45,Brandi_FirstConcert
+"""All of our friends are going,"" added Amanda.",||,FirstConcert,20,10,8,62.35,65.81,Brandi_FirstConcert
+Their mom and dad said,-,FirstConcert,21,11,5,68.42,69.563492,Brandi_FirstConcert
+"they would think about it,",complementizer (that...),FirstConcert,22,11,5,69.59,70.829999,Brandi_FirstConcert
+and asked Alex and Amanda,conjunction,FirstConcert,23,11,5,71.325563,72.723728,Brandi_FirstConcert
+not to bring it up again until they had time,infinitive phrase,FirstConcert,24,11,10,72.69,74.830552,Brandi_FirstConcert
+to consider it.,infinitive phrase||,FirstConcert,25,11,3,74.8,75.7,Brandi_FirstConcert
+"Alex and Amanda agreed,",-,FirstConcert,26,12,4,77.492811,79.04,Brandi_FirstConcert
+and said,conjunction,FirstConcert,27,12,2,79.810317,80.22,Brandi_FirstConcert
+they would not pester their parents.,complementizer (that...)||,FirstConcert,28,12,6,80.17,81.936294,Brandi_FirstConcert
+It was very difficult for them though.,||,FirstConcert,29,13,7,83.27,85.134835,Brandi_FirstConcert
+"After about a week's time,",positioning element,FirstConcert,30,14,5,87.359999,88.812201,Brandi_FirstConcert
+their parents brought the subject of the concert up at dinner.,||,FirstConcert,31,14,11,88.769999,91.74,Brandi_FirstConcert
+They said,-,FirstConcert,32,15,2,93.52,93.926037,Brandi_FirstConcert
+they would reconsider their rule about,complementizer (that...),FirstConcert,33,15,6,93.93,95.688107,Brandi_FirstConcert
+having to be in the sixth grade with a couple of conditions.,nonfinite clause||,FirstConcert,34,15,12,95.68,98.94,Brandi_FirstConcert
+Alex and Amanda were thrilled.,||,FirstConcert,35,16,5,100.284814,102.28,Brandi_FirstConcert
+They both jumped up from the table,-,FirstConcert,36,17,7,103.319999,104.919826,Brandi_FirstConcert
+to hug their mom and dad.,infinitive clause||,FirstConcert,37,17,6,104.900673,106.38,Brandi_FirstConcert
+"""You are the best!"" they screamed",-,FirstConcert,38,18,6,107.519999,109.976204,Brandi_FirstConcert
+as they hugged their parents.,conjunction||,FirstConcert,39,18,5,109.96,111.431827,Brandi_FirstConcert
+"""Slow down,"" said their dad.",||,FirstConcert,40,19,5,113.08,115.44,Brandi_FirstConcert
+"""You haven't even heard the conditions yet.""",||,FirstConcert,41,20,7,116.27,118.539999,Brandi_FirstConcert
+Alex and Amanda listened patiently,-,FirstConcert,42,21,5,120.663546,122.77037,Brandi_FirstConcert
+as their dad went over the conditions.,conjunction||,FirstConcert,43,21,7,122.75,124.73,Brandi_FirstConcert
+"""First, work very hard",-,FirstConcert,44,22,4,126.620112,129.129147,Brandi_FirstConcert
+and get an A on your next book report.,conjunction||,FirstConcert,45,22,9,129.090842,131.31,Brandi_FirstConcert
+"Second, pay for the concert ticket yourself.",||,FirstConcert,46,23,7,132.53,136.26,Brandi_FirstConcert
+"Third, find a responsible adult",-,FirstConcert,47,24,5,137.979999,141.099737,Brandi_FirstConcert
+to drive and go to the concert with you,infinitive phrase,FirstConcert,48,24,9,141.09,143.244867,Brandi_FirstConcert
+"because Mom and I have a charity dinner that night.""",conjunction||,FirstConcert,49,24,10,144.12,146.859999,Brandi_FirstConcert
+Alex and Amanda smiled at each other,-,FirstConcert,50,25,7,149.31635,151.39,Brandi_FirstConcert
+because they knew,conjunction,FirstConcert,51,25,3,151.34,152.074374,Brandi_FirstConcert
+they could easily cover the first two conditions.,complementizer||,FirstConcert,52,25,8,152.02,154.76,Brandi_FirstConcert
+The only problem was finding an adult,-,FirstConcert,53,26,7,156.17,158.24,Brandi_FirstConcert
+to go to the concert with them.,infinitive phrase||,FirstConcert,54,26,7,158.189999,159.79,Brandi_FirstConcert
+"Then a thought occurred to Amanda,",-,FirstConcert,55,27,6,161.179999,163.18,Brandi_FirstConcert
+and she looked across the table at her oldest sister.,conjunction||,FirstConcert,56,27,10,163.12,165.89,Brandi_FirstConcert
+"""Andrea, you could go with us.",quotation||,FirstConcert,57,28,6,168.21,170.27,Brandi_FirstConcert
+You are 18 years old,quotation,FirstConcert,58,29,5,171.149999,172.472259,Brandi_FirstConcert
+"which makes you an adult,",relative clause / quotation,FirstConcert,59,29,5,172.45,173.769999,Brandi_FirstConcert
+"and you are responsible,"" Amanda said with a pleading look in her eyes.",conjunction / quotation||,FirstConcert,60,29,13,174.253483,180.37,Brandi_FirstConcert
+Andrea thought about it for a couple of minutes.,||,FirstConcert,61,30,9,182.24,184.72,Brandi_FirstConcert
+"Then she said, ""I guess I could help my youngest siblings out,",-,FirstConcert,62,31,12,185.69,190.96,Brandi_FirstConcert
+but I also have a condition.,conjunction||,FirstConcert,63,31,6,191.64,193.75,Brandi_FirstConcert
+I want you two,-,FirstConcert,64,32,4,195.189999,196.068686,Brandi_FirstConcert
+to pay for my ticket and a ticket for a friend of mine,infinitive phrase,FirstConcert,65,32,13,196.029999,199.018239,Brandi_FirstConcert
+"to go with us too.""",infinitive phrase||,FirstConcert,66,32,5,198.99,200.27,Brandi_FirstConcert
+Alex and Amanda thought,-,FirstConcert,67,33,4,202.580687,203.81,Brandi_FirstConcert
+that sounded reasonable.,complementizer||,FirstConcert,68,33,3,203.76,205.12,Brandi_FirstConcert
+They figured,-,FirstConcert,69,34,2,206.56,207.177394,Brandi_FirstConcert
+that Alex would mow a couple extra lawns,complementizer (that...),FirstConcert,70,34,8,207.196547,209.36,Brandi_FirstConcert
+"to make money,",infinitive phrase,FirstConcert,71,34,3,209.341676,210.11,Brandi_FirstConcert
+and Amanda would take on a couple more babysitting jobs.,conjunction||,FirstConcert,72,34,10,210.912218,214.06,Brandi_FirstConcert
+They immediately agreed to Andrea's stipulation.,||,FirstConcert,73,35,6,215.89,218.77,Brandi_FirstConcert
+The day of the concert had arrived.,||,FirstConcert,74,36,7,220.96,223.15,Brandi_FirstConcert
+"Andrea, Alex and Amanda got into the car and went",-,FirstConcert,75,37,10,224.13,227.32629,Brandi_FirstConcert
+to pick up Andrea's friend Renee.,infinitive phrase||,FirstConcert,76,37,6,227.279999,229.16,Brandi_FirstConcert
+Alex and Amanda weren't the only ones in the car,-,FirstConcert,77,38,10,230.869585,233.321162,Brandi_FirstConcert
+who were excited.,relative clause||,FirstConcert,78,38,3,233.302009,234.32,Brandi_FirstConcert
+"As they rode to the concert,",conjunction,FirstConcert,79,39,6,235.73,237.3,Brandi_FirstConcert
+they listened to the band's most recent release.,||,FirstConcert,80,39,8,237.956174,240.41,Brandi_FirstConcert
+Everyone was singing and having fun.,||,FirstConcert,81,40,6,241.17,243.38,Brandi_FirstConcert
+"When they got to the arena,",positioning element,FirstConcert,82,41,6,245.25,246.68,Brandi_FirstConcert
+they all went immediately to the concession stand,-,FirstConcert,83,41,8,247.264505,249.91,Brandi_FirstConcert
+to get some goodies,infinitive phrase,FirstConcert,84,41,4,249.89,250.94,Brandi_FirstConcert
+so they wouldn't have,conjunction,FirstConcert,85,41,4,250.89,251.688835,Brandi_FirstConcert
+to leave their seats during the show if their stomachs growled.,infinitive phrase||,FirstConcert,86,41,11,251.660001,254.769999,Brandi_FirstConcert
+They also stopped at another stand,-,FirstConcert,87,42,6,256.529999,258.296601,Brandi_FirstConcert
+to buy t-shirts.,infinitive phrase||,FirstConcert,88,42,3,258.25,259.5,Brandi_FirstConcert
+They were more than ready for the show.,||,FirstConcert,89,43,8,260.81,263.123143,Brandi_FirstConcert
+Andrea and Renee let Alex and Amanda have the seats with the best view.,||,FirstConcert,90,44,14,265.0,269.03,Brandi_FirstConcert
+They all settled in and waited for the band to start.,||,FirstConcert,91,45,11,270.88,273.6,Brandi_FirstConcert
+Alex and Amanda could hardly contain themselves,-,FirstConcert,92,46,7,275.112885,277.755992,Brandi_FirstConcert
+as the band took the stage.,conjunction||,FirstConcert,93,46,6,277.775145,279.46,Brandi_FirstConcert
+Then the music began.,||,FirstConcert,94,47,4,280.74,282.39,Brandi_FirstConcert
+It was so loud,-,FirstConcert,95,48,4,284.04,285.35971,Brandi_FirstConcert
+"that they couldn't hear each other talk,",relative clause,FirstConcert,96,48,7,285.35971,287.07,Brandi_FirstConcert
+but they didn't mind.,conjunction||,FirstConcert,97,48,4,287.96,289.170001,Brandi_FirstConcert
+Now they knew what their older sisters meant by,-,FirstConcert,98,49,9,290.580001,292.886817,Brandi_FirstConcert
+experiencing live music.,nonfinite clause||,FirstConcert,99,49,3,292.86,294.7,Brandi_FirstConcert
+It was amazing,-,FirstConcert,100,50,3,296.069999,297.19623,Brandi_FirstConcert
+"watching the band members play the piano, guitar and drums,",nonfinite clause,FirstConcert,101,50,10,297.16,300.74,Brandi_FirstConcert
+and hearing the elements of the music,nonfinite clause,FirstConcert,102,50,7,301.601407,303.349999,Brandi_FirstConcert
+coming together with the band's voices.,nonfinite clause||,FirstConcert,103,50,6,303.29,305.509999,Brandi_FirstConcert
+The band played all of Alex and Amanda's favorite songs.,||,FirstConcert,104,51,10,307.730349,310.830349,Brandi_FirstConcert
+"The show lasted for almost two hours,",-,FirstConcert,105,52,7,312.66,315.16,Brandi_FirstConcert
+and there were incredible special effects like they had never seen.,conjunction||,FirstConcert,106,52,11,316.00442,319.789999,Brandi_FirstConcert
+It was the most amazing experience,-,FirstConcert,107,53,6,321.29,323.41661,Brandi_FirstConcert
+Alex and Amanda had ever had.,relative clause (that...)||,FirstConcert,108,53,6,323.4,325.429999,Brandi_FirstConcert
+Andrea and Renee agreed,-,FirstConcert,109,54,4,327.629999,329.162493,Brandi_FirstConcert
+that it was a spectacular show too.,relative clause||,FirstConcert,110,54,7,329.181646,331.17,Brandi_FirstConcert
+"On the drive home,",positioning element,FirstConcert,111,55,4,333.359999,334.391247,Brandi_FirstConcert
+Alex and Amanda thanked Andrea and Renee over and over again,-,FirstConcert,112,55,11,334.37,338.221835,Brandi_FirstConcert
+for taking them.,nonfinite clause||,FirstConcert,113,55,3,338.22,339.179999,Brandi_FirstConcert
+"""You owe me,"" said Andrea with a laugh and a wink of her eye.",||,FirstConcert,114,56,14,341.12,345.35,Brandi_FirstConcert
+"""Me too,"" chimed in Renee.",||,FirstConcert,115,57,5,346.73,348.96,Brandi_FirstConcert
+The only bad part of the evening for all of them was,-,FirstConcert,116,58,12,350.7,353.793179,Brandi_FirstConcert
+that they would have to wait another three years,relative clause,FirstConcert,117,58,9,353.774026,356.34052,Brandi_FirstConcert
+to hear the band live again.,infinitive phrase||,FirstConcert,118,58,6,356.34052,358.08,Brandi_FirstConcert

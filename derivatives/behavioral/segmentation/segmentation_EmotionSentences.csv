@@ -1,0 +1,86 @@
+segment,reason,narrative,segID,sentID,Nwords
+The airplane is almost full.,||,EmotionSentences,1,1,5
+I think,-,EmotionSentences,2,2,2
+I've seen this before.,complementizer (that...)||,EmotionSentences,3,2,4
+The surface is slick.,||,EmotionSentences,4,3,4
+We'll stop in a couple of minutes.,-,EmotionSentences,5,4,7
+Don't forget a jacket.,||,EmotionSentences,6,4,4
+Can you hear me?,||,EmotionSentences,7,5,4
+I always enjoy,-,EmotionSentences,8,6,3
+when she visits.,relative clause||,EmotionSentences,9,6,3
+The mountains are supposed,-,EmotionSentences,10,7,4
+to be nice this time of year.,infinitive phrase||,EmotionSentences,11,7,7
+Have you ever tasted anything better?,||,EmotionSentences,12,8,6
+What makes you think,-,EmotionSentences,13,9,4
+you can yell at me?,complementizer (that...)||,EmotionSentences,14,9,5
+Why are you always,-,EmotionSentences,15,10,4
+testing my patience.,nonfinite clause||,EmotionSentences,16,10,3
+Do you think,-,EmotionSentences,17,11,3
+you can push me around?,complementizer (that...)||,EmotionSentences,18,11,5
+Don't ever speak to me that way.,||,EmotionSentences,19,12,7
+Quit bothering me.,||,EmotionSentences,20,13,3
+This microwave is useless.,||,EmotionSentences,21,14,4
+Have you seen him?,||,EmotionSentences,22,15,4
+I'm on my way to the meeting.,||,EmotionSentences,23,16,7
+I would like a new alarm clock.,||,EmotionSentences,24,17,7
+I regret,-,EmotionSentences,25,18,2
+that we broke up.,complementizer||,EmotionSentences,26,18,4
+If only I could go back.,||,EmotionSentences,27,19,6
+My brother is very sick.,||,EmotionSentences,28,20,5
+What could be better?,||,EmotionSentences,29,21,4
+He's always pleasant,-,EmotionSentences,30,22,3
+to be around.,infinitive phrase||,EmotionSentences,31,22,3
+That abandoned warehouse doesn't seem safe.,||,EmotionSentences,32,23,6
+The forest is eerie,-,EmotionSentences,33,24,4
+when no one's around.,relative clause||,EmotionSentences,34,24,4
+She shouldn't walk there at night.,||,EmotionSentences,35,25,6
+That was insulting.,||,EmotionSentences,36,26,3
+That noise is getting really annoying.,||,EmotionSentences,37,27,6
+I have been waiting in line for too long.,||,EmotionSentences,38,28,9
+I love,-,EmotionSentences,39,29,2
+spending time with you.,nonfinite clause||,EmotionSentences,40,29,4
+It's getting dark,-,EmotionSentences,41,30,3
+and I can't find my way back.,conjunction||,EmotionSentences,42,30,7
+I wish we didn't have,-,EmotionSentences,43,31,5
+to walk through the graveyard.,infinitive phrase||,EmotionSentences,44,31,5
+I felt so hopeless.,||,EmotionSentences,45,32,4
+Please forgive me.,||,EmotionSentences,46,33,3
+I'm so sorry for,-,EmotionSentences,47,34,4
+hurting you.,nonfinite clause||,EmotionSentences,48,34,2
+These words are creepy.,||,EmotionSentences,49,35,4
+I was terrified,-,EmotionSentences,50,36,3
+that night.,positioning element||,EmotionSentences,51,36,2
+That man looks suspicious.,||,EmotionSentences,52,37,4
+You look wonderful.,||,EmotionSentences,53,38,3
+They say,-,EmotionSentences,54,39,2
+he was a murderer.,complementizer (that...)||,EmotionSentences,55,39,4
+The soup is delicious.,||,EmotionSentences,56,40,4
+I think,-,EmotionSentences,57,41,2
+I have a doctor's appointment.,complementizer (that...)||,EmotionSentences,58,41,5
+I wonder,-,EmotionSentences,59,42,2
+what that is about.,complementizer||,EmotionSentences,60,42,4
+Maybe tomorrow it will be cold.,||,EmotionSentences,61,43,6
+I really enjoy our family vacations.,||,EmotionSentences,62,44,6
+I look forward to meeting you.,||,EmotionSentences,63,45,6
+That was a blast.,||,EmotionSentences,64,46,4
+We had so much fun,-,EmotionSentences,65,47,5
+last night.,positioning element||,EmotionSentences,66,47,2
+I'm not ready for the biopsy results.,||,EmotionSentences,67,48,7
+She never returned from the campout.,||,EmotionSentences,68,49,6
+I think,-,EmotionSentences,69,50,2
+someone's in here besides us.,complementizer||,EmotionSentences,70,50,5
+My dog died yesterday.,||,EmotionSentences,71,51,4
+I miss the trips,-,EmotionSentences,72,52,4
+we used to take.,relative clause||,EmotionSentences,73,52,4
+It's terrible,-,EmotionSentences,74,53,2
+that such a thing could happen.,relative clause||,EmotionSentences,75,53,6
+He never listens to me anymore.,||,EmotionSentences,76,54,6
+I miss the time,-,EmotionSentences,77,55,4
+we spent together.,relative clause||,EmotionSentences,78,55,3
+I can't seem,-,EmotionSentences,79,56,3
+to do well on my exams.,infinitive phrase||,EmotionSentences,80,56,6
+Don't raise your voice at me.,||,EmotionSentences,81,57,6
+I'm going,-,EmotionSentences,82,58,2
+to write a complaint.,infinitive phrase||,EmotionSentences,83,58,4
+I never want,-,EmotionSentences,84,59,3
+to see you again.,infinitive phrase||,EmotionSentences,85,59,4

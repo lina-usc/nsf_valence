@@ -1,0 +1,139 @@
+segment,reason,narrative,segID,sentID,Nwords
+"More people than ever are living long, healthy lives.",||,UserFriendly,1,1,9
+"According to the U.S. Department of Health and Human Services,",nonrestrictive clause,UserFriendly,2,2,10
+the average life expectancy is 78.6 years for men and 81.1 for women.,||,UserFriendly,3,2,13
+"More relevant, however, is that as people grow older,",nonrestrictive clause,UserFriendly,4,3,9
+their total life expectancy increases.,conjunction (then...)||,UserFriendly,5,3,5
+"So for those who are now 65,",nonrestrictive clause,UserFriendly,6,4,7
+the average life expectancy is 83 for men and over 85 for women.,||,UserFriendly,7,4,13
+"And because I'm 83,",-,UserFriendly,8,5,4
+I'm expected to live past 90,conjunction (then...),UserFriendly,9,5,6
+(but I'm aiming a lot higher than that).,conjunction||,UserFriendly,10,5,8
+"And these are averages,",-,UserFriendly,11,6,4
+which means that perhaps half of us will live even longer.,relative clause||,UserFriendly,12,6,11
+Those of us who are still active and healthy at advanced ages-,-,UserFriendly,13,7,12
+I qualify-,nonrestrictive clause,UserFriendly,14,7,2
+discover that we aren't quite as capable as our younger selves.,complementizer||,UserFriendly,15,7,11
+That doesn't mean that we aren't healthy and workable-,||,UserFriendly,16,8,9
+"I still have a very active job and travel on business around the world,",-,UserFriendly,17,9,14
+but I have to admit,conjunction,UserFriendly,18,9,5
+"that I'm getting slower and weaker,",complementizer,UserFriendly,19,9,6
+"with diminished eyesight, hearing, taste, touch, and, well, almost everything physical.",nonrestrictive clause||,UserFriendly,20,9,11
+"The number of active, healthy oldsters is large-and increasing.",||,UserFriendly,21,10,9
+We are not a niche market.,||,UserFriendly,22,11,6
+And businesses should take note:,||,UserFriendly,23,12,5
+"We are good customers,",-,UserFriendly,24,13,4
+often with more free time and discretionary income than younger people.,nonrestrictive clause||,UserFriendly,25,13,11
+Despite our increasing numbers the world seems,-,UserFriendly,26,14,7
+to be designed against the elderly.,infinitive phrase||,UserFriendly,27,14,6
+Everyday household goods require knives and pliers to open.,||,UserFriendly,28,15,9
+Containers with screw tops require more strength than my wife or I can muster.,||,UserFriendly,29,16,14
+(We solve this by using a plumber's wrench to turn the caps.),||,UserFriendly,30,17,12
+Companies insist on printing critical instructions in tiny fonts with very low contrast.,||,UserFriendly,31,18,13
+Labels cannot be read without flashlights and magnifying lenses.,||,UserFriendly,32,19,9
+"And when companies do design things specifically for the elderly,",-,UserFriendly,33,20,10
+they tend to be ugly devices,conjunction (then...),UserFriendly,34,20,6
+"that shout out to the world ""I'm old and can't function!""",relative clause / quotation||,UserFriendly,35,20,11
+We can do better.,||,UserFriendly,36,21,4
+What older consumers want and need,||,UserFriendly,37,22,6
+"As we age, we have more experience with life,",-,UserFriendly,38,23,9
+which can make us better decision-makers and managers.,relative clause||,UserFriendly,39,23,8
+"Crystalized intelligence, it is called,",-,UserFriendly,40,24,5
+and it gets better with experience.,conjunction||,UserFriendly,41,24,6
+A caveat is,-,UserFriendly,42,25,3
+that we often face physical changes,relative clause,UserFriendly,43,25,6
+that designers fail,relative clause,UserFriendly,44,25,3
+to account for into their work.,infinitive phrase||,UserFriendly,45,25,6
+Vision deteriorates.,||,UserFriendly,46,26,2
+"The lens of our eyes harden,",-,UserFriendly,47,27,6
+making focusing more difficult.,nonfinite clause||,UserFriendly,48,27,4
+I used to be able,-,UserFriendly,49,28,5
+"to read tiny text by holding it close to my eyes,",infinitive phrase,UserFriendly,50,28,11
+but my inability,conjunction,UserFriendly,51,28,3
+to focus at close distances,infinitive phrase,UserFriendly,52,28,5
+defeats that activity.,||,UserFriendly,53,28,3
+Floaters and debris start,-,UserFriendly,54,29,4
+"accumulating inside the eye,",nonfinite clause,UserFriendly,55,29,4
+"which scatters the light on its way to the retina,",relative clause,UserFriendly,56,29,10
+reducing contrast,nonfinite clause,UserFriendly,57,29,2
+"and making it more difficult to see small, low-contrast objects.",conjunction / nonfinite clause||,UserFriendly,58,29,10
+For the increasing number of people,-,UserFriendly,59,30,6
+"who have cataract surgery,",relative clause,UserFriendly,60,30,4
+"the eye's lenses have been replaced with plastic,",-,UserFriendly,61,30,8
+which usually have a fixed focus.,relative clause||,UserFriendly,62,30,6
+(Artificial lenses,-,UserFriendly,63,31,2
+that can be focused are under development.),relative clause||,UserFriendly,64,31,7
+"A flashlight has become an essential item,",-,UserFriendly,65,32,7
+"whether the one built into many phones or carried separately,",conjunction,UserFriendly,66,32,10
+because illumination makes tiny type easier,conjunction,UserFriendly,67,32,6
+to read,infinitive phrase,UserFriendly,68,32,2
+"although even then, a magnifying glass might be useful.",infinitive phrase||,UserFriendly,69,32,9
+Hearing decreases.,||,UserFriendly,70,33,2
+"High frequencies are first to go,",-,UserFriendly,71,34,6
+"which also tends to impair directional sensitivity,",relative clause,UserFriendly,72,34,7
+which in turn makes it more difficult,relative clause,UserFriendly,73,34,7
+"to attend to someone in a crowded, noisy environment.",infinitive phrase||,UserFriendly,74,34,9
+Loud restaurants are torture.,||,UserFriendly,75,35,4
+"So, more and more, my wife and I select restaurants by their noise level",-,UserFriendly,76,36,14
+rather than by their food quality.,conjunction||,UserFriendly,77,36,6
+"At home while watching TV,",nonfinite clause,UserFriendly,78,37,5
+"whether shows, streaming events, or movies,",nonrestrictive clause,UserFriendly,79,37,6
+"we always turn on the captions,",-,UserFriendly,80,37,6
+which often block critical parts of the image.,relative clause||,UserFriendly,81,37,8
+"Even worse,",nonrestrictive clause,UserFriendly,82,38,2
+when a film shows someone,-,UserFriendly,83,38,5
+"speaking in a foreign language,",nonfinite clause,UserFriendly,84,38,5
+"the film often translates the words,",conjunction,UserFriendly,85,38,6
+"but so too does the closed captioning,",conjunction,UserFriendly,86,38,7
+"and the two are placed on top of one another,",conjunction,UserFriendly,87,38,10
+making both attempts to help the viewer completely unhelpful.,nonfinite clause||,UserFriendly,88,38,9
+Bad design abounds,||,UserFriendly,89,39,3
+The problems I face are much milder,-,UserFriendly,90,40,7
+than those faced by millions of aging people.,relative clause||,UserFriendly,91,40,8
+"With so many of us needing better devices,",nonrestrictive clause,UserFriendly,92,41,8
+why are so many things still designed in ways,-,UserFriendly,93,41,9
+that defeat our ability to function?,relative clause||,UserFriendly,94,41,6
+Take the screen design for Apple's phones.,||,UserFriendly,95,42,7
+The designers at Apple apparently believe,-,UserFriendly,96,43,6
+"that text is ugly,",complementizer,UserFriendly,97,43,4
+so it should either be eliminated entirely or made as invisible as possible.,||,UserFriendly,98,43,13
+"Bruce Tognazzini and I,",-,UserFriendly,99,44,4
+"both former employees of Apple,",nonrestrictive clause,UserFriendly,100,44,5
+"wrote a long article on Apple's usability sins,",-,UserFriendly,101,44,8
+which has been read by hundreds of thousands of people.,relative clause||,UserFriendly,102,44,10
+Once Apple products could be used without ever reading a manual.,||,UserFriendly,103,45,11
+"Today, Apple's products violate all the fundamental rules of design for understanding and usability,",-,UserFriendly,104,46,14
+many of which Tognazzini and I had helped develop.,nonrestrictive clause||,UserFriendly,105,46,9
+"As a result, even a manual is not enough:",||,UserFriendly,106,47,9
+all the arbitrary gestures,-,UserFriendly,107,48,4
+"that control tablets, phones, and computers",relative clause,UserFriendly,108,48,6
+have to be memorized.,||,UserFriendly,109,48,4
+Everything has to be memorized.,||,UserFriendly,110,49,5
+"These thoughtless, inappropriate designs are not limited to Apple.",||,UserFriendly,111,50,9
+"New technologies tend to rely on display screens,",-,UserFriendly,112,51,8
+"often with tiny lettering,",nonrestrictive clause,UserFriendly,113,51,4
+with touch-sensitive areas,-,UserFriendly,114,51,3
+that are exceedingly difficult,relative clause,UserFriendly,115,51,4
+to hit as eye-hand coordination declines.,infinitive phrase||,UserFriendly,116,51,6
+Physical controls are by far the easiest to control-,-,UserFriendly,117,52,9
+"safer too,",nonrestrictive clause,UserFriendly,118,52,2
+"especially in safety-critical tasks such as driving a car,",nonrestrictive clause,UserFriendly,119,52,9
+but they are disappearing.,conjunction||,UserFriendly,120,52,4
+Why?,||,UserFriendly,121,53,1
+To save a few cents in manufacturing and in a misplaced desire,-,UserFriendly,122,54,12
+to be trendy.,infinitive phrase||,UserFriendly,123,54,3
+"Speech can be a useful substitute for physical controls,",-,UserFriendly,124,55,9
+though not as helpful as proponents claim.,conjunction||,UserFriendly,125,55,7
+Then there's the aesthetic problem.,||,UserFriendly,126,56,5
+"When products are developed for the elderly,",-,UserFriendly,127,57,7
+they tend to be ugly and an unwanted signal of fragility.,conjunction (then...)||,UserFriendly,128,57,11
+"As a result, people who need walkers or canes often resist.",||,UserFriendly,129,58,11
+"Once upon a time,",positioning element,UserFriendly,130,59,4
+a cane was stylish:,||,UserFriendly,131,59,4
+Today it is seen as a medical device.,||,UserFriendly,132,60,8
+"Why can't we have walkers and canes for everyday use,",-,UserFriendly,133,61,10
+"to help us in everyday life,",infinitive phrase,UserFriendly,134,61,6
+"to carry our packages, provide a way to sit when we are tired, or viewing some event,",infinitive phrase,UserFriendly,135,61,17
+"and yes, to maintain our balance?",conjunction||,UserFriendly,136,61,6
+"Make them items of pride, stylish enough",-,UserFriendly,137,62,7
+that everyone will want one.,relative clause||,UserFriendly,138,62,5

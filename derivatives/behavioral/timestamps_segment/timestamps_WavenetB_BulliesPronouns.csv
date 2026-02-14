@@ -1,0 +1,159 @@
+segment,reason,narrative,segID,sentID,Nwords,onset,offset,voice_narrative
+The text message said,-,BulliesPronouns,1,1,4,2.21,3.647968,WavenetB_BulliesPronouns
+that Lucy Josephs was a failure.,complementizer||,BulliesPronouns,2,1,6,3.63,6.04,WavenetB_BulliesPronouns
+It said,-,BulliesPronouns,3,2,2,6.716894,7.266985,WavenetB_BulliesPronouns
+"she was ugly, had no style and the world hated her.",complementizer||,BulliesPronouns,4,2,11,7.28,10.759999,WavenetB_BulliesPronouns
+At least that was what it said to her.,||,BulliesPronouns,5,3,9,11.45,13.869999,WavenetB_BulliesPronouns
+It said that and a whole lot more,-,BulliesPronouns,6,4,8,14.8,16.85014,WavenetB_BulliesPronouns
+that she was struggling to understand.,relative clause||,BulliesPronouns,7,4,6,16.85014,19.11,WavenetB_BulliesPronouns
+The actual text of the note said,-,BulliesPronouns,8,5,7,19.83,21.916763,WavenetB_BulliesPronouns
+"that she better not show up at the party tonight,",complementizer,BulliesPronouns,9,5,10,21.93,24.67,WavenetB_BulliesPronouns
+because it was going,conjunction,BulliesPronouns,10,5,4,24.67,25.738444,WavenetB_BulliesPronouns
+to be bad enough already!,infinitive phrase||,BulliesPronouns,11,5,5,25.738444,27.48,WavenetB_BulliesPronouns
+"Lucy, who had started receiving these messages a few weeks ago,",relative clause,BulliesPronouns,12,6,11,28.42,32.64,WavenetB_BulliesPronouns
+tapped the mobile screen,-,BulliesPronouns,13,6,4,32.64,34.089999,WavenetB_BulliesPronouns
+to make the message disappear from view.,infinitive clause||,BulliesPronouns,14,6,7,34.10561,36.55,WavenetB_BulliesPronouns
+She only wished,-,BulliesPronouns,15,7,3,37.27,38.245765,WavenetB_BulliesPronouns
+it was as easy,complementizer,BulliesPronouns,16,7,4,38.274717,39.22,WavenetB_BulliesPronouns
+to tap her heart and erase the trace the message had left there.,infinitive phrase||,BulliesPronouns,17,7,13,39.230137,42.98,WavenetB_BulliesPronouns
+"'Was that another one of those messages?' her mom asked,",-,BulliesPronouns,18,8,10,43.91,47.75,WavenetB_BulliesPronouns
+who was driving the car.,relative clause / positioning element||,BulliesPronouns,19,8,5,47.76,49.409999,WavenetB_BulliesPronouns
+She confirmed,-,BulliesPronouns,20,9,2,49.710809,50.55042,WavenetB_BulliesPronouns
+her mother's suspicion was founded,complementizer,BulliesPronouns,21,9,5,50.55042,52.490213,WavenetB_BulliesPronouns
+"as she answered dejectedly, 'I'm sorry to say it was.'",conjunction||,BulliesPronouns,22,9,10,52.49,56.10923,WavenetB_BulliesPronouns
+"'Haven't you reported it yet?' asked Jill,",-,BulliesPronouns,23,10,7,56.76,59.83,WavenetB_BulliesPronouns
+her older sister,nonrestrictive clause,BulliesPronouns,24,10,3,59.82,60.973188,WavenetB_BulliesPronouns
+who was sitting in the passenger seat.,relative clause||,BulliesPronouns,25,10,7,61.00214,63.12,WavenetB_BulliesPronouns
+"'Yes,' she replied,",-,BulliesPronouns,26,11,3,63.819999,65.36,WavenetB_BulliesPronouns
+lying through her teeth.,nonfinite clause||,BulliesPronouns,27,11,4,65.359999,66.769999,WavenetB_BulliesPronouns
+That she should not let the messages get to her,-,BulliesPronouns,28,12,10,67.13,69.687779,WavenetB_BulliesPronouns
+and that the sender was only jealous,conjunction / relative clause,BulliesPronouns,29,12,7,69.774635,71.829999,WavenetB_BulliesPronouns
+"were her mom's arguments,",-,BulliesPronouns,30,12,4,71.769999,73.31,WavenetB_BulliesPronouns
+in an effort,nonrestrictive clause,BulliesPronouns,31,12,3,73.29,74.04,WavenetB_BulliesPronouns
+to comfort her daughter.,infinitive phrase||,BulliesPronouns,32,12,4,74.0,75.38,WavenetB_BulliesPronouns
+"Her mom suddenly felt guilty,",-,BulliesPronouns,33,13,5,76.32,78.49,WavenetB_BulliesPronouns
+for she had been the one,conjunction,BulliesPronouns,34,13,6,78.47,79.77,WavenetB_BulliesPronouns
+to buy the phone for her,infinitive phrase,BulliesPronouns,35,13,6,79.734168,81.210727,WavenetB_BulliesPronouns
+just a couple of months ago.,positioning element - temporal information||,BulliesPronouns,36,13,6,81.210727,83.14,WavenetB_BulliesPronouns
+She then admitted,-,BulliesPronouns,37,14,3,84.09,85.06136,WavenetB_BulliesPronouns
+her regret about the phone was still bugging her out loud,complementizer,BulliesPronouns,38,14,11,85.090313,88.332951,WavenetB_BulliesPronouns
+"as she sighed, 'I never should have given you that phone Lucy.'",conjunction / quotation||,BulliesPronouns,39,14,12,88.339999,92.270441,WavenetB_BulliesPronouns
+"'No, it's fine. I love it,' she said,",-,BulliesPronouns,40,15,8,93.15,96.222407,WavenetB_BulliesPronouns
+knowing that,>minimal segment,BulliesPronouns,41,15,2,96.251359,96.830402,WavenetB_BulliesPronouns
+affording the phone had been no small thing for her mother.,nonfinite clause||,BulliesPronouns,42,15,11,96.87383,100.45,WavenetB_BulliesPronouns
+It had been nothing but trouble though.,||,BulliesPronouns,43,16,7,101.38,103.83,WavenetB_BulliesPronouns
+She did not know who it was,-,BulliesPronouns,44,17,7,104.16,105.88,WavenetB_BulliesPronouns
+"that was sending her the messages,",complementizer,BulliesPronouns,45,17,6,105.877943,107.7,WavenetB_BulliesPronouns
+and she did not know,conjunction,BulliesPronouns,46,17,5,107.7,108.860012,WavenetB_BulliesPronouns
+"how they had got her number,",relative clause,BulliesPronouns,47,17,6,108.87,110.47,WavenetB_BulliesPronouns
+"but whoever it was,",conjunction / relative clause,BulliesPronouns,48,17,4,110.47,111.61,WavenetB_BulliesPronouns
+he or she had slowly taken over her life.,||,BulliesPronouns,49,17,9,111.6,114.37,WavenetB_BulliesPronouns
+"She was getting several texts a day now,",-,BulliesPronouns,50,18,8,115.11,117.75,WavenetB_BulliesPronouns
+all of which were abusive and hurtful.,nonrestrictive clause||,BulliesPronouns,51,18,7,117.76,120.21,WavenetB_BulliesPronouns
+She wondered,-,BulliesPronouns,52,19,2,120.875146,121.656854,WavenetB_BulliesPronouns
+what the person,complementizer,BulliesPronouns,53,19,3,121.66,122.53,WavenetB_BulliesPronouns
+who was messaging her,relative clause,BulliesPronouns,54,19,4,122.525418,123.640075,WavenetB_BulliesPronouns
+might be thinking or trying,-,BulliesPronouns,55,19,5,123.640075,125.174538,WavenetB_BulliesPronouns
+to achieve with all of their hateful messages.,infinitive clause||,BulliesPronouns,56,19,8,125.174538,127.92,WavenetB_BulliesPronouns
+"As the car pulled up outside the school,",-,BulliesPronouns,57,20,8,128.88,131.34,WavenetB_BulliesPronouns
+"which looked like a large shadow in the darkness of a November evening,",relative clause,BulliesPronouns,58,20,13,131.34,135.4,WavenetB_BulliesPronouns
+she felt a shiver run down her spine.,||,BulliesPronouns,59,20,8,135.42,138.01,WavenetB_BulliesPronouns
+"Hastened by Jill,",-,BulliesPronouns,60,21,3,138.729999,140.049999,WavenetB_BulliesPronouns
+"who did not want to be late to her own concert,",relative clause,BulliesPronouns,61,21,11,140.05,142.91,WavenetB_BulliesPronouns
+she hesitantly stepped out of the car and walked toward the school.,||,BulliesPronouns,62,21,12,142.910001,146.63,WavenetB_BulliesPronouns
+It was Jill,-,BulliesPronouns,63,22,3,147.55,148.44,WavenetB_BulliesPronouns
+who in her final year of high school,relative clause / nonrestrictive clause,BulliesPronouns,64,22,8,148.437575,150.637937,WavenetB_BulliesPronouns
+"had become involved in helping organize this year's school talent show,",relative clause cont.,BulliesPronouns,65,22,11,150.64,155.119999,WavenetB_BulliesPronouns
+and she took her position very seriously.,conjunction||,BulliesPronouns,66,22,7,155.12,157.94,WavenetB_BulliesPronouns
+"She hurried behind Jill,",-,BulliesPronouns,67,23,4,158.67,160.41,WavenetB_BulliesPronouns
+"pulling on the worn, oversized coat",nonfinite clause,BulliesPronouns,68,23,6,160.429999,162.69,WavenetB_BulliesPronouns
+"that had originally belonged to Jill,",relative clause,BulliesPronouns,69,23,6,162.660001,164.87,WavenetB_BulliesPronouns
+in order to keep her dry,infinitive clause,BulliesPronouns,70,23,6,164.86,166.474752,WavenetB_BulliesPronouns
+as the raindrops fell all around them.,conjunction||,BulliesPronouns,71,23,7,166.46,168.93,WavenetB_BulliesPronouns
+As the sisters entered the hall,-,BulliesPronouns,72,24,6,169.89,171.819999,WavenetB_BulliesPronouns
+"where the show was to take place,",relative clause / positioning element,BulliesPronouns,73,24,7,171.801945,173.78,WavenetB_BulliesPronouns
+Jill filled with excitement,positioning element - novel information,BulliesPronouns,74,24,4,173.8,175.420961,WavenetB_BulliesPronouns
+while she regretted,conjunction,BulliesPronouns,75,24,3,175.439999,176.434285,WavenetB_BulliesPronouns
+that she had promised her mother,complementizer,BulliesPronouns,76,24,6,176.463238,178.113509,WavenetB_BulliesPronouns
+she would participate in the show.,complementizer (that...)||,BulliesPronouns,77,24,6,178.14,180.22,WavenetB_BulliesPronouns
+"'To waste your talent would be a real shame,",quotation,BulliesPronouns,78,25,9,180.96,183.52,WavenetB_BulliesPronouns
+"for you have such a beautiful voice,'",conjunction; end quotation,BulliesPronouns,79,25,7,183.52,185.66,WavenetB_BulliesPronouns
+"her mother had argued two months back,",positioning element,BulliesPronouns,80,25,7,185.6,187.92,WavenetB_BulliesPronouns
+when the concert was first announced.,relative clause||,BulliesPronouns,81,25,6,187.93,190.25,WavenetB_BulliesPronouns
+"She had been considering it,",-,BulliesPronouns,82,26,5,190.93,192.61,WavenetB_BulliesPronouns
+for she did love to sing.,conjunction||,BulliesPronouns,83,26,6,192.569999,194.3,WavenetB_BulliesPronouns
+"That very night,",positioning element,BulliesPronouns,84,27,3,195.26,196.38,WavenetB_BulliesPronouns
+the first text message had come through.,||,BulliesPronouns,85,27,7,196.39,198.94,WavenetB_BulliesPronouns
+'How does it feel,quotation,BulliesPronouns,86,28,4,199.29,200.175033,WavenetB_BulliesPronouns
+"to be tall and lanky like a giraffe?' it had asked,",infinitive phrase / quotation,BulliesPronouns,87,28,11,200.203985,203.3,WavenetB_BulliesPronouns
+taking her by surprise.,nonfinite clause||,BulliesPronouns,88,28,4,203.37,205.16,WavenetB_BulliesPronouns
+"One of the popular girls, she had always known she wasn't,",-,BulliesPronouns,89,29,11,206.09,209.81,WavenetB_BulliesPronouns
+"but before the messages began,",conjunction / positioning element,BulliesPronouns,90,29,5,209.819999,211.849999,WavenetB_BulliesPronouns
+she had always been quite prou,conjunction cont.,BulliesPronouns,91,29,6,211.87,213.956247,WavenetB_BulliesPronouns
+of being a little different.,nonfinite clause||,BulliesPronouns,92,29,5,213.95,215.48,WavenetB_BulliesPronouns
+"But text by text, her self-confidence had deflated",-,BulliesPronouns,93,30,8,216.410001,219.804578,WavenetB_BulliesPronouns
+"and, in the end,",positioning element,BulliesPronouns,94,30,4,219.81,220.87,WavenetB_BulliesPronouns
+it had taken some doing,-,BulliesPronouns,95,30,5,220.87,222.38,WavenetB_BulliesPronouns
+to get he,infinitive phrase,BulliesPronouns,96,30,3,222.352365,222.902456,WavenetB_BulliesPronouns
+to agree,infinitive phrase,BulliesPronouns,97,30,2,222.902456,223.5,WavenetB_BulliesPronouns
+to perform in the show.,||; infinitive phrase,BulliesPronouns,98,30,5,223.51045,225.02,WavenetB_BulliesPronouns
+"Now, however,",positioning element / nonrestrictive clause (minimal segment),BulliesPronouns,99,31,2,225.939999,227.14,WavenetB_BulliesPronouns
+she had no choice,-,BulliesPronouns,100,31,4,227.14,228.345456,WavenetB_BulliesPronouns
+but to make her way towards the stage,conjunction,BulliesPronouns,101,31,8,228.374408,230.603722,WavenetB_BulliesPronouns
+where Jill was beckoning encouragingly to her.,relative clause||,BulliesPronouns,102,31,7,230.661627,233.609999,WavenetB_BulliesPronouns
+She was the first performer.,||,BulliesPronouns,103,32,5,234.55,236.44,WavenetB_BulliesPronouns
+"Announced by her sister to the audience,",nonrestrictive clause,BulliesPronouns,104,33,7,236.77,239.21,WavenetB_BulliesPronouns
+she was all nerves,-,BulliesPronouns,105,33,4,239.22,240.389543,WavenetB_BulliesPronouns
+"as she walked out onto the middle of the stage,",conjunction,BulliesPronouns,106,33,10,240.39,242.99,WavenetB_BulliesPronouns
+where there was nothing but a microphone and her.,relative clause||,BulliesPronouns,107,33,9,242.98,245.809999,WavenetB_BulliesPronouns
+She heard the audience applaud and could feel a sense of anticipation emanate from the other side of the heavy curtain.,||,BulliesPronouns,108,34,21,246.52,253.5,WavenetB_BulliesPronouns
+"As the curtains began to part,",nonrestrictive clause,BulliesPronouns,109,35,6,254.46,256.47,WavenetB_BulliesPronouns
+"she cast a worried look at Jill in the wings,",-,BulliesPronouns,110,35,10,256.48,259.44,WavenetB_BulliesPronouns
+who assured her with a positive thumbs up.,relative clause||,BulliesPronouns,111,35,8,259.43,261.92,WavenetB_BulliesPronouns
+She thought to herself,-,BulliesPronouns,112,36,4,262.89,264.209999,WavenetB_BulliesPronouns
+that she could not go through with this,complementizer,BulliesPronouns,113,36,8,264.18,266.34,WavenetB_BulliesPronouns
+"and that she,",conjunction,BulliesPronouns,114,36,3,266.345128,267.02,WavenetB_BulliesPronouns
+"unlike her older sister,",nonrestrictive clause,BulliesPronouns,115,36,4,267.011027,268.651026,WavenetB_BulliesPronouns
+was not confident enough,conjunction cont.,BulliesPronouns,116,36,4,268.64,270.166809,WavenetB_BulliesPronouns
+to put herself before the judging audience.,infinitive phrase||,BulliesPronouns,117,36,7,270.15,272.85,WavenetB_BulliesPronouns
+The crowd looked up at her,-,BulliesPronouns,118,37,6,273.8,275.291336,WavenetB_BulliesPronouns
+and she was ready,conjunction,BulliesPronouns,119,37,4,275.305812,276.261233,WavenetB_BulliesPronouns
+to run,infinitive phrase,BulliesPronouns,120,37,2,276.261233,276.89,WavenetB_BulliesPronouns
+when the first notes of the music sounded out,relative clause,BulliesPronouns,121,37,9,276.883704,279.489395,WavenetB_BulliesPronouns
+and a sudden calm settled over her.,conjunction||,BulliesPronouns,122,37,7,279.47,281.85,WavenetB_BulliesPronouns
+"She closed her eyes and shut everything out,",-,BulliesPronouns,123,38,8,282.55,285.19,WavenetB_BulliesPronouns
+"including the audience, the nerves",-,BulliesPronouns,124,38,5,285.17,287.219614,WavenetB_BulliesPronouns
+that threatened,relative clause,BulliesPronouns,125,38,2,287.21,287.856561,WavenetB_BulliesPronouns
+"to take over,",infinitive phrase,BulliesPronouns,126,38,3,287.829999,288.68,WavenetB_BulliesPronouns
+"the text messages, and the way",-,BulliesPronouns,127,38,6,288.69,290.64,WavenetB_BulliesPronouns
+they made her feel.,relative clause (that...)||,BulliesPronouns,128,38,4,290.650442,291.84,WavenetB_BulliesPronouns
+"It was just her and the music,",-,BulliesPronouns,129,39,7,292.76,294.61,WavenetB_BulliesPronouns
+and it was a love story,conjunction,BulliesPronouns,130,39,6,294.59,296.2,WavenetB_BulliesPronouns
+that had been going on her whole life.,relative clause||,BulliesPronouns,131,39,8,296.209251,298.35,WavenetB_BulliesPronouns
+"She began to sing,",-,BulliesPronouns,132,40,4,299.09,300.469999,WavenetB_BulliesPronouns
+and all the pain and confusion,conjunction,BulliesPronouns,133,40,6,300.479999,302.405007,WavenetB_BulliesPronouns
+that the messages had been causing inside her,relative clause,BulliesPronouns,134,40,8,302.433959,305.079999,WavenetB_BulliesPronouns
+just flowed out.,conjunction cont.||,BulliesPronouns,135,40,3,305.068603,306.189999,WavenetB_BulliesPronouns
+"The words were not important,",-,BulliesPronouns,136,41,5,307.159999,308.97,WavenetB_BulliesPronouns
+for it was the feeling behind them,conjunction,BulliesPronouns,137,41,7,308.92,310.859029,WavenetB_BulliesPronouns
+that she latched onto.,complementizer||,BulliesPronouns,138,41,4,310.859029,312.17,WavenetB_BulliesPronouns
+She was in the heart of the song,-,BulliesPronouns,139,42,8,312.92,314.709662,WavenetB_BulliesPronouns
+with the rest of the world slipping away.,nonfinite clause||,BulliesPronouns,140,42,8,314.69,317.2,WavenetB_BulliesPronouns
+When the song finished,relative clause,BulliesPronouns,141,43,4,317.89,319.197243,WavenetB_BulliesPronouns
+"and the last note died away,",conjunction,BulliesPronouns,142,43,6,319.226195,321.11,WavenetB_BulliesPronouns
+she opened her eyes.,||,BulliesPronouns,143,43,4,321.109999,322.55,WavenetB_BulliesPronouns
+To see the whole audience on their feet and the hall filled with cheers and applause,infinitive phrase,BulliesPronouns,144,44,16,323.3,328.15,WavenetB_BulliesPronouns
+was not what she had expected.,conjunction||,BulliesPronouns,145,44,6,328.172403,330.03,WavenetB_BulliesPronouns
+She allowed herself,-,BulliesPronouns,146,45,3,330.75,332.0,WavenetB_BulliesPronouns
+to enjoy the sense of achievement and belonging,infinitive phrase,BulliesPronouns,147,45,8,331.94,334.715585,WavenetB_BulliesPronouns
+that she had not felt in a very long time.,complementizer||,BulliesPronouns,148,45,10,334.72,337.51,WavenetB_BulliesPronouns
+"Then she saw her mother,",-,BulliesPronouns,149,46,5,338.25,339.79,WavenetB_BulliesPronouns
+"who was cheering the loudest of all in the crowd,",relative clause,BulliesPronouns,150,46,10,339.79,342.64,WavenetB_BulliesPronouns
+"and Jill,",conjunction,BulliesPronouns,151,46,2,342.62,343.36,WavenetB_BulliesPronouns
+who was beaming at her with pride from the wings.,relative clause||,BulliesPronouns,152,46,10,343.35,346.29,WavenetB_BulliesPronouns
+She knew she owed them big time for reminding her,-,BulliesPronouns,153,47,10,347.24,350.3,WavenetB_BulliesPronouns
+what she was capable of,complementizer,BulliesPronouns,154,47,5,350.262879,351.652581,WavenetB_BulliesPronouns
+and who she really was.,complementizer||,BulliesPronouns,155,47,5,351.67,353.14,WavenetB_BulliesPronouns
+The next time her phone bleeped,positioning element,BulliesPronouns,156,48,6,353.87,355.821688,WavenetB_BulliesPronouns
+she would tap the message straight into oblivion,-,BulliesPronouns,157,48,8,355.821688,358.543189,WavenetB_BulliesPronouns
+where it belonged.,relative clause||,BulliesPronouns,158,48,3,358.543189,359.64,WavenetB_BulliesPronouns

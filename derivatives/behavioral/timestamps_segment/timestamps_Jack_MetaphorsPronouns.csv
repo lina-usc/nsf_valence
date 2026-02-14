@@ -1,0 +1,162 @@
+segment,reason,narrative,segID,sentID,Nwords,onset,offset,voice_narrative
+The Chief of Police was on TV.,||,MetaphorsPronouns,1,1,7,4.16,6.14,Jack_MetaphorsPronouns
+She reported,-,MetaphorsPronouns,2,2,2,6.8,7.42,Jack_MetaphorsPronouns
+that a convict had just escaped from jail.,complementizer||,MetaphorsPronouns,3,2,8,7.36,9.459999,Jack_MetaphorsPronouns
+She said,-,MetaphorsPronouns,4,3,2,10.149999,10.569999,Jack_MetaphorsPronouns
+that he just flew the coop and disappeared.,complementizer||,MetaphorsPronouns,5,3,8,10.51,12.77,Jack_MetaphorsPronouns
+She warned the viewers,-,MetaphorsPronouns,6,4,4,13.689999,14.69,Jack_MetaphorsPronouns
+that he might be hiding in the suburbs.,complementizer||,MetaphorsPronouns,7,4,8,14.63,16.469999,Jack_MetaphorsPronouns
+She explained,-,MetaphorsPronouns,8,5,2,17.39,18.05,Jack_MetaphorsPronouns
+that he had,complementizer,MetaphorsPronouns,9,5,3,17.999999,18.61,Jack_MetaphorsPronouns
+to be put back into his cell.,infinitive phrase||,MetaphorsPronouns,10,5,7,18.529999,20.05,Jack_MetaphorsPronouns
+"At the end of the interview,",positioning element,MetaphorsPronouns,11,6,6,20.79,22.03,Jack_MetaphorsPronouns
+she said,-,MetaphorsPronouns,12,6,2,22.52,22.98,Jack_MetaphorsPronouns
+that this bird still had,complementizer,MetaphorsPronouns,13,6,5,22.92,24.14,Jack_MetaphorsPronouns
+to serve ten years.,infinitive phrase||,MetaphorsPronouns,14,6,4,24.09,25.34,Jack_MetaphorsPronouns
+She asked,-,MetaphorsPronouns,15,7,2,26.109999,26.6,Jack_MetaphorsPronouns
+that any sightings of him would be reported immediately.,complementizer||,MetaphorsPronouns,16,7,9,26.56,29.5,Jack_MetaphorsPronouns
+Alice dreamt,-,MetaphorsPronouns,17,8,2,36.2,36.88,Jack_MetaphorsPronouns
+she got married.,complementizer (that...)||,MetaphorsPronouns,18,8,3,36.859999,37.68,Jack_MetaphorsPronouns
+"In the dream,",positioning element,MetaphorsPronouns,19,9,3,38.47,39.15,Jack_MetaphorsPronouns
+her husband never spent much time with her and the kids.,||,MetaphorsPronouns,20,9,11,39.3,42.01,Jack_MetaphorsPronouns
+She dreamt,-,MetaphorsPronouns,21,10,2,42.62,43.07,Jack_MetaphorsPronouns
+that he was very cold to them.,complementizer||,MetaphorsPronouns,22,10,7,43.01,44.56,Jack_MetaphorsPronouns
+She was shocked,-,MetaphorsPronouns,23,11,3,45.38,46.12,Jack_MetaphorsPronouns
+that he remained uncaring,complementizer,MetaphorsPronouns,24,11,4,46.08,47.41,Jack_MetaphorsPronouns
+even after they became grandparents.,positioning element||,MetaphorsPronouns,25,11,5,47.38,49.28,Jack_MetaphorsPronouns
+She dreamt,-,MetaphorsPronouns,26,12,2,50.26,50.84,Jack_MetaphorsPronouns
+that he didn't even change,complementizer,MetaphorsPronouns,27,12,5,50.779999,52.16,Jack_MetaphorsPronouns
+when their grandson was born.,relative clause||,MetaphorsPronouns,28,12,5,52.099999,53.3,Jack_MetaphorsPronouns
+"In fact, she remembered",-,MetaphorsPronouns,29,13,4,54.34493,55.990348,Jack_MetaphorsRepeatedNames
+saying in the dream,nonfinite clause,MetaphorsPronouns,30,13,4,55.990348,56.93,Jack_MetaphorsPronouns
+that the icebox did not even know his grandchild's name.,complementizer||,MetaphorsPronouns,31,13,10,57.17,60.2,Jack_MetaphorsPronouns
+"At the end of the dream,",positioning element,MetaphorsPronouns,32,14,6,61.08,62.17,Jack_MetaphorsPronouns
+she finally divorced him.,||,MetaphorsPronouns,33,14,4,62.47,63.81,Jack_MetaphorsPronouns
+Sandra needed an operation.,||,MetaphorsPronouns,34,15,4,70.32,71.82,Jack_MetaphorsPronouns
+She was not sure about the surgeon at the local hospital.,||,MetaphorsPronouns,35,16,11,72.660001,75.37,Jack_MetaphorsPronouns
+She heard,-,MetaphorsPronouns,36,17,2,76.03,76.64,Jack_MetaphorsPronouns
+he had the reputation of,complementizer (that...),MetaphorsPronouns,37,17,5,76.58,77.8,Jack_MetaphorsPronouns
+treating his patients like meat.,nonfinite clause||,MetaphorsPronouns,38,17,5,77.75,79.56,Jack_MetaphorsPronouns
+She then read reviews,-,MetaphorsPronouns,39,18,4,80.46,81.639999,Jack_MetaphorsPronouns
+saying that he dealt with patients unkindly with no regard for their feelings.,nonfinite clause (minimal segment) / complementizer||,MetaphorsPronouns,40,18,13,81.689999,85.42,Jack_MetaphorsPronouns
+She was dismayed,-,MetaphorsPronouns,41,19,3,86.42,87.37,Jack_MetaphorsPronouns
+to read,infinitive phrase,MetaphorsPronouns,42,19,2,87.309999,87.78,Jack_MetaphorsPronouns
+that he made some patients afraid,complementizer,MetaphorsPronouns,43,19,6,87.769999,89.46,Jack_MetaphorsPronouns
+he would cut them in the wrong places.,complementizer (that...)||,MetaphorsPronouns,44,19,8,89.410001,91.33,Jack_MetaphorsPronouns
+"At the end,",positioning element,MetaphorsPronouns,45,20,3,92.4,93.09,Jack_MetaphorsPronouns
+she said,-,MetaphorsPronouns,46,20,2,93.42,93.87,Jack_MetaphorsPronouns
+that this butcher will not lay a hand on her.,complementizer||,MetaphorsPronouns,47,20,10,93.81,95.91,Jack_MetaphorsPronouns
+She decided,-,MetaphorsPronouns,48,21,2,96.98,97.59,Jack_MetaphorsPronouns
+to find another surgeon.,infinitive phrase||,MetaphorsPronouns,49,21,4,97.53,98.69,Jack_MetaphorsPronouns
+Mary took a trip to a local car dealership.,||,MetaphorsPronouns,50,22,9,106.54,108.86,Jack_MetaphorsPronouns
+She was immediately approached by a big and pushy salesperson.,||,MetaphorsPronouns,51,23,10,109.48,112.73,Jack_MetaphorsPronouns
+She thought,-,MetaphorsPronouns,52,24,2,113.45,113.95,Jack_MetaphorsPronouns
+that he was aggressive and unpleasant.,complementizer||,MetaphorsPronouns,53,24,6,113.9,115.78,Jack_MetaphorsPronouns
+She felt,-,MetaphorsPronouns,54,25,2,116.45,116.92,Jack_MetaphorsPronouns
+that he harassed her with his repetitive sales pitch.,complementizer||,MetaphorsPronouns,55,25,9,116.859999,119.51,Jack_MetaphorsPronouns
+She was dismayed,-,MetaphorsPronouns,56,26,3,120.229999,121.229999,Jack_MetaphorsPronouns
+that he completely disregarded her questions.,complementizer||,MetaphorsPronouns,57,26,6,121.21,123.35,Jack_MetaphorsPronouns
+"With anger, she told the manager",-,MetaphorsPronouns,58,27,6,123.91,125.64,Jack_MetaphorsPronouns
+that this bulldozer was certainly not getting her business.,complementizer||,MetaphorsPronouns,59,27,9,125.609999,128.29,Jack_MetaphorsPronouns
+She eventually bought a car from the dealership,-,MetaphorsPronouns,60,28,8,129.06,131.13,Jack_MetaphorsPronouns
+on the other side of town.,positioning element||,MetaphorsPronouns,61,28,6,131.09,132.33,Jack_MetaphorsPronouns
+Peter had,-,MetaphorsPronouns,62,29,2,138.96,139.44,Jack_MetaphorsPronouns
+to take over his former colleague's office.,infinitive phrase||,MetaphorsPronouns,63,29,7,139.38,141.54,Jack_MetaphorsPronouns
+He examined the office and found it,-,MetaphorsPronouns,64,30,7,142.019999,143.72,Jack_MetaphorsPronouns
+to be extremely cluttered.,infinitive phrase||,MetaphorsPronouns,65,30,4,143.660001,145.04,Jack_MetaphorsPronouns
+He realized,-,MetaphorsPronouns,66,31,2,145.51,146.14,Jack_MetaphorsPronouns
+that it looked bad,complementizer,MetaphorsPronouns,67,31,4,146.11,146.87,Jack_MetaphorsPronouns
+because it was filled with trash.,conjunction||,MetaphorsPronouns,68,31,6,146.81,148.21,Jack_MetaphorsPronouns
+He wondered,-,MetaphorsPronouns,69,32,2,148.9,149.44,Jack_MetaphorsPronouns
+if it was the most littered office in the building.,complementizer||,MetaphorsPronouns,70,32,10,149.4,151.74,Jack_MetaphorsPronouns
+He thought,-,MetaphorsPronouns,71,33,2,152.37,152.97,Jack_MetaphorsPronouns
+that it resembled a junkyard and made the entire floor look bad.,complementizer||,MetaphorsPronouns,72,33,12,152.91,155.93,Jack_MetaphorsPronouns
+"With frustration, he told his boss",-,MetaphorsPronouns,73,34,6,156.55,158.6,Jack_MetaphorsPronouns
+that the dump was impossible,complementizer,MetaphorsPronouns,74,34,5,158.569999,159.929999,Jack_MetaphorsPronouns
+to work in.,infinitive phrase||,MetaphorsPronouns,75,34,3,159.87,160.49,Jack_MetaphorsPronouns
+He could not bring himself near it.,||,MetaphorsPronouns,76,35,7,160.97,162.650001,Jack_MetaphorsPronouns
+The new teacher was shocked at the behavior of some of the kids.,||,MetaphorsPronouns,77,36,13,169.12,172.1,Jack_MetaphorsPronouns
+He noticed,-,MetaphorsPronouns,78,37,2,172.71,173.26,Jack_MetaphorsPronouns
+that the big yard at school was always busy with fights.,complementizer||,MetaphorsPronouns,79,37,11,173.21,175.99,Jack_MetaphorsPronouns
+He was surprised,-,MetaphorsPronouns,80,38,3,176.729999,177.52,Jack_MetaphorsPronouns
+to see,infinitive phrase,MetaphorsPronouns,81,38,2,177.519999,177.89,Jack_MetaphorsPronouns
+that the young children were so ferocious and mean.,complementizer||,MetaphorsPronouns,82,38,9,177.859999,180.36,Jack_MetaphorsPronouns
+He saw,-,MetaphorsPronouns,83,39,2,180.999999,181.39,Jack_MetaphorsPronouns
+"that they ran wild and untamed on the playground,",complementizer,MetaphorsPronouns,84,39,9,181.33,183.84,Jack_MetaphorsPronouns
+ignoring all adults' directions.,nonfinite clause||,MetaphorsPronouns,85,39,4,183.95,185.61,Jack_MetaphorsPronouns
+He thought,-,MetaphorsPronouns,86,40,2,186.49,187.13,Jack_MetaphorsPronouns
+that they seemed,complementizer,MetaphorsPronouns,87,40,3,187.46,188.14,Jack_MetaphorsPronouns
+to have just been let out of a cage at the zoo.,infinitive phrase||,MetaphorsPronouns,88,40,12,188.09,190.38,Jack_MetaphorsPronouns
+"At dinner,",positioning element,MetaphorsPronouns,89,41,2,191.25,191.78,Jack_MetaphorsPronouns
+he told his family,-,MetaphorsPronouns,90,41,4,192.13,193.08,Jack_MetaphorsPronouns
+that the beasts clearly needed,complementizer,MetaphorsPronouns,91,41,5,193.019999,194.79,Jack_MetaphorsPronouns
+to be disciplined.,infinitive phrase||,MetaphorsPronouns,92,41,3,194.729999,195.62,Jack_MetaphorsPronouns
+He however noted with dismay,-,MetaphorsPronouns,93,42,5,196.579999,198.609999,Jack_MetaphorsPronouns
+that nobody at the school seemed,complementizer phrase,MetaphorsPronouns,94,42,6,198.77,200.31,Jack_MetaphorsPronouns
+to care.,infinitive phrase||,MetaphorsPronouns,95,42,2,200.29,200.83,Jack_MetaphorsPronouns
+The parents of the students in the third grade met,-,MetaphorsPronouns,96,43,10,207.37,209.79,Jack_MetaphorsPronouns
+after school,positioning element,MetaphorsPronouns,97,43,2,209.76,210.33,Jack_MetaphorsPronouns
+to discuss a problem.,infinitive phrase||,MetaphorsPronouns,98,43,4,210.27,211.26,Jack_MetaphorsPronouns
+They were frustrated with the new teacher.,||,MetaphorsPronouns,99,44,7,211.84,213.46,Jack_MetaphorsPronouns
+They thought,-,MetaphorsPronouns,100,45,2,213.999999,214.409999,Jack_MetaphorsPronouns
+that she was far too pliable and yielding.,complementizer||,MetaphorsPronouns,101,45,8,214.349999,216.45,Jack_MetaphorsPronouns
+They did not appreciate,-,MetaphorsPronouns,102,46,4,216.4,218.19,Jack_MetaphorsPronouns
+how she stretched and bent her rules,relative clause,MetaphorsPronouns,103,46,7,218.13,219.98,Jack_MetaphorsPronouns
+when the children challenged her authority.,relative clause||,MetaphorsPronouns,104,46,6,219.92,221.65,Jack_MetaphorsPronouns
+They were dismayed,-,MetaphorsPronouns,105,47,3,222.95,223.83,Jack_MetaphorsPronouns
+that she was being molded by the kids' constant demands.,complementizer||,MetaphorsPronouns,106,47,10,223.77,226.63,Jack_MetaphorsPronouns
+"At the end of the meeting,",positioning element,MetaphorsPronouns,107,48,6,227.66,228.909999,Jack_MetaphorsPronouns
+they said,-,MetaphorsPronouns,108,48,2,229.38,229.89,Jack_MetaphorsPronouns
+that the putty couldn't have stood up to a two-year-old.,complementizer||,MetaphorsPronouns,109,48,10,229.83,232.869999,Jack_MetaphorsPronouns
+They decided,-,MetaphorsPronouns,110,49,2,233.669999,234.32,Jack_MetaphorsPronouns
+to complain to the Principal.,infinitive phrase||,MetaphorsPronouns,111,49,5,234.259999,235.66,Jack_MetaphorsPronouns
+Jenna went with a friend,-,MetaphorsPronouns,112,50,5,242.59,243.89,Jack_MetaphorsPronouns
+to see the Saturday night fights.,infinitive phrase||,MetaphorsPronouns,113,50,6,243.89,245.68,Jack_MetaphorsPronouns
+She read,-,MetaphorsPronouns,114,51,2,246.63,247.29,Jack_MetaphorsPronouns
+that one of the boxers scheduled for the first match had never won a fight.,complementizer||,MetaphorsPronouns,115,51,15,247.269999,251.249999,Jack_MetaphorsPronouns
+She was surprised,-,MetaphorsPronouns,116,52,3,253.23,254.0,Jack_MetaphorsPronouns
+to read,infinitive phrase,MetaphorsPronouns,117,52,2,253.99,254.463563,Jack_MetaphorsPronouns
+that he was described,complementizer,MetaphorsPronouns,118,52,4,254.45,255.54,Jack_MetaphorsPronouns
+being weak and soft.,nonfinite clause||,MetaphorsPronouns,119,52,4,255.5,257.39,Jack_MetaphorsPronouns
+She was even more baffled,-,MetaphorsPronouns,120,53,5,258.18,259.54,Jack_MetaphorsPronouns
+seeing that he was fat and spongy through the middle.,nonfinite clause (minimal segment) / complementizer||,MetaphorsPronouns,121,53,10,259.49,262.14,Jack_MetaphorsPronouns
+She thought,-,MetaphorsPronouns,122,54,2,263.04,263.56,Jack_MetaphorsPronouns
+he looked like a wimpy ball of dough.,complementizer (that...)||,MetaphorsPronouns,123,54,8,263.51,265.49,Jack_MetaphorsPronouns
+"At the end of the fight,",positioning element,MetaphorsPronouns,124,55,6,266.47,267.6,Jack_MetaphorsPronouns
+she told her friend,-,MetaphorsPronouns,125,55,4,267.88,268.859999,Jack_MetaphorsPronouns
+that the creampuff never had a chance.,complementizer||,MetaphorsPronouns,126,55,7,268.839999,270.74,Jack_MetaphorsPronouns
+She decided,-,MetaphorsPronouns,127,56,2,271.95,272.59,Jack_MetaphorsPronouns
+to go for a drink,infinitive phrase,MetaphorsPronouns,128,56,5,272.53,273.51,Jack_MetaphorsPronouns
+until the second match started.,positioning element||,MetaphorsPronouns,129,56,5,273.55,275.08,Jack_MetaphorsPronouns
+Kate went to her very first practice on the varsity basketball team.,||,MetaphorsPronouns,130,57,12,281.83,285.42,Jack_MetaphorsPronouns
+She found the coach,-,MetaphorsPronouns,131,58,4,286.410001,287.36,Jack_MetaphorsPronouns
+to be very intimidating and cruel.,infinitive phrase||,MetaphorsPronouns,132,58,6,287.3,289.62,Jack_MetaphorsPronouns
+She thought,-,MetaphorsPronouns,133,59,2,290.59,291.08,Jack_MetaphorsPronouns
+that he was harsh and demanding.,complementizer||,MetaphorsPronouns,134,59,6,291.05,292.97,Jack_MetaphorsPronouns
+She soon discovered,-,MetaphorsPronouns,135,60,3,294.28,295.39,Jack_MetaphorsPronouns
+that he was a merciless ruler,complementizer,MetaphorsPronouns,136,60,6,295.34,296.99,Jack_MetaphorsPronouns
+who suppressed all opposition to his methods.,relative clause||,MetaphorsPronouns,137,60,7,297.13,299.56,Jack_MetaphorsPronouns
+She complained,-,MetaphorsPronouns,138,61,2,300.62,301.25,Jack_MetaphorsPronouns
+that he tortured the team with inhumanely long practice sessions.,complementizer||,MetaphorsPronouns,139,61,10,301.21,304.76,Jack_MetaphorsPronouns
+"At the end of the season,",positioning element,MetaphorsPronouns,140,62,6,305.439999,306.5,Jack_MetaphorsPronouns
+she told her mom,-,MetaphorsPronouns,141,62,4,306.68,307.51,Jack_MetaphorsPronouns
+that the tyrant made the season really miserable.,complementizer||,MetaphorsPronouns,142,62,8,307.48,310.13,Jack_MetaphorsPronouns
+The whole team prayed,-,MetaphorsPronouns,143,63,4,310.81,311.89,Jack_MetaphorsPronouns
+he would leave soon.,complementizer||,MetaphorsPronouns,144,63,4,311.84,312.77,Jack_MetaphorsPronouns
+Betsy found a house,-,MetaphorsPronouns,145,64,4,319.019999,319.99,Jack_MetaphorsPronouns
+she wanted,relative clause (that...),MetaphorsPronouns,146,64,2,319.95,320.54,Jack_MetaphorsPronouns
+to buy,infinitive phrase,MetaphorsPronouns,147,64,2,320.479999,320.969999,Jack_MetaphorsPronouns
+but it was too expensive.,conjunction||,MetaphorsPronouns,148,64,5,321.3,322.43,Jack_MetaphorsPronouns
+She was put off by the owner,-,MetaphorsPronouns,149,65,7,323.359999,324.77,Jack_MetaphorsPronouns
+who refused,relative clause,MetaphorsPronouns,150,65,2,324.76,325.43,Jack_MetaphorsPronouns
+to negotiate on any detail.,infinitive phrase||,MetaphorsPronouns,151,65,5,325.429999,327.12,Jack_MetaphorsPronouns
+She thought,-,MetaphorsPronouns,152,66,2,328.04,328.61,Jack_MetaphorsPronouns
+that he was overly stubborn and stood his ground uncompromisingly.,complementizer||,MetaphorsPronouns,153,66,10,328.64,332.54,Jack_MetaphorsPronouns
+She was somewhat annoyed,-,MetaphorsPronouns,154,67,4,333.6,335.18,Jack_MetaphorsPronouns
+that he would not budge about the amount needed for the down payment.,complementizer||,MetaphorsPronouns,155,67,13,335.17,338.349999,Jack_MetaphorsPronouns
+She was most frustrated however,-,MetaphorsPronouns,156,68,5,339.3,341.099999,Jack_MetaphorsPronouns
+that he would not move even an inch on the price.,complementizer||,MetaphorsPronouns,157,68,11,341.599999,344.1,Jack_MetaphorsPronouns
+"In despair, she said",-,MetaphorsPronouns,158,69,4,344.95,346.51,Jack_MetaphorsPronouns
+that the mule would only sell on his own terms.,complementizer||,MetaphorsPronouns,159,69,10,346.45,349.25,Jack_MetaphorsPronouns
+She finally gave up and decided,-,MetaphorsPronouns,160,70,6,350.1,352.079999,Jack_MetaphorsPronouns
+to look for another house.,infinitive phrase||,MetaphorsPronouns,161,70,5,352.02,353.329999,Jack_MetaphorsPronouns

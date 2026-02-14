@@ -1,0 +1,95 @@
+segment,reason,narrative,segID,sentID,Nwords,onset,offset,voice_narrative
+Did you know,-,Koko,1,1,3,5.131677,5.9,WavenetF_Koko
+that humans aren't the only species,complementizer,Koko,2,1,6,5.892969,8.26,WavenetF_Koko
+that use language?,relative clause||,Koko,3,1,3,8.233239,9.593239,WavenetF_Koko
+Bees communicate,-,Koko,4,2,2,11.24,12.729999,WavenetF_Koko
+by dancing.,nonfinite clause||,Koko,5,2,2,12.68,13.81,WavenetF_Koko
+Whales talk to each other,-,Koko,6,3,5,15.47,17.4,WavenetF_Koko
+by singing.,nonfinite clause||,Koko,7,3,2,17.368752,18.269999,WavenetF_Koko
+And some apes talk to humans,-,Koko,8,4,6,19.878198,22.11,WavenetF_Koko
+by using American Sign Language.,nonfinite clause||,Koko,9,4,5,22.13388,24.8,WavenetF_Koko
+Meet Koko:,||,Koko,10,5,2,27.8,29.01371,WavenetF_Koko
+"a female gorilla born at the San Francisco Zoo on July 4th, 1971.",||,Koko,11,6,13,29.05,35.667972,WavenetF_Koko
+"Koko learned sign language from her trainer,",-,Koko,12,7,7,37.10597,40.46,WavenetF_Koko
+Dr. Penny Patterson.,nonrestrictive clause||,Koko,13,7,3,40.48,42.39,WavenetF_Koko
+"Patterson began teaching sign language to Koko in 1972,",positioning element,Koko,14,8,9,44.109999,49.62,WavenetF_Koko
+when Koko was one year old.,relative clause||,Koko,15,8,6,49.62,51.94,WavenetF_Koko
+"Koko must have been a good student,",-,Koko,16,9,7,53.403272,56.35,WavenetF_Koko
+because two years later she moved onto the Stanford University campus with Dr. Patterson.,conjunction||,Koko,17,9,14,56.36,62.97,WavenetF_Koko
+Koko continued,-,Koko,18,10,2,64.34333,65.9787,WavenetF_Koko
+to learn on the campus until 1976.,infinitive phrase||,Koko,19,10,7,66.0,69.982535,WavenetF_Koko
+That's when she began,-,Koko,20,11,4,71.505121,72.971314,WavenetF_Koko
+"living full-time with Patterson's group,",nonfinite clause,Koko,21,11,5,72.98,75.67,WavenetF_Koko
+the Gorilla Foundation.,nonrestrictive clause||,Koko,22,11,3,75.76,77.61,WavenetF_Koko
+Patterson and Koko's relationship has blossomed ever since.,||,Koko,23,12,8,79.31,83.96,WavenetF_Koko
+Dr. Patterson says,-,Koko,24,13,3,87.01,88.809999,WavenetF_Koko
+that Koko has mastered sign language.,complementizer||,Koko,25,13,6,88.81748,91.79,WavenetF_Koko
+She says,-,Koko,26,14,2,93.21606,94.27,WavenetF_Koko
+"that Koko knows over 1,000 words,",complementizer,Koko,27,14,6,94.287509,97.4,WavenetF_Koko
+and that Koko makes up new words.,conjunction / complementizer||,Koko,28,14,7,97.41,100.029999,WavenetF_Koko
+"For example, Koko didn't know the sign for ring,",-,Koko,29,15,9,101.74,105.62,WavenetF_Koko
+so she signed the words finger and bracelet.,conjunction||,Koko,30,15,8,105.67,108.729999,WavenetF_Koko
+Dr. Patterson thinks,-,Koko,31,16,3,110.429999,112.220181,WavenetF_Koko
+that this shows meaningful and constructive use of language.,complementizer||,Koko,32,16,9,112.276573,116.34,WavenetF_Koko
+Not everyone agrees with Dr. Patterson.,||,Koko,33,17,6,119.27,122.689999,WavenetF_Koko
+Some argue,-,Koko,34,18,2,124.175296,125.303137,WavenetF_Koko
+that apes like Koko do not understand the meaning of what they are doing.,complementizer||,Koko,35,18,14,125.359529,130.23,WavenetF_Koko
+Skeptics say,-,Koko,36,19,2,131.731831,133.11,WavenetF_Koko
+that these apes are just performing complex tricks.,complementizer||,Koko,37,19,8,133.08524,136.799999,WavenetF_Koko
+"For example, if Koko points to an apple and signs red or apple,",-,Koko,38,20,13,138.49,143.73,WavenetF_Koko
+Dr. Patterson will give her an apple.,"conjunction (if, then...)||",Koko,39,20,7,143.759999,146.48,WavenetF_Koko
+They argue,-,Koko,40,21,2,147.91635,148.987799,WavenetF_Koko
+that Koko does not really know what the sign apple means.,complementizer||,Koko,41,21,11,149.044191,153.02,WavenetF_Koko
+She only knows,-,Koko,42,22,3,154.51422,155.92,WavenetF_Koko
+"that that if she makes the right motion,",complementizer,Koko,43,22,8,156.149589,158.35,WavenetF_Koko
+"one which Dr. Patterson has shown her,",nonrestrictive clause,Koko,44,22,7,158.38,161.46,WavenetF_Koko
+then she gets an apple.,conjunction||,Koko,45,22,5,161.506834,163.17,WavenetF_Koko
+"The debate is unresolved, but one thing is for certain:",||,Koko,46,23,10,164.83,169.07,WavenetF_Koko
+Koko is an extraordinary ape.,||,Koko,47,24,5,169.01,171.66,WavenetF_Koko
+Sign language isn't the only unusual thing about Koko.,||,Koko,48,25,9,174.7,179.326722,WavenetF_Koko
+She's also been a pet-owner.,||,Koko,49,26,5,180.88,183.28,WavenetF_Koko
+"In 1983,",positioning element,Koko,50,27,2,184.94,186.87,WavenetF_Koko
+"at the age of 12,",nonrestrictive clause,Koko,51,27,5,186.89,188.462234,WavenetF_Koko
+researchers said,-,Koko,52,27,2,188.5,189.702859,WavenetF_Koko
+that Koko asked for a cat for Christmas.,complementizer||,Koko,53,27,8,189.71,192.84,WavenetF_Koko
+They gave Koko a stuffed cat.,||,Koko,54,28,6,194.5,197.0,WavenetF_Koko
+Koko was not happy.,||,Koko,55,29,4,198.500019,200.64,WavenetF_Koko
+"She did not play with it,",-,Koko,56,30,6,202.109111,204.1,WavenetF_Koko
+and she continued to sign sad.,conjunction||,Koko,57,30,6,204.12,206.39,WavenetF_Koko
+"So for her birthday in 1984,",positioning element,Koko,58,31,6,208.12,211.301015,WavenetF_Koko
+they let her pick a cat out of an abandoned litter.,||,Koko,59,31,11,211.413799,214.797322,WavenetF_Koko
+"Koko picked a gray cat and named him ""All Ball.""",||,Koko,60,32,10,216.319907,220.8,WavenetF_Koko
+Dr. Patterson said,-,Koko,61,33,3,222.353857,224.158402,WavenetF_Koko
+that Koko loved and nurtured All Ball,complementizer,Koko,62,33,7,224.18,226.696045,WavenetF_Koko
+as though he were a baby gorilla.,conjunction||,Koko,63,33,7,226.71,228.819999,WavenetF_Koko
+"Sadly, All Ball got out of Koko's cage and was hit by a car.",||,Koko,64,34,14,230.519999,235.51,WavenetF_Koko
+Patterson reported,-,Koko,65,35,2,237.01579,238.594767,WavenetF_Koko
+"that Koko signed ""Bad, sad, bad"" and ""Frown, cry, frown, sad""",complementizer,Koko,66,35,11,238.62,245.333618,WavenetF_Koko
+when she broke the news to her.,relative clause||,Koko,67,35,7,245.361814,247.43,WavenetF_Koko
+"It seems like Patterson and Koko have a good relationship,",-,Koko,68,36,10,250.39,254.8,WavenetF_Koko
+but not everyone agrees with it.,conjunction||,Koko,69,36,6,254.85,257.25,WavenetF_Koko
+Some critics believe,-,Koko,70,37,3,258.670338,260.474883,WavenetF_Koko
+that Patterson is humanizing the ape.,complementizer||,Koko,71,37,6,260.45,263.169999,WavenetF_Koko
+They believe,-,Koko,72,38,2,264.535111,265.719344,WavenetF_Koko
+that apes should be left in the most natural state possible.,complementizer||,Koko,73,38,11,265.719344,269.8,WavenetF_Koko
+Even Dr. Patterson struggles with these feelings.,||,Koko,74,39,7,271.439999,275.21,WavenetF_Koko
+"When asked if her findings could be duplicated by another group of scientists,",relative clause,Koko,75,40,13,276.9,282.54,WavenetF_Koko
+"she said, ""We don't think that it would be ethical to do again.""",||,Koko,76,40,13,282.58,286.85,WavenetF_Koko
+She went on to argue,-,Koko,77,41,5,288.16338,290.08071,WavenetF_Koko
+that animals should not be kept in such unnatural circumstances.,complementizer||,Koko,78,41,10,290.08071,295.05,WavenetF_Koko
+"Nonetheless, Koko lives in her foundation today.",||,Koko,79,42,7,296.73,300.67,WavenetF_Koko
+"As for the future,",positioning element,Koko,80,43,4,303.332842,305.12,WavenetF_Koko
+Dr. Patterson and the Gorilla Foundation would love,-,Koko,81,43,8,305.160001,308.690087,WavenetF_Koko
+"to get Koko to an ape preserve in Maui,",infinitive phrase,Koko,82,43,9,308.7,311.72,WavenetF_Koko
+but they are having trouble securing the land.,conjunction||,Koko,83,43,8,311.75,314.7,WavenetF_Koko
+"So, unless you have a few million dollars to spare,",nonrestrictive clause,Koko,84,44,10,316.39,319.94,WavenetF_Koko
+Koko's going,-,Koko,85,44,2,319.968497,321.049999,WavenetF_Koko
+"to be spending her time in Woodland, California with Dr. Patterson.",infinitive phrase||,Koko,86,44,11,321.039946,326.21,WavenetF_Koko
+Koko probably doesn't mind that.,||,Koko,87,45,5,327.694208,330.67,WavenetF_Koko
+"If she moved to Hawaii,",-,Koko,88,46,5,332.34,334.189999,WavenetF_Koko
+"she'd have to give up her Facebook page and Twitter feed,","conjunction (if, then...)",Koko,89,46,11,334.22,338.009999,WavenetF_Koko
+"and she's got like 50 thousand ""likes.""",||,Koko,90,46,7,338.019999,341.12,WavenetF_Koko
+Some may deny,-,Koko,91,47,3,342.638101,343.991511,WavenetF_Koko
+"that she knows sign language,",complementizer,Koko,92,47,5,344.047903,346.06,WavenetF_Koko
+but nobody says,conjunction,Koko,93,47,3,346.021625,347.44,WavenetF_Koko
+that she doesn't know social networking.,complementizer||,Koko,94,47,6,347.431426,350.1,WavenetF_Koko

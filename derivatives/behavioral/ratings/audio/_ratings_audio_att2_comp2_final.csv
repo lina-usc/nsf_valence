@@ -1065,163 +1065,163 @@ Brandi_Aqua,144,2.501102941176471,5.380514705882353,345.003655,347.71,seg144: yo
 Brandi_Aqua,145,1.1720588235294116,4.4875,348.83,349.69,seg145: and - say,and some say,conjunction,Aqua,and|some|say
 Brandi_Aqua,146,2.8481617647058823,5.625,350.16,353.86,seg146: that - drops,that it must be the gurgling voices of Aqua and his brother water drops,complementizer,Aqua,that|it|must|be|the|gurgling|voices|of|Aqua|and|his|brother|water|drops
 Brandi_Aqua,147,3.248897058823529,6.033455882352942,354.972671,358.15267,seg147: telling - world,telling each other about their wonderful journey around the world.,nonfinite clause; >maximal segment,Aqua,telling|each|other|about|their|wonderful|journey|around|the|world
-Brandi_BradfordBull,1,1.3356617647058822,4.943014705882353,5.57,7.52,seg1: If - England,"If you were to journey to the North of England,",-,BradfordBoar,If|you|were|to|journey|to|the|North|of|England
-Brandi_BradfordBull,2,1.463235294117647,4.827941176470588,7.61,8.71,seg2: you - valley,you would come to a valley,"conjunction (if, then...)",BradfordBoar,you|would|come|to|a|valley
-Brandi_BradfordBull,3,1.4731617647058826,5.76139705882353,8.71,11.3,seg3: that - mountains,that is surrounded by moors as high as mountains.,relative clause; >maximal segment,BradfordBoar,that|is|surrounded|by|moors|as|high|as|mountains
-Brandi_BradfordBull,4,1.2636029411764704,4.766544117647059,12.059999,13.213351,seg4: It - valley,It is in this valley,-,BradfordBoar,It|is|in|this|valley
-Brandi_BradfordBull,5,1.3893382352941177,4.89375,13.210016,14.997646,seg5: where - Bradford,"where you would find the city of Bradford,",relative clause,BradfordBoar,where|you|would|find|the|city|of|Bradford
-Brandi_BradfordBull,6,1.18125,5.415441176470588,15.469999,17.422716,seg6: where - jennies,where once a thousand spinning jennies,relative clause,BradfordBoar,where|once|a|thousand|spinning|jennies
-Brandi_BradfordBull,7,1.007720588235294,4.942647058823529,17.42,18.586676,seg7: that - clattered,that hummed and clattered,relative clause,BradfordBoar,that|hummed|and|clattered
-Brandi_BradfordBull,8,1.7698529411764707,5.344117647058824,19.13,21.9,seg8: spun - owners,spun wool into money for the long-bearded mill owners.,>maximal segment,BradfordBoar,spun|wool|into|money|for|the|long|bearded|mill|owners
-Brandi_BradfordBull,9,1.5400735294117647,5.4698529411764705,22.89,27.06,seg9: That - themselves,That all mill owners were generally busy as beavers and quite pleased with themselves,relative clause,BradfordBoar,That|all|mill|owners|were|generally|busy|as|beavers|and|quite|pleased|with|themselves
-Brandi_BradfordBull,10,2.0316176470588236,5.7632352941176475,27.059999,29.09,seg10: for - off,for being so successful and well off,nonfinite clause,BradfordBoar,for|being|so|successful|and|well|off
-Brandi_BradfordBull,11,1.4051470588235293,4.684558823529412,29.592604,31.43693,seg11: was - Bradford,"was known to the residents of Bradford,",-,BradfordBoar,was|known|to|the|residents|of|Bradford
-Brandi_BradfordBull,12,0.34227941176470583,3.322794117647059,32.059999,32.56,seg12: and - were,and if you were,conjunction,BradfordBoar,and|if|you|were
-Brandi_BradfordBull,13,0.9647058823529411,4.269485294117647,32.559999,33.63,seg13: to - city,to go into the city,infinitival phrase,BradfordBoar,to|go|into|the|city
-Brandi_BradfordBull,14,1.04375,4.407720588235294,34.109999,35.75,seg14: to - Hall,"to visit the stately City Hall,","conjunction (if, then...)",BradfordBoar,to|visit|the|stately|City|Hall
-Brandi_BradfordBull,15,1.5713235294117647,5.009558823529411,36.172814,38.844253,seg15: you - Bradford,"you would see there the Crest of the City of Bradford,",-,BradfordBoar,you|would|see|there|the|Crest|of|the|City|of|Bradford
-Brandi_BradfordBull,16,1.45,4.74375,39.36,41.29,seg16: which - created,which those same mill owners created,relative clause,BradfordBoar,which|those|same|mill|owners|created
-Brandi_BradfordBull,17,2.081617647058824,5.711029411764706,41.29,42.87,seg17: to - achievements,to celebrate their achievements.,infinitival clause; >maximal segment,BradfordBoar,to|celebrate|their|achievements
-Brandi_BradfordBull,18,-0.5547794117647058,5.148161764705882,43.77,45.89,seg18: It - head,It shows a sinister looking boar's head,-,BradfordBoar,It|shows|a|sinister|looking|boar's|head
-Brandi_BradfordBull,19,0.26397058823529407,4.625367647058824,45.9,47.26,seg19: sitting - well,sitting on top of a well,nonfinite clause,BradfordBoar,sitting|on|top|of|a|well
-Brandi_BradfordBull,20,0.35919117647058824,4.836764705882353,47.389999,49.019999,seg20: which - first,"which seems puzzling at first,",relative clause,BradfordBoar,which|seems|puzzling|at|first
-Brandi_BradfordBull,21,1.2584558823529413,5.711029411764706,49.53,52.02,seg21: but - legend,but the reason for this symbol is a matter of legend.,conjunction; >maximal segment,BradfordBoar,but|the|reason|for|this|symbol|is|a|matter|of|legend
-Brandi_BradfordBull,22,1.2643382352941177,5.1312500000000005,52.959999,54.77,seg22: There - it,"There was once, legend has it,",generic convention,BradfordBoar,There|was|once|legend|has|it
-Brandi_BradfordBull,23,0.21948529411764703,5.404411764705882,55.27,56.36,seg23: a - boar,"a fearsome boar,",-,BradfordBoar,a|fearsome|boar
-Brandi_BradfordBull,24,0.46213235294117644,5.0492647058823525,56.783914,60.468071,seg24: which - Bradford,which lived in a wood located just outside the manor of Bradford.,relative clause; >maximal segment,BradfordBoar,which|lived|in|a|wood|located|just|outside|the|manor|of|Bradford
-Brandi_BradfordBull,25,-1.0169117647058825,5.426470588235294,61.23,64.27,seg25: A - was,"A source of great trouble to the local folk the boar was,",-,BradfordBoar,A|source|of|great|trouble|to|the|local|folk|the|boar|was
-Brandi_BradfordBull,26,-1.6636029411764706,5.826102941176471,64.82,66.89,seg26: bringing - flocks,bringing terror to the peaceful flocks,nonfinite clause,BradfordBoar,bringing|terror|to|the|peaceful|flocks
-Brandi_BradfordBull,27,-1.8327205882352942,6.091176470588235,66.92,68.72,seg27: and - around,and ravaging the countryside around.,nonfinite clause; >maximal segment,BradfordBoar,and|ravaging|the|countryside|around
-Brandi_BradfordBull,28,-1.8341911764705883,5.727573529411765,69.75,70.980001,seg28: Even - however,"Even worse, however,",nonrestrictive clause,BradfordBoar,Even|worse|however
-Brandi_BradfordBull,29,-0.5327205882352942,5.341911764705882,70.980001,73.41,seg29: the - well,the boar most liked to go to the well,-,BradfordBoar,the|boar|most|liked|to|go|to|the|well
-Brandi_BradfordBull,30,-0.3823529411764707,4.624264705882353,73.41,74.27,seg30: that - wood,that was in the wood,relative clause,BradfordBoar,that|was|in|the|wood
-Brandi_BradfordBull,31,0.8926470588235293,4.489705882352941,74.31,75.66,seg31: and - water,"and drink its fresh water,",-,BradfordBoar,and|drink|its|fresh|water
-Brandi_BradfordBull,32,0.05882352941176471,4.76875,76.25,78.26,seg32: so - thoughts,so that the people of Bradford had second thoughts,conjunction,BradfordBoar,so|that|the|people|of|Bradford|had|second|thoughts
-Brandi_BradfordBull,33,-0.2165441176470589,4.473161764705882,78.26,79.34,seg33: about - well,about visiting the well.,nonfinite clause; >maximal segment,BradfordBoar,about|visiting|the|well
-Brandi_BradfordBull,34,-1.5636029411764707,5.416911764705882,80.23,83.18,seg34: That - ferocity,That the people of Bradford bore the brunt of the beast's ferocity,relative clause,BradfordBoar,That|the|people|of|Bradford|bore|the|brunt|of|the|beast's|ferocity
-Brandi_BradfordBull,35,-1.4158088235294117,5.214705882352941,83.179999,85.68,seg35: was - region,was unfair in the eyes of the people of the region.,>maximal segment,BradfordBoar,was|unfair|in|the|eyes|of|the|people|of|the|region
-Brandi_BradfordBull,36,0.9893382352941177,5.370588235294117,86.83,90.11,seg36: Eventually - Manor,"Eventually, the issue reached the ears of the kindly Lord of the Manor",-,BradfordBoar,Eventually|the|issue|reached|the|ears|of|the|kindly|Lord|of|the|Manor
-Brandi_BradfordBull,37,1.349264705882353,5.018382352941177,90.74,92.67,seg37: who - help,who the people had often asked for help.,relative clause; >maximal segment,BradfordBoar,who|the|people|had|often|asked|for|help
-Brandi_BradfordBull,38,0.9169117647058824,5.289705882352941,92.67,95.65,seg38: The - problem,The Lord saw the severity of the problem,-,BradfordBoar,The|Lord|saw|the|severity|of|the|problem
-Brandi_BradfordBull,39,0.4731617647058822,4.3834558823529415,95.65,96.5,seg39: the - faced,the people faced,relative clause (that...),BradfordBoar,the|people|faced
-Brandi_BradfordBull,40,1.3279411764705884,5.629044117647059,96.53,98.88,seg40: and - problem,and suggested a contest could solve the problem.,>maximal segment,BradfordBoar,and|suggested|a|contest|could|solve|the|problem
-Brandi_BradfordBull,41,0.4639705882352941,3.7308823529411765,99.99,100.38,seg41: He - said,He said,-,BradfordBoar,He|said
-Brandi_BradfordBull,42,-0.3547794117647059,6.722794117647059,100.38,104.069999,seg42: that - House,that whoever could kill the boar and bring as proof its head to the Manor House,complementizer / relative clause,BradfordBoar,that|whoever|could|kill|the|boar|and|bring|as|proof|its|head|to|the|Manor|House
-Brandi_BradfordBull,43,1.9588235294117649,6.909558823529411,104.65,106.7,seg43: would - fame,would be rewarded with land and fame.,complementizer cont.; >maximal segment,BradfordBoar,would|be|rewarded|with|land|and|fame
-Brandi_BradfordBull,44,1.1191176470588236,5.096323529411765,107.799999,110.45,seg44: It - them,It was the people of Bradford and the people who knew them,-,BradfordBoar,It|was|the|people|of|Bradford|and|the|people|who|knew|them
-Brandi_BradfordBull,45,2.0503676470588235,6.015808823529412,110.46,112.2,seg45: who - proclamation,who rejoiced at this proclamation,relative clause,BradfordBoar,who|rejoiced|at|this|proclamation
-Brandi_BradfordBull,46,0.20441176470588227,5.149264705882353,112.78,114.14,seg46: but - remained,but one question remained:,>maximal segment,BradfordBoar,but|one|question|remained
-Brandi_BradfordBull,47,-0.5286764705882353,6.090808823529412,114.63,115.85,seg47: who - boar,who would kill the boar?,>maximal segment,BradfordBoar,who|would|kill|the|boar
-Brandi_BradfordBull,48,1.4294117647058822,6.2150735294117645,117.01,119.33,seg48: By - tempted,"By the handsome reward many felt tempted,",-,BradfordBoar,By|the|handsome|reward|many|felt|tempted
-Brandi_BradfordBull,49,-0.4761029411764707,4.738970588235294,119.849999,120.879999,seg49: but - boar,but the thought of the boar,conjunction,BradfordBoar,but|the|thought|of|the|boar
-Brandi_BradfordBull,50,-1.6838235294117647,5.738235294117646,120.88,123.329999,seg50: with - thunder,with its deadly tusks and face like thunder,nonrestrictive clause,BradfordBoar,with|its|deadly|tusks|and|face|like|thunder
-Brandi_BradfordBull,51,-1.4018382352941177,5.195588235294118,123.929999,125.889999,seg51: soon - ambitions,soon put an end to their ambitions.,conjunction cont.; >maximal segment,BradfordBoar,soon|put|an|end|to|their|ambitions
-Brandi_BradfordBull,52,0.9345588235294118,5.476838235294118,126.76,128.09,seg52: However - huntsman,"However, there was one huntsman,",-,BradfordBoar,However|there|was|one|huntsman
-Brandi_BradfordBull,53,0.79375,4.447058823529412,128.44,130.09,seg53: who - ears,"who was still wet behind the ears,",relative clause,BradfordBoar,who|was|still|wet|behind|the|ears
-Brandi_BradfordBull,54,0.5183823529411764,4.222794117647059,130.4,130.97,seg54: who - decided,who decided,relative clause,BradfordBoar,who|decided
-Brandi_BradfordBull,55,1.4551470588235296,5.76139705882353,130.97,132.37,seg55: the - shot,"the prize was worth a shot,",complementizer (that...),BradfordBoar,the|prize|was|worth|a|shot
-Brandi_BradfordBull,56,0.5448529411764705,5.544117647058823,132.4,134.33,seg56: in - reputation,in spite of the boar's reputation.,nonrestrictive clause; >maximal segment,BradfordBoar,in|spite|of|the|boar's|reputation
-Brandi_BradfordBull,57,0.9643382352941178,5.296323529411765,134.33,136.71,seg57: The - discovered,The huntsman discovered,-,BradfordBoar,The|huntsman|discovered
-Brandi_BradfordBull,58,0.44852941176470573,4.372058823529412,136.71,137.44,seg58: the - preferred,the boar preferred,complementizer (that...),BradfordBoar,the|boar|preferred
-Brandi_BradfordBull,59,0.7709558823529412,5.0180147058823525,137.44,138.89,seg59: to - day,to come out in the middle of the day.,infinitival phrase; >maximal segment,BradfordBoar,to|come|out|in|the|middle|of|the|day
-Brandi_BradfordBull,60,1.0922794117647059,5.921691176470588,139.73,142.21,seg60: So - bow,"So he went to the wood by the well with his good bow,",-,BradfordBoar,So|he|went|to|the|wood|by|the|well|with|his|good|bow
-Brandi_BradfordBull,61,0.831985294117647,4.583823529411765,142.25,143.329999,seg61: to - time,to bide his time.,infinitival clause; >maximal segment,BradfordBoar,to|bide|his|time
-Brandi_BradfordBull,62,0.807720588235294,4.273161764705883,144.518927,145.581857,seg62: Around - noontime,"Around noontime,",positioning element,BradfordBoar,Around|noontime
-Brandi_BradfordBull,63,-0.11691176470588242,4.3496323529411764,145.581857,146.168849,seg63: the - boar,"the boar,",-,BradfordBoar,the|boar
-Brandi_BradfordBull,64,-0.9187500000000001,5.076838235294117,146.2,147.29,seg64: feared - locals,"feared by the locals,",nonrestrictive clause,BradfordBoar,feared|by|the|locals
-Brandi_BradfordBull,65,-0.3974264705882352,5.059558823529412,147.29,147.9,seg65: came - out,"came out,",-,BradfordBoar,came|out
-Brandi_BradfordBull,66,-0.6716911764705883,4.546323529411765,147.96,149.198995,seg66: as - snail,"as slow as a snail,",nonrestrictive clause,BradfordBoar,as|slow|as|a|snail
-Brandi_BradfordBull,67,-0.18897058823529414,4.357720588235294,149.198995,150.34,seg67: from - trees,"from among the trees,",-,BradfordBoar,from|among|the|trees
-Brandi_BradfordBull,68,0.8349264705882352,5.075367647058823,150.41,152.18,seg68: just - predicted,just as the huntsman had predicted.,nonrestrictive clause; >maximal segment,BradfordBoar,just|as|the|huntsman|had|predicted
-Brandi_BradfordBull,69,0.775,6.2753676470588236,152.18,155.14,seg69: The - place,The huntsman leaped from his hiding place,-,BradfordBoar,The|huntsman|leaped|from|his|hiding|place
-Brandi_BradfordBull,70,0.41654411764705884,7.000735294117647,155.16,158.06,seg70: and - boar,and through the heart with his fine arrows shot the boar.,conjunction; >maximal segment,BradfordBoar,and|through|the|heart|with|his|fine|arrows|shot|the|boar
-Brandi_BradfordBull,71,0.5992647058823529,5.421691176470588,159.639999,160.989999,seg71: Now - longer,Now the problem was no longer,-,BradfordBoar,Now|the|problem|was|no|longer
-Brandi_BradfordBull,72,-0.305514705882353,5.970588235294118,160.99,161.839999,seg72: to - boar,to kill the boar.,infinitival phrase; >maximal segment,BradfordBoar,to|kill|the|boar
-Brandi_BradfordBull,73,0.13492647058823526,3.9669117647058822,162.309999,162.6,seg73: It - was,It was,-,BradfordBoar,It|was
-Brandi_BradfordBull,74,0.37757352941176464,3.9761029411764706,162.6,163.23,seg74: to - way,to find a way,infinitival phrase,BradfordBoar,to|find|a|way
-Brandi_BradfordBull,75,0.49816176470588236,4.917279411764706,163.23,164.48,seg75: to - back,to carry the boar back.,infinitival phrase; >maximal segment,BradfordBoar,to|carry|the|boar|back
-Brandi_BradfordBull,76,-0.8029411764705882,4.828308823529412,164.48,167.49,seg76: The - huntsman,The head was too heavy for the little huntsman,-,BradfordBoar,The|head|was|too|heavy|for|the|little|huntsman
-Brandi_BradfordBull,77,-0.21066176470588238,4.346691176470588,167.5,169.02,seg77: to - House,"to carry back to the Manor House,",infinitival phrase,BradfordBoar,to|carry|back|to|the|Manor|House
-Brandi_BradfordBull,78,0.5897058823529412,3.9819852941176475,169.67,170.37,seg78: but - huntsman,"but the huntsman,",conjunction,BradfordBoar,but|the|huntsman
-Brandi_BradfordBull,79,1.2922794117647058,5.681985294117647,170.57,172.54,seg79: who - ever,"who was as quick-witted and cunning as ever,",relative clause,BradfordBoar,who|was|as|quick|witted|and|cunning|as|ever
-Brandi_BradfordBull,80,0.9628676470588236,6.166176470588236,172.535879,177.009707,seg80: asked - ',"asked himself, 'What else can I do to prove I killed the boar?'",quotation; >maximal segment,BradfordBoar,asked|himself|'What|else|can|I|do|to|prove|I|killed|the|boar|'
-Brandi_BradfordBull,81,0.7066176470588235,4.316911764705882,178.231284,179.181179,seg81: The - instance,The next instance,positioning element,BradfordBoar,The|next|instance
-Brandi_BradfordBull,82,-0.38933823529411765,6.300735294117646,179.181179,181.34,seg82: he - tongue,"he opened the boar's mouth and cut out its tongue,",-,BradfordBoar,he|opened|the|boar's|mouth|and|cut|out|its|tongue
-Brandi_BradfordBull,83,0.6371323529411764,5.903308823529412,181.84,183.49,seg83: taking - Lord,taking that as proof for the Lord.,nonfinite clause; >maximal segment,BradfordBoar,taking|that|as|proof|for|the|Lord
-Brandi_BradfordBull,84,1.363235294117647,5.997794117647058,184.46,186.82,seg84: He - could,He set out for the Manor House as quickly as he could,-,BradfordBoar,He|set|out|for|the|Manor|House|as|quickly|as|he|could
-Brandi_BradfordBull,85,0.7959558823529411,4.788235294117648,187.37,188.92,seg85: and - minutes,and he had only been gone a few minutes,conjunction,BradfordBoar,and|he|had|only|been|gone|a|few|minutes
-Brandi_BradfordBull,86,0.08455882352941171,5.131617647058823,188.92,189.929999,seg86: when - huntsman,"when a second huntsman,",conjunction,BradfordBoar,when|a|second|huntsman
-Brandi_BradfordBull,87,0.009926470588235217,5.784191176470588,190.52,193.13,seg87: not - cunning,"not so bold as the first but a little more cunning,",nonrestrictive clause,BradfordBoar,not|so|bold|as|the|first|but|a|little|more|cunning
-Brandi_BradfordBull,88,0.08235294117647063,5.4555147058823525,193.759999,194.74,seg88: came - scene,came on the scene.,>maximal segment,BradfordBoar,came|on|the|scene
-Brandi_BradfordBull,89,-0.5794117647058824,5.645955882352942,195.52,197.2,seg89: Seeing - boar,"Seeing the slain carcass of the boar,",nonfinite clause,BradfordBoar,Seeing|the|slain|carcass|of|the|boar
-Brandi_BradfordBull,90,1.2,6.222058823529411,197.2,199.62,seg90: the - fortune,the huntsman rejoiced in his good fortune.,>maximal segment,BradfordBoar,the|huntsman|rejoiced|in|his|good|fortune
-Brandi_BradfordBull,91,0.5643382352941176,4.510661764705882,199.62,201.45,seg91: The - knew,The second huntsman knew,-,BradfordBoar,The|second|huntsman|knew
-Brandi_BradfordBull,92,0.4897058823529412,5.547794117647059,201.45,204.41,seg92: a - pond,"a shortcut to the Manor House was just around the nearby pond,",complementizer (that...),BradfordBoar,a|shortcut|to|the|Manor|House|was|just|around|the|nearby|pond
-Brandi_BradfordBull,93,0.5143382352941177,5.671691176470588,204.96,207.16,seg93: and - first,"and, being a bigger man than the first,",conjunction / nonrestrictive clause,BradfordBoar,and|being|a|bigger|man|than|the|first
-Brandi_BradfordBull,94,0.6209558823529411,4.425367647058823,207.639999,208.05,seg94: was - able,was able,conjunction cont.,BradfordBoar,was|able
-Brandi_BradfordBull,95,0.24227941176470594,6.083088235294118,208.05,210.21,seg95: to - wood,to pick up the boar's head and carry it through the wood,infinitival phrase,BradfordBoar,to|pick|up|the|boar's|head|and|carry|it|through|the|wood
-Brandi_BradfordBull,96,0.5808823529411764,6.216176470588235,210.719999,212.38,seg96: towards - him,towards the prize that awaited him.,positioning element; >maximal segment,BradfordBoar,towards|the|prize|that|awaited|him
-Brandi_BradfordBull,97,0.7463235294117647,5.107720588235295,212.38,215.24,seg97: The - hall,The Lord of the Manor was seated in his hall,-,BradfordBoar,The|Lord|of|the|Manor|was|seated|in|his|hall
-Brandi_BradfordBull,98,-0.20110294117647068,6.045955882352941,215.24,218.49,seg98: when - line,when the second huntsman burst through the door and began to spin a line.,conjunction; >maximal segment,BradfordBoar,when|the|second|huntsman|burst|through|the|door|and|began|to|spin|a|line
-Brandi_BradfordBull,99,0.754779411764706,6.229044117647058,218.5,222.62,seg99: 'The - announced,'The woes of Bradford are ended!' he announced.,quotation; >maximal segment,BradfordBoar,'The|woes|of|Bradford|are|ended|'|he|announced
-Brandi_BradfordBull,100,-0.4823529411764706,6.547058823529412,223.74,226.88,seg100: 'With - ','With my own hand I have slain the boar!',quotation; >maximal segment,BradfordBoar,'With|my|own|hand|I|have|slain|the|boar|'
-Brandi_BradfordBull,101,-0.04705882352941185,5.7775735294117645,226.88,229.35,seg101: And - lord,"And, with that, at the feet of his lord",positioning element,BradfordBoar,And|with|that|at|the|feet|of|his|lord
-Brandi_BradfordBull,102,-0.6386029411764707,5.942647058823529,229.349999,231.09,seg102: he - head,he dropped the boar's enormous head.,>maximal segment,BradfordBoar,he|dropped|the|boar's|enormous|head
-Brandi_BradfordBull,103,0.32647058823529407,6.701838235294117,232.289999,235.81,seg103: 'Then - ',"'Then you will be rewarded, as I promised.'",quotation; >maximal segment,BradfordBoar,'Then|you|will|be|rewarded|as|I|promised|'
-Brandi_BradfordBull,104,0.0632352941176471,5.203676470588235,235.81,236.4,seg104: 'But - first,"'But first,",positioning element,BradfordBoar,'But|first
-Brandi_BradfordBull,105,0.6485294117647059,5.8378676470588236,236.42,239.93,seg105: let - Manor,"let me examine the head of this monster,' said the Lord of the Manor.",quotation; >maximal segment,BradfordBoar,let|me|examine|the|head|of|this|monster|'|said|the|Lord|of|the|Manor
-Brandi_BradfordBull,106,0.15661764705882353,5.632352941176471,240.65,242.58,seg106: To - advance,To not examine the head in advance,infinitival phrase,BradfordBoar,To|not|examine|the|head|in|advance
-Brandi_BradfordBull,107,0.2470588235294118,5.580882352941177,242.58,244.99,seg107: had - huntsman,had not been very clever on the part of the huntsman.,>maximal segment,BradfordBoar,had|not|been|very|clever|on|the|part|of|the|huntsman
-Brandi_BradfordBull,108,0.7775735294117646,5.07389705882353,245.87,246.499999,seg108: Right - away,"Right away,",positioning element,BradfordBoar,Right|away
-Brandi_BradfordBull,109,0.9297794117647059,5.437867647058824,246.499999,247.29,seg109: the - noticed,the Lord noticed,-,BradfordBoar,the|Lord|noticed
-Brandi_BradfordBull,110,0.6301470588235295,5.846323529411765,247.29,248.84,seg110: the - missing,the tongue of the boar was missing,complementizer (that...),BradfordBoar,the|tongue|of|the|boar|was|missing
-Brandi_BradfordBull,111,0.5088235294117647,6.503308823529411,248.849999,251.619999,seg111: and - this,"and exclaimed, 'What is this?",>maximal segment,BradfordBoar,and|exclaimed|'What|is|this
-Brandi_BradfordBull,112,0.3533088235294118,6.537867647058823,251.73,254.15,seg112: A - ',A boar with no tongue?',>maximal segment,BradfordBoar,A|boar|with|no|tongue|'
-Brandi_BradfordBull,113,0.9731617647058822,5.116176470588235,254.15,254.79,seg113: He - dubiously,"He looked at the huntsman, dubiously.",>maximal segment,BradfordBoar,He|looked|at|the|huntsman|dubiously
-Brandi_BradfordBull,114,0.3253676470588234,6.735294117647059,254.79,259.48,seg114: 'How - demanded,'How come this creature has no tongue?' he demanded.,>maximal segment,BradfordBoar,'How|come|this|creature|has|no|tongue|'|he|demanded
-Brandi_BradfordBull,115,0.47022058823529417,6.405882352941176,260.26,261.86,seg115: All - huntsman,All eyes were on the huntsman.,>maximal segment,BradfordBoar,All|eyes|were|on|the|huntsman
-Brandi_BradfordBull,116,0.6768382352941176,4.695588235294117,261.86,263.15,seg116: The - huntsman,The huntsman,-,BradfordBoar,The|huntsman
-Brandi_BradfordBull,117,0.4904411764705881,5.046323529411765,263.15,264.199999,seg117: questioned - Lord,questioned by the Lord,nonrestrictive clause,BradfordBoar,questioned|by|the|Lord
-Brandi_BradfordBull,118,-0.06066176470588239,5.719485294117647,264.2,267.2,seg118: replied - ',"replied, 'I cannot say, my Lord.'",>maximal segment,BradfordBoar,replied|'I|cannot|say|my|Lord|'
-Brandi_BradfordBull,119,0.5132352941176469,5.343014705882353,267.2,268.49,seg119: He - realizing,He was suddenly realizing,-,BradfordBoar,He|was|suddenly|realizing
-Brandi_BradfordBull,120,-0.5121323529411764,6.183455882352941,268.49,270.659999,seg120: his - him,his tricky situation could end badly for him.,complementizer (that...); >maximal segment,BradfordBoar,his|tricky|situation|could|end|badly|for|him
-Brandi_BradfordBull,121,1.7136029411764706,6.662867647058825,271.62,274.22,seg121: Through - burst,"Through the door at this moment, the first huntsman burst.",>maximal segment,BradfordBoar,Through|the|door|at|this|moment|the|first|huntsman|burst
-Brandi_BradfordBull,122,2.075735294117647,7.11360294117647,274.23,277.53,seg122: 'The - cried,'The woes of Bradford are ended!' he cried.,>maximal segment,BradfordBoar,'The|woes|of|Bradford|are|ended|'|he|cried
-Brandi_BradfordBull,123,1.9044117647058822,6.946323529411765,277.54,279.68,seg123: 'I - boar,'I have slain the boar,-,BradfordBoar,'I|have|slain|the|boar
-Brandi_BradfordBull,124,0.5639705882352941,6.051470588235294,279.68,281.98,seg124: the - ',the people of Bradford dreaded!',relative clause (that...); >maximal segment,BradfordBoar,the|people|of|Bradford|dreaded|'
-Brandi_BradfordBull,125,0.5250000000000001,6.469117647058824,281.98,283.4,seg125: All - man,All eyes turned to the man,-,BradfordBoar,All|eyes|turned|to|the|man
-Brandi_BradfordBull,126,0.7955882352941177,5.415441176470588,283.4,284.76,seg126: who - doorway,who now stood in the doorway.,relative clause; >maximal segment,BradfordBoar,who|now|stood|in|the|doorway
-Brandi_BradfordBull,127,-0.595220588235294,6.904779411764706,285.67414,288.38,seg127: 'The - Manor,"'The reward is already given,' said the Lord of the Manor.",>maximal segment,BradfordBoar,'The|reward|is|already|given|'|said|the|Lord|of|the|Manor
-Brandi_BradfordBull,128,-0.29999999999999993,6.570220588235294,288.389999,292.02,seg128: 'The - ','The man here has brought to me the boar's head.',>maximal segment,BradfordBoar,'The|man|here|has|brought|to|me|the|boar's|head|'
-Brandi_BradfordBull,129,1.2628676470588236,6.891911764705883,292.02,295.02,seg129: 'Then - replied,'Then where is its tongue?' the first huntsman replied.,>maximal segment,BradfordBoar,'Then|where|is|its|tongue|'|the|first|huntsman|replied
-Brandi_BradfordBull,130,1.3014705882352942,4.951838235294117,295.53,296.42,seg130: And - saying,"And, so saying,",nonfinite clause,BradfordBoar,And|so|saying
-Brandi_BradfordBull,131,1.7827205882352941,6.60625,296.429999,297.74,seg131: he - tongue,he drew out the boar's tongue,-,BradfordBoar,he|drew|out|the|boar's|tongue
-Brandi_BradfordBull,132,1.5647058823529412,5.88639705882353,297.75,299.23,seg132: he - pouch,he had put in his hunting pouch,relative clause (that...),BradfordBoar,he|had|put|in|his|hunting|pouch
-Brandi_BradfordBull,133,1.769485294117647,6.7849264705882355,300.28,303.61,seg133: and - tongue,and related how he had ambushed the creature in the wood and cut out its tongue,conjunction,BradfordBoar,and|related|how|he|had|ambushed|the|creature|in|the|wood|and|cut|out|its|tongue
-Brandi_BradfordBull,134,2.383455882352941,6.6312500000000005,303.62,304.82,seg134: as - victory,as proof of his victory.,conjunction; >maximal segment,BradfordBoar,as|proof|of|his|victory
-Brandi_BradfordBull,135,1.2838235294117646,5.146691176470588,305.719999,306.73,seg135: Listening - tale,"Listening to the tale,",nonfinite clause,BradfordBoar,Listening|to|the|tale
-Brandi_BradfordBull,136,0.5742647058823529,5.184558823529412,306.73,308.84,seg136: the - discern,the Lord of the Manor tried to discern,-,BradfordBoar,the|Lord|of|the|Manor|tried|to|discern
-Brandi_BradfordBull,137,0.8551470588235294,5.979779411764706,308.84,310.45,seg137: which - truth,which huntsman was telling him the truth,relative clause,BradfordBoar,which|huntsman|was|telling|him|the|truth
-Brandi_BradfordBull,138,0.5882352941176471,5.385661764705882,311.01,312.54,seg138: and - thinking,and what the two huntsmen were thinking,conjunction,BradfordBoar,and|what|the|two|huntsmen|were|thinking
-Brandi_BradfordBull,139,0.6386029411764704,6.079411764705883,312.55,314.4,seg139: as - decision,as they waited for him to make a decision.,conjunction; >maximal segment,BradfordBoar,as|they|waited|for|him|to|make|a|decision
-Brandi_BradfordBull,140,0.6922794117647059,5.890441176470588,315.19,316.13,seg140: Almost - instantly,"Almost instantly,",positioning element,BradfordBoar,Almost|instantly
-Brandi_BradfordBull,141,0.66875,5.1238970588235295,316.13,316.74,seg141: the - saw,the Lord saw,-,BradfordBoar,the|Lord|saw
-Brandi_BradfordBull,142,0.5514705882352942,6.420588235294117,316.74,319.22,seg142: that - lies,that the second huntsman had fed him a pack of lies,complementizer,BradfordBoar,that|the|second|huntsman|had|fed|him|a|pack|of|lies
-Brandi_BradfordBull,143,1.2834558823529412,6.0058823529411764,320.259999,321.31,seg143: and - huntsman,and it was the first huntsman,conjunction,BradfordBoar,and|it|was|the|first|huntsman
-Brandi_BradfordBull,144,2.818014705882353,6.922794117647059,321.469999,323.576828,seg144: who - Bradford,who was the true savior of Bradford.,relative clause; >maximal segment,BradfordBoar,who|was|the|true|savior|of|Bradford
-Brandi_BradfordBull,145,1.6404411764705882,5.586764705882353,324.119881,324.95,seg145: The - believed,The Lord believed,-,BradfordBoar,The|Lord|believed
-Brandi_BradfordBull,146,0.736764705882353,5.784558823529411,324.9783,326.24,seg146: the - tried,the second huntsman had tried,complementizer (that...),BradfordBoar,the|second|huntsman|had|tried
-Brandi_BradfordBull,147,-0.6231617647058824,6.254779411764705,326.214045,327.96,seg147: to - prize,to steal the first huntsman's prize,infinitival phrase,BradfordBoar,to|steal|the|first|huntsman's|prize
-Brandi_BradfordBull,148,0.5272058823529412,5.612132352941177,328.0,328.98,seg148: and - proclaimed,and so proclaimed,conjunction,BradfordBoar,and|so|proclaimed
-Brandi_BradfordBull,149,2.5356617647058823,7.242647058823529,328.98,330.65,seg149: the - victor,the first huntsman the true victor.,complementizer; >maximal segment,BradfordBoar,the|first|huntsman|the|true|victor
-Brandi_BradfordBull,150,0.8790441176470588,5.922426470588235,330.65,332.88,seg150: The - moment,The Lord wondered for a moment,-,BradfordBoar,The|Lord|wondered|for|a|moment
-Brandi_BradfordBull,151,-0.00919117647058821,5.545588235294117,332.9,336.89,seg151: why - interactions,why he always encountered so much chicanery in his everyday interactions.,relative clause; >maximal segment,BradfordBoar,why|he|always|encountered|so|much|chicanery|in|his|everyday|interactions
-Brandi_BradfordBull,152,0.5400735294117647,4.051838235294118,336.89,338.209983,seg152: The - huntsman,The huntsman,-,BradfordBoar,The|huntsman
-Brandi_BradfordBull,153,2.091544117647059,5.715441176470589,338.219999,340.04,seg153: who - square,who had earned his prize fair and square,relative clause,BradfordBoar,who|had|earned|his|prize|fair|and|square
-Brandi_BradfordBull,154,3.0125,6.769117647058824,340.58,343.93,seg154: received - town,"received as his reward a piece of land just outside the town,",-,BradfordBoar,received|as|his|reward|a|piece|of|land|just|outside|the|town
-Brandi_BradfordBull,155,2.911764705882353,6.320955882352941,344.48,346.58,seg155: known - Yard,known thereafter as Hunt Yard.,nonrestrictive clause; >maximal segment,BradfordBoar,known|thereafter|as|Hunt|Yard
-Brandi_BradfordBull,156,2.775,5.980882352941176,347.44,348.97,seg156: His - assured,"His fame was indeed assured,",-,BradfordBoar,His|fame|was|indeed|assured
-Brandi_BradfordBull,157,1.2904411764705883,5.913235294117647,350.668872,354.550298,seg157: but - Boar,but it was not nearly as lasting as that of the fearsome Bradford Boar.,conjunction; >maximal segment,BradfordBoar,but|it|was|not|nearly|as|lasting|as|that|of|the|fearsome|Bradford|Boar
+Brandi_BradfordBoar,1,1.3356617647058822,4.943014705882353,5.57,7.52,seg1: If - England,"If you were to journey to the North of England,",-,BradfordBoar,If|you|were|to|journey|to|the|North|of|England
+Brandi_BradfordBoar,2,1.463235294117647,4.827941176470588,7.61,8.71,seg2: you - valley,you would come to a valley,"conjunction (if, then...)",BradfordBoar,you|would|come|to|a|valley
+Brandi_BradfordBoar,3,1.4731617647058826,5.76139705882353,8.71,11.3,seg3: that - mountains,that is surrounded by moors as high as mountains.,relative clause; >maximal segment,BradfordBoar,that|is|surrounded|by|moors|as|high|as|mountains
+Brandi_BradfordBoar,4,1.2636029411764704,4.766544117647059,12.059999,13.213351,seg4: It - valley,It is in this valley,-,BradfordBoar,It|is|in|this|valley
+Brandi_BradfordBoar,5,1.3893382352941177,4.89375,13.210016,14.997646,seg5: where - Bradford,"where you would find the city of Bradford,",relative clause,BradfordBoar,where|you|would|find|the|city|of|Bradford
+Brandi_BradfordBoar,6,1.18125,5.415441176470588,15.469999,17.422716,seg6: where - jennies,where once a thousand spinning jennies,relative clause,BradfordBoar,where|once|a|thousand|spinning|jennies
+Brandi_BradfordBoar,7,1.007720588235294,4.942647058823529,17.42,18.586676,seg7: that - clattered,that hummed and clattered,relative clause,BradfordBoar,that|hummed|and|clattered
+Brandi_BradfordBoar,8,1.7698529411764707,5.344117647058824,19.13,21.9,seg8: spun - owners,spun wool into money for the long-bearded mill owners.,>maximal segment,BradfordBoar,spun|wool|into|money|for|the|long|bearded|mill|owners
+Brandi_BradfordBoar,9,1.5400735294117647,5.4698529411764705,22.89,27.06,seg9: That - themselves,That all mill owners were generally busy as beavers and quite pleased with themselves,relative clause,BradfordBoar,That|all|mill|owners|were|generally|busy|as|beavers|and|quite|pleased|with|themselves
+Brandi_BradfordBoar,10,2.0316176470588236,5.7632352941176475,27.059999,29.09,seg10: for - off,for being so successful and well off,nonfinite clause,BradfordBoar,for|being|so|successful|and|well|off
+Brandi_BradfordBoar,11,1.4051470588235293,4.684558823529412,29.592604,31.43693,seg11: was - Bradford,"was known to the residents of Bradford,",-,BradfordBoar,was|known|to|the|residents|of|Bradford
+Brandi_BradfordBoar,12,0.34227941176470583,3.322794117647059,32.059999,32.56,seg12: and - were,and if you were,conjunction,BradfordBoar,and|if|you|were
+Brandi_BradfordBoar,13,0.9647058823529411,4.269485294117647,32.559999,33.63,seg13: to - city,to go into the city,infinitival phrase,BradfordBoar,to|go|into|the|city
+Brandi_BradfordBoar,14,1.04375,4.407720588235294,34.109999,35.75,seg14: to - Hall,"to visit the stately City Hall,","conjunction (if, then...)",BradfordBoar,to|visit|the|stately|City|Hall
+Brandi_BradfordBoar,15,1.5713235294117647,5.009558823529411,36.172814,38.844253,seg15: you - Bradford,"you would see there the Crest of the City of Bradford,",-,BradfordBoar,you|would|see|there|the|Crest|of|the|City|of|Bradford
+Brandi_BradfordBoar,16,1.45,4.74375,39.36,41.29,seg16: which - created,which those same mill owners created,relative clause,BradfordBoar,which|those|same|mill|owners|created
+Brandi_BradfordBoar,17,2.081617647058824,5.711029411764706,41.29,42.87,seg17: to - achievements,to celebrate their achievements.,infinitival clause; >maximal segment,BradfordBoar,to|celebrate|their|achievements
+Brandi_BradfordBoar,18,-0.5547794117647058,5.148161764705882,43.77,45.89,seg18: It - head,It shows a sinister looking boar's head,-,BradfordBoar,It|shows|a|sinister|looking|boar's|head
+Brandi_BradfordBoar,19,0.26397058823529407,4.625367647058824,45.9,47.26,seg19: sitting - well,sitting on top of a well,nonfinite clause,BradfordBoar,sitting|on|top|of|a|well
+Brandi_BradfordBoar,20,0.35919117647058824,4.836764705882353,47.389999,49.019999,seg20: which - first,"which seems puzzling at first,",relative clause,BradfordBoar,which|seems|puzzling|at|first
+Brandi_BradfordBoar,21,1.2584558823529413,5.711029411764706,49.53,52.02,seg21: but - legend,but the reason for this symbol is a matter of legend.,conjunction; >maximal segment,BradfordBoar,but|the|reason|for|this|symbol|is|a|matter|of|legend
+Brandi_BradfordBoar,22,1.2643382352941177,5.1312500000000005,52.959999,54.77,seg22: There - it,"There was once, legend has it,",generic convention,BradfordBoar,There|was|once|legend|has|it
+Brandi_BradfordBoar,23,0.21948529411764703,5.404411764705882,55.27,56.36,seg23: a - boar,"a fearsome boar,",-,BradfordBoar,a|fearsome|boar
+Brandi_BradfordBoar,24,0.46213235294117644,5.0492647058823525,56.783914,60.468071,seg24: which - Bradford,which lived in a wood located just outside the manor of Bradford.,relative clause; >maximal segment,BradfordBoar,which|lived|in|a|wood|located|just|outside|the|manor|of|Bradford
+Brandi_BradfordBoar,25,-1.0169117647058825,5.426470588235294,61.23,64.27,seg25: A - was,"A source of great trouble to the local folk the boar was,",-,BradfordBoar,A|source|of|great|trouble|to|the|local|folk|the|boar|was
+Brandi_BradfordBoar,26,-1.6636029411764706,5.826102941176471,64.82,66.89,seg26: bringing - flocks,bringing terror to the peaceful flocks,nonfinite clause,BradfordBoar,bringing|terror|to|the|peaceful|flocks
+Brandi_BradfordBoar,27,-1.8327205882352942,6.091176470588235,66.92,68.72,seg27: and - around,and ravaging the countryside around.,nonfinite clause; >maximal segment,BradfordBoar,and|ravaging|the|countryside|around
+Brandi_BradfordBoar,28,-1.8341911764705883,5.727573529411765,69.75,70.980001,seg28: Even - however,"Even worse, however,",nonrestrictive clause,BradfordBoar,Even|worse|however
+Brandi_BradfordBoar,29,-0.5327205882352942,5.341911764705882,70.980001,73.41,seg29: the - well,the boar most liked to go to the well,-,BradfordBoar,the|boar|most|liked|to|go|to|the|well
+Brandi_BradfordBoar,30,-0.3823529411764707,4.624264705882353,73.41,74.27,seg30: that - wood,that was in the wood,relative clause,BradfordBoar,that|was|in|the|wood
+Brandi_BradfordBoar,31,0.8926470588235293,4.489705882352941,74.31,75.66,seg31: and - water,"and drink its fresh water,",-,BradfordBoar,and|drink|its|fresh|water
+Brandi_BradfordBoar,32,0.05882352941176471,4.76875,76.25,78.26,seg32: so - thoughts,so that the people of Bradford had second thoughts,conjunction,BradfordBoar,so|that|the|people|of|Bradford|had|second|thoughts
+Brandi_BradfordBoar,33,-0.2165441176470589,4.473161764705882,78.26,79.34,seg33: about - well,about visiting the well.,nonfinite clause; >maximal segment,BradfordBoar,about|visiting|the|well
+Brandi_BradfordBoar,34,-1.5636029411764707,5.416911764705882,80.23,83.18,seg34: That - ferocity,That the people of Bradford bore the brunt of the beast's ferocity,relative clause,BradfordBoar,That|the|people|of|Bradford|bore|the|brunt|of|the|beast's|ferocity
+Brandi_BradfordBoar,35,-1.4158088235294117,5.214705882352941,83.179999,85.68,seg35: was - region,was unfair in the eyes of the people of the region.,>maximal segment,BradfordBoar,was|unfair|in|the|eyes|of|the|people|of|the|region
+Brandi_BradfordBoar,36,0.9893382352941177,5.370588235294117,86.83,90.11,seg36: Eventually - Manor,"Eventually, the issue reached the ears of the kindly Lord of the Manor",-,BradfordBoar,Eventually|the|issue|reached|the|ears|of|the|kindly|Lord|of|the|Manor
+Brandi_BradfordBoar,37,1.349264705882353,5.018382352941177,90.74,92.67,seg37: who - help,who the people had often asked for help.,relative clause; >maximal segment,BradfordBoar,who|the|people|had|often|asked|for|help
+Brandi_BradfordBoar,38,0.9169117647058824,5.289705882352941,92.67,95.65,seg38: The - problem,The Lord saw the severity of the problem,-,BradfordBoar,The|Lord|saw|the|severity|of|the|problem
+Brandi_BradfordBoar,39,0.4731617647058822,4.3834558823529415,95.65,96.5,seg39: the - faced,the people faced,relative clause (that...),BradfordBoar,the|people|faced
+Brandi_BradfordBoar,40,1.3279411764705884,5.629044117647059,96.53,98.88,seg40: and - problem,and suggested a contest could solve the problem.,>maximal segment,BradfordBoar,and|suggested|a|contest|could|solve|the|problem
+Brandi_BradfordBoar,41,0.4639705882352941,3.7308823529411765,99.99,100.38,seg41: He - said,He said,-,BradfordBoar,He|said
+Brandi_BradfordBoar,42,-0.3547794117647059,6.722794117647059,100.38,104.069999,seg42: that - House,that whoever could kill the boar and bring as proof its head to the Manor House,complementizer / relative clause,BradfordBoar,that|whoever|could|kill|the|boar|and|bring|as|proof|its|head|to|the|Manor|House
+Brandi_BradfordBoar,43,1.9588235294117649,6.909558823529411,104.65,106.7,seg43: would - fame,would be rewarded with land and fame.,complementizer cont.; >maximal segment,BradfordBoar,would|be|rewarded|with|land|and|fame
+Brandi_BradfordBoar,44,1.1191176470588236,5.096323529411765,107.799999,110.45,seg44: It - them,It was the people of Bradford and the people who knew them,-,BradfordBoar,It|was|the|people|of|Bradford|and|the|people|who|knew|them
+Brandi_BradfordBoar,45,2.0503676470588235,6.015808823529412,110.46,112.2,seg45: who - proclamation,who rejoiced at this proclamation,relative clause,BradfordBoar,who|rejoiced|at|this|proclamation
+Brandi_BradfordBoar,46,0.20441176470588227,5.149264705882353,112.78,114.14,seg46: but - remained,but one question remained:,>maximal segment,BradfordBoar,but|one|question|remained
+Brandi_BradfordBoar,47,-0.5286764705882353,6.090808823529412,114.63,115.85,seg47: who - boar,who would kill the boar?,>maximal segment,BradfordBoar,who|would|kill|the|boar
+Brandi_BradfordBoar,48,1.4294117647058822,6.2150735294117645,117.01,119.33,seg48: By - tempted,"By the handsome reward many felt tempted,",-,BradfordBoar,By|the|handsome|reward|many|felt|tempted
+Brandi_BradfordBoar,49,-0.4761029411764707,4.738970588235294,119.849999,120.879999,seg49: but - boar,but the thought of the boar,conjunction,BradfordBoar,but|the|thought|of|the|boar
+Brandi_BradfordBoar,50,-1.6838235294117647,5.738235294117646,120.88,123.329999,seg50: with - thunder,with its deadly tusks and face like thunder,nonrestrictive clause,BradfordBoar,with|its|deadly|tusks|and|face|like|thunder
+Brandi_BradfordBoar,51,-1.4018382352941177,5.195588235294118,123.929999,125.889999,seg51: soon - ambitions,soon put an end to their ambitions.,conjunction cont.; >maximal segment,BradfordBoar,soon|put|an|end|to|their|ambitions
+Brandi_BradfordBoar,52,0.9345588235294118,5.476838235294118,126.76,128.09,seg52: However - huntsman,"However, there was one huntsman,",-,BradfordBoar,However|there|was|one|huntsman
+Brandi_BradfordBoar,53,0.79375,4.447058823529412,128.44,130.09,seg53: who - ears,"who was still wet behind the ears,",relative clause,BradfordBoar,who|was|still|wet|behind|the|ears
+Brandi_BradfordBoar,54,0.5183823529411764,4.222794117647059,130.4,130.97,seg54: who - decided,who decided,relative clause,BradfordBoar,who|decided
+Brandi_BradfordBoar,55,1.4551470588235296,5.76139705882353,130.97,132.37,seg55: the - shot,"the prize was worth a shot,",complementizer (that...),BradfordBoar,the|prize|was|worth|a|shot
+Brandi_BradfordBoar,56,0.5448529411764705,5.544117647058823,132.4,134.33,seg56: in - reputation,in spite of the boar's reputation.,nonrestrictive clause; >maximal segment,BradfordBoar,in|spite|of|the|boar's|reputation
+Brandi_BradfordBoar,57,0.9643382352941178,5.296323529411765,134.33,136.71,seg57: The - discovered,The huntsman discovered,-,BradfordBoar,The|huntsman|discovered
+Brandi_BradfordBoar,58,0.44852941176470573,4.372058823529412,136.71,137.44,seg58: the - preferred,the boar preferred,complementizer (that...),BradfordBoar,the|boar|preferred
+Brandi_BradfordBoar,59,0.7709558823529412,5.0180147058823525,137.44,138.89,seg59: to - day,to come out in the middle of the day.,infinitival phrase; >maximal segment,BradfordBoar,to|come|out|in|the|middle|of|the|day
+Brandi_BradfordBoar,60,1.0922794117647059,5.921691176470588,139.73,142.21,seg60: So - bow,"So he went to the wood by the well with his good bow,",-,BradfordBoar,So|he|went|to|the|wood|by|the|well|with|his|good|bow
+Brandi_BradfordBoar,61,0.831985294117647,4.583823529411765,142.25,143.329999,seg61: to - time,to bide his time.,infinitival clause; >maximal segment,BradfordBoar,to|bide|his|time
+Brandi_BradfordBoar,62,0.807720588235294,4.273161764705883,144.518927,145.581857,seg62: Around - noontime,"Around noontime,",positioning element,BradfordBoar,Around|noontime
+Brandi_BradfordBoar,63,-0.11691176470588242,4.3496323529411764,145.581857,146.168849,seg63: the - boar,"the boar,",-,BradfordBoar,the|boar
+Brandi_BradfordBoar,64,-0.9187500000000001,5.076838235294117,146.2,147.29,seg64: feared - locals,"feared by the locals,",nonrestrictive clause,BradfordBoar,feared|by|the|locals
+Brandi_BradfordBoar,65,-0.3974264705882352,5.059558823529412,147.29,147.9,seg65: came - out,"came out,",-,BradfordBoar,came|out
+Brandi_BradfordBoar,66,-0.6716911764705883,4.546323529411765,147.96,149.198995,seg66: as - snail,"as slow as a snail,",nonrestrictive clause,BradfordBoar,as|slow|as|a|snail
+Brandi_BradfordBoar,67,-0.18897058823529414,4.357720588235294,149.198995,150.34,seg67: from - trees,"from among the trees,",-,BradfordBoar,from|among|the|trees
+Brandi_BradfordBoar,68,0.8349264705882352,5.075367647058823,150.41,152.18,seg68: just - predicted,just as the huntsman had predicted.,nonrestrictive clause; >maximal segment,BradfordBoar,just|as|the|huntsman|had|predicted
+Brandi_BradfordBoar,69,0.775,6.2753676470588236,152.18,155.14,seg69: The - place,The huntsman leaped from his hiding place,-,BradfordBoar,The|huntsman|leaped|from|his|hiding|place
+Brandi_BradfordBoar,70,0.41654411764705884,7.000735294117647,155.16,158.06,seg70: and - boar,and through the heart with his fine arrows shot the boar.,conjunction; >maximal segment,BradfordBoar,and|through|the|heart|with|his|fine|arrows|shot|the|boar
+Brandi_BradfordBoar,71,0.5992647058823529,5.421691176470588,159.639999,160.989999,seg71: Now - longer,Now the problem was no longer,-,BradfordBoar,Now|the|problem|was|no|longer
+Brandi_BradfordBoar,72,-0.305514705882353,5.970588235294118,160.99,161.839999,seg72: to - boar,to kill the boar.,infinitival phrase; >maximal segment,BradfordBoar,to|kill|the|boar
+Brandi_BradfordBoar,73,0.13492647058823526,3.9669117647058822,162.309999,162.6,seg73: It - was,It was,-,BradfordBoar,It|was
+Brandi_BradfordBoar,74,0.37757352941176464,3.9761029411764706,162.6,163.23,seg74: to - way,to find a way,infinitival phrase,BradfordBoar,to|find|a|way
+Brandi_BradfordBoar,75,0.49816176470588236,4.917279411764706,163.23,164.48,seg75: to - back,to carry the boar back.,infinitival phrase; >maximal segment,BradfordBoar,to|carry|the|boar|back
+Brandi_BradfordBoar,76,-0.8029411764705882,4.828308823529412,164.48,167.49,seg76: The - huntsman,The head was too heavy for the little huntsman,-,BradfordBoar,The|head|was|too|heavy|for|the|little|huntsman
+Brandi_BradfordBoar,77,-0.21066176470588238,4.346691176470588,167.5,169.02,seg77: to - House,"to carry back to the Manor House,",infinitival phrase,BradfordBoar,to|carry|back|to|the|Manor|House
+Brandi_BradfordBoar,78,0.5897058823529412,3.9819852941176475,169.67,170.37,seg78: but - huntsman,"but the huntsman,",conjunction,BradfordBoar,but|the|huntsman
+Brandi_BradfordBoar,79,1.2922794117647058,5.681985294117647,170.57,172.54,seg79: who - ever,"who was as quick-witted and cunning as ever,",relative clause,BradfordBoar,who|was|as|quick|witted|and|cunning|as|ever
+Brandi_BradfordBoar,80,0.9628676470588236,6.166176470588236,172.535879,177.009707,seg80: asked - ',"asked himself, 'What else can I do to prove I killed the boar?'",quotation; >maximal segment,BradfordBoar,asked|himself|'What|else|can|I|do|to|prove|I|killed|the|boar|'
+Brandi_BradfordBoar,81,0.7066176470588235,4.316911764705882,178.231284,179.181179,seg81: The - instance,The next instance,positioning element,BradfordBoar,The|next|instance
+Brandi_BradfordBoar,82,-0.38933823529411765,6.300735294117646,179.181179,181.34,seg82: he - tongue,"he opened the boar's mouth and cut out its tongue,",-,BradfordBoar,he|opened|the|boar's|mouth|and|cut|out|its|tongue
+Brandi_BradfordBoar,83,0.6371323529411764,5.903308823529412,181.84,183.49,seg83: taking - Lord,taking that as proof for the Lord.,nonfinite clause; >maximal segment,BradfordBoar,taking|that|as|proof|for|the|Lord
+Brandi_BradfordBoar,84,1.363235294117647,5.997794117647058,184.46,186.82,seg84: He - could,He set out for the Manor House as quickly as he could,-,BradfordBoar,He|set|out|for|the|Manor|House|as|quickly|as|he|could
+Brandi_BradfordBoar,85,0.7959558823529411,4.788235294117648,187.37,188.92,seg85: and - minutes,and he had only been gone a few minutes,conjunction,BradfordBoar,and|he|had|only|been|gone|a|few|minutes
+Brandi_BradfordBoar,86,0.08455882352941171,5.131617647058823,188.92,189.929999,seg86: when - huntsman,"when a second huntsman,",conjunction,BradfordBoar,when|a|second|huntsman
+Brandi_BradfordBoar,87,0.009926470588235217,5.784191176470588,190.52,193.13,seg87: not - cunning,"not so bold as the first but a little more cunning,",nonrestrictive clause,BradfordBoar,not|so|bold|as|the|first|but|a|little|more|cunning
+Brandi_BradfordBoar,88,0.08235294117647063,5.4555147058823525,193.759999,194.74,seg88: came - scene,came on the scene.,>maximal segment,BradfordBoar,came|on|the|scene
+Brandi_BradfordBoar,89,-0.5794117647058824,5.645955882352942,195.52,197.2,seg89: Seeing - boar,"Seeing the slain carcass of the boar,",nonfinite clause,BradfordBoar,Seeing|the|slain|carcass|of|the|boar
+Brandi_BradfordBoar,90,1.2,6.222058823529411,197.2,199.62,seg90: the - fortune,the huntsman rejoiced in his good fortune.,>maximal segment,BradfordBoar,the|huntsman|rejoiced|in|his|good|fortune
+Brandi_BradfordBoar,91,0.5643382352941176,4.510661764705882,199.62,201.45,seg91: The - knew,The second huntsman knew,-,BradfordBoar,The|second|huntsman|knew
+Brandi_BradfordBoar,92,0.4897058823529412,5.547794117647059,201.45,204.41,seg92: a - pond,"a shortcut to the Manor House was just around the nearby pond,",complementizer (that...),BradfordBoar,a|shortcut|to|the|Manor|House|was|just|around|the|nearby|pond
+Brandi_BradfordBoar,93,0.5143382352941177,5.671691176470588,204.96,207.16,seg93: and - first,"and, being a bigger man than the first,",conjunction / nonrestrictive clause,BradfordBoar,and|being|a|bigger|man|than|the|first
+Brandi_BradfordBoar,94,0.6209558823529411,4.425367647058823,207.639999,208.05,seg94: was - able,was able,conjunction cont.,BradfordBoar,was|able
+Brandi_BradfordBoar,95,0.24227941176470594,6.083088235294118,208.05,210.21,seg95: to - wood,to pick up the boar's head and carry it through the wood,infinitival phrase,BradfordBoar,to|pick|up|the|boar's|head|and|carry|it|through|the|wood
+Brandi_BradfordBoar,96,0.5808823529411764,6.216176470588235,210.719999,212.38,seg96: towards - him,towards the prize that awaited him.,positioning element; >maximal segment,BradfordBoar,towards|the|prize|that|awaited|him
+Brandi_BradfordBoar,97,0.7463235294117647,5.107720588235295,212.38,215.24,seg97: The - hall,The Lord of the Manor was seated in his hall,-,BradfordBoar,The|Lord|of|the|Manor|was|seated|in|his|hall
+Brandi_BradfordBoar,98,-0.20110294117647068,6.045955882352941,215.24,218.49,seg98: when - line,when the second huntsman burst through the door and began to spin a line.,conjunction; >maximal segment,BradfordBoar,when|the|second|huntsman|burst|through|the|door|and|began|to|spin|a|line
+Brandi_BradfordBoar,99,0.754779411764706,6.229044117647058,218.5,222.62,seg99: 'The - announced,'The woes of Bradford are ended!' he announced.,quotation; >maximal segment,BradfordBoar,'The|woes|of|Bradford|are|ended|'|he|announced
+Brandi_BradfordBoar,100,-0.4823529411764706,6.547058823529412,223.74,226.88,seg100: 'With - ','With my own hand I have slain the boar!',quotation; >maximal segment,BradfordBoar,'With|my|own|hand|I|have|slain|the|boar|'
+Brandi_BradfordBoar,101,-0.04705882352941185,5.7775735294117645,226.88,229.35,seg101: And - lord,"And, with that, at the feet of his lord",positioning element,BradfordBoar,And|with|that|at|the|feet|of|his|lord
+Brandi_BradfordBoar,102,-0.6386029411764707,5.942647058823529,229.349999,231.09,seg102: he - head,he dropped the boar's enormous head.,>maximal segment,BradfordBoar,he|dropped|the|boar's|enormous|head
+Brandi_BradfordBoar,103,0.32647058823529407,6.701838235294117,232.289999,235.81,seg103: 'Then - ',"'Then you will be rewarded, as I promised.'",quotation; >maximal segment,BradfordBoar,'Then|you|will|be|rewarded|as|I|promised|'
+Brandi_BradfordBoar,104,0.0632352941176471,5.203676470588235,235.81,236.4,seg104: 'But - first,"'But first,",positioning element,BradfordBoar,'But|first
+Brandi_BradfordBoar,105,0.6485294117647059,5.8378676470588236,236.42,239.93,seg105: let - Manor,"let me examine the head of this monster,' said the Lord of the Manor.",quotation; >maximal segment,BradfordBoar,let|me|examine|the|head|of|this|monster|'|said|the|Lord|of|the|Manor
+Brandi_BradfordBoar,106,0.15661764705882353,5.632352941176471,240.65,242.58,seg106: To - advance,To not examine the head in advance,infinitival phrase,BradfordBoar,To|not|examine|the|head|in|advance
+Brandi_BradfordBoar,107,0.2470588235294118,5.580882352941177,242.58,244.99,seg107: had - huntsman,had not been very clever on the part of the huntsman.,>maximal segment,BradfordBoar,had|not|been|very|clever|on|the|part|of|the|huntsman
+Brandi_BradfordBoar,108,0.7775735294117646,5.07389705882353,245.87,246.499999,seg108: Right - away,"Right away,",positioning element,BradfordBoar,Right|away
+Brandi_BradfordBoar,109,0.9297794117647059,5.437867647058824,246.499999,247.29,seg109: the - noticed,the Lord noticed,-,BradfordBoar,the|Lord|noticed
+Brandi_BradfordBoar,110,0.6301470588235295,5.846323529411765,247.29,248.84,seg110: the - missing,the tongue of the boar was missing,complementizer (that...),BradfordBoar,the|tongue|of|the|boar|was|missing
+Brandi_BradfordBoar,111,0.5088235294117647,6.503308823529411,248.849999,251.619999,seg111: and - this,"and exclaimed, 'What is this?",>maximal segment,BradfordBoar,and|exclaimed|'What|is|this
+Brandi_BradfordBoar,112,0.3533088235294118,6.537867647058823,251.73,254.15,seg112: A - ',A boar with no tongue?',>maximal segment,BradfordBoar,A|boar|with|no|tongue|'
+Brandi_BradfordBoar,113,0.9731617647058822,5.116176470588235,254.15,254.79,seg113: He - dubiously,"He looked at the huntsman, dubiously.",>maximal segment,BradfordBoar,He|looked|at|the|huntsman|dubiously
+Brandi_BradfordBoar,114,0.3253676470588234,6.735294117647059,254.79,259.48,seg114: 'How - demanded,'How come this creature has no tongue?' he demanded.,>maximal segment,BradfordBoar,'How|come|this|creature|has|no|tongue|'|he|demanded
+Brandi_BradfordBoar,115,0.47022058823529417,6.405882352941176,260.26,261.86,seg115: All - huntsman,All eyes were on the huntsman.,>maximal segment,BradfordBoar,All|eyes|were|on|the|huntsman
+Brandi_BradfordBoar,116,0.6768382352941176,4.695588235294117,261.86,263.15,seg116: The - huntsman,The huntsman,-,BradfordBoar,The|huntsman
+Brandi_BradfordBoar,117,0.4904411764705881,5.046323529411765,263.15,264.199999,seg117: questioned - Lord,questioned by the Lord,nonrestrictive clause,BradfordBoar,questioned|by|the|Lord
+Brandi_BradfordBoar,118,-0.06066176470588239,5.719485294117647,264.2,267.2,seg118: replied - ',"replied, 'I cannot say, my Lord.'",>maximal segment,BradfordBoar,replied|'I|cannot|say|my|Lord|'
+Brandi_BradfordBoar,119,0.5132352941176469,5.343014705882353,267.2,268.49,seg119: He - realizing,He was suddenly realizing,-,BradfordBoar,He|was|suddenly|realizing
+Brandi_BradfordBoar,120,-0.5121323529411764,6.183455882352941,268.49,270.659999,seg120: his - him,his tricky situation could end badly for him.,complementizer (that...); >maximal segment,BradfordBoar,his|tricky|situation|could|end|badly|for|him
+Brandi_BradfordBoar,121,1.7136029411764706,6.662867647058825,271.62,274.22,seg121: Through - burst,"Through the door at this moment, the first huntsman burst.",>maximal segment,BradfordBoar,Through|the|door|at|this|moment|the|first|huntsman|burst
+Brandi_BradfordBoar,122,2.075735294117647,7.11360294117647,274.23,277.53,seg122: 'The - cried,'The woes of Bradford are ended!' he cried.,>maximal segment,BradfordBoar,'The|woes|of|Bradford|are|ended|'|he|cried
+Brandi_BradfordBoar,123,1.9044117647058822,6.946323529411765,277.54,279.68,seg123: 'I - boar,'I have slain the boar,-,BradfordBoar,'I|have|slain|the|boar
+Brandi_BradfordBoar,124,0.5639705882352941,6.051470588235294,279.68,281.98,seg124: the - ',the people of Bradford dreaded!',relative clause (that...); >maximal segment,BradfordBoar,the|people|of|Bradford|dreaded|'
+Brandi_BradfordBoar,125,0.5250000000000001,6.469117647058824,281.98,283.4,seg125: All - man,All eyes turned to the man,-,BradfordBoar,All|eyes|turned|to|the|man
+Brandi_BradfordBoar,126,0.7955882352941177,5.415441176470588,283.4,284.76,seg126: who - doorway,who now stood in the doorway.,relative clause; >maximal segment,BradfordBoar,who|now|stood|in|the|doorway
+Brandi_BradfordBoar,127,-0.595220588235294,6.904779411764706,285.67414,288.38,seg127: 'The - Manor,"'The reward is already given,' said the Lord of the Manor.",>maximal segment,BradfordBoar,'The|reward|is|already|given|'|said|the|Lord|of|the|Manor
+Brandi_BradfordBoar,128,-0.29999999999999993,6.570220588235294,288.389999,292.02,seg128: 'The - ','The man here has brought to me the boar's head.',>maximal segment,BradfordBoar,'The|man|here|has|brought|to|me|the|boar's|head|'
+Brandi_BradfordBoar,129,1.2628676470588236,6.891911764705883,292.02,295.02,seg129: 'Then - replied,'Then where is its tongue?' the first huntsman replied.,>maximal segment,BradfordBoar,'Then|where|is|its|tongue|'|the|first|huntsman|replied
+Brandi_BradfordBoar,130,1.3014705882352942,4.951838235294117,295.53,296.42,seg130: And - saying,"And, so saying,",nonfinite clause,BradfordBoar,And|so|saying
+Brandi_BradfordBoar,131,1.7827205882352941,6.60625,296.429999,297.74,seg131: he - tongue,he drew out the boar's tongue,-,BradfordBoar,he|drew|out|the|boar's|tongue
+Brandi_BradfordBoar,132,1.5647058823529412,5.88639705882353,297.75,299.23,seg132: he - pouch,he had put in his hunting pouch,relative clause (that...),BradfordBoar,he|had|put|in|his|hunting|pouch
+Brandi_BradfordBoar,133,1.769485294117647,6.7849264705882355,300.28,303.61,seg133: and - tongue,and related how he had ambushed the creature in the wood and cut out its tongue,conjunction,BradfordBoar,and|related|how|he|had|ambushed|the|creature|in|the|wood|and|cut|out|its|tongue
+Brandi_BradfordBoar,134,2.383455882352941,6.6312500000000005,303.62,304.82,seg134: as - victory,as proof of his victory.,conjunction; >maximal segment,BradfordBoar,as|proof|of|his|victory
+Brandi_BradfordBoar,135,1.2838235294117646,5.146691176470588,305.719999,306.73,seg135: Listening - tale,"Listening to the tale,",nonfinite clause,BradfordBoar,Listening|to|the|tale
+Brandi_BradfordBoar,136,0.5742647058823529,5.184558823529412,306.73,308.84,seg136: the - discern,the Lord of the Manor tried to discern,-,BradfordBoar,the|Lord|of|the|Manor|tried|to|discern
+Brandi_BradfordBoar,137,0.8551470588235294,5.979779411764706,308.84,310.45,seg137: which - truth,which huntsman was telling him the truth,relative clause,BradfordBoar,which|huntsman|was|telling|him|the|truth
+Brandi_BradfordBoar,138,0.5882352941176471,5.385661764705882,311.01,312.54,seg138: and - thinking,and what the two huntsmen were thinking,conjunction,BradfordBoar,and|what|the|two|huntsmen|were|thinking
+Brandi_BradfordBoar,139,0.6386029411764704,6.079411764705883,312.55,314.4,seg139: as - decision,as they waited for him to make a decision.,conjunction; >maximal segment,BradfordBoar,as|they|waited|for|him|to|make|a|decision
+Brandi_BradfordBoar,140,0.6922794117647059,5.890441176470588,315.19,316.13,seg140: Almost - instantly,"Almost instantly,",positioning element,BradfordBoar,Almost|instantly
+Brandi_BradfordBoar,141,0.66875,5.1238970588235295,316.13,316.74,seg141: the - saw,the Lord saw,-,BradfordBoar,the|Lord|saw
+Brandi_BradfordBoar,142,0.5514705882352942,6.420588235294117,316.74,319.22,seg142: that - lies,that the second huntsman had fed him a pack of lies,complementizer,BradfordBoar,that|the|second|huntsman|had|fed|him|a|pack|of|lies
+Brandi_BradfordBoar,143,1.2834558823529412,6.0058823529411764,320.259999,321.31,seg143: and - huntsman,and it was the first huntsman,conjunction,BradfordBoar,and|it|was|the|first|huntsman
+Brandi_BradfordBoar,144,2.818014705882353,6.922794117647059,321.469999,323.576828,seg144: who - Bradford,who was the true savior of Bradford.,relative clause; >maximal segment,BradfordBoar,who|was|the|true|savior|of|Bradford
+Brandi_BradfordBoar,145,1.6404411764705882,5.586764705882353,324.119881,324.95,seg145: The - believed,The Lord believed,-,BradfordBoar,The|Lord|believed
+Brandi_BradfordBoar,146,0.736764705882353,5.784558823529411,324.9783,326.24,seg146: the - tried,the second huntsman had tried,complementizer (that...),BradfordBoar,the|second|huntsman|had|tried
+Brandi_BradfordBoar,147,-0.6231617647058824,6.254779411764705,326.214045,327.96,seg147: to - prize,to steal the first huntsman's prize,infinitival phrase,BradfordBoar,to|steal|the|first|huntsman's|prize
+Brandi_BradfordBoar,148,0.5272058823529412,5.612132352941177,328.0,328.98,seg148: and - proclaimed,and so proclaimed,conjunction,BradfordBoar,and|so|proclaimed
+Brandi_BradfordBoar,149,2.5356617647058823,7.242647058823529,328.98,330.65,seg149: the - victor,the first huntsman the true victor.,complementizer; >maximal segment,BradfordBoar,the|first|huntsman|the|true|victor
+Brandi_BradfordBoar,150,0.8790441176470588,5.922426470588235,330.65,332.88,seg150: The - moment,The Lord wondered for a moment,-,BradfordBoar,The|Lord|wondered|for|a|moment
+Brandi_BradfordBoar,151,-0.00919117647058821,5.545588235294117,332.9,336.89,seg151: why - interactions,why he always encountered so much chicanery in his everyday interactions.,relative clause; >maximal segment,BradfordBoar,why|he|always|encountered|so|much|chicanery|in|his|everyday|interactions
+Brandi_BradfordBoar,152,0.5400735294117647,4.051838235294118,336.89,338.209983,seg152: The - huntsman,The huntsman,-,BradfordBoar,The|huntsman
+Brandi_BradfordBoar,153,2.091544117647059,5.715441176470589,338.219999,340.04,seg153: who - square,who had earned his prize fair and square,relative clause,BradfordBoar,who|had|earned|his|prize|fair|and|square
+Brandi_BradfordBoar,154,3.0125,6.769117647058824,340.58,343.93,seg154: received - town,"received as his reward a piece of land just outside the town,",-,BradfordBoar,received|as|his|reward|a|piece|of|land|just|outside|the|town
+Brandi_BradfordBoar,155,2.911764705882353,6.320955882352941,344.48,346.58,seg155: known - Yard,known thereafter as Hunt Yard.,nonrestrictive clause; >maximal segment,BradfordBoar,known|thereafter|as|Hunt|Yard
+Brandi_BradfordBoar,156,2.775,5.980882352941176,347.44,348.97,seg156: His - assured,"His fame was indeed assured,",-,BradfordBoar,His|fame|was|indeed|assured
+Brandi_BradfordBoar,157,1.2904411764705883,5.913235294117647,350.668872,354.550298,seg157: but - Boar,but it was not nearly as lasting as that of the fearsome Bradford Boar.,conjunction; >maximal segment,BradfordBoar,but|it|was|not|nearly|as|lasting|as|that|of|the|fearsome|Bradford|Boar
 Brandi_Elvis,1,0.6821249999999999,3.1177499999999996,5.13,6.067581,seg1: At - old,"At ten years old,",positioning element,Elvis,At|ten|years|old
 Brandi_Elvis,2,0.0423749999999999,3.5283749999999996,6.077289,7.67,seg2: I - was,I could not figure out what it was,-,Elvis,I|could|not|figure|out|what|it|was
 Brandi_Elvis,3,0.4233749999999999,4.019625,7.650006,9.39747,seg3: that - had,that this Elvis Presley guy had,relative clause,Elvis,that|this|Elvis|Presley|guy|had
@@ -3906,163 +3906,163 @@ Jacob_Aqua,144,2.547265625,5.0347656249999995,347.54,350.48,seg144: you - waves,
 Jacob_Aqua,145,1.555859375,4.0277343750000005,350.63,351.59,seg145: and - say,and some say,conjunction,Aqua,and|some|say
 Jacob_Aqua,146,2.0285156250000003,5.010546875,351.66,355.82,seg146: that - drops,that it must be the gurgling voices of Aqua and his brother water drops,complementizer,Aqua,that|it|must|be|the|gurgling|voices|of|Aqua|and|his|brother|water|drops
 Jacob_Aqua,147,2.7746093750000003,5.9734375,356.109999,359.759999,seg147: telling - world,telling each other about their wonderful journey around the world.,nonfinite clause; >maximal segment,Aqua,telling|each|other|about|their|wonderful|journey|around|the|world
-Jacob_BradfordBull,1,1.1705357142857142,4.248596938775511,3.93,6.26,seg1: If - England,"If you were to journey to the North of England,",-,BradfordBoar,If|you|were|to|journey|to|the|North|of|England
-Jacob_BradfordBull,2,0.8628826530612244,3.9968112244897958,6.55,7.72,seg2: you - valley,you would come to a valley,"conjunction (if, then...)",BradfordBoar,you|would|come|to|a|valley
-Jacob_BradfordBull,3,1.5091836734693878,4.80765306122449,7.72,10.41,seg3: that - mountains,that is surrounded by moors as high as mountains.,relative clause; >maximal segment,BradfordBoar,that|is|surrounded|by|moors|as|high|as|mountains
-Jacob_BradfordBull,4,0.9975765306122448,4.12079081632653,10.88,11.929999,seg4: It - valley,It is in this valley,-,BradfordBoar,It|is|in|this|valley
-Jacob_BradfordBull,5,1.6025510204081634,4.615943877551021,11.95,13.899999,seg5: where - Bradford,"where you would find the city of Bradford,",relative clause,BradfordBoar,where|you|would|find|the|city|of|Bradford
-Jacob_BradfordBull,6,1.2788265306122448,4.905229591836735,14.049999,16.02,seg6: where - jennies,where once a thousand spinning jennies,relative clause,BradfordBoar,where|once|a|thousand|spinning|jennies
-Jacob_BradfordBull,7,1.0411989795918366,4.377933673469388,16.039999,17.259999,seg7: that - clattered,that hummed and clattered,relative clause,BradfordBoar,that|hummed|and|clattered
-Jacob_BradfordBull,8,1.2313775510204081,5.004336734693878,17.459999,20.98,seg8: spun - owners,spun wool into money for the long-bearded mill owners.,>maximal segment,BradfordBoar,spun|wool|into|money|for|the|long|bearded|mill|owners
-Jacob_BradfordBull,9,1.4854591836734692,4.6186224489795915,21.46,25.86,seg9: That - themselves,That all mill owners were generally busy as beavers and quite pleased with themselves,relative clause,BradfordBoar,That|all|mill|owners|were|generally|busy|as|beavers|and|quite|pleased|with|themselves
-Jacob_BradfordBull,10,1.5417091836734695,4.693622448979592,25.86,27.85,seg10: for - off,for being so successful and well off,nonfinite clause,BradfordBoar,for|being|so|successful|and|well|off
-Jacob_BradfordBull,11,1.144515306122449,3.826530612244898,28.389999,30.48,seg11: was - Bradford,"was known to the residents of Bradford,",-,BradfordBoar,was|known|to|the|residents|of|Bradford
-Jacob_BradfordBull,12,0.4186224489795918,2.992729591836735,30.88,31.509999,seg12: and - were,and if you were,conjunction,BradfordBoar,and|if|you|were
-Jacob_BradfordBull,13,0.9715561224489796,3.5142857142857147,31.509999,32.6,seg13: to - city,to go into the city,infinitival phrase,BradfordBoar,to|go|into|the|city
-Jacob_BradfordBull,14,0.994515306122449,4.203061224489796,32.599999,34.409999,seg14: to - Hall,"to visit the stately City Hall,","conjunction (if, then...)",BradfordBoar,to|visit|the|stately|City|Hall
-Jacob_BradfordBull,15,1.5535714285714286,4.665688775510204,34.93,37.75,seg15: you - Bradford,"you would see there the Crest of the City of Bradford,",-,BradfordBoar,you|would|see|there|the|Crest|of|the|City|of|Bradford
-Jacob_BradfordBull,16,1.0331632653061225,4.211479591836735,38.13,40.33,seg16: which - created,which those same mill owners created,relative clause,BradfordBoar,which|those|same|mill|owners|created
-Jacob_BradfordBull,17,1.896045918367347,5.121045918367347,40.33,42.05,seg17: to - achievements,to celebrate their achievements.,infinitival clause; >maximal segment,BradfordBoar,to|celebrate|their|achievements
-Jacob_BradfordBull,18,-0.19170918367346954,5.194897959183674,42.52,44.66,seg18: It - head,It shows a sinister looking boar's head,-,BradfordBoar,It|shows|a|sinister|looking|boar's|head
-Jacob_BradfordBull,19,0.29808673469387753,4.49655612244898,45.059999,46.55,seg19: sitting - well,sitting on top of a well,nonfinite clause,BradfordBoar,sitting|on|top|of|a|well
-Jacob_BradfordBull,20,0.3065051020408163,4.855867346938775,46.63,48.399999,seg20: which - first,"which seems puzzling at first,",relative clause,BradfordBoar,which|seems|puzzling|at|first
-Jacob_BradfordBull,21,1.3840561224489796,5.439795918367347,48.78,51.619999,seg21: but - legend,but the reason for this symbol is a matter of legend.,conjunction; >maximal segment,BradfordBoar,but|the|reason|for|this|symbol|is|a|matter|of|legend
-Jacob_BradfordBull,22,0.8234693877551019,5.114540816326531,52.059999,54.15,seg22: There - it,"There was once, legend has it,",generic convention,BradfordBoar,There|was|once|legend|has|it
-Jacob_BradfordBull,23,0.32257653061224484,5.010841836734694,54.35,55.42,seg23: a - boar,"a fearsome boar,",-,BradfordBoar,a|fearsome|boar
-Jacob_BradfordBull,24,0.729719387755102,5.210204081632654,55.59,59.5,seg24: which - Bradford,which lived in a wood located just outside the manor of Bradford.,relative clause; >maximal segment,BradfordBoar,which|lived|in|a|wood|located|just|outside|the|manor|of|Bradford
-Jacob_BradfordBull,25,-0.696811224489796,4.891454081632653,60.02,63.65,seg25: A - was,"A source of great trouble to the local folk the boar was,",-,BradfordBoar,A|source|of|great|trouble|to|the|local|folk|the|boar|was
-Jacob_BradfordBull,26,-1.4713010204081634,5.7214285714285715,63.65,65.74,seg26: bringing - flocks,bringing terror to the peaceful flocks,nonfinite clause,BradfordBoar,bringing|terror|to|the|peaceful|flocks
-Jacob_BradfordBull,27,-1.4747448979591837,5.873724489795919,66.24,68.43,seg27: and - around,and ravaging the countryside around.,nonfinite clause; >maximal segment,BradfordBoar,and|ravaging|the|countryside|around
-Jacob_BradfordBull,28,-1.5860969387755102,5.585586734693878,68.86,70.229999,seg28: Even - however,"Even worse, however,",nonrestrictive clause,BradfordBoar,Even|worse|however
-Jacob_BradfordBull,29,-0.4806122448979592,5.1994897959183675,70.66,72.79,seg29: the - well,the boar most liked to go to the well,-,BradfordBoar,the|boar|most|liked|to|go|to|the|well
-Jacob_BradfordBull,30,-0.26173469387755116,4.50420918367347,72.8,73.89,seg30: that - wood,that was in the wood,relative clause,BradfordBoar,that|was|in|the|wood
-Jacob_BradfordBull,31,0.207780612244898,4.693239795918367,74.31,75.85,seg31: and - water,"and drink its fresh water,",-,BradfordBoar,and|drink|its|fresh|water
-Jacob_BradfordBull,32,-0.07423469387755101,4.794642857142857,76.26,78.7,seg32: so - thoughts,so that the people of Bradford had second thoughts,conjunction,BradfordBoar,so|that|the|people|of|Bradford|had|second|thoughts
-Jacob_BradfordBull,33,-0.3551020408163265,4.976785714285715,78.72,79.97,seg33: about - well,about visiting the well.,nonfinite clause; >maximal segment,BradfordBoar,about|visiting|the|well
-Jacob_BradfordBull,34,-0.9788265306122449,5.421428571428571,80.4,84.069999,seg34: That - ferocity,That the people of Bradford bore the brunt of the beast's ferocity,relative clause,BradfordBoar,That|the|people|of|Bradford|bore|the|brunt|of|the|beast's|ferocity
-Jacob_BradfordBull,35,-0.7603316326530613,5.23125,84.07,87.29,seg35: was - region,was unfair in the eyes of the people of the region.,>maximal segment,BradfordBoar,was|unfair|in|the|eyes|of|the|people|of|the|region
-Jacob_BradfordBull,36,1.1292091836734695,5.645663265306122,87.719999,92.28,seg36: Eventually - Manor,"Eventually, the issue reached the ears of the kindly Lord of the Manor",-,BradfordBoar,Eventually|the|issue|reached|the|ears|of|the|kindly|Lord|of|the|Manor
-Jacob_BradfordBull,37,1.3622448979591837,5.5063775510204085,92.68,94.74,seg37: who - help,who the people had often asked for help.,relative clause; >maximal segment,BradfordBoar,who|the|people|had|often|asked|for|help
-Jacob_BradfordBull,38,1.03125,5.513647959183674,95.22,97.26,seg38: The - problem,The Lord saw the severity of the problem,-,BradfordBoar,The|Lord|saw|the|severity|of|the|problem
-Jacob_BradfordBull,39,0.5613520408163266,4.527933673469388,97.27,98.25,seg39: the - faced,the people faced,relative clause (that...),BradfordBoar,the|people|faced
-Jacob_BradfordBull,40,1.1946428571428571,5.691198979591836,98.78,101.32,seg40: and - problem,and suggested a contest could solve the problem.,>maximal segment,BradfordBoar,and|suggested|a|contest|could|solve|the|problem
-Jacob_BradfordBull,41,0.41403061224489784,4.30484693877551,101.86,102.28,seg41: He - said,He said,-,BradfordBoar,He|said
-Jacob_BradfordBull,42,0.21811224489795913,6.474489795918367,102.3,107.33,seg42: that - House,that whoever could kill the boar and bring as proof its head to the Manor House,complementizer / relative clause,BradfordBoar,that|whoever|could|kill|the|boar|and|bring|as|proof|its|head|to|the|Manor|House
-Jacob_BradfordBull,43,2.128698979591837,6.756122448979592,107.84,109.91,seg43: would - fame,would be rewarded with land and fame.,complementizer cont.; >maximal segment,BradfordBoar,would|be|rewarded|with|land|and|fame
-Jacob_BradfordBull,44,1.0832908163265305,4.96530612244898,110.46,113.36,seg44: It - them,It was the people of Bradford and the people who knew them,-,BradfordBoar,It|was|the|people|of|Bradford|and|the|people|who|knew|them
-Jacob_BradfordBull,45,2.039158163265306,6.134693877551021,113.8,115.7,seg45: who - proclamation,who rejoiced at this proclamation,relative clause,BradfordBoar,who|rejoiced|at|this|proclamation
-Jacob_BradfordBull,46,0.5651785714285714,5.444770408163265,116.2,117.62,seg46: but - remained,but one question remained:,>maximal segment,BradfordBoar,but|one|question|remained
-Jacob_BradfordBull,47,0.3286989795918368,6.229209183673469,117.87,119.06,seg47: who - boar,who would kill the boar?,>maximal segment,BradfordBoar,who|would|kill|the|boar
-Jacob_BradfordBull,48,1.0610969387755103,5.974362244897959,119.639999,122.16,seg48: By - tempted,"By the handsome reward many felt tempted,",-,BradfordBoar,By|the|handsome|reward|many|felt|tempted
-Jacob_BradfordBull,49,-0.0019132653061224398,5.216326530612244,122.7,123.8,seg49: but - boar,but the thought of the boar,conjunction,BradfordBoar,but|the|thought|of|the|boar
-Jacob_BradfordBull,50,-1.4150510204081634,6.158035714285714,123.799999,127.26,seg50: with - thunder,with its deadly tusks and face like thunder,nonrestrictive clause,BradfordBoar,with|its|deadly|tusks|and|face|like|thunder
-Jacob_BradfordBull,51,-0.3753826530612245,5.660586734693877,127.82,129.91,seg51: soon - ambitions,soon put an end to their ambitions.,conjunction cont.; >maximal segment,BradfordBoar,soon|put|an|end|to|their|ambitions
-Jacob_BradfordBull,52,0.6818877551020407,5.262244897959184,130.34,132.21,seg52: However - huntsman,"However, there was one huntsman,",-,BradfordBoar,However|there|was|one|huntsman
-Jacob_BradfordBull,53,0.3887755102040816,5.380867346938776,132.78,134.589999,seg53: who - ears,"who was still wet behind the ears,",relative clause,BradfordBoar,who|was|still|wet|behind|the|ears
-Jacob_BradfordBull,54,0.6382653061224489,5.226658163265306,135.11,135.75,seg54: who - decided,who decided,relative clause,BradfordBoar,who|decided
-Jacob_BradfordBull,55,1.5738520408163263,6.224234693877551,135.75,137.17,seg55: the - shot,"the prize was worth a shot,",complementizer (that...),BradfordBoar,the|prize|was|worth|a|shot
-Jacob_BradfordBull,56,0.5192602040816326,5.713775510204082,137.54,139.67,seg56: in - reputation,in spite of the boar's reputation.,nonrestrictive clause; >maximal segment,BradfordBoar,in|spite|of|the|boar's|reputation
-Jacob_BradfordBull,57,0.9386479591836734,5.387372448979591,140.059999,141.22,seg57: The - discovered,The huntsman discovered,-,BradfordBoar,The|huntsman|discovered
-Jacob_BradfordBull,58,0.8108418367346937,4.923979591836734,141.219999,142.029999,seg58: the - preferred,the boar preferred,complementizer (that...),BradfordBoar,the|boar|preferred
-Jacob_BradfordBull,59,0.9034438775510204,5.394642857142856,142.039999,143.77,seg59: to - day,to come out in the middle of the day.,infinitival phrase; >maximal segment,BradfordBoar,to|come|out|in|the|middle|of|the|day
-Jacob_BradfordBull,60,1.4510204081632652,5.971301020408164,144.129999,146.82,seg60: So - bow,"So he went to the wood by the well with his good bow,",-,BradfordBoar,So|he|went|to|the|wood|by|the|well|with|his|good|bow
-Jacob_BradfordBull,61,1.0775510204081633,4.969515306122449,147.3,148.41,seg61: to - time,to bide his time.,infinitival clause; >maximal segment,BradfordBoar,to|bide|his|time
-Jacob_BradfordBull,62,0.7622448979591836,5.089668367346939,148.94,150.03,seg62: Around - noontime,"Around noontime,",positioning element,BradfordBoar,Around|noontime
-Jacob_BradfordBull,63,0.4515306122448979,4.677168367346939,150.42,151.09,seg63: the - boar,"the boar,",-,BradfordBoar,the|boar
-Jacob_BradfordBull,64,-0.6627551020408163,5.0230867346938775,151.21,152.45,seg64: feared - locals,"feared by the locals,",nonrestrictive clause,BradfordBoar,feared|by|the|locals
-Jacob_BradfordBull,65,-0.2663265306122449,5.723341836734694,152.87,153.51,seg65: came - out,"came out,",-,BradfordBoar,came|out
-Jacob_BradfordBull,66,-0.039413265306122484,4.947321428571429,153.94,155.219999,seg66: as - snail,"as slow as a snail,",nonrestrictive clause,BradfordBoar,as|slow|as|a|snail
-Jacob_BradfordBull,67,0.07614795918367347,4.940433673469388,155.849999,157.07,seg67: from - trees,"from among the trees,",-,BradfordBoar,from|among|the|trees
-Jacob_BradfordBull,68,1.2994897959183673,5.295918367346939,157.52,159.42,seg68: just - predicted,just as the huntsman had predicted.,nonrestrictive clause; >maximal segment,BradfordBoar,just|as|the|huntsman|had|predicted
-Jacob_BradfordBull,69,0.9485969387755102,5.965178571428571,160.029999,162.100001,seg69: The - place,The huntsman leaped from his hiding place,-,BradfordBoar,The|huntsman|leaped|from|his|hiding|place
-Jacob_BradfordBull,70,1.1563775510204082,6.979591836734694,162.299999,165.85,seg70: and - boar,and through the heart with his fine arrows shot the boar.,conjunction; >maximal segment,BradfordBoar,and|through|the|heart|with|his|fine|arrows|shot|the|boar
-Jacob_BradfordBull,71,0.8073979591836735,5.339923469387755,166.44,167.89,seg71: Now - longer,Now the problem was no longer,-,BradfordBoar,Now|the|problem|was|no|longer
-Jacob_BradfordBull,72,0.7209183673469388,5.446301020408163,167.89,168.79,seg72: to - boar,to kill the boar.,infinitival phrase; >maximal segment,BradfordBoar,to|kill|the|boar
-Jacob_BradfordBull,73,0.1442602040816325,4.229846938775511,169.33,169.63,seg73: It - was,It was,-,BradfordBoar,It|was
-Jacob_BradfordBull,74,0.4943877551020407,4.677933673469388,169.63,170.24,seg74: to - way,to find a way,infinitival phrase,BradfordBoar,to|find|a|way
-Jacob_BradfordBull,75,0.45918367346938777,5.217474489795919,170.24,171.5,seg75: to - back,to carry the boar back.,infinitival phrase; >maximal segment,BradfordBoar,to|carry|the|boar|back
-Jacob_BradfordBull,76,-0.3596938775510205,5.167346938775511,172.12,174.01,seg76: The - huntsman,The head was too heavy for the little huntsman,-,BradfordBoar,The|head|was|too|heavy|for|the|little|huntsman
-Jacob_BradfordBull,77,-0.23954081632653065,5.052933673469388,174.02,175.629999,seg77: to - House,"to carry back to the Manor House,",infinitival phrase,BradfordBoar,to|carry|back|to|the|Manor|House
-Jacob_BradfordBull,78,0.1901785714285714,4.378698979591837,176.12,176.659999,seg78: but - huntsman,"but the huntsman,",conjunction,BradfordBoar,but|the|huntsman
-Jacob_BradfordBull,79,1.6270408163265304,5.230867346938775,177.42,179.57,seg79: who - ever,"who was as quick-witted and cunning as ever,",relative clause,BradfordBoar,who|was|as|quick|witted|and|cunning|as|ever
-Jacob_BradfordBull,80,1.4536989795918367,6.052806122448979,180.15,184.12,seg80: asked - ',"asked himself, 'What else can I do to prove I killed the boar?'",quotation; >maximal segment,BradfordBoar,asked|himself|'What|else|can|I|do|to|prove|I|killed|the|boar|'
-Jacob_BradfordBull,81,0.7595663265306121,4.677551020408163,184.12,185.07,seg81: The - instance,The next instance,positioning element,BradfordBoar,The|next|instance
-Jacob_BradfordBull,82,0.24795918367346936,6.17295918367347,185.07,187.63,seg82: he - tongue,"he opened the boar's mouth and cut out its tongue,",-,BradfordBoar,he|opened|the|boar's|mouth|and|cut|out|its|tongue
-Jacob_BradfordBull,83,1.0036989795918367,5.941454081632654,188.15,189.93,seg83: taking - Lord,taking that as proof for the Lord.,nonfinite clause; >maximal segment,BradfordBoar,taking|that|as|proof|for|the|Lord
-Jacob_BradfordBull,84,1.5585459183673471,5.913520408163265,190.45,193.05,seg84: He - could,He set out for the Manor House as quickly as he could,-,BradfordBoar,He|set|out|for|the|Manor|House|as|quickly|as|he|could
-Jacob_BradfordBull,85,0.8341836734693877,5.22780612244898,193.5,195.34,seg85: and - minutes,and he had only been gone a few minutes,conjunction,BradfordBoar,and|he|had|only|been|gone|a|few|minutes
-Jacob_BradfordBull,86,0.29349489795918354,5.63954081632653,195.45,196.87,seg86: when - huntsman,"when a second huntsman,",conjunction,BradfordBoar,when|a|second|huntsman
-Jacob_BradfordBull,87,-0.09528061224489807,5.990816326530613,197.369999,200.44,seg87: not - cunning,"not so bold as the first but a little more cunning,",nonrestrictive clause,BradfordBoar,not|so|bold|as|the|first|but|a|little|more|cunning
-Jacob_BradfordBull,88,0.10102040816326519,5.538520408163265,200.8,201.73,seg88: came - scene,came on the scene.,>maximal segment,BradfordBoar,came|on|the|scene
-Jacob_BradfordBull,89,-0.34209183673469395,5.751275510204081,202.1,204.02,seg89: Seeing - boar,"Seeing the slain carcass of the boar,",nonfinite clause,BradfordBoar,Seeing|the|slain|carcass|of|the|boar
-Jacob_BradfordBull,90,0.8621173469387755,6.2012755102040815,204.3,206.45,seg90: the - fortune,the huntsman rejoiced in his good fortune.,>maximal segment,BradfordBoar,the|huntsman|rejoiced|in|his|good|fortune
-Jacob_BradfordBull,91,0.007270408163265292,5.170790816326531,206.84,208.21,seg91: The - knew,The second huntsman knew,-,BradfordBoar,The|second|huntsman|knew
-Jacob_BradfordBull,92,0.5892857142857142,5.724872448979592,208.21,211.52,seg92: a - pond,"a shortcut to the Manor House was just around the nearby pond,",complementizer (that...),BradfordBoar,a|shortcut|to|the|Manor|House|was|just|around|the|nearby|pond
-Jacob_BradfordBull,93,0.19056122448979584,5.780739795918368,211.9,213.83,seg93: and - first,"and, being a bigger man than the first,",conjunction / nonrestrictive clause,BradfordBoar,and|being|a|bigger|man|than|the|first
-Jacob_BradfordBull,94,-0.057397959183673505,4.844770408163265,214.32,214.72,seg94: was - able,was able,conjunction cont.,BradfordBoar,was|able
-Jacob_BradfordBull,95,0.11288265306122448,6.262882653061225,214.719999,217.36,seg95: to - wood,to pick up the boar's head and carry it through the wood,infinitival phrase,BradfordBoar,to|pick|up|the|boar's|head|and|carry|it|through|the|wood
-Jacob_BradfordBull,96,0.4033163265306122,6.260204081632653,217.69,219.61,seg96: towards - him,towards the prize that awaited him.,positioning element; >maximal segment,BradfordBoar,towards|the|prize|that|awaited|him
-Jacob_BradfordBull,97,0.7381377551020408,5.582525510204081,220.11,222.17,seg97: The - hall,The Lord of the Manor was seated in his hall,-,BradfordBoar,The|Lord|of|the|Manor|was|seated|in|his|hall
-Jacob_BradfordBull,98,-0.6960459183673469,6.213520408163265,222.17,226.029999,seg98: when - line,when the second huntsman burst through the door and began to spin a line.,conjunction; >maximal segment,BradfordBoar,when|the|second|huntsman|burst|through|the|door|and|began|to|spin|a|line
-Jacob_BradfordBull,99,0.47869897959183677,6.498979591836735,226.03,229.08,seg99: 'The - announced,'The woes of Bradford are ended!' he announced.,quotation; >maximal segment,BradfordBoar,'The|woes|of|Bradford|are|ended|'|he|announced
-Jacob_BradfordBull,100,-0.7029336734693877,6.518494897959184,229.759999,232.24,seg100: 'With - ','With my own hand I have slain the boar!',quotation; >maximal segment,BradfordBoar,'With|my|own|hand|I|have|slain|the|boar|'
-Jacob_BradfordBull,101,-0.3470663265306122,5.6479591836734695,232.24,234.96,seg101: And - lord,"And, with that, at the feet of his lord",positioning element,BradfordBoar,And|with|that|at|the|feet|of|his|lord
-Jacob_BradfordBull,102,-0.4232142857142858,6.329081632653061,234.97,237.08,seg102: he - head,he dropped the boar's enormous head.,>maximal segment,BradfordBoar,he|dropped|the|boar's|enormous|head
-Jacob_BradfordBull,103,0.1036989795918368,6.583928571428571,237.55,239.45,seg103: 'Then - ',"'Then you will be rewarded, as I promised.'",quotation; >maximal segment,BradfordBoar,'Then|you|will|be|rewarded|as|I|promised|'
-Jacob_BradfordBull,104,0.04630102040816319,5.515561224489796,239.45,240.93,seg104: 'But - first,"'But first,",positioning element,BradfordBoar,'But|first
-Jacob_BradfordBull,105,1.3917091836734692,6.391836734693877,241.15,244.64,seg105: let - Manor,"let me examine the head of this monster,' said the Lord of the Manor.",quotation; >maximal segment,BradfordBoar,let|me|examine|the|head|of|this|monster|'|said|the|Lord|of|the|Manor
-Jacob_BradfordBull,106,0.33290816326530615,5.480739795918367,245.059999,246.98,seg106: To - advance,To not examine the head in advance,infinitival phrase,BradfordBoar,To|not|examine|the|head|in|advance
-Jacob_BradfordBull,107,0.5192602040816326,5.663265306122449,247.09,249.669999,seg107: had - huntsman,had not been very clever on the part of the huntsman.,>maximal segment,BradfordBoar,had|not|been|very|clever|on|the|part|of|the|huntsman
-Jacob_BradfordBull,108,0.7932397959183674,5.049872448979592,250.139999,250.85,seg108: Right - away,"Right away,",positioning element,BradfordBoar,Right|away
-Jacob_BradfordBull,109,1.1667091836734693,5.326913265306123,251.049999,251.779999,seg109: the - noticed,the Lord noticed,-,BradfordBoar,the|Lord|noticed
-Jacob_BradfordBull,110,1.1311224489795917,6.36811224489796,251.779999,253.35,seg110: the - missing,the tongue of the boar was missing,complementizer (that...),BradfordBoar,the|tongue|of|the|boar|was|missing
-Jacob_BradfordBull,111,1.022831632653061,6.302678571428571,253.43,255.35,seg111: and - this,"and exclaimed, 'What is this?",>maximal segment,BradfordBoar,and|exclaimed|'What|is|this
-Jacob_BradfordBull,112,0.9451530612244898,6.3264030612244895,255.56,257.45,seg112: A - ',A boar with no tongue?',>maximal segment,BradfordBoar,A|boar|with|no|tongue|'
-Jacob_BradfordBull,113,0.7565051020408163,6.541836734693878,257.45,259.34,seg113: He - dubiously,"He looked at the huntsman, dubiously.",>maximal segment,BradfordBoar,He|looked|at|the|huntsman|dubiously
-Jacob_BradfordBull,114,0.9371173469387755,6.738520408163265,259.77,262.63,seg114: 'How - demanded,'How come this creature has no tongue?' he demanded.,>maximal segment,BradfordBoar,'How|come|this|creature|has|no|tongue|'|he|demanded
-Jacob_BradfordBull,115,0.6145408163265306,6.256760204081633,263.13,264.44,seg115: All - huntsman,All eyes were on the huntsman.,>maximal segment,BradfordBoar,All|eyes|were|on|the|huntsman
-Jacob_BradfordBull,116,0.26249999999999996,5.109948979591836,265.24,265.82,seg116: The - huntsman,The huntsman,-,BradfordBoar,The|huntsman
-Jacob_BradfordBull,117,0.4167091836734693,5.645663265306122,265.84,266.98,seg117: questioned - Lord,questioned by the Lord,nonrestrictive clause,BradfordBoar,questioned|by|the|Lord
-Jacob_BradfordBull,118,0.021045918367346955,5.833545918367347,266.98,269.66,seg118: replied - ',"replied, 'I cannot say, my Lord.'",>maximal segment,BradfordBoar,replied|'I|cannot|say|my|Lord|'
-Jacob_BradfordBull,119,0.5035714285714286,5.324234693877551,269.66,271.19,seg119: He - realizing,He was suddenly realizing,-,BradfordBoar,He|was|suddenly|realizing
-Jacob_BradfordBull,120,0.1832908163265306,5.863010204081633,271.189999,273.959999,seg120: his - him,his tricky situation could end badly for him.,complementizer (that...); >maximal segment,BradfordBoar,his|tricky|situation|could|end|badly|for|him
-Jacob_BradfordBull,121,2.2036989795918367,6.928316326530613,274.5,277.41,seg121: Through - burst,"Through the door at this moment, the first huntsman burst.",>maximal segment,BradfordBoar,Through|the|door|at|this|moment|the|first|huntsman|burst
-Jacob_BradfordBull,122,2.391581632653061,7.124617346938775,277.77,280.16,seg122: 'The - cried,'The woes of Bradford are ended!' he cried.,>maximal segment,BradfordBoar,'The|woes|of|Bradford|are|ended|'|he|cried
-Jacob_BradfordBull,123,2.165051020408163,6.740051020408163,280.66,281.75,seg123: 'I - boar,'I have slain the boar,-,BradfordBoar,'I|have|slain|the|boar
-Jacob_BradfordBull,124,1.7318877551020408,6.359311224489796,281.75,283.809999,seg124: the - ',the people of Bradford dreaded!',relative clause (that...); >maximal segment,BradfordBoar,the|people|of|Bradford|dreaded|'
-Jacob_BradfordBull,125,0.8789540816326531,6.2234693877551015,283.809999,285.25,seg125: All - man,All eyes turned to the man,-,BradfordBoar,All|eyes|turned|to|the|man
-Jacob_BradfordBull,126,1.2941326530612245,5.935714285714286,285.259999,286.62,seg126: who - doorway,who now stood in the doorway.,relative clause; >maximal segment,BradfordBoar,who|now|stood|in|the|doorway
-Jacob_BradfordBull,127,-0.4297193877551021,6.4875,287.119999,289.73,seg127: 'The - Manor,"'The reward is already given,' said the Lord of the Manor.",>maximal segment,BradfordBoar,'The|reward|is|already|given|'|said|the|Lord|of|the|Manor
-Jacob_BradfordBull,128,-0.10676020408163267,6.276658163265306,289.74,293.12,seg128: 'The - ','The man here has brought to me the boar's head.',>maximal segment,BradfordBoar,'The|man|here|has|brought|to|me|the|boar's|head|'
-Jacob_BradfordBull,129,1.6917091836734692,6.544897959183674,293.12,295.91,seg129: 'Then - replied,'Then where is its tongue?' the first huntsman replied.,>maximal segment,BradfordBoar,'Then|where|is|its|tongue|'|the|first|huntsman|replied
-Jacob_BradfordBull,130,1.2359693877551021,5.601658163265306,296.34,297.58,seg130: And - saying,"And, so saying,",nonfinite clause,BradfordBoar,And|so|saying
-Jacob_BradfordBull,131,1.66875,6.463392857142857,297.67,299.07,seg131: he - tongue,he drew out the boar's tongue,-,BradfordBoar,he|drew|out|the|boar's|tongue
-Jacob_BradfordBull,132,1.7284438775510202,5.739030612244897,299.08,300.77,seg132: he - pouch,he had put in his hunting pouch,relative clause (that...),BradfordBoar,he|had|put|in|his|hunting|pouch
-Jacob_BradfordBull,133,1.9522959183673467,6.482142857142857,301.0,305.739999,seg133: and - tongue,and related how he had ambushed the creature in the wood and cut out its tongue,conjunction,BradfordBoar,and|related|how|he|had|ambushed|the|creature|in|the|wood|and|cut|out|its|tongue
-Jacob_BradfordBull,134,2.364795918367347,6.747704081632653,305.789999,307.21,seg134: as - victory,as proof of his victory.,conjunction; >maximal segment,BradfordBoar,as|proof|of|his|victory
-Jacob_BradfordBull,135,1.1896683673469388,5.651785714285714,307.64,308.81,seg135: Listening - tale,"Listening to the tale,",nonfinite clause,BradfordBoar,Listening|to|the|tale
-Jacob_BradfordBull,136,1.5409438775510202,5.660586734693877,309.23,311.16,seg136: the - discern,the Lord of the Manor tried to discern,-,BradfordBoar,the|Lord|of|the|Manor|tried|to|discern
-Jacob_BradfordBull,137,1.2057397959183673,5.789158163265306,311.16,313.11,seg137: which - truth,which huntsman was telling him the truth,relative clause,BradfordBoar,which|huntsman|was|telling|him|the|truth
-Jacob_BradfordBull,138,0.8667091836734694,5.600892857142858,313.57,315.24,seg138: and - thinking,and what the two huntsmen were thinking,conjunction,BradfordBoar,and|what|the|two|huntsmen|were|thinking
-Jacob_BradfordBull,139,0.7741071428571429,5.635714285714285,315.27,317.369999,seg139: as - decision,as they waited for him to make a decision.,conjunction; >maximal segment,BradfordBoar,as|they|waited|for|him|to|make|a|decision
-Jacob_BradfordBull,140,1.0683673469387753,5.734438775510204,317.77,318.87,seg140: Almost - instantly,"Almost instantly,",positioning element,BradfordBoar,Almost|instantly
-Jacob_BradfordBull,141,0.7840561224489795,5.495663265306123,319.32,320.21,seg141: the - saw,the Lord saw,-,BradfordBoar,the|Lord|saw
-Jacob_BradfordBull,142,0.752295918367347,6.6681122448979595,320.219999,322.93,seg142: that - lies,that the second huntsman had fed him a pack of lies,complementizer,BradfordBoar,that|the|second|huntsman|had|fed|him|a|pack|of|lies
-Jacob_BradfordBull,143,1.3702806122448978,5.783035714285714,323.41,324.429999,seg143: and - huntsman,and it was the first huntsman,conjunction,BradfordBoar,and|it|was|the|first|huntsman
-Jacob_BradfordBull,144,2.138265306122449,6.430867346938776,324.64,326.48,seg144: who - Bradford,who was the true savior of Bradford.,relative clause; >maximal segment,BradfordBoar,who|was|the|true|savior|of|Bradford
-Jacob_BradfordBull,145,1.5769132653061226,5.458928571428571,326.96,327.78,seg145: The - believed,The Lord believed,-,BradfordBoar,The|Lord|believed
-Jacob_BradfordBull,146,0.5043367346938774,5.833928571428571,327.78,329.1,seg146: the - tried,the second huntsman had tried,complementizer (that...),BradfordBoar,the|second|huntsman|had|tried
-Jacob_BradfordBull,147,-0.3286989795918368,6.270535714285715,329.1,330.95,seg147: to - prize,to steal the first huntsman's prize,infinitival phrase,BradfordBoar,to|steal|the|first|huntsman's|prize
-Jacob_BradfordBull,148,0.8085459183673469,6.033290816326531,331.42,332.43,seg148: and - proclaimed,and so proclaimed,conjunction,BradfordBoar,and|so|proclaimed
-Jacob_BradfordBull,149,2.196045918367347,7.057270408163265,332.429999,334.289999,seg149: the - victor,the first huntsman the true victor.,complementizer; >maximal segment,BradfordBoar,the|first|huntsman|the|true|victor
-Jacob_BradfordBull,150,0.8762755102040815,5.43061224489796,334.71,336.13,seg150: The - moment,The Lord wondered for a moment,-,BradfordBoar,The|Lord|wondered|for|a|moment
-Jacob_BradfordBull,151,0.5288265306122448,5.321938775510204,336.139999,340.38,seg151: why - interactions,why he always encountered so much chicanery in his everyday interactions.,relative clause; >maximal segment,BradfordBoar,why|he|always|encountered|so|much|chicanery|in|his|everyday|interactions
-Jacob_BradfordBull,152,0.3417091836734692,4.747576530612244,340.869999,341.549999,seg152: The - huntsman,The huntsman,-,BradfordBoar,The|huntsman
-Jacob_BradfordBull,153,2.2936224489795918,5.768877551020409,341.559999,343.79,seg153: who - square,who had earned his prize fair and square,relative clause,BradfordBoar,who|had|earned|his|prize|fair|and|square
-Jacob_BradfordBull,154,2.7482142857142855,6.664285714285715,344.23,347.88,seg154: received - town,"received as his reward a piece of land just outside the town,",-,BradfordBoar,received|as|his|reward|a|piece|of|land|just|outside|the|town
-Jacob_BradfordBull,155,2.249234693877551,5.758163265306122,348.49,350.53,seg155: known - Yard,known thereafter as Hunt Yard.,nonrestrictive clause; >maximal segment,BradfordBoar,known|thereafter|as|Hunt|Yard
-Jacob_BradfordBull,156,2.2982142857142858,5.766198979591836,350.94,352.61,seg156: His - assured,"His fame was indeed assured,",-,BradfordBoar,His|fame|was|indeed|assured
-Jacob_BradfordBull,157,1.3595663265306124,5.722576530612245,352.75,356.969999,seg157: but - Boar,but it was not nearly as lasting as that of the fearsome Bradford Boar.,conjunction; >maximal segment,BradfordBoar,but|it|was|not|nearly|as|lasting|as|that|of|the|fearsome|Bradford|Boar
+Jacob_BradfordBoar,1,1.1705357142857142,4.248596938775511,3.93,6.26,seg1: If - England,"If you were to journey to the North of England,",-,BradfordBoar,If|you|were|to|journey|to|the|North|of|England
+Jacob_BradfordBoar,2,0.8628826530612244,3.9968112244897958,6.55,7.72,seg2: you - valley,you would come to a valley,"conjunction (if, then...)",BradfordBoar,you|would|come|to|a|valley
+Jacob_BradfordBoar,3,1.5091836734693878,4.80765306122449,7.72,10.41,seg3: that - mountains,that is surrounded by moors as high as mountains.,relative clause; >maximal segment,BradfordBoar,that|is|surrounded|by|moors|as|high|as|mountains
+Jacob_BradfordBoar,4,0.9975765306122448,4.12079081632653,10.88,11.929999,seg4: It - valley,It is in this valley,-,BradfordBoar,It|is|in|this|valley
+Jacob_BradfordBoar,5,1.6025510204081634,4.615943877551021,11.95,13.899999,seg5: where - Bradford,"where you would find the city of Bradford,",relative clause,BradfordBoar,where|you|would|find|the|city|of|Bradford
+Jacob_BradfordBoar,6,1.2788265306122448,4.905229591836735,14.049999,16.02,seg6: where - jennies,where once a thousand spinning jennies,relative clause,BradfordBoar,where|once|a|thousand|spinning|jennies
+Jacob_BradfordBoar,7,1.0411989795918366,4.377933673469388,16.039999,17.259999,seg7: that - clattered,that hummed and clattered,relative clause,BradfordBoar,that|hummed|and|clattered
+Jacob_BradfordBoar,8,1.2313775510204081,5.004336734693878,17.459999,20.98,seg8: spun - owners,spun wool into money for the long-bearded mill owners.,>maximal segment,BradfordBoar,spun|wool|into|money|for|the|long|bearded|mill|owners
+Jacob_BradfordBoar,9,1.4854591836734692,4.6186224489795915,21.46,25.86,seg9: That - themselves,That all mill owners were generally busy as beavers and quite pleased with themselves,relative clause,BradfordBoar,That|all|mill|owners|were|generally|busy|as|beavers|and|quite|pleased|with|themselves
+Jacob_BradfordBoar,10,1.5417091836734695,4.693622448979592,25.86,27.85,seg10: for - off,for being so successful and well off,nonfinite clause,BradfordBoar,for|being|so|successful|and|well|off
+Jacob_BradfordBoar,11,1.144515306122449,3.826530612244898,28.389999,30.48,seg11: was - Bradford,"was known to the residents of Bradford,",-,BradfordBoar,was|known|to|the|residents|of|Bradford
+Jacob_BradfordBoar,12,0.4186224489795918,2.992729591836735,30.88,31.509999,seg12: and - were,and if you were,conjunction,BradfordBoar,and|if|you|were
+Jacob_BradfordBoar,13,0.9715561224489796,3.5142857142857147,31.509999,32.6,seg13: to - city,to go into the city,infinitival phrase,BradfordBoar,to|go|into|the|city
+Jacob_BradfordBoar,14,0.994515306122449,4.203061224489796,32.599999,34.409999,seg14: to - Hall,"to visit the stately City Hall,","conjunction (if, then...)",BradfordBoar,to|visit|the|stately|City|Hall
+Jacob_BradfordBoar,15,1.5535714285714286,4.665688775510204,34.93,37.75,seg15: you - Bradford,"you would see there the Crest of the City of Bradford,",-,BradfordBoar,you|would|see|there|the|Crest|of|the|City|of|Bradford
+Jacob_BradfordBoar,16,1.0331632653061225,4.211479591836735,38.13,40.33,seg16: which - created,which those same mill owners created,relative clause,BradfordBoar,which|those|same|mill|owners|created
+Jacob_BradfordBoar,17,1.896045918367347,5.121045918367347,40.33,42.05,seg17: to - achievements,to celebrate their achievements.,infinitival clause; >maximal segment,BradfordBoar,to|celebrate|their|achievements
+Jacob_BradfordBoar,18,-0.19170918367346954,5.194897959183674,42.52,44.66,seg18: It - head,It shows a sinister looking boar's head,-,BradfordBoar,It|shows|a|sinister|looking|boar's|head
+Jacob_BradfordBoar,19,0.29808673469387753,4.49655612244898,45.059999,46.55,seg19: sitting - well,sitting on top of a well,nonfinite clause,BradfordBoar,sitting|on|top|of|a|well
+Jacob_BradfordBoar,20,0.3065051020408163,4.855867346938775,46.63,48.399999,seg20: which - first,"which seems puzzling at first,",relative clause,BradfordBoar,which|seems|puzzling|at|first
+Jacob_BradfordBoar,21,1.3840561224489796,5.439795918367347,48.78,51.619999,seg21: but - legend,but the reason for this symbol is a matter of legend.,conjunction; >maximal segment,BradfordBoar,but|the|reason|for|this|symbol|is|a|matter|of|legend
+Jacob_BradfordBoar,22,0.8234693877551019,5.114540816326531,52.059999,54.15,seg22: There - it,"There was once, legend has it,",generic convention,BradfordBoar,There|was|once|legend|has|it
+Jacob_BradfordBoar,23,0.32257653061224484,5.010841836734694,54.35,55.42,seg23: a - boar,"a fearsome boar,",-,BradfordBoar,a|fearsome|boar
+Jacob_BradfordBoar,24,0.729719387755102,5.210204081632654,55.59,59.5,seg24: which - Bradford,which lived in a wood located just outside the manor of Bradford.,relative clause; >maximal segment,BradfordBoar,which|lived|in|a|wood|located|just|outside|the|manor|of|Bradford
+Jacob_BradfordBoar,25,-0.696811224489796,4.891454081632653,60.02,63.65,seg25: A - was,"A source of great trouble to the local folk the boar was,",-,BradfordBoar,A|source|of|great|trouble|to|the|local|folk|the|boar|was
+Jacob_BradfordBoar,26,-1.4713010204081634,5.7214285714285715,63.65,65.74,seg26: bringing - flocks,bringing terror to the peaceful flocks,nonfinite clause,BradfordBoar,bringing|terror|to|the|peaceful|flocks
+Jacob_BradfordBoar,27,-1.4747448979591837,5.873724489795919,66.24,68.43,seg27: and - around,and ravaging the countryside around.,nonfinite clause; >maximal segment,BradfordBoar,and|ravaging|the|countryside|around
+Jacob_BradfordBoar,28,-1.5860969387755102,5.585586734693878,68.86,70.229999,seg28: Even - however,"Even worse, however,",nonrestrictive clause,BradfordBoar,Even|worse|however
+Jacob_BradfordBoar,29,-0.4806122448979592,5.1994897959183675,70.66,72.79,seg29: the - well,the boar most liked to go to the well,-,BradfordBoar,the|boar|most|liked|to|go|to|the|well
+Jacob_BradfordBoar,30,-0.26173469387755116,4.50420918367347,72.8,73.89,seg30: that - wood,that was in the wood,relative clause,BradfordBoar,that|was|in|the|wood
+Jacob_BradfordBoar,31,0.207780612244898,4.693239795918367,74.31,75.85,seg31: and - water,"and drink its fresh water,",-,BradfordBoar,and|drink|its|fresh|water
+Jacob_BradfordBoar,32,-0.07423469387755101,4.794642857142857,76.26,78.7,seg32: so - thoughts,so that the people of Bradford had second thoughts,conjunction,BradfordBoar,so|that|the|people|of|Bradford|had|second|thoughts
+Jacob_BradfordBoar,33,-0.3551020408163265,4.976785714285715,78.72,79.97,seg33: about - well,about visiting the well.,nonfinite clause; >maximal segment,BradfordBoar,about|visiting|the|well
+Jacob_BradfordBoar,34,-0.9788265306122449,5.421428571428571,80.4,84.069999,seg34: That - ferocity,That the people of Bradford bore the brunt of the beast's ferocity,relative clause,BradfordBoar,That|the|people|of|Bradford|bore|the|brunt|of|the|beast's|ferocity
+Jacob_BradfordBoar,35,-0.7603316326530613,5.23125,84.07,87.29,seg35: was - region,was unfair in the eyes of the people of the region.,>maximal segment,BradfordBoar,was|unfair|in|the|eyes|of|the|people|of|the|region
+Jacob_BradfordBoar,36,1.1292091836734695,5.645663265306122,87.719999,92.28,seg36: Eventually - Manor,"Eventually, the issue reached the ears of the kindly Lord of the Manor",-,BradfordBoar,Eventually|the|issue|reached|the|ears|of|the|kindly|Lord|of|the|Manor
+Jacob_BradfordBoar,37,1.3622448979591837,5.5063775510204085,92.68,94.74,seg37: who - help,who the people had often asked for help.,relative clause; >maximal segment,BradfordBoar,who|the|people|had|often|asked|for|help
+Jacob_BradfordBoar,38,1.03125,5.513647959183674,95.22,97.26,seg38: The - problem,The Lord saw the severity of the problem,-,BradfordBoar,The|Lord|saw|the|severity|of|the|problem
+Jacob_BradfordBoar,39,0.5613520408163266,4.527933673469388,97.27,98.25,seg39: the - faced,the people faced,relative clause (that...),BradfordBoar,the|people|faced
+Jacob_BradfordBoar,40,1.1946428571428571,5.691198979591836,98.78,101.32,seg40: and - problem,and suggested a contest could solve the problem.,>maximal segment,BradfordBoar,and|suggested|a|contest|could|solve|the|problem
+Jacob_BradfordBoar,41,0.41403061224489784,4.30484693877551,101.86,102.28,seg41: He - said,He said,-,BradfordBoar,He|said
+Jacob_BradfordBoar,42,0.21811224489795913,6.474489795918367,102.3,107.33,seg42: that - House,that whoever could kill the boar and bring as proof its head to the Manor House,complementizer / relative clause,BradfordBoar,that|whoever|could|kill|the|boar|and|bring|as|proof|its|head|to|the|Manor|House
+Jacob_BradfordBoar,43,2.128698979591837,6.756122448979592,107.84,109.91,seg43: would - fame,would be rewarded with land and fame.,complementizer cont.; >maximal segment,BradfordBoar,would|be|rewarded|with|land|and|fame
+Jacob_BradfordBoar,44,1.0832908163265305,4.96530612244898,110.46,113.36,seg44: It - them,It was the people of Bradford and the people who knew them,-,BradfordBoar,It|was|the|people|of|Bradford|and|the|people|who|knew|them
+Jacob_BradfordBoar,45,2.039158163265306,6.134693877551021,113.8,115.7,seg45: who - proclamation,who rejoiced at this proclamation,relative clause,BradfordBoar,who|rejoiced|at|this|proclamation
+Jacob_BradfordBoar,46,0.5651785714285714,5.444770408163265,116.2,117.62,seg46: but - remained,but one question remained:,>maximal segment,BradfordBoar,but|one|question|remained
+Jacob_BradfordBoar,47,0.3286989795918368,6.229209183673469,117.87,119.06,seg47: who - boar,who would kill the boar?,>maximal segment,BradfordBoar,who|would|kill|the|boar
+Jacob_BradfordBoar,48,1.0610969387755103,5.974362244897959,119.639999,122.16,seg48: By - tempted,"By the handsome reward many felt tempted,",-,BradfordBoar,By|the|handsome|reward|many|felt|tempted
+Jacob_BradfordBoar,49,-0.0019132653061224398,5.216326530612244,122.7,123.8,seg49: but - boar,but the thought of the boar,conjunction,BradfordBoar,but|the|thought|of|the|boar
+Jacob_BradfordBoar,50,-1.4150510204081634,6.158035714285714,123.799999,127.26,seg50: with - thunder,with its deadly tusks and face like thunder,nonrestrictive clause,BradfordBoar,with|its|deadly|tusks|and|face|like|thunder
+Jacob_BradfordBoar,51,-0.3753826530612245,5.660586734693877,127.82,129.91,seg51: soon - ambitions,soon put an end to their ambitions.,conjunction cont.; >maximal segment,BradfordBoar,soon|put|an|end|to|their|ambitions
+Jacob_BradfordBoar,52,0.6818877551020407,5.262244897959184,130.34,132.21,seg52: However - huntsman,"However, there was one huntsman,",-,BradfordBoar,However|there|was|one|huntsman
+Jacob_BradfordBoar,53,0.3887755102040816,5.380867346938776,132.78,134.589999,seg53: who - ears,"who was still wet behind the ears,",relative clause,BradfordBoar,who|was|still|wet|behind|the|ears
+Jacob_BradfordBoar,54,0.6382653061224489,5.226658163265306,135.11,135.75,seg54: who - decided,who decided,relative clause,BradfordBoar,who|decided
+Jacob_BradfordBoar,55,1.5738520408163263,6.224234693877551,135.75,137.17,seg55: the - shot,"the prize was worth a shot,",complementizer (that...),BradfordBoar,the|prize|was|worth|a|shot
+Jacob_BradfordBoar,56,0.5192602040816326,5.713775510204082,137.54,139.67,seg56: in - reputation,in spite of the boar's reputation.,nonrestrictive clause; >maximal segment,BradfordBoar,in|spite|of|the|boar's|reputation
+Jacob_BradfordBoar,57,0.9386479591836734,5.387372448979591,140.059999,141.22,seg57: The - discovered,The huntsman discovered,-,BradfordBoar,The|huntsman|discovered
+Jacob_BradfordBoar,58,0.8108418367346937,4.923979591836734,141.219999,142.029999,seg58: the - preferred,the boar preferred,complementizer (that...),BradfordBoar,the|boar|preferred
+Jacob_BradfordBoar,59,0.9034438775510204,5.394642857142856,142.039999,143.77,seg59: to - day,to come out in the middle of the day.,infinitival phrase; >maximal segment,BradfordBoar,to|come|out|in|the|middle|of|the|day
+Jacob_BradfordBoar,60,1.4510204081632652,5.971301020408164,144.129999,146.82,seg60: So - bow,"So he went to the wood by the well with his good bow,",-,BradfordBoar,So|he|went|to|the|wood|by|the|well|with|his|good|bow
+Jacob_BradfordBoar,61,1.0775510204081633,4.969515306122449,147.3,148.41,seg61: to - time,to bide his time.,infinitival clause; >maximal segment,BradfordBoar,to|bide|his|time
+Jacob_BradfordBoar,62,0.7622448979591836,5.089668367346939,148.94,150.03,seg62: Around - noontime,"Around noontime,",positioning element,BradfordBoar,Around|noontime
+Jacob_BradfordBoar,63,0.4515306122448979,4.677168367346939,150.42,151.09,seg63: the - boar,"the boar,",-,BradfordBoar,the|boar
+Jacob_BradfordBoar,64,-0.6627551020408163,5.0230867346938775,151.21,152.45,seg64: feared - locals,"feared by the locals,",nonrestrictive clause,BradfordBoar,feared|by|the|locals
+Jacob_BradfordBoar,65,-0.2663265306122449,5.723341836734694,152.87,153.51,seg65: came - out,"came out,",-,BradfordBoar,came|out
+Jacob_BradfordBoar,66,-0.039413265306122484,4.947321428571429,153.94,155.219999,seg66: as - snail,"as slow as a snail,",nonrestrictive clause,BradfordBoar,as|slow|as|a|snail
+Jacob_BradfordBoar,67,0.07614795918367347,4.940433673469388,155.849999,157.07,seg67: from - trees,"from among the trees,",-,BradfordBoar,from|among|the|trees
+Jacob_BradfordBoar,68,1.2994897959183673,5.295918367346939,157.52,159.42,seg68: just - predicted,just as the huntsman had predicted.,nonrestrictive clause; >maximal segment,BradfordBoar,just|as|the|huntsman|had|predicted
+Jacob_BradfordBoar,69,0.9485969387755102,5.965178571428571,160.029999,162.100001,seg69: The - place,The huntsman leaped from his hiding place,-,BradfordBoar,The|huntsman|leaped|from|his|hiding|place
+Jacob_BradfordBoar,70,1.1563775510204082,6.979591836734694,162.299999,165.85,seg70: and - boar,and through the heart with his fine arrows shot the boar.,conjunction; >maximal segment,BradfordBoar,and|through|the|heart|with|his|fine|arrows|shot|the|boar
+Jacob_BradfordBoar,71,0.8073979591836735,5.339923469387755,166.44,167.89,seg71: Now - longer,Now the problem was no longer,-,BradfordBoar,Now|the|problem|was|no|longer
+Jacob_BradfordBoar,72,0.7209183673469388,5.446301020408163,167.89,168.79,seg72: to - boar,to kill the boar.,infinitival phrase; >maximal segment,BradfordBoar,to|kill|the|boar
+Jacob_BradfordBoar,73,0.1442602040816325,4.229846938775511,169.33,169.63,seg73: It - was,It was,-,BradfordBoar,It|was
+Jacob_BradfordBoar,74,0.4943877551020407,4.677933673469388,169.63,170.24,seg74: to - way,to find a way,infinitival phrase,BradfordBoar,to|find|a|way
+Jacob_BradfordBoar,75,0.45918367346938777,5.217474489795919,170.24,171.5,seg75: to - back,to carry the boar back.,infinitival phrase; >maximal segment,BradfordBoar,to|carry|the|boar|back
+Jacob_BradfordBoar,76,-0.3596938775510205,5.167346938775511,172.12,174.01,seg76: The - huntsman,The head was too heavy for the little huntsman,-,BradfordBoar,The|head|was|too|heavy|for|the|little|huntsman
+Jacob_BradfordBoar,77,-0.23954081632653065,5.052933673469388,174.02,175.629999,seg77: to - House,"to carry back to the Manor House,",infinitival phrase,BradfordBoar,to|carry|back|to|the|Manor|House
+Jacob_BradfordBoar,78,0.1901785714285714,4.378698979591837,176.12,176.659999,seg78: but - huntsman,"but the huntsman,",conjunction,BradfordBoar,but|the|huntsman
+Jacob_BradfordBoar,79,1.6270408163265304,5.230867346938775,177.42,179.57,seg79: who - ever,"who was as quick-witted and cunning as ever,",relative clause,BradfordBoar,who|was|as|quick|witted|and|cunning|as|ever
+Jacob_BradfordBoar,80,1.4536989795918367,6.052806122448979,180.15,184.12,seg80: asked - ',"asked himself, 'What else can I do to prove I killed the boar?'",quotation; >maximal segment,BradfordBoar,asked|himself|'What|else|can|I|do|to|prove|I|killed|the|boar|'
+Jacob_BradfordBoar,81,0.7595663265306121,4.677551020408163,184.12,185.07,seg81: The - instance,The next instance,positioning element,BradfordBoar,The|next|instance
+Jacob_BradfordBoar,82,0.24795918367346936,6.17295918367347,185.07,187.63,seg82: he - tongue,"he opened the boar's mouth and cut out its tongue,",-,BradfordBoar,he|opened|the|boar's|mouth|and|cut|out|its|tongue
+Jacob_BradfordBoar,83,1.0036989795918367,5.941454081632654,188.15,189.93,seg83: taking - Lord,taking that as proof for the Lord.,nonfinite clause; >maximal segment,BradfordBoar,taking|that|as|proof|for|the|Lord
+Jacob_BradfordBoar,84,1.5585459183673471,5.913520408163265,190.45,193.05,seg84: He - could,He set out for the Manor House as quickly as he could,-,BradfordBoar,He|set|out|for|the|Manor|House|as|quickly|as|he|could
+Jacob_BradfordBoar,85,0.8341836734693877,5.22780612244898,193.5,195.34,seg85: and - minutes,and he had only been gone a few minutes,conjunction,BradfordBoar,and|he|had|only|been|gone|a|few|minutes
+Jacob_BradfordBoar,86,0.29349489795918354,5.63954081632653,195.45,196.87,seg86: when - huntsman,"when a second huntsman,",conjunction,BradfordBoar,when|a|second|huntsman
+Jacob_BradfordBoar,87,-0.09528061224489807,5.990816326530613,197.369999,200.44,seg87: not - cunning,"not so bold as the first but a little more cunning,",nonrestrictive clause,BradfordBoar,not|so|bold|as|the|first|but|a|little|more|cunning
+Jacob_BradfordBoar,88,0.10102040816326519,5.538520408163265,200.8,201.73,seg88: came - scene,came on the scene.,>maximal segment,BradfordBoar,came|on|the|scene
+Jacob_BradfordBoar,89,-0.34209183673469395,5.751275510204081,202.1,204.02,seg89: Seeing - boar,"Seeing the slain carcass of the boar,",nonfinite clause,BradfordBoar,Seeing|the|slain|carcass|of|the|boar
+Jacob_BradfordBoar,90,0.8621173469387755,6.2012755102040815,204.3,206.45,seg90: the - fortune,the huntsman rejoiced in his good fortune.,>maximal segment,BradfordBoar,the|huntsman|rejoiced|in|his|good|fortune
+Jacob_BradfordBoar,91,0.007270408163265292,5.170790816326531,206.84,208.21,seg91: The - knew,The second huntsman knew,-,BradfordBoar,The|second|huntsman|knew
+Jacob_BradfordBoar,92,0.5892857142857142,5.724872448979592,208.21,211.52,seg92: a - pond,"a shortcut to the Manor House was just around the nearby pond,",complementizer (that...),BradfordBoar,a|shortcut|to|the|Manor|House|was|just|around|the|nearby|pond
+Jacob_BradfordBoar,93,0.19056122448979584,5.780739795918368,211.9,213.83,seg93: and - first,"and, being a bigger man than the first,",conjunction / nonrestrictive clause,BradfordBoar,and|being|a|bigger|man|than|the|first
+Jacob_BradfordBoar,94,-0.057397959183673505,4.844770408163265,214.32,214.72,seg94: was - able,was able,conjunction cont.,BradfordBoar,was|able
+Jacob_BradfordBoar,95,0.11288265306122448,6.262882653061225,214.719999,217.36,seg95: to - wood,to pick up the boar's head and carry it through the wood,infinitival phrase,BradfordBoar,to|pick|up|the|boar's|head|and|carry|it|through|the|wood
+Jacob_BradfordBoar,96,0.4033163265306122,6.260204081632653,217.69,219.61,seg96: towards - him,towards the prize that awaited him.,positioning element; >maximal segment,BradfordBoar,towards|the|prize|that|awaited|him
+Jacob_BradfordBoar,97,0.7381377551020408,5.582525510204081,220.11,222.17,seg97: The - hall,The Lord of the Manor was seated in his hall,-,BradfordBoar,The|Lord|of|the|Manor|was|seated|in|his|hall
+Jacob_BradfordBoar,98,-0.6960459183673469,6.213520408163265,222.17,226.029999,seg98: when - line,when the second huntsman burst through the door and began to spin a line.,conjunction; >maximal segment,BradfordBoar,when|the|second|huntsman|burst|through|the|door|and|began|to|spin|a|line
+Jacob_BradfordBoar,99,0.47869897959183677,6.498979591836735,226.03,229.08,seg99: 'The - announced,'The woes of Bradford are ended!' he announced.,quotation; >maximal segment,BradfordBoar,'The|woes|of|Bradford|are|ended|'|he|announced
+Jacob_BradfordBoar,100,-0.7029336734693877,6.518494897959184,229.759999,232.24,seg100: 'With - ','With my own hand I have slain the boar!',quotation; >maximal segment,BradfordBoar,'With|my|own|hand|I|have|slain|the|boar|'
+Jacob_BradfordBoar,101,-0.3470663265306122,5.6479591836734695,232.24,234.96,seg101: And - lord,"And, with that, at the feet of his lord",positioning element,BradfordBoar,And|with|that|at|the|feet|of|his|lord
+Jacob_BradfordBoar,102,-0.4232142857142858,6.329081632653061,234.97,237.08,seg102: he - head,he dropped the boar's enormous head.,>maximal segment,BradfordBoar,he|dropped|the|boar's|enormous|head
+Jacob_BradfordBoar,103,0.1036989795918368,6.583928571428571,237.55,239.45,seg103: 'Then - ',"'Then you will be rewarded, as I promised.'",quotation; >maximal segment,BradfordBoar,'Then|you|will|be|rewarded|as|I|promised|'
+Jacob_BradfordBoar,104,0.04630102040816319,5.515561224489796,239.45,240.93,seg104: 'But - first,"'But first,",positioning element,BradfordBoar,'But|first
+Jacob_BradfordBoar,105,1.3917091836734692,6.391836734693877,241.15,244.64,seg105: let - Manor,"let me examine the head of this monster,' said the Lord of the Manor.",quotation; >maximal segment,BradfordBoar,let|me|examine|the|head|of|this|monster|'|said|the|Lord|of|the|Manor
+Jacob_BradfordBoar,106,0.33290816326530615,5.480739795918367,245.059999,246.98,seg106: To - advance,To not examine the head in advance,infinitival phrase,BradfordBoar,To|not|examine|the|head|in|advance
+Jacob_BradfordBoar,107,0.5192602040816326,5.663265306122449,247.09,249.669999,seg107: had - huntsman,had not been very clever on the part of the huntsman.,>maximal segment,BradfordBoar,had|not|been|very|clever|on|the|part|of|the|huntsman
+Jacob_BradfordBoar,108,0.7932397959183674,5.049872448979592,250.139999,250.85,seg108: Right - away,"Right away,",positioning element,BradfordBoar,Right|away
+Jacob_BradfordBoar,109,1.1667091836734693,5.326913265306123,251.049999,251.779999,seg109: the - noticed,the Lord noticed,-,BradfordBoar,the|Lord|noticed
+Jacob_BradfordBoar,110,1.1311224489795917,6.36811224489796,251.779999,253.35,seg110: the - missing,the tongue of the boar was missing,complementizer (that...),BradfordBoar,the|tongue|of|the|boar|was|missing
+Jacob_BradfordBoar,111,1.022831632653061,6.302678571428571,253.43,255.35,seg111: and - this,"and exclaimed, 'What is this?",>maximal segment,BradfordBoar,and|exclaimed|'What|is|this
+Jacob_BradfordBoar,112,0.9451530612244898,6.3264030612244895,255.56,257.45,seg112: A - ',A boar with no tongue?',>maximal segment,BradfordBoar,A|boar|with|no|tongue|'
+Jacob_BradfordBoar,113,0.7565051020408163,6.541836734693878,257.45,259.34,seg113: He - dubiously,"He looked at the huntsman, dubiously.",>maximal segment,BradfordBoar,He|looked|at|the|huntsman|dubiously
+Jacob_BradfordBoar,114,0.9371173469387755,6.738520408163265,259.77,262.63,seg114: 'How - demanded,'How come this creature has no tongue?' he demanded.,>maximal segment,BradfordBoar,'How|come|this|creature|has|no|tongue|'|he|demanded
+Jacob_BradfordBoar,115,0.6145408163265306,6.256760204081633,263.13,264.44,seg115: All - huntsman,All eyes were on the huntsman.,>maximal segment,BradfordBoar,All|eyes|were|on|the|huntsman
+Jacob_BradfordBoar,116,0.26249999999999996,5.109948979591836,265.24,265.82,seg116: The - huntsman,The huntsman,-,BradfordBoar,The|huntsman
+Jacob_BradfordBoar,117,0.4167091836734693,5.645663265306122,265.84,266.98,seg117: questioned - Lord,questioned by the Lord,nonrestrictive clause,BradfordBoar,questioned|by|the|Lord
+Jacob_BradfordBoar,118,0.021045918367346955,5.833545918367347,266.98,269.66,seg118: replied - ',"replied, 'I cannot say, my Lord.'",>maximal segment,BradfordBoar,replied|'I|cannot|say|my|Lord|'
+Jacob_BradfordBoar,119,0.5035714285714286,5.324234693877551,269.66,271.19,seg119: He - realizing,He was suddenly realizing,-,BradfordBoar,He|was|suddenly|realizing
+Jacob_BradfordBoar,120,0.1832908163265306,5.863010204081633,271.189999,273.959999,seg120: his - him,his tricky situation could end badly for him.,complementizer (that...); >maximal segment,BradfordBoar,his|tricky|situation|could|end|badly|for|him
+Jacob_BradfordBoar,121,2.2036989795918367,6.928316326530613,274.5,277.41,seg121: Through - burst,"Through the door at this moment, the first huntsman burst.",>maximal segment,BradfordBoar,Through|the|door|at|this|moment|the|first|huntsman|burst
+Jacob_BradfordBoar,122,2.391581632653061,7.124617346938775,277.77,280.16,seg122: 'The - cried,'The woes of Bradford are ended!' he cried.,>maximal segment,BradfordBoar,'The|woes|of|Bradford|are|ended|'|he|cried
+Jacob_BradfordBoar,123,2.165051020408163,6.740051020408163,280.66,281.75,seg123: 'I - boar,'I have slain the boar,-,BradfordBoar,'I|have|slain|the|boar
+Jacob_BradfordBoar,124,1.7318877551020408,6.359311224489796,281.75,283.809999,seg124: the - ',the people of Bradford dreaded!',relative clause (that...); >maximal segment,BradfordBoar,the|people|of|Bradford|dreaded|'
+Jacob_BradfordBoar,125,0.8789540816326531,6.2234693877551015,283.809999,285.25,seg125: All - man,All eyes turned to the man,-,BradfordBoar,All|eyes|turned|to|the|man
+Jacob_BradfordBoar,126,1.2941326530612245,5.935714285714286,285.259999,286.62,seg126: who - doorway,who now stood in the doorway.,relative clause; >maximal segment,BradfordBoar,who|now|stood|in|the|doorway
+Jacob_BradfordBoar,127,-0.4297193877551021,6.4875,287.119999,289.73,seg127: 'The - Manor,"'The reward is already given,' said the Lord of the Manor.",>maximal segment,BradfordBoar,'The|reward|is|already|given|'|said|the|Lord|of|the|Manor
+Jacob_BradfordBoar,128,-0.10676020408163267,6.276658163265306,289.74,293.12,seg128: 'The - ','The man here has brought to me the boar's head.',>maximal segment,BradfordBoar,'The|man|here|has|brought|to|me|the|boar's|head|'
+Jacob_BradfordBoar,129,1.6917091836734692,6.544897959183674,293.12,295.91,seg129: 'Then - replied,'Then where is its tongue?' the first huntsman replied.,>maximal segment,BradfordBoar,'Then|where|is|its|tongue|'|the|first|huntsman|replied
+Jacob_BradfordBoar,130,1.2359693877551021,5.601658163265306,296.34,297.58,seg130: And - saying,"And, so saying,",nonfinite clause,BradfordBoar,And|so|saying
+Jacob_BradfordBoar,131,1.66875,6.463392857142857,297.67,299.07,seg131: he - tongue,he drew out the boar's tongue,-,BradfordBoar,he|drew|out|the|boar's|tongue
+Jacob_BradfordBoar,132,1.7284438775510202,5.739030612244897,299.08,300.77,seg132: he - pouch,he had put in his hunting pouch,relative clause (that...),BradfordBoar,he|had|put|in|his|hunting|pouch
+Jacob_BradfordBoar,133,1.9522959183673467,6.482142857142857,301.0,305.739999,seg133: and - tongue,and related how he had ambushed the creature in the wood and cut out its tongue,conjunction,BradfordBoar,and|related|how|he|had|ambushed|the|creature|in|the|wood|and|cut|out|its|tongue
+Jacob_BradfordBoar,134,2.364795918367347,6.747704081632653,305.789999,307.21,seg134: as - victory,as proof of his victory.,conjunction; >maximal segment,BradfordBoar,as|proof|of|his|victory
+Jacob_BradfordBoar,135,1.1896683673469388,5.651785714285714,307.64,308.81,seg135: Listening - tale,"Listening to the tale,",nonfinite clause,BradfordBoar,Listening|to|the|tale
+Jacob_BradfordBoar,136,1.5409438775510202,5.660586734693877,309.23,311.16,seg136: the - discern,the Lord of the Manor tried to discern,-,BradfordBoar,the|Lord|of|the|Manor|tried|to|discern
+Jacob_BradfordBoar,137,1.2057397959183673,5.789158163265306,311.16,313.11,seg137: which - truth,which huntsman was telling him the truth,relative clause,BradfordBoar,which|huntsman|was|telling|him|the|truth
+Jacob_BradfordBoar,138,0.8667091836734694,5.600892857142858,313.57,315.24,seg138: and - thinking,and what the two huntsmen were thinking,conjunction,BradfordBoar,and|what|the|two|huntsmen|were|thinking
+Jacob_BradfordBoar,139,0.7741071428571429,5.635714285714285,315.27,317.369999,seg139: as - decision,as they waited for him to make a decision.,conjunction; >maximal segment,BradfordBoar,as|they|waited|for|him|to|make|a|decision
+Jacob_BradfordBoar,140,1.0683673469387753,5.734438775510204,317.77,318.87,seg140: Almost - instantly,"Almost instantly,",positioning element,BradfordBoar,Almost|instantly
+Jacob_BradfordBoar,141,0.7840561224489795,5.495663265306123,319.32,320.21,seg141: the - saw,the Lord saw,-,BradfordBoar,the|Lord|saw
+Jacob_BradfordBoar,142,0.752295918367347,6.6681122448979595,320.219999,322.93,seg142: that - lies,that the second huntsman had fed him a pack of lies,complementizer,BradfordBoar,that|the|second|huntsman|had|fed|him|a|pack|of|lies
+Jacob_BradfordBoar,143,1.3702806122448978,5.783035714285714,323.41,324.429999,seg143: and - huntsman,and it was the first huntsman,conjunction,BradfordBoar,and|it|was|the|first|huntsman
+Jacob_BradfordBoar,144,2.138265306122449,6.430867346938776,324.64,326.48,seg144: who - Bradford,who was the true savior of Bradford.,relative clause; >maximal segment,BradfordBoar,who|was|the|true|savior|of|Bradford
+Jacob_BradfordBoar,145,1.5769132653061226,5.458928571428571,326.96,327.78,seg145: The - believed,The Lord believed,-,BradfordBoar,The|Lord|believed
+Jacob_BradfordBoar,146,0.5043367346938774,5.833928571428571,327.78,329.1,seg146: the - tried,the second huntsman had tried,complementizer (that...),BradfordBoar,the|second|huntsman|had|tried
+Jacob_BradfordBoar,147,-0.3286989795918368,6.270535714285715,329.1,330.95,seg147: to - prize,to steal the first huntsman's prize,infinitival phrase,BradfordBoar,to|steal|the|first|huntsman's|prize
+Jacob_BradfordBoar,148,0.8085459183673469,6.033290816326531,331.42,332.43,seg148: and - proclaimed,and so proclaimed,conjunction,BradfordBoar,and|so|proclaimed
+Jacob_BradfordBoar,149,2.196045918367347,7.057270408163265,332.429999,334.289999,seg149: the - victor,the first huntsman the true victor.,complementizer; >maximal segment,BradfordBoar,the|first|huntsman|the|true|victor
+Jacob_BradfordBoar,150,0.8762755102040815,5.43061224489796,334.71,336.13,seg150: The - moment,The Lord wondered for a moment,-,BradfordBoar,The|Lord|wondered|for|a|moment
+Jacob_BradfordBoar,151,0.5288265306122448,5.321938775510204,336.139999,340.38,seg151: why - interactions,why he always encountered so much chicanery in his everyday interactions.,relative clause; >maximal segment,BradfordBoar,why|he|always|encountered|so|much|chicanery|in|his|everyday|interactions
+Jacob_BradfordBoar,152,0.3417091836734692,4.747576530612244,340.869999,341.549999,seg152: The - huntsman,The huntsman,-,BradfordBoar,The|huntsman
+Jacob_BradfordBoar,153,2.2936224489795918,5.768877551020409,341.559999,343.79,seg153: who - square,who had earned his prize fair and square,relative clause,BradfordBoar,who|had|earned|his|prize|fair|and|square
+Jacob_BradfordBoar,154,2.7482142857142855,6.664285714285715,344.23,347.88,seg154: received - town,"received as his reward a piece of land just outside the town,",-,BradfordBoar,received|as|his|reward|a|piece|of|land|just|outside|the|town
+Jacob_BradfordBoar,155,2.249234693877551,5.758163265306122,348.49,350.53,seg155: known - Yard,known thereafter as Hunt Yard.,nonrestrictive clause; >maximal segment,BradfordBoar,known|thereafter|as|Hunt|Yard
+Jacob_BradfordBoar,156,2.2982142857142858,5.766198979591836,350.94,352.61,seg156: His - assured,"His fame was indeed assured,",-,BradfordBoar,His|fame|was|indeed|assured
+Jacob_BradfordBoar,157,1.3595663265306124,5.722576530612245,352.75,356.969999,seg157: but - Boar,but it was not nearly as lasting as that of the fearsome Bradford Boar.,conjunction; >maximal segment,BradfordBoar,but|it|was|not|nearly|as|lasting|as|that|of|the|fearsome|Bradford|Boar
 Jacob_EmpireState,1,1.8401785714285714,5.050255102040817,3.3,8.21,seg1: Today - world,"Today, New York's Empire State Building is one of the most famous structures in the world.",>maximal segment,EmpireState,Today|New|York's|Empire|State|Building|is|one|of|the|most|famous|structures|in|the|world
 Jacob_EmpireState,2,1.7728316326530613,4.897193877551021,8.25,11.35,seg2: It - skyscrapers,It stands hundreds of feet taller than the skyscrapers,-,EmpireState,It|stands|hundreds|of|feet|taller|than|the|skyscrapers
 Jacob_EmpireState,3,0.9891581632653061,3.857908163265306,11.362445,12.329999,seg3: that - it,that surround it,relative clause,EmpireState,that|surround|it

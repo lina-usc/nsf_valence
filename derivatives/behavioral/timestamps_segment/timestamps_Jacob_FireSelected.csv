@@ -1,0 +1,117 @@
+segment,reason,narrative,segID,sentID,Nwords,onset,offset,voice_narrative
+Much of our understanding about sharks comes from the discoveries of Eugenie Clark.,||,FireSelected,1,1,13,0.69,5.27,Jacob_FireSelected
+Eugenie is a scientist,-,FireSelected,2,2,4,5.43,6.84,Jacob_FireSelected
+who studies the behavior of sharks.,relative clause||,FireSelected,3,2,6,6.838066,8.69,Jacob_FireSelected
+"Wearing a diving helmet and oxygen tank,",nonfinite clause,FireSelected,4,3,7,8.81,11.15,Jacob_FireSelected
+she has observed numerous kinds of sharks in their natural environment.,||,FireSelected,5,3,11,11.22,14.9,Jacob_FireSelected
+"As the director of a marine laboratory,",nonrestrictive clause,FireSelected,6,4,7,15.029999,17.469999,Jacob_FireSelected
+she has also designed a project,-,FireSelected,7,4,6,17.57,19.442128,Jacob_FireSelected
+for studying these creatures in captivity.,nonfinite clause||,FireSelected,8,4,6,19.45,21.83,Jacob_FireSelected
+Civilian airplane pilots have many important jobs.,||,FireSelected,9,5,7,25.51,28.75,Jacob_FireSelected
+"They transport passengers, freight, and mail from one city to another.",||,FireSelected,10,6,11,28.88,33.81,Jacob_FireSelected
+In emergencies they are called upon,-,FireSelected,11,7,6,33.89,36.073695,Jacob_FireSelected
+to make dangerous rescues in land and sea accidents and drop food and supplies,infinitive phrase,FireSelected,12,7,14,36.06,40.88,Jacob_FireSelected
+where people or herds are starving.,relative clause||,FireSelected,13,7,6,40.96,42.95,Jacob_FireSelected
+Pilots also carry out special tasks,-,FireSelected,14,8,6,43.16,45.93,Jacob_FireSelected
+such as spraying and dusting crops.,nonfinite clause||,FireSelected,15,8,6,45.99,48.259999,Jacob_FireSelected
+All over the world,positioning element,FireSelected,16,9,4,51.96,52.92,Jacob_FireSelected
+farmers face many difficult problems.,||,FireSelected,17,9,5,52.88,55.16,Jacob_FireSelected
+"Fruits, vegetables, and other plants are frequently attacked by insects and diseases",-,FireSelected,18,10,12,55.29,60.52,Jacob_FireSelected
+that can wipe out an entire crop.,relative clause||,FireSelected,19,10,7,60.79,63.039999,Jacob_FireSelected
+Farmers attempt,-,FireSelected,20,11,2,63.37,64.324179,Jacob_FireSelected
+to control these pests,infinitive phrase,FireSelected,21,11,4,64.3,65.709999,Jacob_FireSelected
+"by using chemicals,",nonfinite clause,FireSelected,22,11,3,65.7,66.99,Jacob_FireSelected
+but these poisons can make our food unsafe,conjunction,FireSelected,23,11,8,67.229999,69.684528,Jacob_FireSelected
+to eat.,infinitive prhase||,FireSelected,24,11,2,69.689999,70.264025,Jacob_FireSelected
+They can also harm useful insects and birds.,||,FireSelected,25,12,8,70.4,73.37,Jacob_FireSelected
+In the thirteenth century,positioning element,FireSelected,26,13,4,77.05,78.65,Jacob_FireSelected
+the people of Europe were ignorant about many remote areas of the world.,||,FireSelected,27,13,13,78.7,82.74,Jacob_FireSelected
+"China, a vast and powerful country in Asia,",nonrestrictive clause,FireSelected,28,14,8,82.85,85.59,Jacob_FireSelected
+was uncharted territory on the Europeans' map.,||,FireSelected,29,14,7,85.66,88.489999,Jacob_FireSelected
+One of the first European travelers,-,FireSelected,30,15,6,88.599999,90.459499,Jacob_FireSelected
+to visit this distant region,infinitive phrase,FireSelected,31,15,5,90.439999,92.01,Jacob_FireSelected
+was Marco Polo.,||,FireSelected,32,15,3,92.09,93.35,Jacob_FireSelected
+He learned several languages spoken in China and served its great rulers for many years.,||,FireSelected,33,16,15,93.52,99.32,Jacob_FireSelected
+The life of a movie star is rarely as exciting as we imagine.,||,FireSelected,34,17,13,103.0,106.339999,Jacob_FireSelected
+Most stars spend countless hours,-,FireSelected,35,18,5,106.439999,108.409999,Jacob_FireSelected
+"studying their lines,",nonfinite clause,FireSelected,36,18,3,108.394935,109.64,Jacob_FireSelected
+"taking acting lessons,",nonfinite clause,FireSelected,37,18,3,109.83,111.2,Jacob_FireSelected
+"and practicing other skills necessary for a career in show business,",nonfinite clause,FireSelected,38,18,11,111.36,115.44,Jacob_FireSelected
+such as singing and dancing.,nonrestrictive clause||,FireSelected,39,18,5,115.51,117.19,Jacob_FireSelected
+"And for certain roles, a star may be required",-,FireSelected,40,19,9,117.319999,120.069999,Jacob_FireSelected
+to learn,infinitive phrase,FireSelected,41,19,2,120.01,120.390525,Jacob_FireSelected
+to ride a horse or play the piano.,infinitive phrase||,FireSelected,42,19,8,120.37,122.54,Jacob_FireSelected
+"During filming, stars have an exhausting schedule.",||,FireSelected,43,20,7,122.71,125.82,Jacob_FireSelected
+The applauding spectators fell silent.,||,FireSelected,44,21,5,129.45,131.55,Jacob_FireSelected
+They had cheered the dauntless Warriors,-,FireSelected,45,22,6,131.7,133.78,Jacob_FireSelected
+through eight hard-fought innings,positioning element,FireSelected,46,22,4,133.747933,135.909999,Jacob_FireSelected
+against their fiercest rivals.,||,FireSelected,47,22,4,135.99,137.72,Jacob_FireSelected
+Only one run was required,-,FireSelected,48,23,5,138.029999,139.774703,Jacob_FireSelected
+"to defeat the Pythons,",infinitive phrase,FireSelected,49,23,4,139.75,141.159999,Jacob_FireSelected
+whose unbeaten record had given them a reputation as formidable opponents.,relative clause||,FireSelected,50,23,11,141.3,146.13,Jacob_FireSelected
+Another winning game would clench their title as champions and earn them the precious trophy.,||,FireSelected,51,24,15,146.25,151.83,Jacob_FireSelected
+"As Teresa awaited liftoff,",positioning element,FireSelected,52,25,4,155.51,157.29,Jacob_FireSelected
+she reflected on the stiff training program,-,FireSelected,53,25,7,157.38,159.535555,Jacob_FireSelected
+that had prepared her for her first space flight.,relative clause||,FireSelected,54,25,9,159.54,162.149999,Jacob_FireSelected
+"Unlike most career astronauts,",nonrestrictive clause,FireSelected,55,26,4,162.269999,164.16,Jacob_FireSelected
+Teresa had been selected for the flight,-,FireSelected,56,26,7,164.31,166.42,Jacob_FireSelected
+because of her physics background,conjunction,FireSelected,57,26,5,166.57,168.44,Jacob_FireSelected
+rather than her aviation experience.,conjunction||,FireSelected,58,26,5,168.54,170.84,Jacob_FireSelected
+She had nevertheless been required,-,FireSelected,59,27,5,170.99,172.98,Jacob_FireSelected
+"to learn spacecraft design, celestial navigation, and communications procedures.",infinitive phrase||,FireSelected,60,27,9,172.92,178.159999,Jacob_FireSelected
+The gale's fury began,-,FireSelected,61,28,4,181.829999,183.208012,Jacob_FireSelected
+to intensify,infinitive phrase,FireSelected,62,28,2,183.18,184.19,Jacob_FireSelected
+as Winnie lugged the splintered rowboat,conjunction,FireSelected,63,28,6,184.26,186.6,Jacob_FireSelected
+onto the barren reef.,positioning element||,FireSelected,64,28,4,186.58,187.87,Jacob_FireSelected
+Her younger brother had managed,-,FireSelected,65,29,5,187.95,189.53,Jacob_FireSelected
+"to stumble to shore through the churning surf,",infinitive phrase,FireSelected,66,29,8,189.495555,191.915554,Jacob_FireSelected
+despite the gash on his leg and possibly a fractured wrist.,nonrestrictive clause||,FireSelected,67,29,11,191.979999,195.72,Jacob_FireSelected
+His dim outline was huddled against a heap of debris above the waterline-,-,FireSelected,68,30,13,195.819999,200.34,Jacob_FireSelected
+the dismal remnant of another vessel,nonrestrictive clause,FireSelected,69,30,6,200.28,202.42,Jacob_FireSelected
+that met defeat near these shoals.,relative clause||,FireSelected,70,30,6,202.59,204.8,Jacob_FireSelected
+Mark was delighted,-,FireSelected,71,31,3,208.46,209.430256,Jacob_FireSelected
+"to obtain his deputy sheriff's badge,",infinitive phrase,FireSelected,72,31,6,209.41,211.44,Jacob_FireSelected
+but now he nervously pondered the difficult undertaking ahead.,conjunction||,FireSelected,73,31,9,211.519999,215.2,Jacob_FireSelected
+"As his first assignment, he had been appointed",-,FireSelected,74,32,8,215.3,217.601165,Jacob_FireSelected
+"to escort a prisoner to the authorities in Preston,",-,FireSelected,75,32,9,217.61,220.43,Jacob_FireSelected
+the county seat and the site of the impending trial.,nonrestrictive clause||,FireSelected,76,32,10,220.52,223.54,Jacob_FireSelected
+The cunning prisoner had previously eluded the law and led state troopers in hot pursuit before finally surrendering.,||,FireSelected,77,33,18,223.6,230.47,Jacob_FireSelected
+"The biologist scanned the mouth of the cavern,",-,FireSelected,78,34,8,234.14,236.69,Jacob_FireSelected
+which harbored colonies of a rare fruit-eating bat.,relative clause||,FireSelected,79,34,8,236.76,239.82,Jacob_FireSelected
+On this particular outing he hoped,-,FireSelected,80,35,6,239.93,241.89,Jacob_FireSelected
+to snare a few specimens for his study of the bat's role in seed dispersal.,infinitive phrase||,FireSelected,81,35,15,241.84,246.32,Jacob_FireSelected
+At the entrance of the main chamber,positioning element,FireSelected,82,36,7,246.43,248.27,Jacob_FireSelected
+was a stagnant pool,-,FireSelected,83,36,4,248.319999,249.51,Jacob_FireSelected
+in which untold numbers of bats had deposited morsels of fruit,relative clause,FireSelected,84,36,11,249.47,253.38,Jacob_FireSelected
+as they made the daily pilgrimage back to their roost.,conjunction||,FireSelected,85,36,10,253.43,256.66,Jacob_FireSelected
+For days,positioning element,FireSelected,86,37,2,260.339077,260.7737,Jacob_FireSelected
+the zoologist had scoured the protected area for a coyote den.,||,FireSelected,87,37,11,260.744725,264.33,Jacob_FireSelected
+"Unless she could stake one out for field study,",nonrestrictive clause,FireSelected,88,38,9,264.45,266.88,Jacob_FireSelected
+it would be impossible,-,FireSelected,89,38,4,266.96,267.95,Jacob_FireSelected
+to document her theory,infinitive phrase,FireSelected,90,38,4,267.959464,269.234358,Jacob_FireSelected
+"that a coyote is a social creature staunchly devoted to its family and clan,",relative clause,FireSelected,91,38,14,269.205383,273.78,Jacob_FireSelected
+not the loner of popular imagination.,conjunction||,FireSelected,92,38,6,273.91,276.4,Jacob_FireSelected
+The wildlife sanctuary had seemed the ideal setting for tracking coyotes.,||,FireSelected,93,39,11,276.56,280.83,Jacob_FireSelected
+The entomologist had contemplated the hazards,-,FireSelected,94,40,6,285.229999,287.80724,Jacob_FireSelected
+of working with this lethal strain of honeybee.,nonfinite clause||,FireSelected,95,40,8,287.80724,290.17,Jacob_FireSelected
+"These bees were high-strung and aggressive,",-,FireSelected,96,41,6,290.25,292.59,Jacob_FireSelected
+quick to incite the entire colony,nonrestrictive clause,FireSelected,97,41,6,292.69,294.67,Jacob_FireSelected
+when antagonized.,relative clause||,FireSelected,98,41,2,294.72,295.94,Jacob_FireSelected
+Their excitability often provoked them to mass attacks,-,FireSelected,99,42,8,295.97,299.21,Jacob_FireSelected
+that resulted in fatalities.,relative clause||,FireSelected,100,42,4,299.34,301.0,Jacob_FireSelected
+"Yet they produced extravagant quantities of honey,",-,FireSelected,101,43,7,301.109999,303.9,Jacob_FireSelected
+sometimes double that of their more docile European cousins.,nonrestrictive clause||,FireSelected,102,43,9,303.96,307.86,Jacob_FireSelected
+The folk dances,-,FireSelected,103,44,3,311.93,312.88,Jacob_FireSelected
+of seventeenth- and eighteenth-century America,positioning element,FireSelected,104,44,5,312.84,315.35,Jacob_FireSelected
+represented the retention of Old World dances,-,FireSelected,105,44,7,315.33,318.24,Jacob_FireSelected
+that had been imported by the colonists.,relative clause||,FireSelected,106,44,7,318.38,320.64,Jacob_FireSelected
+"Although most of these dances have passed into oblivion,",nonrestrictive clause,FireSelected,107,45,9,320.83,323.94,Jacob_FireSelected
+recognizable traces of this tradition persist in secluded regions,-,FireSelected,108,45,9,324.05,328.08,Jacob_FireSelected
+"that have retained their ancestral character,",relative clause,FireSelected,109,45,6,328.21,330.52,Jacob_FireSelected
+such as Appalachia.,nonrestrictive clause||,FireSelected,110,45,3,330.64,332.01,Jacob_FireSelected
+The function of children's games has recently attained importance,-,FireSelected,111,46,9,336.33,339.846081,Jacob_FireSelected
+as a subject of investigation in the social sciences.,conjunction||,FireSelected,112,46,9,339.859999,343.12,Jacob_FireSelected
+"Games, particularly those that accentuate rhyme, rhythm, or dramatic action,",nonrestrictive clause,FireSelected,113,47,10,343.15,348.02,Jacob_FireSelected
+cater to an innate need,-,FireSelected,114,47,5,348.09,349.494708,Jacob_FireSelected
+to engage in imaginative and expressive behavior.,infinitive phrase||,FireSelected,115,47,7,349.46,352.889999,Jacob_FireSelected
+"Games likewise provide a socially acceptable outlet for excess energy, tension, and aggression.",||,FireSelected,116,48,13,352.939999,359.72,Jacob_FireSelected

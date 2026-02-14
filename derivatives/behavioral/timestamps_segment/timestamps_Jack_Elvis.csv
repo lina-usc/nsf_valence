@@ -1,0 +1,158 @@
+segment,reason,narrative,segID,sentID,Nwords,onset,offset,voice_narrative
+"At ten years old,",positioning element,Elvis,1,1,4,7.26,8.48,Jack_Elvis
+I could not figure out what it was,-,Elvis,2,1,8,8.59,10.218661,Jack_Elvis
+that this Elvis Presley guy had,relative clause,Elvis,3,1,6,10.22,12.052779,Jack_Elvis
+that the rest of us boys did not have.,relative clause||,Elvis,4,1,9,12.109999,13.99,Jack_Elvis
+He seemed,-,Elvis,5,2,2,15.080531,15.575452,Jack_Elvis
+to be no different from the rest of us.,infinitive phrase||,Elvis,6,2,9,15.604565,17.23,Jack_Elvis
+He was simply a man,-,Elvis,7,3,5,18.160001,19.025342,Jack_Elvis
+"who had a head, two arms and two legs.",relative clause||,Elvis,8,3,9,18.99,22.15,Jack_Elvis
+It must have been something pretty superlative,-,Elvis,9,4,7,23.21,25.52,Jack_Elvis
+"that he had hidden away,",relative clause,Elvis,10,4,5,25.5,26.81,Jack_Elvis
+because he had every young girl,conjunction,Elvis,11,4,6,27.73,29.389567,Jack_Elvis
+at the orphanage,positioning element - location,Elvis,12,4,3,29.37,30.249999,Jack_Elvis
+wrapped around his little finger.,||,Elvis,13,4,5,30.37,32.0,Jack_Elvis
+"At about nine o'clock on Saturday morning,",positioning element,Elvis,14,5,7,33.35,35.4,Jack_Elvis
+I figured a good solution was,-,Elvis,15,5,6,35.65,37.235519,Jack_Elvis
+"to ask Eugene Correthers,",infinitive phrase,Elvis,16,5,4,37.22,38.67,Jack_Elvis
+"who was one of the older and smarter boys,",relative clause,Elvis,17,5,9,39.42,41.94,Jack_Elvis
+what it was,relative clause,Elvis,18,5,3,42.27,42.87,Jack_Elvis
+that made this Elvis guy so special.,relative clause||,Elvis,19,5,7,42.83,44.75,Jack_Elvis
+He told me,-,Elvis,20,6,3,45.95,46.74,Jack_Elvis
+"that it was not anything about Elvis's personality,",complementizer,Elvis,21,6,8,46.73,49.539999,Jack_Elvis
+"but his wavy hair, and the way he moved his body.",conjunction||,Elvis,22,6,11,49.92,52.86,Jack_Elvis
+"About a half an hour later,",positioning element,Elvis,23,7,6,55.17,56.58,Jack_Elvis
+"the boys in the orphanage,",-,Elvis,24,7,5,56.85,58.05,Jack_Elvis
+"called down to the main dining room by the matron,",nonrestrictive clause,Elvis,25,7,10,58.05,60.45,Jack_Elvis
+were told,-,Elvis,26,7,2,60.63,61.18,Jack_Elvis
+"that they were all going to downtown Jacksonville, Florida",complementizer,Elvis,27,7,9,61.15,63.909999,Jack_Elvis
+to get a new pair of Buster Brown shoes and a haircut.,infinitive phrase||,Elvis,28,7,12,64.1,66.89,Jack_Elvis
+"That is when I got this big idea,",-,Elvis,29,8,8,68.18,70.68,Jack_Elvis
+which hit me like a ton of bricks.,relative clause||,Elvis,30,8,8,70.81,72.49,Jack_Elvis
+"If the Elvis haircut was the big secret,",-,Elvis,31,9,8,73.6,76.13,Jack_Elvis
+then Elvis's haircut I was going,conjunction,Elvis,32,9,6,76.49,78.61964,Jack_Elvis
+to get.,infinitive phrase||,Elvis,33,9,2,78.6,79.17,Jack_Elvis
+I was going,-,Elvis,34,10,3,80.37,80.817671,Jack_Elvis
+"to have my day in the sun,",infinitive phrase,Elvis,35,10,7,80.819999,82.48,Jack_Elvis
+and all the way to town,conjunction / positioning element,Elvis,36,10,6,82.91,84.37,Jack_Elvis
+that was all I talked about.,relative clause||,Elvis,37,10,6,84.58,85.79,Jack_Elvis
+The fact,-,Elvis,38,11,2,86.54,86.945956,Jack_Elvis
+"that I was getting an Elvis haircut,",relative clause,Elvis,39,11,7,86.92,88.999999,Jack_Elvis
+not just the simple fact,-,Elvis,40,11,5,89.32,90.541411,Jack_Elvis
+"that we were getting out of the orphanage,",relative clause,Elvis,41,11,8,90.56,92.36,Jack_Elvis
+made me particularly loquacious.,||,Elvis,42,11,4,92.56,94.67,Jack_Elvis
+"I told everybody,",-,Elvis,43,12,3,96.19,97.24,Jack_Elvis
+"including the orphanage matron I normally feared,",nonrestrictive clause,Elvis,44,12,7,97.86,100.419999,Jack_Elvis
+that I was going,complementizer,Elvis,45,12,4,101.45,102.026487,Jack_Elvis
+to look just like Elvis Presley,infinitive phrase,Elvis,46,12,6,101.99,103.96,Jack_Elvis
+and that I would learn,conjunction,Elvis,47,12,5,105.109999,105.929999,Jack_Elvis
+to move around just like he did,infinitive phrase,Elvis,48,12,7,105.87,107.9,Jack_Elvis
+"and that I would be rich and famous one day,",conjunction,Elvis,49,12,10,108.939999,110.93,Jack_Elvis
+just like him.,nonrestrictive clause||,Elvis,50,12,3,111.25,112.18,Jack_Elvis
+The matron understood,-,Elvis,51,13,3,113.52,115.083665,Jack_Elvis
+my idea was something,complementizer (that...),Elvis,52,13,4,115.04,116.26,Jack_Elvis
+that I was really excited about and said nothing.,relative clause||,Elvis,53,13,9,116.21,118.93,Jack_Elvis
+"When I got my new Buster Brown shoes,",relative clause,Elvis,54,14,8,120.39,122.35,Jack_Elvis
+I was smiling from ear to ear.,||,Elvis,55,14,7,122.54,124.31,Jack_Elvis
+"Those shoes, they shined really brightly,",-,Elvis,56,15,6,125.4,127.84,Jack_Elvis
+and I liked,conjunction,Elvis,57,15,3,128.65,129.159798,Jack_Elvis
+"looking at the bones in my feet,",nonfinite clause,Elvis,58,15,7,129.130685,130.53,Jack_Elvis
+"which I had never seen before,",relative clause,Elvis,59,15,6,130.75,132.21,Jack_Elvis
+through a special x-ray machine,-,Elvis,60,15,5,133.1,134.531145,Jack_Elvis
+they had in the shoe store,relative clause (that...),Elvis,61,15,6,134.52,135.77,Jack_Elvis
+that made the bones in your feet look green.,relative clause||,Elvis,62,15,9,136.069999,138.22,Jack_Elvis
+I was now almost ready,-,Elvis,63,16,5,139.64,141.129999,Jack_Elvis
+to go back to the orphanage and practice,infinitive phrase,Elvis,64,16,8,141.069999,143.36,Jack_Elvis
+being like the man,nonfinite clause,Elvis,65,16,4,143.329999,144.313111,Jack_Elvis
+"who all the girls loved,",relative clause,Elvis,66,16,5,144.32,145.72,Jack_Elvis
+since I had my new Buster Brown shoes.,conjunction||,Elvis,67,16,8,146.53,148.46,Jack_Elvis
+"It was the new haircut, though,",-,Elvis,68,17,6,150.16,151.73,Jack_Elvis
+that I needed to complete my new look.,relative clause||,Elvis,69,17,8,152.399999,154.41,Jack_Elvis
+"We finally arrived at the unassuming, unembellished barbershop,",-,Elvis,70,18,8,155.52,159.249999,Jack_Elvis
+where they cut our hair for free,relative clause,Elvis,71,18,7,159.97,161.37,Jack_Elvis
+because we were orphans.,conjunction||,Elvis,72,18,4,161.339999,162.5,Jack_Elvis
+Even though we were supposed,nonrestrictive clause,Elvis,73,19,5,163.68,164.86,Jack_Elvis
+to slowly wai,infinitive phrase,Elvis,74,19,3,164.866885,165.78,Jack_Elvis
+"to be called,",infinitive phrase,Elvis,75,19,3,165.73,166.48,Jack_Elvis
+I ran straight up to one of the barber chairs and climbed up onto the board,-,Elvis,76,19,16,166.75,170.74771,Jack_Elvis
+the barber placed across the arms,relative clause (that...),Elvis,77,19,6,170.72,172.399999,Jack_Elvis
+to make me sit up higher.,infinitive phrase||,Elvis,78,19,6,172.42,173.59,Jack_Elvis
+"I looked at the man and said,",-,Elvis,79,20,7,175.59,177.123455,Jack_Elvis
+"with a beaming smile on my face,",nonrestrictive clause,Elvis,80,20,7,177.39,179.029999,Jack_Elvis
+'I want an Elvis haircut.,||,Elvis,81,20,5,179.939999,181.41,Jack_Elvis
+Can you make my hair like Elvis's?' I asked.,||,Elvis,82,21,9,182.26,184.5,Jack_Elvis
+"The barber,",-,Elvis,83,22,2,185.63,186.27,Jack_Elvis
+"who was a genial young man,",relative clause,Elvis,84,22,6,186.61,188.15,Jack_Elvis
+grinned back at me and said,-,Elvis,85,22,6,188.92,190.311641,Jack_Elvis
+that he would try his best.,complementizer||,Elvis,86,22,6,190.27,191.68,Jack_Elvis
+I was so happy,-,Elvis,87,23,4,192.66,193.572297,Jack_Elvis
+when he started,positioning element,Elvis,88,23,3,193.55,194.096331,Jack_Elvis
+"to cut my hair,",infinitive phrase,Elvis,89,23,4,194.069999,194.939999,Jack_Elvis
+but just as he started,conjunction,Elvis,90,23,5,195.71,196.687387,Jack_Elvis
+"to cut,",infinitive phrase,Elvis,91,23,2,196.660001,197.149999,Jack_Elvis
+"the matron,",-,Elvis,92,23,2,197.46,198.079999,Jack_Elvis
+"who had been watching me and had a look as cold as ice,",relative clause,Elvis,93,23,13,198.359999,201.89,Jack_Elvis
+motioned for him,-,Elvis,94,23,3,202.63,203.252367,Jack_Elvis
+to come over to where she was standing.,infinitive phrase||,Elvis,95,23,8,203.23,204.9,Jack_Elvis
+She whispered something into his ear,-,Elvis,96,24,6,206.14,207.8,Jack_Elvis
+that caused the barber,relative clause,Elvis,97,24,4,208.37,209.28,Jack_Elvis
+"to shake his head,",infinitive phrase,Elvis,98,24,4,209.278757,210.19,Jack_Elvis
+"like he was telling her, 'No'.",nonrestrictive clause||,Elvis,99,24,6,210.31,211.818866,Jack_Elvis
+"In response, the matron walked over to a little man",-,Elvis,100,25,10,213.34002,216.63,Jack_Elvis
+sitting in an office chair,nonfinite clause,Elvis,101,25,5,216.6,217.823421,Jack_Elvis
+that squeaked as it rolled around the floor,relative clause,Elvis,102,25,8,217.823421,219.8,Jack_Elvis
+and spoke to him.,||,Elvis,103,25,4,219.773991,220.59,Jack_Elvis
+It was the little man,-,Elvis,104,26,5,221.83,222.9,Jack_Elvis
+who then walked over and said something to the man,relative clause,Elvis,105,26,10,222.85,225.109999,Jack_Elvis
+who was cutting my hair.,relative clause||,Elvis,106,26,5,225.06,226.14,Jack_Elvis
+"The next thing I knew,",positioning element,Elvis,107,27,5,227.72,228.69,Jack_Elvis
+the man,-,Elvis,108,27,2,229.49,229.84,Jack_Elvis
+who was cutting my hair told me,relative clause,Elvis,109,27,7,229.817974,231.039999,Jack_Elvis
+that he was no longer allowed,complementizer,Elvis,110,27,6,231.026164,232.438144,Jack_Elvis
+to give me an Elvis cut.,infinitive phrase||,Elvis,111,27,6,232.419999,233.55,Jack_Elvis
+'Why not?' I cried desperately.,quotation||,Elvis,112,28,5,234.63,237.36,Jack_Elvis
+The kindly barber,-,Elvis,113,29,3,238.39,239.177802,Jack_Elvis
+stopped by the matron,nonrestrictive clause,Elvis,114,29,4,239.163245,240.1,Jack_Elvis
+"did not answer,",-,Elvis,115,29,3,240.05,240.91,Jack_Elvis
+"but from his expression, I could tell",conjunction,Elvis,116,29,7,240.97,242.860596,Jack_Elvis
+that he wished,complementizer,Elvis,117,29,3,242.83,243.449999,Jack_Elvis
+he could cut it as I had asked.,complementizer||,Elvis,118,29,8,243.428299,244.99,Jack_Elvis
+"Within a few minutes,",positioning element,Elvis,119,30,4,246.14,247.229999,Jack_Elvis
+"it wasn't an Elvis haircut, but a short buzz cut",-,Elvis,120,30,10,247.359999,250.539999,Jack_Elvis
+that the barber had given me.,relative clause||,Elvis,121,30,6,250.49,251.74,Jack_Elvis
+When he finished,positioning element,Elvis,122,31,3,252.48,253.122926,Jack_Elvis
+shaving off all my hair,nonfinite clause,Elvis,123,31,5,253.108369,254.298369,Jack_Elvis
+"and made me smell real good with his powder,",-,Elvis,124,31,9,255.04,257.04,Jack_Elvis
+the barber handed me a nickel and told me,conjunction (then...),Elvis,125,31,9,257.73,259.49,Jack_Elvis
+to go outside to the snack machine and buy myself a candy bar.,infinitive phrase||,Elvis,126,31,13,259.440446,262.719999,Jack_Elvis
+I handed him the nickel back and told him,-,Elvis,127,32,9,264.49155,266.718694,Jack_Elvis
+that I was not hungry.,complementizer||,Elvis,128,32,5,266.689999,268.01,Jack_Elvis
+"'I'm so sorry, baby,' he said,",quotation,Elvis,129,33,6,269.32,271.47,Jack_Elvis
+as I climbed out of his barber chair.,conjunction||,Elvis,130,33,8,271.86,273.42,Jack_Elvis
+"'I am not a baby,' I said,",-,Elvis,131,34,7,274.360855,277.41,Jack_Elvis
+as I wiped the tears from my eyes.,conjunction||,Elvis,132,34,8,277.52,279.24,Jack_Elvis
+I then sat down on the floor and brushed away the hair,-,Elvis,133,35,12,280.52,283.7,Jack_Elvis
+that had accumulated on my shiny new Buster Brown shoes.,relative clause||,Elvis,134,35,10,283.677013,286.98,Jack_Elvis
+"My head was no longer in the clouds,",-,Elvis,135,36,8,288.37,290.26,Jack_Elvis
+"and I got up off the floor, brushed off my short pants, and walked sullenly towards the door.",conjunction||,Elvis,136,36,18,291.17,297.38,Jack_Elvis
+The matron was smiling at me sort of funny like.,||,Elvis,137,37,10,298.97,301.96,Jack_Elvis
+The barber,-,Elvis,138,38,2,303.529999,304.109999,Jack_Elvis
+upset by the matron,nonrestrictive clause,Elvis,139,38,4,304.32,305.55,Jack_Elvis
+"said to her, 'You are just a damn bitch, lady.'",||,Elvis,140,38,10,305.63,308.597736,Jack_Elvis
+"She yelled back at him at the top of her lungs,",-,Elvis,141,39,11,310.05,312.62,Jack_Elvis
+"before walking toward the office, as fast as she could.",positioning element||,Elvis,142,39,10,312.85,316.02,Jack_Elvis
+"To show his anger,",nonrestrictive clause,Elvis,143,40,4,317.33,318.4,Jack_Elvis
+the man hit the wall with his hand and then walked outside,-,Elvis,144,40,12,318.899999,321.771366,Jack_Elvis
+"where he stood against the brick wall,",relative clause,Elvis,145,40,7,321.75,323.279999,Jack_Elvis
+smoking a cigarette.,nonfinite clause||,Elvis,146,40,3,323.429999,324.42,Jack_Elvis
+I understood right there,-,Elvis,147,41,4,326.167428,327.39,Jack_Elvis
+my haircut was something,complementizer (that...),Elvis,148,41,4,327.79,329.049614,Jack_Elvis
+that had been out of the power of the barber,relative clause,Elvis,149,41,10,329.049614,331.21,Jack_Elvis
+and then I slowly walked outside,conjunction,Elvis,150,41,6,331.68,333.119999,Jack_Elvis
+to join the man.,infinitive phrase||,Elvis,151,41,4,333.110877,333.95,Jack_Elvis
+"He looked down, smiled at me, then he patted me on the top of my bald as a coot head.",||,Elvis,152,42,20,335.323464,341.66,Jack_Elvis
+It was a fact of my life,-,Elvis,153,43,7,343.349999,344.81,Jack_Elvis
+that I was not gonna have hair,relative clause,Elvis,154,43,7,344.78,346.14,Jack_Elvis
+that was anything like Elvis's anytime soon.,relative clause||,Elvis,155,43,7,346.11,348.95,Jack_Elvis
+I then looked up at the barber with my wet red eyes,-,Elvis,156,44,12,349.8,352.869999,Jack_Elvis
+"and asked, 'Do you know if Elvis Presley has green bones?'",quotation||,Elvis,157,44,11,352.88,356.590506,Jack_Elvis

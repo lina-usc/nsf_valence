@@ -1,0 +1,119 @@
+segment,reason,narrative,segID,sentID,Nwords,onset,offset,voice_narrative
+"The most popular teen band was coming to town,",-,FirstConcert,1,1,9,6.67,9.12,Jack_FirstConcert
+and both Alex and his twin sister Amanda really wanted,conjunction,FirstConcert,2,1,10,9.06,12.569458,Jack_FirstConcert
+to go to the concert.,infinitive phrase||,FirstConcert,3,1,5,12.55,13.68,Jack_FirstConcert
+They had never been to a concert,-,FirstConcert,4,2,7,14.93,16.39,Jack_FirstConcert
+because their parents' rule was,conjunction,FirstConcert,5,2,5,16.55,18.030671,Jack_FirstConcert
+that you must be in sixth grade to go to a concert.,complementizer||,FirstConcert,6,2,12,18.030671,20.57,Jack_FirstConcert
+Alex and Amanda were only in fifth grade.,||,FirstConcert,7,3,8,21.23805,23.75,Jack_FirstConcert
+"""Please, Mom and Dad.",||,FirstConcert,8,4,4,25.24,26.39,Jack_FirstConcert
+"We will do anything if you let us go,"" they begged their parents.",quotation||,FirstConcert,9,5,13,26.43,30.108909,Jack_FirstConcert
+"Their two older sisters had both been to concerts before,",-,FirstConcert,10,6,10,31.189999,34.01,Jack_FirstConcert
+and always talked about how great it is,conjunction,FirstConcert,11,6,8,34.703263,36.58,Jack_FirstConcert
+to experience live music.,infinitive clause||,FirstConcert,12,6,4,36.581458,38.28,Jack_FirstConcert
+"""Is there any possibility we can go?",||,FirstConcert,13,7,7,40.19,42.36,Jack_FirstConcert
+The production is supposed,-,FirstConcert,14,8,4,43.41,44.498772,Jack_FirstConcert
+to be amazing with lots of special effects.,infinitive phrase||,FirstConcert,15,8,8,44.498772,47.32,Jack_FirstConcert
+It is going,quotation,FirstConcert,16,9,3,48.457429,48.948649,Jack_FirstConcert
+"to be the band's best show yet,",infinitive phrase,FirstConcert,17,9,7,48.948649,50.599999,Jack_FirstConcert
+and they aren't going,conjunction,FirstConcert,18,9,4,51.549227,52.271609,Jack_FirstConcert
+"to tour again for three years,"" explained Alex with excitement.",infinitive phrase||,FirstConcert,19,9,10,52.271609,56.07,Jack_FirstConcert
+"""All of our friends are going,"" added Amanda.",||,FirstConcert,20,10,8,57.23,59.65,Jack_FirstConcert
+Their mom and dad said,-,FirstConcert,21,11,5,61.28,62.24049,Jack_FirstConcert
+"they would think about it,",complementizer (that...),FirstConcert,22,11,5,62.25,63.16,Jack_FirstConcert
+and asked Alex and Amanda,conjunction,FirstConcert,23,11,5,63.338512,65.3,Jack_FirstConcert
+not to bring it up again until they had time,infinitive phrase,FirstConcert,24,11,10,65.38,67.557227,Jack_FirstConcert
+to consider it.,infinitive phrase||,FirstConcert,25,11,3,67.557227,68.33,Jack_FirstConcert
+"Alex and Amanda agreed,",-,FirstConcert,26,12,4,69.435422,71.029999,Jack_FirstConcert
+and said,conjunction,FirstConcert,27,12,2,71.747046,72.238266,Jack_FirstConcert
+they would not pester their parents.,complementizer (that...)||,FirstConcert,28,12,6,72.21,73.943089,Jack_FirstConcert
+It was very difficult for them though.,||,FirstConcert,29,13,7,74.97,77.4,Jack_FirstConcert
+"After about a week's time,",positioning element,FirstConcert,30,14,5,79.65,80.96,Jack_FirstConcert
+their parents brought the subject of the concert up at dinner.,||,FirstConcert,31,14,11,81.23,84.0,Jack_FirstConcert
+They said,-,FirstConcert,32,15,2,85.27005,85.732374,Jack_FirstConcert
+they would reconsider their rule about,complementizer (that...),FirstConcert,33,15,6,85.729999,87.639465,Jack_FirstConcert
+having to be in the sixth grade with a couple of conditions.,nonfinite clause||,FirstConcert,34,15,12,87.62,91.47,Jack_FirstConcert
+Alex and Amanda were thrilled.,||,FirstConcert,35,16,5,93.880851,95.4,Jack_FirstConcert
+They both jumped up from the table,-,FirstConcert,36,17,7,97.01,98.446309,Jack_FirstConcert
+to hug their mom and dad.,infinitive clause||,FirstConcert,37,17,6,98.44,99.83,Jack_FirstConcert
+"""You are the best!"" they screamed",-,FirstConcert,38,18,6,100.609999,102.6,Jack_FirstConcert
+as they hugged their parents.,conjunction||,FirstConcert,39,18,5,102.84,104.196475,Jack_FirstConcert
+"""Slow down,"" said their dad.",||,FirstConcert,40,19,5,105.18,107.129999,Jack_FirstConcert
+"""You haven't even heard the conditions yet.""",||,FirstConcert,41,20,7,107.919999,110.0,Jack_FirstConcert
+Alex and Amanda listened patiently,-,FirstConcert,42,21,5,111.564778,114.07,Jack_FirstConcert
+as their dad went over the conditions.,conjunction||,FirstConcert,43,21,7,114.16,116.33,Jack_FirstConcert
+"""First, work very hard",-,FirstConcert,44,22,4,118.904186,121.359999,Jack_FirstConcert
+and get an A on your next book report.,conjunction||,FirstConcert,45,22,9,121.299999,123.48,Jack_FirstConcert
+"Second, pay for the concert ticket yourself.",||,FirstConcert,46,23,7,124.96,128.19,Jack_FirstConcert
+"Third, find a responsible adult",-,FirstConcert,47,24,5,129.71,132.74,Jack_FirstConcert
+to drive and go to the concert with you,infinitive phrase,FirstConcert,48,24,9,132.78,135.319999,Jack_FirstConcert
+"because Mom and I have a charity dinner that night.""",conjunction||,FirstConcert,49,24,10,136.16,138.719999,Jack_FirstConcert
+Alex and Amanda smiled at each other,-,FirstConcert,50,25,7,140.344504,142.379999,Jack_FirstConcert
+because they knew,conjunction,FirstConcert,51,25,3,142.410001,143.359999,Jack_FirstConcert
+they could easily cover the first two conditions.,complementizer||,FirstConcert,52,25,8,143.339999,145.76,Jack_FirstConcert
+The only problem was finding an adult,-,FirstConcert,53,26,7,147.22,149.475421,Jack_FirstConcert
+to go to the concert with them.,infinitive phrase||,FirstConcert,54,26,7,149.44,151.03,Jack_FirstConcert
+"Then a thought occurred to Amanda,",-,FirstConcert,55,27,6,152.45,154.4,Jack_FirstConcert
+and she looked across the table at her oldest sister.,conjunction||,FirstConcert,56,27,10,155.110005,157.82,Jack_FirstConcert
+"""Andrea, you could go with us.",quotation||,FirstConcert,57,28,6,159.189999,161.789999,Jack_FirstConcert
+You are 18 years old,quotation,FirstConcert,58,29,5,162.779999,163.98,Jack_FirstConcert
+"which makes you an adult,",relative clause / quotation,FirstConcert,59,29,5,163.951969,165.16,Jack_FirstConcert
+"and you are responsible,"" Amanda said with a pleading look in her eyes.",conjunction / quotation||,FirstConcert,60,29,13,165.281153,169.89,Jack_FirstConcert
+Andrea thought about it for a couple of minutes.,||,FirstConcert,61,30,9,171.439999,173.51,Jack_FirstConcert
+"Then she said, ""I guess I could help my youngest siblings out,",-,FirstConcert,62,31,12,175.22,179.0,Jack_FirstConcert
+but I also have a condition.,conjunction||,FirstConcert,63,31,6,179.910001,181.3,Jack_FirstConcert
+I want you two,-,FirstConcert,64,32,4,182.49,183.38,Jack_FirstConcert
+to pay for my ticket and a ticket for a friend of mine,infinitive phrase,FirstConcert,65,32,13,183.34072,187.29,Jack_FirstConcert
+"to go with us too.""",infinitive phrase||,FirstConcert,66,32,5,187.47,188.48,Jack_FirstConcert
+Alex and Amanda thought,-,FirstConcert,67,33,4,190.535651,192.37,Jack_FirstConcert
+that sounded reasonable.,complementizer||,FirstConcert,68,33,3,192.33,193.67,Jack_FirstConcert
+They figured,-,FirstConcert,69,34,2,194.783261,195.67,Jack_FirstConcert
+that Alex would mow a couple extra lawns,complementizer (that...),FirstConcert,70,34,8,196.430294,198.919999,Jack_FirstConcert
+"to make money,",infinitive phrase,FirstConcert,71,34,3,198.91,199.724359,Jack_FirstConcert
+and Amanda would take on a couple more babysitting jobs.,conjunction||,FirstConcert,72,34,10,200.620113,204.01,Jack_FirstConcert
+They immediately agreed to Andrea's stipulation.,||,FirstConcert,73,35,6,205.0,207.83,Jack_FirstConcert
+The day of the concert had arrived.,||,FirstConcert,74,36,7,210.85,212.74,Jack_FirstConcert
+"Andrea, Alex and Amanda got into the car and went",-,FirstConcert,75,37,10,213.58,218.015088,Jack_FirstConcert
+to pick up Andrea's friend Renee.,infinitive phrase||,FirstConcert,76,37,6,218.02,219.9,Jack_FirstConcert
+Alex and Amanda weren't the only ones in the car,-,FirstConcert,77,38,10,221.366943,224.21,Jack_FirstConcert
+who were excited.,relative clause||,FirstConcert,78,38,3,224.16,225.007752,Jack_FirstConcert
+"As they rode to the concert,",conjunction,FirstConcert,79,39,6,226.189999,227.62,Jack_FirstConcert
+they listened to the band's most recent release.,||,FirstConcert,80,39,8,228.446293,230.81,Jack_FirstConcert
+Everyone was singing and having fun.,||,FirstConcert,81,40,6,232.34716,234.407159,Jack_FirstConcert
+"When they got to the arena,",positioning element,FirstConcert,82,41,6,236.089999,237.53,Jack_FirstConcert
+they all went immediately to the concession stand,-,FirstConcert,83,41,8,238.559651,241.420286,Jack_FirstConcert
+to get some goodies,infinitive phrase,FirstConcert,84,41,4,241.46,242.48,Jack_FirstConcert
+so they wouldn't have,conjunction,FirstConcert,85,41,4,242.66,243.500748,Jack_FirstConcert
+to leave their seats during the show if their stomachs growled.,infinitive phrase||,FirstConcert,86,41,11,243.48,246.639999,Jack_FirstConcert
+They also stopped at another stand,-,FirstConcert,87,42,6,247.99,249.84,Jack_FirstConcert
+to buy t-shirts.,infinitive phrase||,FirstConcert,88,42,3,249.88,250.830001,Jack_FirstConcert
+They were more than ready for the show.,||,FirstConcert,89,43,8,252.2,253.99,Jack_FirstConcert
+Andrea and Renee let Alex and Amanda have the seats with the best view.,||,FirstConcert,90,44,14,256.53,261.23,Jack_FirstConcert
+They all settled in and waited for the band to start.,||,FirstConcert,91,45,11,262.6,265.849999,Jack_FirstConcert
+Alex and Amanda could hardly contain themselves,-,FirstConcert,92,46,7,267.166004,270.431174,Jack_FirstConcert
+as the band took the stage.,conjunction||,FirstConcert,93,46,6,270.439999,272.13,Jack_FirstConcert
+Then the music began.,||,FirstConcert,94,47,4,273.73,275.71,Jack_FirstConcert
+It was so loud,-,FirstConcert,95,48,4,276.8,278.61,Jack_FirstConcert
+"that they couldn't hear each other talk,",relative clause,FirstConcert,96,48,7,278.926394,280.9,Jack_FirstConcert
+but they didn't mind.,conjunction||,FirstConcert,97,48,4,281.99,283.28,Jack_FirstConcert
+Now they knew what their older sisters meant by,-,FirstConcert,98,49,9,284.42,288.115101,Jack_FirstConcert
+experiencing live music.,nonfinite clause||,FirstConcert,99,49,3,288.115101,289.919999,Jack_FirstConcert
+It was amazing,-,FirstConcert,100,50,3,291.119999,292.549999,Jack_FirstConcert
+"watching the band members play the piano, guitar and drums,",nonfinite clause,FirstConcert,101,50,10,292.529999,296.7,Jack_FirstConcert
+and hearing the elements of the music,nonfinite clause,FirstConcert,102,50,7,297.448285,299.289999,Jack_FirstConcert
+coming together with the band's voices.,nonfinite clause||,FirstConcert,103,50,6,299.51,301.98,Jack_FirstConcert
+The band played all of Alex and Amanda's favorite songs.,||,FirstConcert,104,51,10,304.97,308.33,Jack_FirstConcert
+"The show lasted for almost two hours,",-,FirstConcert,105,52,7,310.79,313.36,Jack_FirstConcert
+and there were incredible special effects like they had never seen.,conjunction||,FirstConcert,106,52,11,315.450061,319.13,Jack_FirstConcert
+It was the most amazing experience,-,FirstConcert,107,53,6,320.519999,323.289999,Jack_FirstConcert
+Alex and Amanda had ever had.,relative clause (that...)||,FirstConcert,108,53,6,323.229999,325.429999,Jack_FirstConcert
+Andrea and Renee agreed,-,FirstConcert,109,54,4,327.279999,328.73,Jack_FirstConcert
+that it was a spectacular show too.,relative clause||,FirstConcert,110,54,7,328.741902,330.74,Jack_FirstConcert
+"On the drive home,",positioning element,FirstConcert,111,55,4,332.92,334.04,Jack_FirstConcert
+Alex and Amanda thanked Andrea and Renee over and over again,-,FirstConcert,112,55,11,334.838812,338.97,Jack_FirstConcert
+for taking them.,nonfinite clause||,FirstConcert,113,55,3,339.2,340.109999,Jack_FirstConcert
+"""You owe me,"" said Andrea with a laugh and a wink of her eye.",||,FirstConcert,114,56,14,341.779999,345.83,Jack_FirstConcert
+"""Me too,"" chimed in Renee.",||,FirstConcert,115,57,5,346.96,348.73,Jack_FirstConcert
+The only bad part of the evening for all of them was,-,FirstConcert,116,58,12,350.14,353.591866,Jack_FirstConcert
+that they would have to wait another three years,relative clause,FirstConcert,117,58,9,353.591866,355.989999,Jack_FirstConcert
+to hear the band live again.,infinitive phrase||,FirstConcert,118,58,6,356.029999,357.76,Jack_FirstConcert

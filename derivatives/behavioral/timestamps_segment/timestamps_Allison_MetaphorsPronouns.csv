@@ -1,0 +1,162 @@
+segment,reason,narrative,segID,sentID,Nwords,onset,offset,voice_narrative
+The Chief of Police was on TV.,||,MetaphorsPronouns,1,1,7,2.88,4.85,Allison_MetaphorsPronouns
+She reported,-,MetaphorsPronouns,2,2,2,5.56,6.42,Allison_MetaphorsPronouns
+that a convict had just escaped from jail.,complementizer||,MetaphorsPronouns,3,2,8,6.36,8.829999,Allison_MetaphorsPronouns
+She said,-,MetaphorsPronouns,4,3,2,9.6,10.196363,Allison_MetaphorsPronouns
+that he just flew the coop and disappeared.,complementizer||,MetaphorsPronouns,5,3,8,10.18,12.709999,Allison_MetaphorsPronouns
+She warned the viewers,-,MetaphorsPronouns,6,4,4,13.31,14.659999,Allison_MetaphorsPronouns
+that he might be hiding in the suburbs.,complementizer||,MetaphorsPronouns,7,4,8,14.62,16.7,Allison_MetaphorsPronouns
+She explained,-,MetaphorsPronouns,8,5,2,17.39,18.25,Allison_MetaphorsPronouns
+that he had,complementizer,MetaphorsPronouns,9,5,3,18.2,18.81,Allison_MetaphorsPronouns
+to be put back into his cell.,infinitive phrase||,MetaphorsPronouns,10,5,7,18.75,20.4,Allison_MetaphorsPronouns
+"At the end of the interview,",positioning element,MetaphorsPronouns,11,6,6,21.11,22.63,Allison_MetaphorsPronouns
+she said,-,MetaphorsPronouns,12,6,2,22.93,23.48,Allison_MetaphorsPronouns
+that this bird still had,complementizer,MetaphorsPronouns,13,6,5,23.42,25.26,Allison_MetaphorsPronouns
+to serve ten years.,infinitive phrase||,MetaphorsPronouns,14,6,4,25.2,26.83,Allison_MetaphorsPronouns
+She asked,-,MetaphorsPronouns,15,7,2,27.47,28.32,Allison_MetaphorsPronouns
+that any sightings of him would be reported immediately.,complementizer||,MetaphorsPronouns,16,7,9,28.3,32.66,Allison_MetaphorsPronouns
+Alice dreamt,-,MetaphorsPronouns,17,8,2,36.660001,37.54,Allison_MetaphorsPronouns
+she got married.,complementizer (that...)||,MetaphorsPronouns,18,8,3,37.524754,38.47,Allison_MetaphorsPronouns
+"In the dream,",positioning element,MetaphorsPronouns,19,9,3,39.07,39.93,Allison_MetaphorsPronouns
+her husband never spent much time with her and the kids.,||,MetaphorsPronouns,20,9,11,40.26,44.01,Allison_MetaphorsPronouns
+She dreamt,-,MetaphorsPronouns,21,10,2,44.7,45.46,Allison_MetaphorsPronouns
+that he was very cold to them.,complementizer||,MetaphorsPronouns,22,10,7,45.66,47.71,Allison_MetaphorsPronouns
+She was shocked,-,MetaphorsPronouns,23,11,3,48.5,49.66,Allison_MetaphorsPronouns
+that he remained uncaring,complementizer,MetaphorsPronouns,24,11,4,49.91,51.669999,Allison_MetaphorsPronouns
+even after they became grandparents.,positioning element||,MetaphorsPronouns,25,11,5,51.76,54.180001,Allison_MetaphorsPronouns
+She dreamt,-,MetaphorsPronouns,26,12,2,54.89,55.86,Allison_MetaphorsPronouns
+that he didn't even change,complementizer,MetaphorsPronouns,27,12,5,55.9,57.53,Allison_MetaphorsPronouns
+when their grandson was born.,relative clause||,MetaphorsPronouns,28,12,5,57.76,59.44,Allison_MetaphorsPronouns
+"In fact, she remembered",-,MetaphorsPronouns,29,13,4,60.332941,62.574858,Allison_MetaphorsRepeatedNames
+saying in the dream,nonfinite clause,MetaphorsPronouns,30,13,4,62.574858,63.77,Allison_MetaphorsPronouns
+that the icebox did not even know his grandchild's name.,complementizer||,MetaphorsPronouns,31,13,10,64.149999,67.91,Allison_MetaphorsPronouns
+"At the end of the dream,",positioning element,MetaphorsPronouns,32,14,6,68.559999,69.93,Allison_MetaphorsPronouns
+she finally divorced him.,||,MetaphorsPronouns,33,14,4,70.54,72.259999,Allison_MetaphorsPronouns
+Sandra needed an operation.,||,MetaphorsPronouns,34,15,4,76.559999,78.59,Allison_MetaphorsPronouns
+She was not sure about the surgeon at the local hospital.,||,MetaphorsPronouns,35,16,11,79.11,83.09,Allison_MetaphorsPronouns
+She heard,-,MetaphorsPronouns,36,17,2,83.88,84.83,Allison_MetaphorsPronouns
+he had the reputation of,complementizer (that...),MetaphorsPronouns,37,17,5,84.779999,86.929999,Allison_MetaphorsPronouns
+treating his patients like meat.,nonfinite clause||,MetaphorsPronouns,38,17,5,86.87,89.44,Allison_MetaphorsPronouns
+She then read reviews,-,MetaphorsPronouns,39,18,4,90.259999,91.87,Allison_MetaphorsPronouns
+saying that he dealt with patients unkindly with no regard for their feelings.,nonfinite clause (minimal segment) / complementizer||,MetaphorsPronouns,40,18,13,92.13,97.91,Allison_MetaphorsPronouns
+She was dismayed,-,MetaphorsPronouns,41,19,3,98.51,99.71,Allison_MetaphorsPronouns
+to read,infinitive phrase,MetaphorsPronouns,42,19,2,99.649999,100.25,Allison_MetaphorsPronouns
+that he made some patients afraid,complementizer,MetaphorsPronouns,43,19,6,100.51,102.63,Allison_MetaphorsPronouns
+he would cut them in the wrong places.,complementizer (that...)||,MetaphorsPronouns,44,19,8,102.769999,105.6,Allison_MetaphorsPronouns
+"At the end,",positioning element,MetaphorsPronouns,45,20,3,106.37,107.18,Allison_MetaphorsPronouns
+she said,-,MetaphorsPronouns,46,20,2,107.56,108.3,Allison_MetaphorsPronouns
+that this butcher will not lay a hand on her.,complementizer||,MetaphorsPronouns,47,20,10,108.31,111.76,Allison_MetaphorsPronouns
+She decided,-,MetaphorsPronouns,48,21,2,112.35,113.2,Allison_MetaphorsPronouns
+to find another surgeon.,infinitive phrase||,MetaphorsPronouns,49,21,4,113.44,115.19,Allison_MetaphorsPronouns
+Mary took a trip to a local car dealership.,||,MetaphorsPronouns,50,22,9,119.46,122.46,Allison_MetaphorsPronouns
+She was immediately approached by a big and pushy salesperson.,||,MetaphorsPronouns,51,23,10,123.069999,127.529999,Allison_MetaphorsPronouns
+She thought,-,MetaphorsPronouns,52,24,2,128.12,128.78,Allison_MetaphorsPronouns
+that he was aggressive and unpleasant.,complementizer||,MetaphorsPronouns,53,24,6,128.73,130.95,Allison_MetaphorsPronouns
+She felt,-,MetaphorsPronouns,54,25,2,131.6,132.36,Allison_MetaphorsPronouns
+that he harassed her with his repetitive sales pitch.,complementizer||,MetaphorsPronouns,55,25,9,132.31,135.47,Allison_MetaphorsPronouns
+She was dismayed,-,MetaphorsPronouns,56,26,3,136.04,137.26,Allison_MetaphorsPronouns
+that he completely disregarded her questions.,complementizer||,MetaphorsPronouns,57,26,6,137.46,140.29,Allison_MetaphorsPronouns
+"With anger, she told the manager",-,MetaphorsPronouns,58,27,6,140.95,143.129999,Allison_MetaphorsPronouns
+that this bulldozer was certainly not getting her business.,complementizer||,MetaphorsPronouns,59,27,9,143.429999,147.36,Allison_MetaphorsPronouns
+She eventually bought a car from the dealership,-,MetaphorsPronouns,60,28,8,147.95,150.53,Allison_MetaphorsPronouns
+on the other side of town.,positioning element||,MetaphorsPronouns,61,28,6,150.48,151.92,Allison_MetaphorsPronouns
+Peter had,-,MetaphorsPronouns,62,29,2,156.42,157.009999,Allison_MetaphorsPronouns
+to take over his former colleague's office.,infinitive phrase||,MetaphorsPronouns,63,29,7,156.95,159.58,Allison_MetaphorsPronouns
+He examined the office and found it,-,MetaphorsPronouns,64,30,7,159.98,161.929999,Allison_MetaphorsPronouns
+to be extremely cluttered.,infinitive phrase||,MetaphorsPronouns,65,30,4,161.87,163.82,Allison_MetaphorsPronouns
+He realized,-,MetaphorsPronouns,66,31,2,164.36,165.06,Allison_MetaphorsPronouns
+that it looked bad,complementizer,MetaphorsPronouns,67,31,4,165.01,166.06,Allison_MetaphorsPronouns
+because it was filled with trash.,conjunction||,MetaphorsPronouns,68,31,6,166.35,168.28,Allison_MetaphorsPronouns
+He wondered,-,MetaphorsPronouns,69,32,2,168.82,169.44,Allison_MetaphorsPronouns
+if it was the most littered office in the building.,complementizer||,MetaphorsPronouns,70,32,10,169.4,171.93,Allison_MetaphorsPronouns
+He thought,-,MetaphorsPronouns,71,33,2,172.58,173.18,Allison_MetaphorsPronouns
+that it resembled a junkyard and made the entire floor look bad.,complementizer||,MetaphorsPronouns,72,33,12,173.13,177.419999,Allison_MetaphorsPronouns
+"With frustration, he told his boss",-,MetaphorsPronouns,73,34,6,177.98,180.54,Allison_MetaphorsPronouns
+that the dump was impossible,complementizer,MetaphorsPronouns,74,34,5,180.81,182.21,Allison_MetaphorsPronouns
+to work in.,infinitive phrase||,MetaphorsPronouns,75,34,3,182.15,182.87,Allison_MetaphorsPronouns
+He could not bring himself near it.,||,MetaphorsPronouns,76,35,7,183.31,185.23,Allison_MetaphorsPronouns
+The new teacher was shocked at the behavior of some of the kids.,||,MetaphorsPronouns,77,36,13,189.439999,192.88,Allison_MetaphorsPronouns
+He noticed,-,MetaphorsPronouns,78,37,2,193.319999,193.989999,Allison_MetaphorsPronouns
+that the big yard at school was always busy with fights.,complementizer||,MetaphorsPronouns,79,37,11,193.93,197.499999,Allison_MetaphorsPronouns
+He was surprised,-,MetaphorsPronouns,80,38,3,198.05,198.81,Allison_MetaphorsPronouns
+to see,infinitive phrase,MetaphorsPronouns,81,38,2,198.76,199.34,Allison_MetaphorsPronouns
+that the young children were so ferocious and mean.,complementizer||,MetaphorsPronouns,82,38,9,199.72,203.19,Allison_MetaphorsPronouns
+He saw,-,MetaphorsPronouns,83,39,2,203.78,204.4,Allison_MetaphorsPronouns
+"that they ran wild and untamed on the playground,",complementizer,MetaphorsPronouns,84,39,9,204.34,207.46,Allison_MetaphorsPronouns
+ignoring all adults' directions.,nonfinite clause||,MetaphorsPronouns,85,39,4,207.76,209.93,Allison_MetaphorsPronouns
+He thought,-,MetaphorsPronouns,86,40,2,210.39,210.959999,Allison_MetaphorsPronouns
+that they seemed,complementizer,MetaphorsPronouns,87,40,3,210.899999,211.72,Allison_MetaphorsPronouns
+to have just been let out of a cage at the zoo.,infinitive phrase||,MetaphorsPronouns,88,40,12,211.7,214.479999,Allison_MetaphorsPronouns
+"At dinner,",positioning element,MetaphorsPronouns,89,41,2,215.179999,215.84,Allison_MetaphorsPronouns
+he told his family,-,MetaphorsPronouns,90,41,4,216.24,217.41,Allison_MetaphorsPronouns
+that the beasts clearly needed,complementizer,MetaphorsPronouns,91,41,5,217.6,219.42,Allison_MetaphorsPronouns
+to be disciplined.,infinitive phrase||,MetaphorsPronouns,92,41,3,219.36,220.34,Allison_MetaphorsPronouns
+He however noted with dismay,-,MetaphorsPronouns,93,42,5,220.88,223.45,Allison_MetaphorsPronouns
+that nobody at the school seemed,complementizer phrase,MetaphorsPronouns,94,42,6,223.66,225.559999,Allison_MetaphorsPronouns
+to care.,infinitive phrase||,MetaphorsPronouns,95,42,2,225.51,226.07,Allison_MetaphorsPronouns
+The parents of the students in the third grade met,-,MetaphorsPronouns,96,43,10,230.649999,233.473995,Allison_MetaphorsPronouns
+after school,positioning element,MetaphorsPronouns,97,43,2,233.42054,234.140001,Allison_MetaphorsPronouns
+to discuss a problem.,infinitive phrase||,MetaphorsPronouns,98,43,4,234.109999,235.33,Allison_MetaphorsPronouns
+They were frustrated with the new teacher.,||,MetaphorsPronouns,99,44,7,235.61,237.64,Allison_MetaphorsPronouns
+They thought,-,MetaphorsPronouns,100,45,2,238.06,238.62,Allison_MetaphorsPronouns
+that she was far too pliable and yielding.,complementizer||,MetaphorsPronouns,101,45,8,238.56,240.91,Allison_MetaphorsPronouns
+They did not appreciate,-,MetaphorsPronouns,102,46,4,241.23,242.41,Allison_MetaphorsPronouns
+how she stretched and bent her rules,relative clause,MetaphorsPronouns,103,46,7,242.359999,244.319999,Allison_MetaphorsPronouns
+when the children challenged her authority.,relative clause||,MetaphorsPronouns,104,46,6,244.569999,246.5,Allison_MetaphorsPronouns
+They were dismayed,-,MetaphorsPronouns,105,47,3,246.95,247.88,Allison_MetaphorsPronouns
+that she was being molded by the kids' constant demands.,complementizer||,MetaphorsPronouns,106,47,10,247.85,251.11,Allison_MetaphorsPronouns
+"At the end of the meeting,",positioning element,MetaphorsPronouns,107,48,6,251.749999,252.83,Allison_MetaphorsPronouns
+they said,-,MetaphorsPronouns,108,48,2,252.94,253.41,Allison_MetaphorsPronouns
+that the putty couldn't have stood up to a two-year-old.,complementizer||,MetaphorsPronouns,109,48,10,253.35,255.99,Allison_MetaphorsPronouns
+They decided,-,MetaphorsPronouns,110,49,2,256.26,256.88,Allison_MetaphorsPronouns
+to complain to the Principal.,infinitive phrase||,MetaphorsPronouns,111,49,5,256.82,258.23,Allison_MetaphorsPronouns
+Jenna went with a friend,-,MetaphorsPronouns,112,50,5,261.95,263.2,Allison_MetaphorsPronouns
+to see the Saturday night fights.,infinitive phrase||,MetaphorsPronouns,113,50,6,263.189999,264.95,Allison_MetaphorsPronouns
+She read,-,MetaphorsPronouns,114,51,2,265.359999,265.93,Allison_MetaphorsPronouns
+that one of the boxers scheduled for the first match had never won a fight.,complementizer||,MetaphorsPronouns,115,51,15,265.87,270.049999,Allison_MetaphorsPronouns
+She was surprised,-,MetaphorsPronouns,116,52,3,270.56,271.41,Allison_MetaphorsPronouns
+to read,infinitive phrase,MetaphorsPronouns,117,52,2,271.35,271.84,Allison_MetaphorsPronouns
+that he was described,complementizer,MetaphorsPronouns,118,52,4,272.07,273.31,Allison_MetaphorsPronouns
+being weak and soft.,nonfinite clause||,MetaphorsPronouns,119,52,4,273.27,274.71,Allison_MetaphorsPronouns
+She was even more baffled,-,MetaphorsPronouns,120,53,5,275.06,276.58,Allison_MetaphorsPronouns
+seeing that he was fat and spongy through the middle.,nonfinite clause (minimal segment) / complementizer||,MetaphorsPronouns,121,53,10,276.84,279.799999,Allison_MetaphorsPronouns
+She thought,-,MetaphorsPronouns,122,54,2,280.16,280.71,Allison_MetaphorsPronouns
+he looked like a wimpy ball of dough.,complementizer (that...)||,MetaphorsPronouns,123,54,8,280.66,282.69,Allison_MetaphorsPronouns
+"At the end of the fight,",positioning element,MetaphorsPronouns,124,55,6,283.08,284.27,Allison_MetaphorsPronouns
+she told her friend,-,MetaphorsPronouns,125,55,4,284.439999,285.44,Allison_MetaphorsPronouns
+that the creampuff never had a chance.,complementizer||,MetaphorsPronouns,126,55,7,285.399999,287.779999,Allison_MetaphorsPronouns
+She decided,-,MetaphorsPronouns,127,56,2,288.23,288.950001,Allison_MetaphorsPronouns
+to go for a drink,infinitive phrase,MetaphorsPronouns,128,56,5,288.89,289.89,Allison_MetaphorsPronouns
+until the second match started.,positioning element||,MetaphorsPronouns,129,56,5,290.13,291.75,Allison_MetaphorsPronouns
+Kate went to her very first practice on the varsity basketball team.,||,MetaphorsPronouns,130,57,12,295.56,299.37,Allison_MetaphorsPronouns
+She found the coach,-,MetaphorsPronouns,131,58,4,299.85,300.829999,Allison_MetaphorsPronouns
+to be very intimidating and cruel.,infinitive phrase||,MetaphorsPronouns,132,58,6,300.769999,302.55,Allison_MetaphorsPronouns
+She thought,-,MetaphorsPronouns,133,59,2,302.95,303.48,Allison_MetaphorsPronouns
+that he was harsh and demanding.,complementizer||,MetaphorsPronouns,134,59,6,303.42,304.949999,Allison_MetaphorsPronouns
+She soon discovered,-,MetaphorsPronouns,135,60,3,305.32,306.319999,Allison_MetaphorsPronouns
+that he was a merciless ruler,complementizer,MetaphorsPronouns,136,60,6,306.259999,307.76,Allison_MetaphorsPronouns
+who suppressed all opposition to his methods.,relative clause||,MetaphorsPronouns,137,60,7,308.08,310.47,Allison_MetaphorsPronouns
+She complained,-,MetaphorsPronouns,138,61,2,311.01,311.71,Allison_MetaphorsPronouns
+that he tortured the team with inhumanely long practice sessions.,complementizer||,MetaphorsPronouns,139,61,10,311.65,314.98,Allison_MetaphorsPronouns
+"At the end of the season,",positioning element,MetaphorsPronouns,140,62,6,315.359999,316.46,Allison_MetaphorsPronouns
+she told her mom,-,MetaphorsPronouns,141,62,4,316.67,317.599999,Allison_MetaphorsPronouns
+that the tyrant made the season really miserable.,complementizer||,MetaphorsPronouns,142,62,8,317.55,320.129999,Allison_MetaphorsPronouns
+The whole team prayed,-,MetaphorsPronouns,143,63,4,320.55,321.77,Allison_MetaphorsPronouns
+he would leave soon.,complementizer||,MetaphorsPronouns,144,63,4,321.72,322.789999,Allison_MetaphorsPronouns
+Betsy found a house,-,MetaphorsPronouns,145,64,4,326.479999,327.65,Allison_MetaphorsPronouns
+she wanted,relative clause (that...),MetaphorsPronouns,146,64,2,327.6,328.1,Allison_MetaphorsPronouns
+to buy,infinitive phrase,MetaphorsPronouns,147,64,2,328.05,328.66,Allison_MetaphorsPronouns
+but it was too expensive.,conjunction||,MetaphorsPronouns,148,64,5,328.88,330.16,Allison_MetaphorsPronouns
+She was put off by the owner,-,MetaphorsPronouns,149,65,7,330.51,331.87,Allison_MetaphorsPronouns
+who refused,relative clause,MetaphorsPronouns,150,65,2,332.16,332.7,Allison_MetaphorsPronouns
+to negotiate on any detail.,infinitive phrase||,MetaphorsPronouns,151,65,5,332.649999,334.4,Allison_MetaphorsPronouns
+She thought,-,MetaphorsPronouns,152,66,2,334.93,335.47,Allison_MetaphorsPronouns
+that he was overly stubborn and stood his ground uncompromisingly.,complementizer||,MetaphorsPronouns,153,66,10,335.41,338.909999,Allison_MetaphorsPronouns
+She was somewhat annoyed,-,MetaphorsPronouns,154,67,4,339.359999,340.65,Allison_MetaphorsPronouns
+that he would not budge about the amount needed for the down payment.,complementizer||,MetaphorsPronouns,155,67,13,340.589999,343.58,Allison_MetaphorsPronouns
+She was most frustrated however,-,MetaphorsPronouns,156,68,5,344.15,345.79,Allison_MetaphorsPronouns
+that he would not move even an inch on the price.,complementizer||,MetaphorsPronouns,157,68,11,345.73,348.83,Allison_MetaphorsPronouns
+"In despair, she said",-,MetaphorsPronouns,158,69,4,349.22,350.73,Allison_MetaphorsPronouns
+that the mule would only sell on his own terms.,complementizer||,MetaphorsPronouns,159,69,10,350.67,353.23,Allison_MetaphorsPronouns
+She finally gave up and decided,-,MetaphorsPronouns,160,70,6,353.55,355.22,Allison_MetaphorsPronouns
+to look for another house.,infinitive phrase||,MetaphorsPronouns,161,70,5,355.16,356.56,Allison_MetaphorsPronouns

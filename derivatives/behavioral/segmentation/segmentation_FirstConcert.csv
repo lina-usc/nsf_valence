@@ -1,0 +1,119 @@
+segment,reason,narrative,segID,sentID,Nwords
+"The most popular teen band was coming to town,",-,FirstConcert,1,1,9
+and both Alex and his twin sister Amanda really wanted,conjunction,FirstConcert,2,1,10
+to go to the concert.,infinitive phrase||,FirstConcert,3,1,5
+They had never been to a concert,-,FirstConcert,4,2,7
+because their parents' rule was,conjunction,FirstConcert,5,2,5
+that you must be in sixth grade to go to a concert.,complementizer||,FirstConcert,6,2,12
+Alex and Amanda were only in fifth grade.,||,FirstConcert,7,3,8
+"""Please, Mom and Dad.",||,FirstConcert,8,4,4
+"We will do anything if you let us go,"" they begged their parents.",quotation||,FirstConcert,9,5,13
+"Their two older sisters had both been to concerts before,",-,FirstConcert,10,6,10
+and always talked about how great it is,conjunction,FirstConcert,11,6,8
+to experience live music.,infinitive clause||,FirstConcert,12,6,4
+"""Is there any possibility we can go?",||,FirstConcert,13,7,7
+The production is supposed,-,FirstConcert,14,8,4
+to be amazing with lots of special effects.,infinitive phrase||,FirstConcert,15,8,8
+It is going,quotation,FirstConcert,16,9,3
+"to be the band's best show yet,",infinitive phrase,FirstConcert,17,9,7
+and they aren't going,conjunction,FirstConcert,18,9,4
+"to tour again for three years,"" explained Alex with excitement.",infinitive phrase||,FirstConcert,19,9,10
+"""All of our friends are going,"" added Amanda.",||,FirstConcert,20,10,8
+Their mom and dad said,-,FirstConcert,21,11,5
+"they would think about it,",complementizer (that...),FirstConcert,22,11,5
+and asked Alex and Amanda,conjunction,FirstConcert,23,11,5
+not to bring it up again until they had time,infinitive phrase,FirstConcert,24,11,10
+to consider it.,infinitive phrase||,FirstConcert,25,11,3
+"Alex and Amanda agreed,",-,FirstConcert,26,12,4
+and said,conjunction,FirstConcert,27,12,2
+they would not pester their parents.,complementizer (that...)||,FirstConcert,28,12,6
+It was very difficult for them though.,||,FirstConcert,29,13,7
+"After about a week's time,",positioning element,FirstConcert,30,14,5
+their parents brought the subject of the concert up at dinner.,||,FirstConcert,31,14,11
+They said,-,FirstConcert,32,15,2
+they would reconsider their rule about,complementizer (that...),FirstConcert,33,15,6
+having to be in the sixth grade with a couple of conditions.,nonfinite clause||,FirstConcert,34,15,12
+Alex and Amanda were thrilled.,||,FirstConcert,35,16,5
+They both jumped up from the table,-,FirstConcert,36,17,7
+to hug their mom and dad.,infinitive clause||,FirstConcert,37,17,6
+"""You are the best!"" they screamed",-,FirstConcert,38,18,6
+as they hugged their parents.,conjunction||,FirstConcert,39,18,5
+"""Slow down,"" said their dad.",||,FirstConcert,40,19,5
+"""You haven't even heard the conditions yet.""",||,FirstConcert,41,20,7
+Alex and Amanda listened patiently,-,FirstConcert,42,21,5
+as their dad went over the conditions.,conjunction||,FirstConcert,43,21,7
+"""First, work very hard",-,FirstConcert,44,22,4
+and get an A on your next book report.,conjunction||,FirstConcert,45,22,9
+"Second, pay for the concert ticket yourself.",||,FirstConcert,46,23,7
+"Third, find a responsible adult",-,FirstConcert,47,24,5
+to drive and go to the concert with you,infinitive phrase,FirstConcert,48,24,9
+"because Mom and I have a charity dinner that night.""",conjunction||,FirstConcert,49,24,10
+Alex and Amanda smiled at each other,-,FirstConcert,50,25,7
+because they knew,conjunction,FirstConcert,51,25,3
+they could easily cover the first two conditions.,complementizer||,FirstConcert,52,25,8
+The only problem was finding an adult,-,FirstConcert,53,26,7
+to go to the concert with them.,infinitive phrase||,FirstConcert,54,26,7
+"Then a thought occurred to Amanda,",-,FirstConcert,55,27,6
+and she looked across the table at her oldest sister.,conjunction||,FirstConcert,56,27,10
+"""Andrea, you could go with us.",quotation||,FirstConcert,57,28,6
+You are 18 years old,quotation,FirstConcert,58,29,5
+"which makes you an adult,",relative clause / quotation,FirstConcert,59,29,5
+"and you are responsible,"" Amanda said with a pleading look in her eyes.",conjunction / quotation||,FirstConcert,60,29,13
+Andrea thought about it for a couple of minutes.,||,FirstConcert,61,30,9
+"Then she said, ""I guess I could help my youngest siblings out,",-,FirstConcert,62,31,12
+but I also have a condition.,conjunction||,FirstConcert,63,31,6
+I want you two,-,FirstConcert,64,32,4
+to pay for my ticket and a ticket for a friend of mine,infinitive phrase,FirstConcert,65,32,13
+"to go with us too.""",infinitive phrase||,FirstConcert,66,32,5
+Alex and Amanda thought,-,FirstConcert,67,33,4
+that sounded reasonable.,complementizer||,FirstConcert,68,33,3
+They figured,-,FirstConcert,69,34,2
+that Alex would mow a couple extra lawns,complementizer (that...),FirstConcert,70,34,8
+"to make money,",infinitive phrase,FirstConcert,71,34,3
+and Amanda would take on a couple more babysitting jobs.,conjunction||,FirstConcert,72,34,10
+They immediately agreed to Andrea's stipulation.,||,FirstConcert,73,35,6
+The day of the concert had arrived.,||,FirstConcert,74,36,7
+"Andrea, Alex and Amanda got into the car and went",-,FirstConcert,75,37,10
+to pick up Andrea's friend Renee.,infinitive phrase||,FirstConcert,76,37,6
+Alex and Amanda weren't the only ones in the car,-,FirstConcert,77,38,10
+who were excited.,relative clause||,FirstConcert,78,38,3
+"As they rode to the concert,",conjunction,FirstConcert,79,39,6
+they listened to the band's most recent release.,||,FirstConcert,80,39,8
+Everyone was singing and having fun.,||,FirstConcert,81,40,6
+"When they got to the arena,",positioning element,FirstConcert,82,41,6
+they all went immediately to the concession stand,-,FirstConcert,83,41,8
+to get some goodies,infinitive phrase,FirstConcert,84,41,4
+so they wouldn't have,conjunction,FirstConcert,85,41,4
+to leave their seats during the show if their stomachs growled.,infinitive phrase||,FirstConcert,86,41,11
+They also stopped at another stand,-,FirstConcert,87,42,6
+to buy t-shirts.,infinitive phrase||,FirstConcert,88,42,3
+They were more than ready for the show.,||,FirstConcert,89,43,8
+Andrea and Renee let Alex and Amanda have the seats with the best view.,||,FirstConcert,90,44,14
+They all settled in and waited for the band to start.,||,FirstConcert,91,45,11
+Alex and Amanda could hardly contain themselves,-,FirstConcert,92,46,7
+as the band took the stage.,conjunction||,FirstConcert,93,46,6
+Then the music began.,||,FirstConcert,94,47,4
+It was so loud,-,FirstConcert,95,48,4
+"that they couldn't hear each other talk,",relative clause,FirstConcert,96,48,7
+but they didn't mind.,conjunction||,FirstConcert,97,48,4
+Now they knew what their older sisters meant by,-,FirstConcert,98,49,9
+experiencing live music.,nonfinite clause||,FirstConcert,99,49,3
+It was amazing,-,FirstConcert,100,50,3
+"watching the band members play the piano, guitar and drums,",nonfinite clause,FirstConcert,101,50,10
+and hearing the elements of the music,nonfinite clause,FirstConcert,102,50,7
+coming together with the band's voices.,nonfinite clause||,FirstConcert,103,50,6
+The band played all of Alex and Amanda's favorite songs.,||,FirstConcert,104,51,10
+"The show lasted for almost two hours,",-,FirstConcert,105,52,7
+and there were incredible special effects like they had never seen.,conjunction||,FirstConcert,106,52,11
+It was the most amazing experience,-,FirstConcert,107,53,6
+Alex and Amanda had ever had.,relative clause (that...)||,FirstConcert,108,53,6
+Andrea and Renee agreed,-,FirstConcert,109,54,4
+that it was a spectacular show too.,relative clause||,FirstConcert,110,54,7
+"On the drive home,",positioning element,FirstConcert,111,55,4
+Alex and Amanda thanked Andrea and Renee over and over again,-,FirstConcert,112,55,11
+for taking them.,nonfinite clause||,FirstConcert,113,55,3
+"""You owe me,"" said Andrea with a laugh and a wink of her eye.",||,FirstConcert,114,56,14
+"""Me too,"" chimed in Renee.",||,FirstConcert,115,57,5
+The only bad part of the evening for all of them was,-,FirstConcert,116,58,12
+that they would have to wait another three years,relative clause,FirstConcert,117,58,9
+to hear the band live again.,infinitive phrase||,FirstConcert,118,58,6

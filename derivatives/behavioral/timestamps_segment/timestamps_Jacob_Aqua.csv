@@ -1,0 +1,148 @@
+segment,reason,narrative,segID,sentID,Nwords,onset,offset,voice_narrative
+A clear and joyous day it was,positioning element,Aqua,1,1,7,3.21,5.14,Jacob_Aqua
+"and out on the wide open sea,",positioning element,Aqua,2,1,7,5.52,7.3,Jacob_Aqua
+"thousands upon thousands of sparkling water drops,",-,Aqua,3,1,7,7.44,10.36,Jacob_Aqua
+excited by,nonrestrictive clause,Aqua,4,1,2,10.295595,11.16,Jacob_Aqua
+"getting to play in the ocean,",nonfinite clause,Aqua,5,1,6,11.12,12.599999,Jacob_Aqua
+danced all around.,||,Aqua,6,1,3,12.8,14.03,Jacob_Aqua
+"One of these was a merry little fellow named Aqua,",-,Aqua,7,2,10,14.99,17.939999,Jacob_Aqua
+who danced on the silver backs of the fishes,relative clause,Aqua,8,2,9,18.419999,20.9,Jacob_Aqua
+"as they plunged up and down in the waves,",conjunction,Aqua,9,2,9,21.05,23.32,Jacob_Aqua
+"and, no matter how high he sprung,",conjunction / nonrestrictive clause,Aqua,10,2,7,23.44,25.89,Jacob_Aqua
+he always came down again into his mother's lap.,conjunction cont.||,Aqua,11,2,9,26.26,29.02,Jacob_Aqua
+"His mother, you know, was the ocean,",-,Aqua,12,3,7,30.09,33.16,Jacob_Aqua
+and very beautiful she looked,conjunction,Aqua,13,3,5,33.29,34.819933,Jacob_Aqua
+that summer day,positioning element,Aqua,14,3,3,34.819933,35.769999,Jacob_Aqua
+in her dark blue dress and white ruffles.,||,Aqua,15,3,8,35.999999,38.58,Jacob_Aqua
+"By and by,",positioning element,Aqua,16,4,3,39.33,40.25,Jacob_Aqua
+"the happy water drop tired of his play,",positioning element - narrative advancement,Aqua,17,4,8,40.63,42.83,Jacob_Aqua
+"and looking up to the clear sky above him,",conjunction / nonfinite clause,Aqua,18,4,9,43.17,45.38,Jacob_Aqua
+"thought he would like to have a sail on one of the white, marshmallow-like clouds,",conjunction cont.,Aqua,19,4,15,45.7,50.43,Jacob_Aqua
+instead of spending his whole life in the ocean.,conjunction / nonfinite clause||,Aqua,20,4,9,50.779999,53.3,Jacob_Aqua
+"Of the sky, little Aqua had always been afraid,",-,Aqua,21,5,9,53.62,57.02,Jacob_Aqua
+but he decided,conjunction,Aqua,22,5,3,57.204176,58.071782,Jacob_Aqua
+to finally face his demons,infinitive phrase,Aqua,23,5,5,58.05,59.71,Jacob_Aqua
+and suggested a solution,conjunction,Aqua,24,5,4,60.04,61.55,Jacob_Aqua
+involving the sun,nonfinite clause,Aqua,25,5,3,61.51,62.641175,Jacob_Aqua
+carrying him up to the sky would be ideal.,nonfinite clause||,Aqua,26,5,9,62.609999,65.24,Jacob_Aqua
+The sun understood,-,Aqua,27,6,3,65.63,66.81,Jacob_Aqua
+"Aqua's request came from his heart,",complementizer (that...),Aqua,28,6,6,66.76,68.84,Jacob_Aqua
+"so he acquiesced and also took ever so many other drops,",conjunction,Aqua,29,6,11,69.269999,73.57,Jacob_Aqua
+so that Aqua might not be lonesome on the way.,conjunction||,Aqua,30,6,10,74.13,77.87,Jacob_Aqua
+It was only the sun,-,Aqua,31,7,5,78.5,79.73,Jacob_Aqua
+"that knew this, however,",relative clause,Aqua,32,7,4,79.67,81.0,Jacob_Aqua
+for all the other drops had been changed into fine mist or vapor,conjunction,Aqua,33,7,13,81.26,85.149999,Jacob_Aqua
+and Aqua could not see them.,conjunction||,Aqua,34,7,6,85.519999,87.119999,Jacob_Aqua
+Do you know what vapor is?,||,Aqua,35,8,6,87.76,89.239999,Jacob_Aqua
+"If you breathe into the air,",-,Aqua,36,9,6,89.499999,91.13,Jacob_Aqua
+"when it is cold enough,",relative clause,Aqua,37,9,5,91.14,92.46,Jacob_Aqua
+you will see it,-,Aqua,38,9,4,92.862795,93.61472,Jacob_Aqua
+coming out of your mouth thick and fast like steam.,nonfinite clause||,Aqua,39,9,10,93.6,96.57,Jacob_Aqua
+"When the vapor is quite near the earth,",relative clause,Aqua,40,10,8,96.87,98.97,Jacob_Aqua
+we call it 'fog'.,||,Aqua,41,10,4,99.01,100.295289,Jacob_Aqua
+Into vapor the water drops,-,Aqua,42,11,5,100.609999,102.329999,Jacob_Aqua
+that danced in the ocean,relative clause,Aqua,43,11,5,102.290783,103.621113,Jacob_Aqua
+"had been changed,",-,Aqua,44,11,3,103.63,104.720081,Jacob_Aqua
+because in their own shape they were too heavy for the sunbeams,conjunction,Aqua,45,11,12,105.13,109.02,Jacob_Aqua
+that the sun let out,relative clause,Aqua,46,11,5,109.23,110.359522,Jacob_Aqua
+to carry.,infinitive phrase||,Aqua,47,11,2,110.33,111.111447,Jacob_Aqua
+"Higher and higher they sailed,",-,Aqua,48,12,5,111.87,113.5,Jacob_Aqua
+"and though it was grand,",conjunction / nonrestrictive clause,Aqua,49,12,5,113.75,115.14,Jacob_Aqua
+"Aqua and his friends were like fish out of water,",conjunction cont.,Aqua,50,12,10,115.32,118.269999,Jacob_Aqua
+so they grew quite dizzy.,conjunction||,Aqua,51,12,5,118.47,120.12,Jacob_Aqua
+They enjoyed,-,Aqua,52,13,2,120.394835,121.08892,Jacob_Aqua
+"looking down on the world below,",nonfinite clause,Aqua,53,13,6,121.1,122.949999,Jacob_Aqua
+"while the wind scattered them across the four corners of the earth,",conjunction,Aqua,54,13,12,123.24,126.63,Jacob_Aqua
+but after a while it grew nearly time for the sun,conjunction,Aqua,55,13,11,127.25,130.02,Jacob_Aqua
+to go to bed.,infinitive phrase||,Aqua,56,13,4,129.96,131.15,Jacob_Aqua
+"He became very red in the face,",-,Aqua,57,14,7,131.4,133.29,Jacob_Aqua
+"and began to sink lower and lower,",conjunction,Aqua,58,14,7,133.61,135.629999,Jacob_Aqua
+until suddenly he went clear out of sight!,conjunction||,Aqua,59,14,8,135.899999,138.48,Jacob_Aqua
+"Poor little Aqua,",-,Aqua,60,15,3,139.12,140.22,Jacob_Aqua
+"frightened by the impending cold and darkness,",nonrestrictive clause,Aqua,61,15,7,140.819999,143.389999,Jacob_Aqua
+"wished he could sleep not in the sky, but somewhere closer to earth.",||,Aqua,62,15,13,143.64,147.63,Jacob_Aqua
+Then Aqua heard the wind blow and conjectured,-,Aqua,63,16,8,148.31,151.37,Jacob_Aqua
+that maybe the wind could take him back down to the ocean.,complementizer||,Aqua,64,16,12,151.32,154.97,Jacob_Aqua
+"Indeed, the wind took pity on him and fanned him,",-,Aqua,65,17,10,155.33,158.56,Jacob_Aqua
+"together with all of his brothers and sisters,",nonrestrictive clause,Aqua,66,17,8,158.96,161.43,Jacob_Aqua
+"into a heavy gray cloud,",-,Aqua,67,17,5,161.769999,163.6,Jacob_Aqua
+after which he blew them apart and told them,conjunction,Aqua,68,17,9,163.99,166.55149,Jacob_Aqua
+"to hurry down,",infinitive phrase,Aqua,69,17,3,166.52,167.5,Jacob_Aqua
+"fast and furious to the earth,",nonrestrictive clause,Aqua,70,17,6,168.16,170.01,Jacob_Aqua
+so they could have a fighting chance of reaching the ocean.,conjunction||,Aqua,71,17,11,170.69,173.749999,Jacob_Aqua
+"Down they went,",positioning element,Aqua,72,18,3,174.149999,175.09,Jacob_Aqua
+rolling over each other,nonfinite clause,Aqua,73,18,4,175.1,176.5,Jacob_Aqua
+"until with a patter and clatter and spatter they touched the ground,",conjunction,Aqua,74,18,12,176.46,180.88,Jacob_Aqua
+and all the people,conjunction,Aqua,75,18,4,181.474318,182.399765,Jacob_Aqua
+that the raindrops fell on,relative clause,Aqua,76,18,5,182.35,183.73,Jacob_Aqua
+"cried, 'It's raining', and took out their umbrellas.",||,Aqua,77,18,8,183.67,187.08,Jacob_Aqua
+Some of the drops,-,Aqua,78,19,4,187.69,188.66,Jacob_Aqua
+"that were the most fortunate,",relative clause,Aqua,79,19,5,188.6,190.06,Jacob_Aqua
+"including Aqua,",nonrestrictive clause,Aqua,80,19,2,190.149999,191.35,Jacob_Aqua
+"fell on a mountainside,",-,Aqua,81,19,4,191.66,193.06,Jacob_Aqua
+and down the rocky cliff they ran.,conjunction||,Aqua,82,19,7,193.41,195.39,Jacob_Aqua
+"Together they plunged into a mountain brook,",-,Aqua,83,20,7,196.029999,198.51,Jacob_Aqua
+"which came foaming and dashing along,",relative clause / nonfinite clause,Aqua,84,20,6,198.86,200.95,Jacob_Aqua
+leaping over rocks,nonfinite clause,Aqua,85,20,3,201.29,202.42,Jacob_Aqua
+"and rushing down the hillside,",nonfinite clause,Aqua,86,20,5,202.39,203.99,Jacob_Aqua
+until in the valley below,conjunction / positioning element,Aqua,87,20,5,204.37,205.95,Jacob_Aqua
+they heard the strangest clattering noise.,||,Aqua,88,20,6,205.94,208.4,Jacob_Aqua
+The little water drops were then able,-,Aqua,89,21,7,208.819999,210.799412,Jacob_Aqua
+to make out a flour mill,infinitive phrase,Aqua,90,21,6,210.81,212.51,Jacob_Aqua
+that was standing on the bank.,relative clause||,Aqua,91,21,6,212.87,214.46,Jacob_Aqua
+"Inside the mill,",positioning element,Aqua,92,22,3,214.95,216.01,Jacob_Aqua
+"the water drops saw two great stones,",-,Aqua,93,22,7,216.06,218.39,Jacob_Aqua
+which the big wheel kept whizzing round and round.,relative clause||,Aqua,94,22,9,218.71,221.52,Jacob_Aqua
+"The stones,",-,Aqua,95,23,2,221.94,222.82,Jacob_Aqua
+"smoothed by the spinning,",nonrestrictive clause,Aqua,96,23,4,222.95,224.64,Jacob_Aqua
+were busy,-,Aqua,97,23,2,224.970314,225.68,Jacob_Aqua
+grinding the wheat into flour and the corn into golden meal.,nonfinite clause||,Aqua,98,23,11,225.6644,229.84,Jacob_Aqua
+But what giant do you suppose it was,-,Aqua,99,24,8,230.42,232.54741,Jacob_Aqua
+who could turn and swing that tremendous wheel?,relative clause||,Aqua,100,24,8,232.57633,235.18,Jacob_Aqua
+No giant at all.,||,Aqua,101,25,4,235.75,237.07,Jacob_Aqua
+"It was just our tiny little water drops,",-,Aqua,102,26,8,237.63,239.97,Jacob_Aqua
+"who sprang on it by hundreds and thousands, and whirled it over and over.",relative clause||,Aqua,103,26,14,240.69,245.7,Jacob_Aqua
+It was lucky for the water drops,-,Aqua,104,27,7,246.05,247.82,Jacob_Aqua
+that the brook,complementizer,Aqua,105,27,3,247.81728,248.49,Jacob_Aqua
+where they were swimming,relative clause,Aqua,106,27,4,248.482445,249.581413,Jacob_Aqua
+next emptied into a beautiful pond,-,Aqua,107,27,6,249.569999,252.18,Jacob_Aqua
+where ducks and geese were living peacefully.,relative clause||,Aqua,108,27,7,252.184232,254.81,Jacob_Aqua
+"Aqua liked to play hide-and-seek in this pond,",-,Aqua,109,28,8,255.47,257.88,Jacob_Aqua
+and it was his brother water drop,conjunction,Aqua,110,28,7,258.21,260.10837,Jacob_Aqua
+who he fooled,relative clause,Aqua,111,28,3,260.109999,261.04,Jacob_Aqua
+by swimming to a big pool of water,nonfinite clause,Aqua,112,28,8,261.033816,263.1,Jacob_Aqua
+"and pretending to hide there,",nonfinite clause,Aqua,113,28,5,263.45,264.94,Jacob_Aqua
+but then sneaking under a rock into an obscured little puddle.,conjunction||,Aqua,114,28,11,265.55,269.27,Jacob_Aqua
+His brother had blatantly peaked and even followed Aqua,-,Aqua,115,29,9,269.660001,273.28,Jacob_Aqua
+"as he entered the big pool of water,",conjunction,Aqua,116,29,8,273.64,275.96,Jacob_Aqua
+"so when he searched there and could not find him,",conjunction / relative clause,Aqua,117,29,10,276.27,279.49,Jacob_Aqua
+he was extremely surprised and gave up.,conjunction cont.||,Aqua,118,29,7,279.89,282.109999,Jacob_Aqua
+"Aqua liked this pond where he could play all day,",-,Aqua,119,30,10,283.069999,285.88,Jacob_Aqua
+"so he stayed a good while,",conjunction,Aqua,120,30,6,286.189999,287.63,Jacob_Aqua
+"sailing up and down,",nonfinite clause,Aqua,121,30,4,287.919999,289.35,Jacob_Aqua
+"taking the ducks' backs for ships and the frogs for horses,",nonfinite clause,Aqua,122,30,11,289.49,293.08,Jacob_Aqua
+but after a time he tired of the dull life],conjunction,Aqua,123,30,10,293.36,296.27,Jacob_Aqua
+"and he and his brothers floated under a bridge for a long distance,",conjunction,Aqua,124,30,13,296.21,300.62,Jacob_Aqua
+until they saw another brook tumbling down a hillside.,conjunction||,Aqua,125,30,9,301.2,304.49,Jacob_Aqua
+"'Come, let's join hands!' cried Aqua",quotation,Aqua,126,31,6,305.329999,308.66,Jacob_Aqua
+"and because the water drops were all together,",conjunction / nonrestrictive clause,Aqua,127,31,8,309.06,311.54,Jacob_Aqua
+overcoming the brook was child's play.,conjunction cont. / nonfinite clause||,Aqua,128,31,6,311.89,314.05,Jacob_Aqua
+It was by the help of Aqua and his brothers,-,Aqua,129,32,10,314.35,316.89,Jacob_Aqua
+that the bewitching river was able,complementizer,Aqua,130,32,6,316.85,318.729636,Jacob_Aqua
+"to float heavy ships,",infinitive phrase,Aqua,131,32,4,318.758556,320.4,Jacob_Aqua
+though not so long ago,positioning element,Aqua,132,32,5,320.809999,322.13,Jacob_Aqua
+it was only a little stream.,||,Aqua,133,32,6,322.14222,323.84,Jacob_Aqua
+As the river grew wider,-,Aqua,134,33,5,325.079999,326.62,Jacob_Aqua
+"and he could almost see the ocean,",conjunction / nonrestrictive clause,Aqua,135,33,7,326.6,328.43,Jacob_Aqua
+Aqua realized,-,Aqua,136,33,2,328.89,329.777156,Jacob_Aqua
+his journey was almost over,complementizer (that...),Aqua,137,33,5,329.777156,331.59,Jacob_Aqua
+and he had come full circle.,conjunction||,Aqua,138,33,6,331.97,333.71,Jacob_Aqua
+"Back in the ocean,",positioning element,Aqua,139,34,4,334.71,335.819999,Jacob_Aqua
+he felt right at home.,||,Aqua,140,34,5,336.17,337.459999,Jacob_Aqua
+"For him, this was the safest, sweetest place in the whole wide world.",||,Aqua,141,35,13,338.029999,342.55,Jacob_Aqua
+"During the warm summer evenings,",positioning element,Aqua,142,36,5,343.21,345.01,Jacob_Aqua
+"if you take a walk on the sea beach,",-,Aqua,143,36,9,344.97,347.02,Jacob_Aqua
+you will hear the gentle rippling swash of the waves,"conjunction (if, then...)",Aqua,144,36,10,347.54,350.48,Jacob_Aqua
+and some say,conjunction,Aqua,145,36,3,350.63,351.59,Jacob_Aqua
+that it must be the gurgling voices of Aqua and his brother water drops,complementizer,Aqua,146,36,14,351.66,355.82,Jacob_Aqua
+telling each other about their wonderful journey around the world.,nonfinite clause||,Aqua,147,36,10,356.109999,359.759999,Jacob_Aqua

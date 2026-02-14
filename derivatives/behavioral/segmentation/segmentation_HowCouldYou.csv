@@ -1,0 +1,125 @@
+segment,reason,narrative,segID,sentID,Nwords
+"""When I was a puppy,",positioning element,HowCouldYou,1,1,5
+I made you laugh.,||,HowCouldYou,2,1,4
+You called me your child,-,HowCouldYou,3,2,5
+"and despite a number of chewed shoes,",conjunction / nonrestrictive clause,HowCouldYou,4,2,7
+I became your best friend.,conjunction cont.||,HowCouldYou,5,2,5
+"Whenever I was ""bad,""",relative clause,HowCouldYou,6,3,4
+"you'd shake your finger at me and ask ""How could you?""",conjunction / quotation||,HowCouldYou,7,3,11
+- but then you'd relent and roll me over for a belly rub.,||,HowCouldYou,8,4,13
+"My housetraining took longer than expected,",-,HowCouldYou,9,5,6
+"because you were terribly busy,",conjunction,HowCouldYou,10,5,5
+but we worked on that together.,conjunction||,HowCouldYou,11,5,6
+I remember those nights,-,HowCouldYou,12,6,4
+"of nuzzling you in bed,",nonfinite clause,HowCouldYou,13,6,5
+"listening to your confidences and secret dreams,",nonfinite clause,HowCouldYou,14,6,7
+and I believed,conjunction,HowCouldYou,15,6,3
+that life could not be more perfect.,complementizer||,HowCouldYou,16,6,7
+"We went for long walks and runs in the park, car rides, stops for ice cream,",-,HowCouldYou,17,7,16
+and I took long naps in the sun,conjunction,HowCouldYou,18,7,8
+waiting for you,nonfinite clause,HowCouldYou,19,7,3
+to come home at the end of the day.,infinitive clause||,HowCouldYou,20,7,9
+"Gradually, you began",-,HowCouldYou,21,8,3
+"spending more time at work and on your career,",nonfinite clause,HowCouldYou,22,8,9
+and more time searching for a human mate.,nonfinite clause||,HowCouldYou,23,8,8
+"I waited for you patiently, comforted you through heartbreaks, never chided you about bad decisions, and romped with glee at your homecomings,",-,HowCouldYou,24,9,22
+and when you fell in love.,conjunction||,HowCouldYou,25,9,6
+"She, now your wife,",nonrestrictive clause,HowCouldYou,26,10,4
+"is not a ""dog person""",||,HowCouldYou,27,10,5
+"- still I welcomed her into our home, tried",-,HowCouldYou,28,11,9
+"to show her affection, and obeyed her.",infinitive phrase||,HowCouldYou,29,11,7
+I was happy,-,HowCouldYou,30,12,3
+because you were happy.,conjunction||,HowCouldYou,31,12,4
+Then the human babies came along,-,HowCouldYou,32,13,6
+and I shared your excitement.,conjunction||,HowCouldYou,33,13,5
+I was fascinated by their pinkness,-,HowCouldYou,34,14,6
+"and I wanted to mother them, too.",conjunction||,HowCouldYou,35,14,7
+Only she and you worried,-,HowCouldYou,36,15,5
+"that I might hurt them,",complementizer,HowCouldYou,37,15,5
+"and I spent most of my time banished to another room, or to a dog crate.",conjunction||,HowCouldYou,38,15,16
+"I wanted to love them,",-,HowCouldYou,39,16,5
+"but I became a ""prisoner of love.""",conjunction||,HowCouldYou,40,16,7
+"As they began to grow,",conjunction,HowCouldYou,41,17,5
+I became their friend.,||,HowCouldYou,42,17,4
+"They clung to my fur and pulled themselves up on wobbly legs, poked fingers in my eyes, investigated my ears, and gave me kisses on my nose.",||,HowCouldYou,43,18,27
+"I loved everything about them,",-,HowCouldYou,44,19,5
+especially their touch,nonrestrictive clause,HowCouldYou,45,19,3
+- because your touch was now so infrequent,conjunction,HowCouldYou,46,19,8
+- and I would have defended them with my life if need be.,conjunction||,HowCouldYou,47,19,13
+I would listen to their worries and secret dreams.,||,HowCouldYou,48,20,9
+Together we waited for the sound of your car in the driveway.,||,HowCouldYou,49,21,12
+"There had been a time,",positioning element,HowCouldYou,50,22,5
+"when others asked you if you had a dog,",relative clause,HowCouldYou,51,22,9
+that you produced a photo of me from your wallet and told them stories about me.,relative clause||,HowCouldYou,52,22,16
+"These past few years,",positioning element,HowCouldYou,53,23,4
+"you just answered ""yes"" and changed the subject.",||,HowCouldYou,54,23,8
+"I had gone from being your dog to ""just a dog,""",-,HowCouldYou,55,24,11
+and you resented every expenditure on my behalf.,conjunction||,HowCouldYou,56,24,8
+Now you have a new career opportunity in another city,-,HowCouldYou,57,25,10
+and you and they will be moving to an apartment,conjunction,HowCouldYou,58,25,10
+that doesn't allow pets.,relative clause||,HowCouldYou,59,25,4
+"You've made the right decision for your ""family,""",-,HowCouldYou,60,26,8
+but there was a time,conjunction,HowCouldYou,61,26,5
+when I was your only family.,relative clause||,HowCouldYou,62,26,6
+I was excited about the car ride,-,HowCouldYou,63,27,7
+until we arrived at the animal shelter.,positioning element||,HowCouldYou,64,27,7
+"It smelled of fear, of hopelessness.",||,HowCouldYou,65,28,6
+You filled out the paperwork,-,HowCouldYou,66,29,5
+"and said ""I know you will find a good home for her.""",quotation||,HowCouldYou,67,29,12
+They shrugged and gave you a pained look.,||,HowCouldYou,68,30,8
+They understand the realities facing a middle-aged dog or cat.,||,HowCouldYou,69,31,10
+You had to pry your son's fingers loose from my collar,-,HowCouldYou,70,32,11
+"as he screamed ""No, Daddy!",conjunction||,HowCouldYou,71,32,5
+"Please don't let them take my dog!""",||,HowCouldYou,72,33,7
+And I worried for him,-,HowCouldYou,73,34,5
+and what lessons you had just taught him about friendship and loyalty and about respect for all life.,conjunction / relative clause||,HowCouldYou,74,34,18
+"You gave me a goodbye pat on the head, avoided my eyes, and politely refused",-,HowCouldYou,75,35,15
+to take my collar and leash with you.,infinitive clause||,HowCouldYou,76,35,8
+You had a deadline,-,HowCouldYou,77,36,4
+to meet,infinitive phrase,HowCouldYou,78,36,2
+"and now I have one, too.",conjunction||,HowCouldYou,79,36,6
+"After you left,",positioning element,HowCouldYou,80,37,3
+the two ladies said,-,HowCouldYou,81,37,4
+you probably knew about your upcoming move months ago and made no attempt,complementizer (that...),HowCouldYou,82,37,13
+to find me another good home.,infinitive clause||,HowCouldYou,83,37,6
+They shook their heads,-,HowCouldYou,84,38,4
+"and asked ""How could you?""",quotation||,HowCouldYou,85,38,5
+They are as attentive to us here in the shelter,-,HowCouldYou,86,39,10
+as their busy schedules allow.,conjunction||,HowCouldYou,87,39,5
+"They feed us, of course,",-,HowCouldYou,88,40,5
+but I lost my appetite days ago.,conjunction||,HowCouldYou,89,40,7
+"At first, whenever anyone passed my pen,",positioning element,HowCouldYou,90,41,7
+"I rushed to the front,",-,HowCouldYou,91,41,5
+hoping it was you,nonfinite clause,HowCouldYou,92,41,4
+- that you had changed your mind -,complementizer,HowCouldYou,93,41,8
+or I hoped,conjunction,HowCouldYou,94,41,3
+it would at least be someone,complementizer (that...),HowCouldYou,95,41,6
+who cared.,relative clause||,HowCouldYou,96,41,2
+When I realized,-,HowCouldYou,97,42,3
+"I could not compete with the attention of happy puppies,",complementizer (that...),HowCouldYou,98,42,10
+"oblivious to their own fate,",nonrestrictive clause,HowCouldYou,99,42,5
+I retreated to a corner and waited.,||,HowCouldYou,100,42,7
+I heard her footsteps,-,HowCouldYou,101,43,4
+as she came for me,conjunction,HowCouldYou,102,43,5
+"at the end of the day,",positioning element,HowCouldYou,103,43,6
+and I padded along the aisle after her,conjunction,HowCouldYou,104,43,8
+to a separate room.,positioning element||,HowCouldYou,105,43,4
+"She placed me on the table, rubbed my ears and told me",-,HowCouldYou,106,44,12
+not to worry.,infinitive clause||,HowCouldYou,107,44,3
+"My heart pounded in anticipation of what was to come,",-,HowCouldYou,108,45,10
+but there was also a sense of relief.,conjunction||,HowCouldYou,109,45,8
+The prisoner of love had run out of days.,||,HowCouldYou,110,46,9
+She gently placed a tourniquet around my foreleg,-,HowCouldYou,111,47,8
+as a tear ran down her cheek.,conjunction||,HowCouldYou,112,47,7
+She expertly slid the hypodermic needle into my vein.,||,HowCouldYou,113,48,9
+"As I felt the sting and the cool liquid coursing through my body,",conjunction,HowCouldYou,114,49,13
+"I lay down sleepily, looked into her kind eyes",-,HowCouldYou,115,49,9
+"and murmured ""How could you?""",quotation||,HowCouldYou,116,49,5
+"Perhaps because she understood my dogspeak,",-,HowCouldYou,117,50,6
+"she said ""I'm so sorry.""",quotation||,HowCouldYou,118,50,5
+She hugged me and hurriedly explained,-,HowCouldYou,119,51,6
+it was her job to make sure,complementizer (that...),HowCouldYou,120,51,7
+"I went to a better place,",complementizer (that...),HowCouldYou,121,51,6
+"where I wouldn't be ignored or abused or abandoned, or have",relative clause,HowCouldYou,122,51,11
+to fend for myself,infinitive phrase||,HowCouldYou,123,51,4
+- a place of love and light so very different from this earthly place.,||,HowCouldYou,124,52,14

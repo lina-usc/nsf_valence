@@ -1,0 +1,148 @@
+segment,reason,narrative,segID,sentID,Nwords
+A clear and joyous day it was,positioning element,Aqua,1,1,7
+"and out on the wide open sea,",positioning element,Aqua,2,1,7
+"thousands upon thousands of sparkling water drops,",-,Aqua,3,1,7
+excited by,nonrestrictive clause,Aqua,4,1,2
+"getting to play in the ocean,",nonfinite clause,Aqua,5,1,6
+danced all around.,||,Aqua,6,1,3
+"One of these was a merry little fellow named Aqua,",-,Aqua,7,2,10
+who danced on the silver backs of the fishes,relative clause,Aqua,8,2,9
+"as they plunged up and down in the waves,",conjunction,Aqua,9,2,9
+"and, no matter how high he sprung,",conjunction / nonrestrictive clause,Aqua,10,2,7
+he always came down again into his mother's lap.,conjunction cont.||,Aqua,11,2,9
+"His mother, you know, was the ocean,",-,Aqua,12,3,7
+and very beautiful she looked,conjunction,Aqua,13,3,5
+that summer day,positioning element,Aqua,14,3,3
+in her dark blue dress and white ruffles.,||,Aqua,15,3,8
+"By and by,",positioning element,Aqua,16,4,3
+"the happy water drop tired of his play,",positioning element - narrative advancement,Aqua,17,4,8
+"and looking up to the clear sky above him,",conjunction / nonfinite clause,Aqua,18,4,9
+"thought he would like to have a sail on one of the white, marshmallow-like clouds,",conjunction cont.,Aqua,19,4,15
+instead of spending his whole life in the ocean.,conjunction / nonfinite clause||,Aqua,20,4,9
+"Of the sky, little Aqua had always been afraid,",-,Aqua,21,5,9
+but he decided,conjunction,Aqua,22,5,3
+to finally face his demons,infinitive phrase,Aqua,23,5,5
+and suggested a solution,conjunction,Aqua,24,5,4
+involving the sun,nonfinite clause,Aqua,25,5,3
+carrying him up to the sky would be ideal.,nonfinite clause||,Aqua,26,5,9
+The sun understood,-,Aqua,27,6,3
+"Aqua's request came from his heart,",complementizer (that...),Aqua,28,6,6
+"so he acquiesced and also took ever so many other drops,",conjunction,Aqua,29,6,11
+so that Aqua might not be lonesome on the way.,conjunction||,Aqua,30,6,10
+It was only the sun,-,Aqua,31,7,5
+"that knew this, however,",relative clause,Aqua,32,7,4
+for all the other drops had been changed into fine mist or vapor,conjunction,Aqua,33,7,13
+and Aqua could not see them.,conjunction||,Aqua,34,7,6
+Do you know what vapor is?,||,Aqua,35,8,6
+"If you breathe into the air,",-,Aqua,36,9,6
+"when it is cold enough,",relative clause,Aqua,37,9,5
+you will see it,-,Aqua,38,9,4
+coming out of your mouth thick and fast like steam.,nonfinite clause||,Aqua,39,9,10
+"When the vapor is quite near the earth,",relative clause,Aqua,40,10,8
+we call it 'fog'.,||,Aqua,41,10,4
+Into vapor the water drops,-,Aqua,42,11,5
+that danced in the ocean,relative clause,Aqua,43,11,5
+"had been changed,",-,Aqua,44,11,3
+because in their own shape they were too heavy for the sunbeams,conjunction,Aqua,45,11,12
+that the sun let out,relative clause,Aqua,46,11,5
+to carry.,infinitive phrase||,Aqua,47,11,2
+"Higher and higher they sailed,",-,Aqua,48,12,5
+"and though it was grand,",conjunction / nonrestrictive clause,Aqua,49,12,5
+"Aqua and his friends were like fish out of water,",conjunction cont.,Aqua,50,12,10
+so they grew quite dizzy.,conjunction||,Aqua,51,12,5
+They enjoyed,-,Aqua,52,13,2
+"looking down on the world below,",nonfinite clause,Aqua,53,13,6
+"while the wind scattered them across the four corners of the earth,",conjunction,Aqua,54,13,12
+but after a while it grew nearly time for the sun,conjunction,Aqua,55,13,11
+to go to bed.,infinitive phrase||,Aqua,56,13,4
+"He became very red in the face,",-,Aqua,57,14,7
+"and began to sink lower and lower,",conjunction,Aqua,58,14,7
+until suddenly he went clear out of sight!,conjunction||,Aqua,59,14,8
+"Poor little Aqua,",-,Aqua,60,15,3
+"frightened by the impending cold and darkness,",nonrestrictive clause,Aqua,61,15,7
+"wished he could sleep not in the sky, but somewhere closer to earth.",||,Aqua,62,15,13
+Then Aqua heard the wind blow and conjectured,-,Aqua,63,16,8
+that maybe the wind could take him back down to the ocean.,complementizer||,Aqua,64,16,12
+"Indeed, the wind took pity on him and fanned him,",-,Aqua,65,17,10
+"together with all of his brothers and sisters,",nonrestrictive clause,Aqua,66,17,8
+"into a heavy gray cloud,",-,Aqua,67,17,5
+after which he blew them apart and told them,conjunction,Aqua,68,17,9
+"to hurry down,",infinitive phrase,Aqua,69,17,3
+"fast and furious to the earth,",nonrestrictive clause,Aqua,70,17,6
+so they could have a fighting chance of reaching the ocean.,conjunction||,Aqua,71,17,11
+"Down they went,",positioning element,Aqua,72,18,3
+rolling over each other,nonfinite clause,Aqua,73,18,4
+"until with a patter and clatter and spatter they touched the ground,",conjunction,Aqua,74,18,12
+and all the people,conjunction,Aqua,75,18,4
+that the raindrops fell on,relative clause,Aqua,76,18,5
+"cried, 'It's raining', and took out their umbrellas.",||,Aqua,77,18,8
+Some of the drops,-,Aqua,78,19,4
+"that were the most fortunate,",relative clause,Aqua,79,19,5
+"including Aqua,",nonrestrictive clause,Aqua,80,19,2
+"fell on a mountainside,",-,Aqua,81,19,4
+and down the rocky cliff they ran.,conjunction||,Aqua,82,19,7
+"Together they plunged into a mountain brook,",-,Aqua,83,20,7
+"which came foaming and dashing along,",relative clause / nonfinite clause,Aqua,84,20,6
+leaping over rocks,nonfinite clause,Aqua,85,20,3
+"and rushing down the hillside,",nonfinite clause,Aqua,86,20,5
+until in the valley below,conjunction / positioning element,Aqua,87,20,5
+they heard the strangest clattering noise.,||,Aqua,88,20,6
+The little water drops were then able,-,Aqua,89,21,7
+to make out a flour mill,infinitive phrase,Aqua,90,21,6
+that was standing on the bank.,relative clause||,Aqua,91,21,6
+"Inside the mill,",positioning element,Aqua,92,22,3
+"the water drops saw two great stones,",-,Aqua,93,22,7
+which the big wheel kept whizzing round and round.,relative clause||,Aqua,94,22,9
+"The stones,",-,Aqua,95,23,2
+"smoothed by the spinning,",nonrestrictive clause,Aqua,96,23,4
+were busy,-,Aqua,97,23,2
+grinding the wheat into flour and the corn into golden meal.,nonfinite clause||,Aqua,98,23,11
+But what giant do you suppose it was,-,Aqua,99,24,8
+who could turn and swing that tremendous wheel?,relative clause||,Aqua,100,24,8
+No giant at all.,||,Aqua,101,25,4
+"It was just our tiny little water drops,",-,Aqua,102,26,8
+"who sprang on it by hundreds and thousands, and whirled it over and over.",relative clause||,Aqua,103,26,14
+It was lucky for the water drops,-,Aqua,104,27,7
+that the brook,complementizer,Aqua,105,27,3
+where they were swimming,relative clause,Aqua,106,27,4
+next emptied into a beautiful pond,-,Aqua,107,27,6
+where ducks and geese were living peacefully.,relative clause||,Aqua,108,27,7
+"Aqua liked to play hide-and-seek in this pond,",-,Aqua,109,28,8
+and it was his brother water drop,conjunction,Aqua,110,28,7
+who he fooled,relative clause,Aqua,111,28,3
+by swimming to a big pool of water,nonfinite clause,Aqua,112,28,8
+"and pretending to hide there,",nonfinite clause,Aqua,113,28,5
+but then sneaking under a rock into an obscured little puddle.,conjunction||,Aqua,114,28,11
+His brother had blatantly peaked and even followed Aqua,-,Aqua,115,29,9
+"as he entered the big pool of water,",conjunction,Aqua,116,29,8
+"so when he searched there and could not find him,",conjunction / relative clause,Aqua,117,29,10
+he was extremely surprised and gave up.,conjunction cont.||,Aqua,118,29,7
+"Aqua liked this pond where he could play all day,",-,Aqua,119,30,10
+"so he stayed a good while,",conjunction,Aqua,120,30,6
+"sailing up and down,",nonfinite clause,Aqua,121,30,4
+"taking the ducks' backs for ships and the frogs for horses,",nonfinite clause,Aqua,122,30,11
+but after a time he tired of the dull life],conjunction,Aqua,123,30,10
+"and he and his brothers floated under a bridge for a long distance,",conjunction,Aqua,124,30,13
+until they saw another brook tumbling down a hillside.,conjunction||,Aqua,125,30,9
+"'Come, let's join hands!' cried Aqua",quotation,Aqua,126,31,6
+"and because the water drops were all together,",conjunction / nonrestrictive clause,Aqua,127,31,8
+overcoming the brook was child's play.,conjunction cont. / nonfinite clause||,Aqua,128,31,6
+It was by the help of Aqua and his brothers,-,Aqua,129,32,10
+that the bewitching river was able,complementizer,Aqua,130,32,6
+"to float heavy ships,",infinitive phrase,Aqua,131,32,4
+though not so long ago,positioning element,Aqua,132,32,5
+it was only a little stream.,||,Aqua,133,32,6
+As the river grew wider,-,Aqua,134,33,5
+"and he could almost see the ocean,",conjunction / nonrestrictive clause,Aqua,135,33,7
+Aqua realized,-,Aqua,136,33,2
+his journey was almost over,complementizer (that...),Aqua,137,33,5
+and he had come full circle.,conjunction||,Aqua,138,33,6
+"Back in the ocean,",positioning element,Aqua,139,34,4
+he felt right at home.,||,Aqua,140,34,5
+"For him, this was the safest, sweetest place in the whole wide world.",||,Aqua,141,35,13
+"During the warm summer evenings,",positioning element,Aqua,142,36,5
+"if you take a walk on the sea beach,",-,Aqua,143,36,9
+you will hear the gentle rippling swash of the waves,"conjunction (if, then...)",Aqua,144,36,10
+and some say,conjunction,Aqua,145,36,3
+that it must be the gurgling voices of Aqua and his brother water drops,complementizer,Aqua,146,36,14
+telling each other about their wonderful journey around the world.,nonfinite clause||,Aqua,147,36,10

@@ -1,0 +1,136 @@
+segment,reason,narrative,segID,sentID,Nwords,onset,offset,voice_narrative
+"In the splendid palace of the Emerald City,",positioning element,TigerandLion,1,1,8,2.82,4.97,Brandi_TigerandLion
+"which is in the center of the fairy Land of Oz,",relative clause / positioning element,TigerandLion,2,1,11,4.98,7.28,Brandi_TigerandLion
+is a great Throne Room.,||,TigerandLion,3,1,5,7.54,8.81,Brandi_TigerandLion
+"This is where Princess Ozma,",-,TigerandLion,4,2,5,10.02,11.389999,Brandi_TigerandLion
+"the Ruler,",nonrestrictive clause,TigerandLion,5,2,2,11.358155,11.99,Brandi_TigerandLion
+"sits in a throne of glistening emeralds for an hour each day and listens to all the troubles of her people,",-,TigerandLion,6,2,21,12.229999,17.57,Brandi_TigerandLion
+which they are sure to tell her about.,relative clause||,TigerandLion,7,2,8,17.71,19.44,Brandi_TigerandLion
+"Around Ozma's throne,",-,TigerandLion,8,3,3,20.64,21.865374,Brandi_TigerandLion
+"on such occasions,",nonrestrictive clause,TigerandLion,9,3,3,21.88,22.882798,Brandi_TigerandLion
+"are grouped all the important personages of Oz,",-,TigerandLion,10,3,8,22.88,25.53,Brandi_TigerandLion
+"such as the Scarecrow, Tiktok the Clockwork Man, the Tin Woodman, the Wizard of Oz, and other famous fairy people.",nonrestrictive clause||,TigerandLion,11,3,20,25.59,32.809999,Brandi_TigerandLion
+"Little Dorothy usually has a seat at Ozma's feet,",-,TigerandLion,12,4,9,33.34,36.069999,Brandi_TigerandLion
+and crouched on either side the throne are two enormous beasts,conjunction,TigerandLion,13,4,11,36.2943,39.41,Brandi_TigerandLion
+known as the Hungry Tiger and the Cowardly Lion.,nonrestrictive clause||,TigerandLion,14,4,9,39.4,42.102868,Brandi_TigerandLion
+"These two beasts are Ozma's chief guardians,",-,TigerandLion,15,5,7,43.02,45.76,Brandi_TigerandLion
+"but, as everyone loves the beautiful girl Princess,",nonrestrictive clause,TigerandLion,16,5,8,45.89,48.37,Brandi_TigerandLion
+"there has never been any disturbance in the great Throne Room, or anything for the guardians",-,TigerandLion,17,5,16,48.35,52.813572,Brandi_TigerandLion
+to do but look fierce and solemn and keep quiet,infinitive phrase,TigerandLion,18,5,10,52.813572,55.67,Brandi_TigerandLion
+until the Royal Audience is over,conjunction,TigerandLion,19,5,6,55.643861,57.45,Brandi_TigerandLion
+and the people go away to their homes.,conjunction||,TigerandLion,20,5,8,57.512222,59.5,Brandi_TigerandLion
+"Of course, no one would dare be naughty",-,TigerandLion,21,6,8,60.44,62.617842,Brandi_TigerandLion
+while the huge Lion and Tiger crouched beside the throne;,conjunction||,TigerandLion,22,6,10,62.569999,65.43,Brandi_TigerandLion
+"but the fact is,",nonrestrictive clause,TigerandLion,23,7,4,66.609999,67.56,Brandi_TigerandLion
+the people of Oz are very seldom naughty.,-,TigerandLion,24,7,8,67.519978,69.91,Brandi_TigerandLion
+So Ozma's big guards are more ornamental than useful.,||,TigerandLion,25,7,9,70.669999,73.7,Brandi_TigerandLion
+No one realizes that better than the beasts themselves.,||,TigerandLion,26,8,9,74.75,77.51,Brandi_TigerandLion
+"One day,",positioning element,TigerandLion,27,9,2,78.23,78.82,Brandi_TigerandLion
+"after everyone had left the Throne Room except the Cowardly Lion and the Hungry Tiger,",positioning element,TigerandLion,28,9,15,78.79,82.688849,Brandi_TigerandLion
+"the Lion yawned and said to his friend: ""I'm getting tired of this job.",quotation||,TigerandLion,29,9,14,83.595282,88.38,Brandi_TigerandLion
+No one is afraid of us,-,TigerandLion,30,10,6,88.749999,90.13,Brandi_TigerandLion
+"and no one pays any attention to us.""",conjunction||,TigerandLion,31,10,8,90.07,92.4,Brandi_TigerandLion
+"""That is true,"" replied the big Tiger,",-,TigerandLion,32,11,7,93.5,95.58239,Brandi_TigerandLion
+purring softly.,nonfinite clause||,TigerandLion,33,11,2,95.56,96.57,Brandi_TigerandLion
+"""We might as well be in the thick jungles",-,TigerandLion,34,12,9,97.23,99.097129,Brandi_TigerandLion
+"where we were born,",relative clause / quotation,TigerandLion,35,12,4,99.115628,99.948066,Brandi_TigerandLion
+as trying,conjunction,TigerandLion,36,12,2,99.948066,100.449999,Brandi_TigerandLion
+to protect Ozma when she needs no protection.,infinitive phrase||,TigerandLion,37,12,8,100.410531,103.01,Brandi_TigerandLion
+"And I'm dreadfully hungry all the time.""",quotation||,TigerandLion,38,13,7,103.88,106.519999,Brandi_TigerandLion
+"""You have enough to eat, I'm sure,"" said the Lion,",quotation,TigerandLion,39,14,10,107.529999,110.224051,Brandi_TigerandLion
+swaying his tail slowly back and forth.,nonfinite clause||,TigerandLion,40,14,7,110.2,112.46,Brandi_TigerandLion
+"""Enough, perhaps;",-,TigerandLion,41,15,2,112.63,113.91,Brandi_TigerandLion
+"but not the kind of food I long for,"" answered the Tiger.",conjunction||,TigerandLion,42,15,12,113.877529,117.050044,Brandi_TigerandLion
+"""What I'm hungry for is fat babies.",||,TigerandLion,43,16,7,117.74,120.719999,Brandi_TigerandLion
+I have a great desire to eat a few fat babies.,||,TigerandLion,44,17,11,121.16,123.99,Brandi_TigerandLion
+"Then, perhaps, the people of Oz would fear me,",-,TigerandLion,45,18,9,124.169999,126.539999,Brandi_TigerandLion
+"and I'd become more important.""",conjunction||,TigerandLion,46,18,5,126.660079,128.31,Brandi_TigerandLion
+"""True,"" agreed the Lion.",||,TigerandLion,47,19,4,128.45,129.814094,Brandi_TigerandLion
+"""It would stir up quite a scene",-,TigerandLion,48,20,7,129.95,131.562214,Brandi_TigerandLion
+if you ate but one fat baby.,conjunction||,TigerandLion,49,20,7,131.562214,133.31,Brandi_TigerandLion
+"As for myself,",nonrestrictive clause,TigerandLion,50,21,3,133.86,135.0,Brandi_TigerandLion
+my claws are sharp as needles and strong as crowbars.,||,TigerandLion,51,21,10,135.22,138.519999,Brandi_TigerandLion
+My teeth are powerful enough,-,TigerandLion,52,22,5,138.939999,140.228819,Brandi_TigerandLion
+to tear a person to pieces in a few seconds.,infinitive phrase||,TigerandLion,53,22,10,140.265817,142.54,Brandi_TigerandLion
+I could spring upon a man and make chop suey of him.,||,TigerandLion,54,23,12,142.99,145.8,Brandi_TigerandLion
+There would be wild excitement in the Emerald City.,||,TigerandLion,55,24,9,146.47,148.784433,Brandi_TigerandLion
+People would fall upon their knees and beg me for mercy.,||,TigerandLion,56,25,11,148.96,151.98,Brandi_TigerandLion
+"That, in my opinion,",nonrestrictive clause,TigerandLion,57,26,4,152.94,154.389516,Brandi_TigerandLion
+"would render me very important.""",||,TigerandLion,58,26,5,154.34,156.03,Brandi_TigerandLion
+"""After you had torn the person to pieces,",-,TigerandLion,59,27,8,156.729999,158.779999,Brandi_TigerandLion
+"what would you do next?"" asked the Tiger sleepily.","conjunction (if, then...)||",TigerandLion,60,27,9,159.319999,162.249999,Brandi_TigerandLion
+"""Then I would roar so loudly",-,TigerandLion,61,28,6,163.08,165.007726,Brandi_TigerandLion
+it would shake the earth and stalk away to the jungle,relative clause (that...),TigerandLion,62,28,11,165.007726,167.412547,Brandi_TigerandLion
+"to hide myself,",infinitive phrase,TigerandLion,63,28,3,167.421797,168.43,Brandi_TigerandLion
+"before anyone could attack me or kill me for what I had done.""",conjunction||,TigerandLion,64,28,13,168.4,171.51,Brandi_TigerandLion
+"""I see,"" nodded the Tiger.",||,TigerandLion,65,29,5,172.45,174.192293,Brandi_TigerandLion
+"""You are really cowardly.""",||,TigerandLion,66,30,4,175.029999,176.77,Brandi_TigerandLion
+"""To be sure.",||,TigerandLion,67,31,3,177.45,178.326736,Brandi_TigerandLion
+That is why I am named the Cowardly Lion.,||,TigerandLion,68,32,9,178.29,180.565069,Brandi_TigerandLion
+That is why I have always been so tame and peaceable.,||,TigerandLion,69,33,11,181.47,184.78,Brandi_TigerandLion
+"But I'm awfully tired of being tame,"" added the Lion,",-,TigerandLion,70,34,10,185.7,188.954195,Brandi_TigerandLion
+"with a sigh,",nonrestrictive clause,TigerandLion,71,34,3,188.954195,189.56465,Brandi_TigerandLion
+"""and it would be fun to raise a row and show people",conjunction,TigerandLion,72,34,12,190.378589,192.626172,Brandi_TigerandLion
+"what a terrible beast I really am.""",complementizer||,TigerandLion,73,34,7,192.62,194.79,Brandi_TigerandLion
+"The Tiger remained silent for several minutes,",-,TigerandLion,74,35,7,196.140911,198.219999,Brandi_TigerandLion
+thinking deeply,nonfinite clause,TigerandLion,75,35,2,198.222006,198.980449,Brandi_TigerandLion
+as he slowly washed his face with his left paw.,conjunction||,TigerandLion,76,35,10,198.989699,201.47,Brandi_TigerandLion
+"Then he said: ""I'm getting old,",-,TigerandLion,77,36,6,202.38,204.34,Brandi_TigerandLion
+and it would please me,conjunction,TigerandLion,78,36,5,204.456042,205.362475,Brandi_TigerandLion
+to eat at least one fat baby,infinitive phrase,TigerandLion,79,36,7,205.34,206.90711,Brandi_TigerandLion
+before I die.,conjunction||,TigerandLion,80,36,3,206.888611,207.86,Brandi_TigerandLion
+Suppose we surprise these people of Oz and prove our power.,||,TigerandLion,81,37,11,208.73,212.069999,Brandi_TigerandLion
+What do you say?,||,TigerandLion,82,38,4,212.6,213.54,Brandi_TigerandLion
+We will walk out of here just as usual,-,TigerandLion,83,39,9,214.39,216.439999,Brandi_TigerandLion
+and the first baby we meet I'll eat in a jiffy.,conjunction||,TigerandLion,84,39,11,216.58189,219.07,Brandi_TigerandLion
+"And the first man or woman you meet, you will tear to pieces.",||,TigerandLion,85,40,13,219.87,223.0,Brandi_TigerandLion
+Then we will both run out of the city gates and gallop across the country and hide in the jungle,-,TigerandLion,86,41,20,223.8,228.149999,Brandi_TigerandLion
+"before anyone can stop us.""",conjunction||,TigerandLion,87,41,5,228.134281,229.859999,Brandi_TigerandLion
+"""All right. I'm game,"" said the Lion,",-,TigerandLion,88,42,7,230.72,233.461885,Brandi_TigerandLion
+yawning again,nonfinite clause,TigerandLion,89,42,2,233.81,234.59955,Brandi_TigerandLion
+so that he showed two rows of large sharp teeth.,conjunction||,TigerandLion,90,42,10,234.59955,237.62,Brandi_TigerandLion
+"The Tiger got up and stretched his great, sleek body.",||,TigerandLion,91,43,10,237.984798,240.81,Brandi_TigerandLion
+"""Seen any of them old Hydrophobies the last day or two?""",||,TigerandLion,92,44,11,241.333049,244.92,Brandi_TigerandLion
+"""Come on,"" he said.",quotation||,TigerandLion,93,45,4,245.609999,246.969999,Brandi_TigerandLion
+"The Lion stood up and proved he was the larger of the two,",-,TigerandLion,94,46,13,247.90931,250.739999,Brandi_TigerandLion
+for he was almost as big as a small horse.,conjunction||,TigerandLion,95,46,10,250.71,253.0,Brandi_TigerandLion
+"Out of the palace they walked,",positioning element,TigerandLion,96,47,6,253.78,255.16,Brandi_TigerandLion
+and met no one.,||,TigerandLion,97,47,4,255.188518,256.14,Brandi_TigerandLion
+"They passed through the beautiful grounds, past fountains and beds of lovely flowers,",positioning element,TigerandLion,98,48,13,256.85,261.519999,Brandi_TigerandLion
+and met no one.,||,TigerandLion,99,48,4,262.079256,263.339999,Brandi_TigerandLion
+"Then they unlatched a gate and entered a street of the city,",positioning element,TigerandLion,100,49,12,264.33,267.239999,Brandi_TigerandLion
+and met no one.,||,TigerandLion,101,49,4,267.887824,269.31,Brandi_TigerandLion
+"""I wonder how a fat baby will taste,"" said the Tiger,",-,TigerandLion,102,50,11,269.95967,272.974945,Brandi_TigerandLion
+"as they stalked majestically along, side by side.",conjunction||,TigerandLion,103,50,8,272.99,276.0,Brandi_TigerandLion
+"""I imagine it will taste like nutmegs,"" said the Lion.",quotation||,TigerandLion,104,51,10,276.83,279.856434,Brandi_TigerandLion
+"""No,"" said the Tiger, ""I've an idea it will taste like gumdrops.""",||,TigerandLion,105,52,12,280.81,285.68,Brandi_TigerandLion
+"They turned a corner,",positioning element,TigerandLion,106,53,4,286.749999,287.9,Brandi_TigerandLion
+"but met no one,",-,TigerandLion,107,53,4,288.4,289.51,Brandi_TigerandLion
+for the people of the Emerald City usually take their naps at this hour of the afternoon.,conjunction||,TigerandLion,108,53,17,289.89,294.37,Brandi_TigerandLion
+" ""I wonder how many pieces I ought",-,TigerandLion,109,54,8,295.36,297.124899,Brandi_TigerandLion
+"to tear a person into,"" said the Lion,",infinitive phrase / quotation,TigerandLion,110,54,8,297.109999,299.159748,Brandi_TigerandLion
+in a thoughtful voice.,nonrestrictive clause||,TigerandLion,111,54,4,299.159748,300.309999,Brandi_TigerandLion
+"""Sixty would be about right,"" suggested the Tiger.",||,TigerandLion,112,55,8,301.13,303.849149,Brandi_TigerandLion
+"""Would that hurt any more",-,TigerandLion,113,56,5,304.849999,306.078233,Brandi_TigerandLion
+"than to tear one into about a dozen pieces?"" asked the Lion,",relative clause (minimal segment) / infinitive phrase / quotation,TigerandLion,114,56,12,306.068984,309.361245,Brandi_TigerandLion
+with a little shudder.,nonrestrictive clause||,TigerandLion,115,56,4,309.361245,310.35,Brandi_TigerandLion
+"""Who cares whether it hurts or not?"" growled the Tiger.",||,TigerandLion,116,57,10,311.12,314.263874,Brandi_TigerandLion
+The Lion did not reply.,||,TigerandLion,117,58,5,315.198055,316.7,Brandi_TigerandLion
+"They entered a side street,",positioning element,TigerandLion,118,59,5,317.09,318.49,Brandi_TigerandLion
+but met no one.,||,TigerandLion,119,59,4,318.8,320.05,Brandi_TigerandLion
+Suddenly they heard a child crying.,||,TigerandLion,120,60,6,321.0,323.4,Brandi_TigerandLion
+"""Aha!"" exclaimed the Tiger.",||,TigerandLion,121,61,4,324.22,326.047498,Brandi_TigerandLion
+"""There is my meat.""",||,TigerandLion,122,62,4,326.27,327.56,Brandi_TigerandLion
+"He rushed around a corner,",-,TigerandLion,123,63,5,327.88,329.35,Brandi_TigerandLion
+"the Lion following,",nonfinite clause,TigerandLion,124,63,3,329.608483,330.773896,Brandi_TigerandLion
+and came upon a nice fat baby,-,TigerandLion,125,63,7,330.949633,332.808745,Brandi_TigerandLion
+sitting in the middle of the street,nonfinite clause,TigerandLion,126,63,7,332.81,334.2,Brandi_TigerandLion
+and crying as if in great distress.,nonfinite clause||,TigerandLion,127,63,7,334.177643,336.509999,Brandi_TigerandLion
+"""What's the matter?"" asked the Tiger,",-,TigerandLion,128,64,6,337.38,339.237017,Brandi_TigerandLion
+crouching before the baby.,nonfinite clause||,TigerandLion,129,64,4,339.269999,340.639999,Brandi_TigerandLion
+"""I--I--I-lost my m-m-mamma!"" wailed the baby.",||,TigerandLion,130,65,6,341.95,346.23,Brandi_TigerandLion
+"""Why, you poor little thing,"" said the great beast,",-,TigerandLion,131,66,9,347.46,350.52,Brandi_TigerandLion
+softly stroking the child's head with its paw.,nonfinite clause||,TigerandLion,132,66,8,350.52,353.07,Brandi_TigerandLion
+"""Don't cry, my dear,",-,TigerandLion,133,67,4,354.399999,355.669999,Brandi_TigerandLion
+for mamma can't be far away.,conjunction||,TigerandLion,134,67,6,355.649999,357.38,Brandi_TigerandLion
+"I'll help you find her.""",||,TigerandLion,135,68,5,358.339999,359.57,Brandi_TigerandLion

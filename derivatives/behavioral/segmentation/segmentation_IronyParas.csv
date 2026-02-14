@@ -1,0 +1,126 @@
+segment,reason,narrative,segID,sentID,Nwords
+Mr. Reinhart is the building inspector for the entire county.,||,IronyParas,1,1,10
+"Before a person can build an addition on their home or property,",conjunction,IronyParas,2,2,12
+the plans need to be approved by Mr. Reinhart.,||,IronyParas,3,2,9
+Mr. Reinhart is the man.,||,IronyParas,4,3,5
+He checks,-,IronyParas,5,4,2
+that each plan follows building codes,complementizer,IronyParas,6,4,6
+before he approves the construction.,conjunction||,IronyParas,7,4,5
+He makes sure,-,IronyParas,8,5,3
+that construction goes according to the plan once building begins.,complementizer||,IronyParas,9,5,10
+He ensures,-,IronyParas,10,6,2
+that every structure in the county is built properly.,complementizer||,IronyParas,11,6,9
+One day,-,IronyParas,12,7,2
+Mr. Reinhart was having a party at his house.,||,IronyParas,13,7,9
+"He and his guests were barbecuing on the porch attached to his house,",-,IronyParas,14,8,13
+when it suddenly collapsed.,relative clause||,IronyParas,15,8,4
+"Apparently, termites got into the wood and had been chewing away the support beams for years.",||,IronyParas,16,9,16
+Mr. Reinhart hadn't noticed.,||,IronyParas,17,10,4
+Tim Kylie is one of the world's top chefs.,||,IronyParas,18,11,9
+"He is best known for his signature dish,",-,IronyParas,19,12,8
+triple-dipped chip steak.,nonrestrictive clause||,IronyParas,20,12,3
+This masterpiece contains over a pound of beef braised in duck fat.,||,IronyParas,21,13,12
+Another of Chef Kylie's more celebrated dishes is the Hamslaughter Supreme.,||,IronyParas,22,14,11
+This dish features ham stuffed sausage links presented in a basket made of braided bacon.,||,IronyParas,23,15,15
+"While carnivores around the world roar for Chef Kylie's creations,",relative clause,IronyParas,24,16,10
+it is unlikely,-,IronyParas,25,16,3
+that Chef Kylie will dine with them.,relative clause||,IronyParas,26,16,7
+"As a longtime vegan,",conjunction,IronyParas,27,17,4
+Chef Kylie would never dream of devouring one of his own dishes.,||,IronyParas,28,17,12
+As soon as Bobby heard,-,IronyParas,29,18,5
+"that the math test was going to be worth 30% of his grade,",complementizer,IronyParas,30,18,13
+he began studying.,||,IronyParas,31,18,3
+He studied in class.,||,IronyParas,32,19,4
+He studied on the bus ride home.,||,IronyParas,33,20,7
+He even tried,-,IronyParas,34,21,3
+to study,infinitive phrase,IronyParas,35,21,2
+while walking home from the bus,conjunction (minimal segment) / nonfinite clause,IronyParas,36,21,6
+but stopped after bumping into a lamppost.,conjunction||,IronyParas,37,21,7
+"When he got home,",positioning element,IronyParas,38,22,4
+he didn't watch any TV,-,IronyParas,39,22,5
+because he was studying so intensely.,conjunction||,IronyParas,40,22,6
+He completed the study guide,-,IronyParas,41,23,5
+that Mr. Morris gave him,relative clause,IronyParas,42,23,5
+and then he completed one,conjunction,IronyParas,43,23,5
+that he had made himself.,relative clause||,IronyParas,44,23,5
+Bobby refused,-,IronyParas,45,24,2
+to quit.,infinitive phrase||,IronyParas,46,24,2
+He stayed awake all night,-,IronyParas,47,25,5
+finding and completing extra problems on the Internet.,nonfinite clause||,IronyParas,48,25,8
+"By the time the sun rose,",positioning element,IronyParas,49,26,6
+Bobby had mastered the content.,||,IronyParas,50,26,5
+"As he entered the classroom,",conjunction,IronyParas,51,27,5
+he felt prepared.,||,IronyParas,52,27,3
+"He sharpened his pencil, sat at his desk, put his head down, fell asleep, and failed his test.",||,IronyParas,53,28,18
+"When the first English settlers arrived at Jamestown,",positioning element,IronyParas,54,29,8
+hygiene was not a priority.,||,IronyParas,55,29,5
+The settlers faced many challenges.,||,IronyParas,56,30,5
+Food was scarce,-,IronyParas,57,31,3
+and the land was unsuitable for farming.,conjunction||,IronyParas,58,31,7
+"Worse still,",nonrestrictive phrase,IronyParas,59,32,2
+relations with Native Americans were uneasy,-,IronyParas,60,32,6
+and violence loomed.,conjunction||,IronyParas,61,32,3
+"Yet even in these conditions,",conjunction,IronyParas,62,33,5
+some settlers found time,-,IronyParas,63,33,4
+to care for their teeth.,infinitive phrase||,IronyParas,64,33,5
+They did this,-,IronyParas,65,34,3
+by brushing their teeth with rags and abrasive tooth powders.,nonfinite clause||,IronyParas,66,34,10
+Archaeologists have examined the remains of these colonists.,||,IronyParas,67,35,8
+They discovered,-,IronyParas,68,36,2
+that many of the settlers were missing the enamel on their teeth.,complementizer||,IronyParas,69,36,12
+"By using these tooth powders, the settlers had stripped this protective layer from their teeth.",||,IronyParas,70,37,15
+This caused their teeth,-,IronyParas,71,38,4
+to decay and fall out prematurely.,infinitive phrase||,IronyParas,72,38,6
+The two men crawled,-,IronyParas,73,39,4
+across the sun scorched sand.,positioning element||,IronyParas,74,39,5
+The wind blew the sand grains into their faces at blinding speeds,-,IronyParas,75,40,12
+as they reached their way over the dune.,conjunction||,IronyParas,76,40,8
+The man in back asked the other man,-,IronyParas,77,41,8
+"to stop,",infinitive phrase,IronyParas,78,41,2
+but his throat was so dry,conjunction,IronyParas,79,41,6
+"that the word sounded more like ""top.""",relative clause||,IronyParas,80,41,7
+So the other man continued.,||,IronyParas,81,42,5
+"As they reached the top of the dune,",conjunction,IronyParas,82,43,8
+they looked over and saw a glistening pool some thirty yards down the hill.,||,IronyParas,83,43,14
+"It wasn't a large pool,",-,IronyParas,84,44,5
+"but it shimmered in the sun,",conjunction,IronyParas,85,44,6
+beckoning the dehydrated men.,nonfinite clause||,IronyParas,86,44,4
+It urged them,-,IronyParas,87,45,3
+to continue their struggle.,infinitive phrase||,IronyParas,88,45,4
+The men summoned the will,-,IronyParas,89,46,5
+to live.,infinitive phrase||,IronyParas,90,46,2
+They used it as strength,-,IronyParas,91,47,5
+"when they had none,",relative clause,IronyParas,92,47,4
+and the men pushed forward,conjunction,IronyParas,93,47,5
+until the tiny pool was in reach.,conjunction||,IronyParas,94,47,7
+The man in front desperately scooped a handful of the shimmering liquid into his mouth.,||,IronyParas,95,48,15
+Instantly he began coughing and spitting out the water.,||,IronyParas,96,49,9
+"The man behind him seemed confused,",-,IronyParas,97,50,6
+"until the man in front said, ""This is salt water...""",conjunction||,IronyParas,98,50,10
+Brandon was an adult,-,IronyParas,99,51,4
+when he found out,relative clause,IronyParas,100,51,4
+that he had been adopted.,relative clause||,IronyParas,101,51,5
+It came as quite a shock.,||,IronyParas,102,52,6
+He spent his whole life,-,IronyParas,103,53,5
+thinking that the world was one way,nonfinite clause (minimal segment) / complementizer,IronyParas,104,53,7
+when in fact it there was another layer to it.,||,IronyParas,105,53,10
+"As much as he loved and cherished his adoptive parents,",conjunction,IronyParas,106,54,10
+he wanted,-,IronyParas,107,54,2
+to find his biological mother.,infinitive phrase||,IronyParas,108,54,5
+"So he contacted the adoption agency,",-,IronyParas,109,55,6
+but her information wasn't listed.,conjunction||,IronyParas,110,55,5
+He had a few clues,-,IronyParas,111,56,5
+"and he followed them up,",conjunction,IronyParas,112,56,5
+but they led to one dead-end after another.,conjunction||,IronyParas,113,56,8
+Brandon became obsessed.,||,IronyParas,114,57,3
+"Sparing no expense,",nonfinite clause,IronyParas,115,58,3
+he employed a world-class detective.,||,IronyParas,116,58,5
+"After many months of searching,",positioning element,IronyParas,117,59,5
+the renowned detective came up empty-handed.,||,IronyParas,118,59,6
+Brandon never quit though.,||,IronyParas,119,60,4
+He spent years and piles of money,-,IronyParas,120,61,7
+scouring the world for clues to his birthmother's identity.,nonfinite clause||,IronyParas,121,61,9
+Finally his efforts paid a return.,||,IronyParas,122,62,6
+He discovered,-,IronyParas,123,63,2
+"that she was living right down the street from his house,",complementizer,IronyParas,124,63,11
+just around the corner.,nonrestrictive clause||,IronyParas,125,63,4

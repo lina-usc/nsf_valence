@@ -1,0 +1,129 @@
+segment,reason,narrative,segID,sentID,Nwords
+"Long, long ago",positioning element,AgedMother,1,1,3
+there lived at the foot of the mountain,positioning element,AgedMother,2,1,8
+"a poor farmer and his aged, widowed mother.",||,AgedMother,3,1,8
+They owned a bit of land,-,AgedMother,4,2,6
+"which supplied them with food,",relative clause,AgedMother,5,2,5
+"and they were humble, peaceful, and happy.",conjunction||,AgedMother,6,2,7
+Shining was governed by a despotic leader,-,AgedMother,7,3,7
+"who, though a warrior,",nonrestrictive clause,AgedMother,8,3,4
+had a great and cowardly shrinking from anything suggestive of failing health and strength.,cont. relative clause||,AgedMother,9,3,14
+This caused him,-,AgedMother,10,4,3
+to send out a cruel proclamation.,infinitive phrase||,AgedMother,11,4,6
+The entire province was given strict orders,-,AgedMother,12,5,7
+to immediately put to death all aged people.,infinitive phrase||,AgedMother,13,5,8
+"Those were barbarous days,",positioning element,AgedMother,14,6,4
+and the custom,conjunction,AgedMother,15,6,3
+of abandoning old people,nonfinite clause,AgedMother,16,6,4
+to die was not uncommon.,infinitive phrase||,AgedMother,17,6,5
+"The poor farmer loved his aged mother with tender reverence,",positioning element - novel information,AgedMother,18,7,10
+and the order filled his heart with sorrow.,positioning element - change in aspect / positioning element - novel information||,AgedMother,19,7,8
+But no one ever thought twice,-,AgedMother,20,8,6
+"about obeying the mandate of the governor,",nonfinite clause,AgedMother,21,8,7
+so with many deep and hopeless sighs,conjunction / nonrestrictive clause,AgedMother,22,8,7
+the youth prepared for,-,AgedMother,23,8,4
+what at that time was considered the kindest mode of death.,relative clause||,AgedMother,24,8,11
+"Just at sundown,",positioning element,AgedMother,25,9,3
+"when his day's work was ended,",relative clause,AgedMother,26,9,6
+he took a quantity of unwhitened rice,-,AgedMother,27,9,7
+"which was the principal food for the poor,",relative clause,AgedMother,28,9,8
+"and he cooked, dried it, and tied it in a square cloth,",conjunction,AgedMother,29,9,12
+which he swung in a bundle around his neck,relative clause,AgedMother,30,9,9
+"along with a gourd filled with cool, sweet water.",conjunction||,AgedMother,31,9,9
+Then he lifted his helpless old mother to his back and started on his painful journey up the mountain.,||,AgedMother,32,10,19
+The road was long and steep;,||,AgedMother,33,11,6
+the narrow road was crossed and re-crossed by many paths made by the hunters and woodcutters.,||,AgedMother,34,12,16
+"In some places,",positioning element,AgedMother,35,13,3
+"they were lost and confused,",-,AgedMother,36,13,5
+but he gave no heed.,conjunction||,AgedMother,37,13,5
+"One path or another, it mattered not.",||,AgedMother,38,14,7
+"On he went,",-,AgedMother,39,15,3
+climbing blindly upward,nonfinite clause||,AgedMother,40,15,3
+-- ever upward towards the high bare summit of,-,AgedMother,41,16,9
+what is known as Obatsuyama,relative clause,AgedMother,42,16,5
+"the mountain of the ""abandoning of the aged.""",nonrestrictive clause||,AgedMother,43,16,8
+The eyes of the old mother were not so dim,-,AgedMother,44,17,10
+"but that they noted the reckless hastening from one path to another,",conjunction,AgedMother,45,17,12
+and her loving heart grew anxious.,conjunction||,AgedMother,46,17,6
+Her son did not know the mountain's many paths,positioning element - novel information,AgedMother,47,18,9
+"and his return might be one of danger,",conjunction,AgedMother,48,18,8
+so she stretched forth her hand,conjunction,AgedMother,49,18,6
+"and, snapping the twigs from brushes as they passed,",conjunction / nonfinite clause,AgedMother,50,18,9
+she quietly dropped a handful every few steps of the way,-,AgedMother,51,18,11
+so that as they climbed,conjunction / relative clause,AgedMother,52,18,5
+the narrow path behind them was dotted at frequent intervals with tiny piles of twigs.,conjunction cont.||,AgedMother,53,18,15
+"At last,",positioning element,AgedMother,54,19,2
+the summit was reached.,||,AgedMother,55,19,4
+Weary and heart sick,nonrestrictive clause,AgedMother,56,20,4
+the youth gently released his burden,-,AgedMother,57,20,6
+and silently prepared a place of comfort,conjunction,AgedMother,58,20,7
+as his last duty to the loved one.,conjunction||,AgedMother,59,20,8
+Gathering fallen pine needles,nonfinite clause,AgedMother,60,21,4
+he made a soft cushion,-,AgedMother,61,21,5
+and tenderly lifted his old mother onto it.,conjunction,AgedMother,62,21,8
+Hew rapped her padded coat more closely about the stooping shoulders,-,AgedMother,63,21,11
+and with tearful eyes and an aching heart he said farewell.,conjunction||,AgedMother,64,21,11
+The trembling mother's voice was full of unselfish love,-,AgedMother,65,22,9
+as she gave her last injunction.,conjunction||,AgedMother,66,22,6
+"""Let not thine eyes be blinded, my son,"" she said.",quotation||,AgedMother,67,23,10
+"""The mountain road is full of dangers.",quotation||,AgedMother,68,24,7
+LOOK carefully and follow the path,quotation,AgedMother,69,25,6
+which holds the piles of twigs.,relative clause  / quotation||,AgedMother,70,25,6
+"They will guide you to the familiar path farther down"".",quotation||,AgedMother,71,26,10
+"The son's surprised eyes looked back over the path,",-,AgedMother,72,27,9
+"then at the poor old, shriveled hands all scratched and soiled by their work of love.",conjunction||,AgedMother,73,27,16
+His heart broke within,-,AgedMother,74,28,4
+"and bowing to the ground,",nonfinite clause,AgedMother,75,28,5
+"he cried aloud: ""oh, Honorable mother,",nonrestrictive clause,AgedMother,76,28,6
+your kindness breaks my heart!,||,AgedMother,77,28,5
+I will not leave you.,||,AgedMother,78,29,5
+"Together we will follow the path of twigs,",-,AgedMother,79,30,8
+"and together we will die!""",conjunction||,AgedMother,80,30,5
+Once more he shouldered his burden,-,AgedMother,81,31,6
+(how light it seemed now),nonrestrictive clause,AgedMother,82,31,5
+"and hastened down the path,",-,AgedMother,83,31,5
+"through the shadows and the moonlight,",nonrestrictive clause,AgedMother,84,31,6
+to the little hut in the valley.,positioning element||,AgedMother,85,31,7
+"Beneath the kitchen floor was a walled closet for food,",-,AgedMother,86,32,10
+which was covered and hidden from view.,relative clause||,AgedMother,87,32,7
+"There the son hid his mother,",-,AgedMother,88,33,6
+"supplying her with everything she needed,",nonfinite clause,AgedMother,89,33,6
+continually watching and fearing,nonfinite clause,AgedMother,90,33,4
+she would be discovered.,complementizer (that...)||,AgedMother,91,33,4
+"Time passed,",positioning element,AgedMother,92,34,2
+and he was beginning to feel safe,conjunction,AgedMother,93,34,7
+"when again the governor sent forth heralds bearing an unreasonable order,",conjunction,AgedMother,94,34,11
+seemingly as a boast of his power.,nonrestrictive clause||,AgedMother,95,34,7
+His demand was,-,AgedMother,96,35,3
+that his subjects should present him with a rope of ashes.,relative clause||,AgedMother,97,35,11
+The entire province trembled with dread.,||,AgedMother,98,36,6
+The order must be obeyed,-,AgedMother,99,37,5
+yet who in all Shining could make a rope of ashes?,conjunction||,AgedMother,100,37,11
+"One night,",positioning element,AgedMother,101,38,2
+"in great distress,",nonrestrictive clause,AgedMother,102,38,3
+the son whispered the news to his hidden mother.,||,AgedMother,103,38,9
+"""Wait!"" she said.",quotation||,AgedMother,104,39,3
+"""I will think. I will think.""",quotation||,AgedMother,105,40,6
+On the second day,positioning element,AgedMother,106,41,4
+she told him,-,AgedMother,107,41,3
+what to do.,complementizer (minimal segment) / infinitive phrase||,AgedMother,108,41,3
+"""Make rope of twisted straw,"" she said.",||,AgedMother,109,42,7
+"""Then stretch it upon a row of flat stones and burn it on a windless night.""",||,AgedMother,110,43,16
+He called the people together and did as she said,-,AgedMother,111,44,10
+"and when the blaze died down,",conjunction,AgedMother,112,44,6
+"there upon the stones,",positioning element,AgedMother,113,44,4
+"with every twist and fiber showing perfectly,",nonrestrictive clause / nonfinite clause,AgedMother,114,44,7
+lay a rope of ashes.,||,AgedMother,115,44,5
+"The governor was pleased at the wit of the youth and praised greatly,",-,AgedMother,116,45,13
+but he demanded to know,conjunction,AgedMother,117,45,5
+where he had obtained his wisdom.,complementizer||,AgedMother,118,45,6
+"""Alas! Alas!"" cried the farmer, ""the truth must be told!""",-,AgedMother,119,46,10
+and with deep bows he related his story.,conjunction||,AgedMother,120,46,8
+The governor listened and then meditated in silence.,||,AgedMother,121,47,8
+"Finally, he lifted his head.",||,AgedMother,122,48,5
+"""Shining needs more than strength of youth,"" he said gravely.",quotation||,AgedMother,123,49,10
+"""Ah, that I should have forgotten the well-known saying,",quotation,AgedMother,124,50,9
+"""with the crown of snow, there cometh wisdom!""",quotation||,AgedMother,125,50,8
+"That very hour the cruel law was abolished,",-,AgedMother,126,51,8
+and custom drifted into as far a past,conjunction,AgedMother,127,51,8
+that only legends remain.,relative clause||,AgedMother,128,51,4

@@ -1,0 +1,3409 @@
+{
+  "transcript": "The airplane is almost full.\r\nI think\r\nI've seen this before.\r\nThe surface is slick.\r\nWe'll stop in a couple of minutes.\r\nDon't forget a jacket.\r\nCan you hear me?\r\nI always enjoy\r\nwhen she visits.\r\nThe mountains are supposed\r\nto be nice this time of year.\r\nHave you ever tasted anything better?\r\nWhat makes you think\r\nyou can yell at me?\r\nWhy are you always\r\ntesting my patience.\r\nDo you think\r\nyou can push me around?\r\nDon't ever speak to me that way.\r\nQuit bothering me.\r\nThis microwave is useless.\r\nHave you seen him?\r\nI'm on my way to the meeting.\r\nI would like a new alarm clock.\r\nI regret\r\nthat we broke up.\r\nIf only I could go back.\r\nMy brother is very sick.\r\nWhat could be better?\r\nHe's always pleasant\r\nto be around.\r\nThat abandoned warehouse doesn't seem safe.\r\nThe forest is eerie\r\nwhen no one's around.\r\nShe shouldn't walk there at night.\r\nThat was insulting.\r\nThat noise is getting really annoying.\r\nI have been waiting in line for too long.\r\nI love\r\nspending time with you.\r\nIt's getting dark\r\nand I can't find my way back.\r\nI wish we didn't have\r\nto walk through the graveyard.\r\nI felt so hopeless.\r\nPlease forgive me.\r\nI'm so sorry for\r\nhurting you.\r\nThese words are creepy.\r\nI was terrified\r\nthat night.\r\nThat man looks suspicious.\r\nYou look wonderful.\r\nThey say\r\nhe was a murderer.\r\nThe soup is delicious.\r\nI think\r\nI have a doctor's appointment.\r\nI wonder\r\nwhat that is about.\r\nMaybe tomorrow it will be cold.\r\nI really enjoy our family vacations.\r\nI look forward to meeting you.\r\nThat was a blast.\r\nWe had so much fun\r\nlast night.\r\nI'm not ready for the biopsy results.\r\nShe never returned from the campout.\r\nI think\r\nsomeone's in here besides us.\r\nMy dog died yesterday.\r\nI miss the trips\r\nwe used to take.\r\nIt's terrible\r\nthat such a thing could happen.\r\nHe never listens to me anymore.\r\nI miss the time\r\nwe spent together.\r\nI can't seem\r\nto do well on my exams.\r\nDon't raise your voice at me.\r\nI'm going\r\nto write a complaint.\r\nI never want\r\nto see you again.",
+  "words": [
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 3,
+      "startOffset": 0,
+      "word": "The"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 12,
+      "startOffset": 4,
+      "word": "airplane"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 15,
+      "startOffset": 13,
+      "word": "is"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 22,
+      "startOffset": 16,
+      "word": "almost"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 27,
+      "startOffset": 23,
+      "word": "full"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 31,
+      "startOffset": 30,
+      "word": "I"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 37,
+      "startOffset": 32,
+      "word": "think"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 43,
+      "startOffset": 39,
+      "word": "I've"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 48,
+      "startOffset": 44,
+      "word": "seen"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 53,
+      "startOffset": 49,
+      "word": "this"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 60,
+      "startOffset": 54,
+      "word": "before"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 66,
+      "startOffset": 63,
+      "word": "The"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 74,
+      "startOffset": 67,
+      "word": "surface"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 77,
+      "startOffset": 75,
+      "word": "is"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 83,
+      "startOffset": 78,
+      "word": "slick"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 91,
+      "startOffset": 86,
+      "word": "We'll"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 96,
+      "startOffset": 92,
+      "word": "stop"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 99,
+      "startOffset": 97,
+      "word": "in"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 101,
+      "startOffset": 100,
+      "word": "a"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 108,
+      "startOffset": 102,
+      "word": "couple"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 111,
+      "startOffset": 109,
+      "word": "of"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 119,
+      "startOffset": 112,
+      "word": "minutes"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 127,
+      "startOffset": 122,
+      "word": "Don't"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 134,
+      "startOffset": 128,
+      "word": "forget"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 136,
+      "startOffset": 135,
+      "word": "a"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 143,
+      "startOffset": 137,
+      "word": "jacket"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 149,
+      "startOffset": 146,
+      "word": "Can"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 153,
+      "startOffset": 150,
+      "word": "you"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 158,
+      "startOffset": 154,
+      "word": "hear"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 161,
+      "startOffset": 159,
+      "word": "me"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 165,
+      "startOffset": 164,
+      "word": "I"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 172,
+      "startOffset": 166,
+      "word": "always"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 178,
+      "startOffset": 173,
+      "word": "enjoy"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 184,
+      "startOffset": 180,
+      "word": "when"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 188,
+      "startOffset": 185,
+      "word": "she"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 195,
+      "startOffset": 189,
+      "word": "visits"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 201,
+      "startOffset": 198,
+      "word": "The"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 211,
+      "startOffset": 202,
+      "word": "mountains"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 215,
+      "startOffset": 212,
+      "word": "are"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 224,
+      "startOffset": 216,
+      "word": "supposed"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 228,
+      "startOffset": 226,
+      "word": "to"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 231,
+      "startOffset": 229,
+      "word": "be"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 236,
+      "startOffset": 232,
+      "word": "nice"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 241,
+      "startOffset": 237,
+      "word": "this"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 246,
+      "startOffset": 242,
+      "word": "time"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 249,
+      "startOffset": 247,
+      "word": "of"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 254,
+      "startOffset": 250,
+      "word": "year"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 261,
+      "startOffset": 257,
+      "word": "Have"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 265,
+      "startOffset": 262,
+      "word": "you"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 270,
+      "startOffset": 266,
+      "word": "ever"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 277,
+      "startOffset": 271,
+      "word": "tasted"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 286,
+      "startOffset": 278,
+      "word": "anything"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 293,
+      "startOffset": 287,
+      "word": "better"
+    },
+    {
+      "alignedWord": "what",
+      "case": "success",
+      "end": 0.33999999999999997,
+      "endOffset": 300,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "t_E"
+        }
+      ],
+      "start": 0.31,
+      "startOffset": 296,
+      "word": "What"
+    },
+    {
+      "alignedWord": "makes",
+      "case": "success",
+      "end": 0.64,
+      "endOffset": 306,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "m_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "ey_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "k_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "s_E"
+        }
+      ],
+      "start": 0.34,
+      "startOffset": 301,
+      "word": "makes"
+    },
+    {
+      "alignedWord": "you",
+      "case": "success",
+      "end": 0.75,
+      "endOffset": 310,
+      "phones": [
+        {
+          "duration": 0.04,
+          "phone": "y_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "uw_E"
+        }
+      ],
+      "start": 0.64,
+      "startOffset": 307,
+      "word": "you"
+    },
+    {
+      "alignedWord": "think",
+      "case": "success",
+      "end": 1.07,
+      "endOffset": 316,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "th_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "ng_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "k_E"
+        }
+      ],
+      "start": 0.8,
+      "startOffset": 311,
+      "word": "think"
+    },
+    {
+      "alignedWord": "you",
+      "case": "success",
+      "end": 1.19,
+      "endOffset": 321,
+      "phones": [
+        {
+          "duration": 0.04,
+          "phone": "y_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "uw_E"
+        }
+      ],
+      "start": 1.07,
+      "startOffset": 318,
+      "word": "you"
+    },
+    {
+      "alignedWord": "can",
+      "case": "success",
+      "end": 1.3699999999999999,
+      "endOffset": 325,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "k_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "n_E"
+        }
+      ],
+      "start": 1.19,
+      "startOffset": 322,
+      "word": "can"
+    },
+    {
+      "alignedWord": "yell",
+      "case": "success",
+      "end": 1.6600000000000001,
+      "endOffset": 330,
+      "phones": [
+        {
+          "duration": 0.12,
+          "phone": "y_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "l_E"
+        }
+      ],
+      "start": 1.37,
+      "startOffset": 326,
+      "word": "yell"
+    },
+    {
+      "alignedWord": "at",
+      "case": "success",
+      "end": 1.7999999999999998,
+      "endOffset": 333,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "ae_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "t_E"
+        }
+      ],
+      "start": 1.66,
+      "startOffset": 331,
+      "word": "at"
+    },
+    {
+      "alignedWord": "me",
+      "case": "success",
+      "end": 2.09,
+      "endOffset": 336,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "m_B"
+        },
+        {
+          "duration": 0.22,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 1.8,
+      "startOffset": 334,
+      "word": "me"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 342,
+      "startOffset": 339,
+      "word": "Why"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 346,
+      "startOffset": 343,
+      "word": "are"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 350,
+      "startOffset": 347,
+      "word": "you"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 357,
+      "startOffset": 351,
+      "word": "always"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 366,
+      "startOffset": 359,
+      "word": "testing"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 369,
+      "startOffset": 367,
+      "word": "my"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 378,
+      "startOffset": 370,
+      "word": "patience"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 383,
+      "startOffset": 381,
+      "word": "Do"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 387,
+      "startOffset": 384,
+      "word": "you"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 393,
+      "startOffset": 388,
+      "word": "think"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 398,
+      "startOffset": 395,
+      "word": "you"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 402,
+      "startOffset": 399,
+      "word": "can"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 407,
+      "startOffset": 403,
+      "word": "push"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 410,
+      "startOffset": 408,
+      "word": "me"
+    },
+    {
+      "alignedWord": "around",
+      "case": "success",
+      "end": 4.33,
+      "endOffset": 417,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "er_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "aw_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "d_E"
+        }
+      ],
+      "start": 4.29,
+      "startOffset": 411,
+      "word": "around"
+    },
+    {
+      "alignedWord": "don't",
+      "case": "success",
+      "end": 4.5200000000000005,
+      "endOffset": 425,
+      "phones": [
+        {
+          "duration": 0.03,
+          "phone": "d_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ow_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "t_E"
+        }
+      ],
+      "start": 4.33,
+      "startOffset": 420,
+      "word": "Don't"
+    },
+    {
+      "alignedWord": "ever",
+      "case": "success",
+      "end": 4.96,
+      "endOffset": 430,
+      "phones": [
+        {
+          "duration": 0.12,
+          "phone": "eh_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "v_I"
+        },
+        {
+          "duration": 0.13,
+          "phone": "er_E"
+        }
+      ],
+      "start": 4.62,
+      "startOffset": 426,
+      "word": "ever"
+    },
+    {
+      "alignedWord": "speak",
+      "case": "success",
+      "end": 5.279999999999999,
+      "endOffset": 436,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "s_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "p_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "iy_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "k_E"
+        }
+      ],
+      "start": 4.97,
+      "startOffset": 431,
+      "word": "speak"
+    },
+    {
+      "alignedWord": "to",
+      "case": "success",
+      "end": 5.37,
+      "endOffset": 439,
+      "phones": [
+        {
+          "duration": 0.04,
+          "phone": "t_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "ih_E"
+        }
+      ],
+      "start": 5.28,
+      "startOffset": 437,
+      "word": "to"
+    },
+    {
+      "alignedWord": "me",
+      "case": "success",
+      "end": 5.51,
+      "endOffset": 442,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "m_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 5.37,
+      "startOffset": 440,
+      "word": "me"
+    },
+    {
+      "alignedWord": "that",
+      "case": "success",
+      "end": 5.7,
+      "endOffset": 447,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "t_E"
+        }
+      ],
+      "start": 5.51,
+      "startOffset": 443,
+      "word": "that"
+    },
+    {
+      "alignedWord": "way",
+      "case": "success",
+      "end": 6.01,
+      "endOffset": 451,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.22,
+          "phone": "ey_E"
+        }
+      ],
+      "start": 5.7,
+      "startOffset": 448,
+      "word": "way"
+    },
+    {
+      "alignedWord": "quit",
+      "case": "success",
+      "end": 8.489999000000001,
+      "endOffset": 458,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "k_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "w_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "t_E"
+        }
+      ],
+      "start": 8.179999,
+      "startOffset": 454,
+      "word": "Quit"
+    },
+    {
+      "alignedWord": "bothering",
+      "case": "success",
+      "end": 9.08,
+      "endOffset": 468,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "b_B"
+        },
+        {
+          "duration": 0.16,
+          "phone": "aa_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "dh_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "er_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "ng_E"
+        }
+      ],
+      "start": 8.49,
+      "startOffset": 459,
+      "word": "bothering"
+    },
+    {
+      "alignedWord": "me",
+      "case": "success",
+      "end": 9.41,
+      "endOffset": 471,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "m_B"
+        },
+        {
+          "duration": 0.26,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 9.08,
+      "startOffset": 469,
+      "word": "me"
+    },
+    {
+      "alignedWord": "this",
+      "case": "success",
+      "end": 9.45,
+      "endOffset": 478,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "s_E"
+        }
+      ],
+      "start": 9.42,
+      "startOffset": 474,
+      "word": "This"
+    },
+    {
+      "alignedWord": "microwave",
+      "case": "success",
+      "end": 9.53,
+      "endOffset": 488,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "m_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "ay_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "k_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "w_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "ey_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "v_E"
+        }
+      ],
+      "start": 9.45,
+      "startOffset": 479,
+      "word": "microwave"
+    },
+    {
+      "alignedWord": "is",
+      "case": "success",
+      "end": 9.55,
+      "endOffset": 491,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "ih_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "z_E"
+        }
+      ],
+      "start": 9.53,
+      "startOffset": 489,
+      "word": "is"
+    },
+    {
+      "alignedWord": "useless",
+      "case": "success",
+      "end": 9.61,
+      "endOffset": 499,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "y_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "uw_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "s_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "s_E"
+        }
+      ],
+      "start": 9.55,
+      "startOffset": 492,
+      "word": "useless"
+    },
+    {
+      "alignedWord": "have",
+      "case": "success",
+      "end": 9.64,
+      "endOffset": 506,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "v_E"
+        }
+      ],
+      "start": 9.61,
+      "startOffset": 502,
+      "word": "Have"
+    },
+    {
+      "alignedWord": "you",
+      "case": "success",
+      "end": 18.119999999999997,
+      "endOffset": 510,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "y_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "uw_E"
+        }
+      ],
+      "start": 18.1,
+      "startOffset": 507,
+      "word": "you"
+    },
+    {
+      "alignedWord": "seen",
+      "case": "success",
+      "end": 18.15,
+      "endOffset": 515,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "s_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "iy_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "n_E"
+        }
+      ],
+      "start": 18.12,
+      "startOffset": 511,
+      "word": "seen"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 519,
+      "startOffset": 516,
+      "word": "him"
+    },
+    {
+      "alignedWord": "i'm",
+      "case": "success",
+      "end": 18.3,
+      "endOffset": 525,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "ay_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "m_E"
+        }
+      ],
+      "start": 18.17,
+      "startOffset": 522,
+      "word": "I'm"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 528,
+      "startOffset": 526,
+      "word": "on"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 531,
+      "startOffset": 529,
+      "word": "my"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 535,
+      "startOffset": 532,
+      "word": "way"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 538,
+      "startOffset": 536,
+      "word": "to"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 542,
+      "startOffset": 539,
+      "word": "the"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 550,
+      "startOffset": 543,
+      "word": "meeting"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 554,
+      "startOffset": 553,
+      "word": "I"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 560,
+      "startOffset": 555,
+      "word": "would"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 565,
+      "startOffset": 561,
+      "word": "like"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 567,
+      "startOffset": 566,
+      "word": "a"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 571,
+      "startOffset": 568,
+      "word": "new"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 577,
+      "startOffset": 572,
+      "word": "alarm"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 583,
+      "startOffset": 578,
+      "word": "clock"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 587,
+      "startOffset": 586,
+      "word": "I"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 594,
+      "startOffset": 588,
+      "word": "regret"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 600,
+      "startOffset": 596,
+      "word": "that"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 603,
+      "startOffset": 601,
+      "word": "we"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 609,
+      "startOffset": 604,
+      "word": "broke"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 612,
+      "startOffset": 610,
+      "word": "up"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 617,
+      "startOffset": 615,
+      "word": "If"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 622,
+      "startOffset": 618,
+      "word": "only"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 624,
+      "startOffset": 623,
+      "word": "I"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 630,
+      "startOffset": 625,
+      "word": "could"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 633,
+      "startOffset": 631,
+      "word": "go"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 638,
+      "startOffset": 634,
+      "word": "back"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 643,
+      "startOffset": 641,
+      "word": "My"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 651,
+      "startOffset": 644,
+      "word": "brother"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 654,
+      "startOffset": 652,
+      "word": "is"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 659,
+      "startOffset": 655,
+      "word": "very"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 664,
+      "startOffset": 660,
+      "word": "sick"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 671,
+      "startOffset": 667,
+      "word": "What"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 677,
+      "startOffset": 672,
+      "word": "could"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 680,
+      "startOffset": 678,
+      "word": "be"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 687,
+      "startOffset": 681,
+      "word": "better"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 694,
+      "startOffset": 690,
+      "word": "He's"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 701,
+      "startOffset": 695,
+      "word": "always"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 710,
+      "startOffset": 702,
+      "word": "pleasant"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 714,
+      "startOffset": 712,
+      "word": "to"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 717,
+      "startOffset": 715,
+      "word": "be"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 724,
+      "startOffset": 718,
+      "word": "around"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 731,
+      "startOffset": 727,
+      "word": "That"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 741,
+      "startOffset": 732,
+      "word": "abandoned"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 751,
+      "startOffset": 742,
+      "word": "warehouse"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 759,
+      "startOffset": 752,
+      "word": "doesn't"
+    },
+    {
+      "alignedWord": "seem",
+      "case": "success",
+      "end": 23.759999999999998,
+      "endOffset": 764,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "s_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "iy_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "m_E"
+        }
+      ],
+      "start": 23.54,
+      "startOffset": 760,
+      "word": "seem"
+    },
+    {
+      "alignedWord": "safe",
+      "case": "success",
+      "end": 24.259999999999998,
+      "endOffset": 769,
+      "phones": [
+        {
+          "duration": 0.15,
+          "phone": "s_B"
+        },
+        {
+          "duration": 0.16,
+          "phone": "ey_I"
+        },
+        {
+          "duration": 0.19,
+          "phone": "f_E"
+        }
+      ],
+      "start": 23.759999999999998,
+      "startOffset": 765,
+      "word": "safe"
+    },
+    {
+      "alignedWord": "the",
+      "case": "success",
+      "end": 41.21,
+      "endOffset": 775,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ah_E"
+        }
+      ],
+      "start": 41.08,
+      "startOffset": 772,
+      "word": "The"
+    },
+    {
+      "alignedWord": "forest",
+      "case": "success",
+      "end": 41.69,
+      "endOffset": 782,
+      "phones": [
+        {
+          "duration": 0.11,
+          "phone": "f_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "ao_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "s_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "t_E"
+        }
+      ],
+      "start": 41.21,
+      "startOffset": 776,
+      "word": "forest"
+    },
+    {
+      "alignedWord": "is",
+      "case": "success",
+      "end": 41.89,
+      "endOffset": 785,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "ih_B"
+        },
+        {
+          "duration": 0.14,
+          "phone": "z_E"
+        }
+      ],
+      "start": 41.69,
+      "startOffset": 783,
+      "word": "is"
+    },
+    {
+      "alignedWord": "eerie",
+      "case": "success",
+      "end": 42.38,
+      "endOffset": 791,
+      "phones": [
+        {
+          "duration": 0.21,
+          "phone": "ih_B"
+        },
+        {
+          "duration": 0.12,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 41.96,
+      "startOffset": 786,
+      "word": "eerie"
+    },
+    {
+      "alignedWord": "when",
+      "case": "success",
+      "end": 42.56,
+      "endOffset": 797,
+      "phones": [
+        {
+          "duration": 0.04,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "n_E"
+        }
+      ],
+      "start": 42.38,
+      "startOffset": 793,
+      "word": "when"
+    },
+    {
+      "alignedWord": "no",
+      "case": "success",
+      "end": 42.660000000000004,
+      "endOffset": 800,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "n_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "ow_E"
+        }
+      ],
+      "start": 42.56,
+      "startOffset": 798,
+      "word": "no"
+    },
+    {
+      "alignedWord": "one's",
+      "case": "success",
+      "end": 42.9,
+      "endOffset": 806,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "z_E"
+        }
+      ],
+      "start": 42.66,
+      "startOffset": 801,
+      "word": "one's"
+    },
+    {
+      "alignedWord": "around",
+      "case": "success",
+      "end": 43.48,
+      "endOffset": 813,
+      "phones": [
+        {
+          "duration": 0.12,
+          "phone": "er_B"
+        },
+        {
+          "duration": 0.19,
+          "phone": "aw_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.17,
+          "phone": "d_E"
+        }
+      ],
+      "start": 42.9,
+      "startOffset": 807,
+      "word": "around"
+    },
+    {
+      "alignedWord": "she",
+      "case": "success",
+      "end": 45.77,
+      "endOffset": 819,
+      "phones": [
+        {
+          "duration": 0.11,
+          "phone": "sh_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 45.59,
+      "startOffset": 816,
+      "word": "She"
+    },
+    {
+      "alignedWord": "shouldn't",
+      "case": "success",
+      "end": 46.06999999999999,
+      "endOffset": 829,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "sh_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "uh_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "d_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "t_E"
+        }
+      ],
+      "start": 45.769999999999996,
+      "startOffset": 820,
+      "word": "shouldn't"
+    },
+    {
+      "alignedWord": "walk",
+      "case": "success",
+      "end": 46.32,
+      "endOffset": 834,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "ao_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "k_E"
+        }
+      ],
+      "start": 46.07,
+      "startOffset": 830,
+      "word": "walk"
+    },
+    {
+      "alignedWord": "there",
+      "case": "success",
+      "end": 46.49,
+      "endOffset": 840,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "r_E"
+        }
+      ],
+      "start": 46.32,
+      "startOffset": 835,
+      "word": "there"
+    },
+    {
+      "alignedWord": "at",
+      "case": "success",
+      "end": 46.59,
+      "endOffset": 843,
+      "phones": [
+        {
+          "duration": 0.02,
+          "phone": "ae_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "t_E"
+        }
+      ],
+      "start": 46.49,
+      "startOffset": 841,
+      "word": "at"
+    },
+    {
+      "alignedWord": "night",
+      "case": "success",
+      "end": 74.99,
+      "endOffset": 849,
+      "phones": [
+        {
+          "duration": 0.03,
+          "phone": "n_B"
+        },
+        {
+          "duration": 0.14,
+          "phone": "ay_I"
+        },
+        {
+          "duration": 0.21,
+          "phone": "t_E"
+        }
+      ],
+      "start": 74.61,
+      "startOffset": 844,
+      "word": "night"
+    },
+    {
+      "alignedWord": "that",
+      "case": "success",
+      "end": 276.31,
+      "endOffset": 856,
+      "phones": [
+        {
+          "duration": 0.12,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "t_E"
+        }
+      ],
+      "start": 276.01,
+      "startOffset": 852,
+      "word": "That"
+    },
+    {
+      "alignedWord": "was",
+      "case": "success",
+      "end": 276.45,
+      "endOffset": 860,
+      "phones": [
+        {
+          "duration": 0.03,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "z_E"
+        }
+      ],
+      "start": 276.31,
+      "startOffset": 857,
+      "word": "was"
+    },
+    {
+      "alignedWord": "insulting",
+      "case": "success",
+      "end": 277.31,
+      "endOffset": 870,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "ih_B"
+        },
+        {
+          "duration": 0.11,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.13,
+          "phone": "s_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.2,
+          "phone": "ng_E"
+        }
+      ],
+      "start": 276.45,
+      "startOffset": 861,
+      "word": "insulting"
+    },
+    {
+      "alignedWord": "that",
+      "case": "success",
+      "end": 279.65,
+      "endOffset": 877,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "t_E"
+        }
+      ],
+      "start": 279.4,
+      "startOffset": 873,
+      "word": "That"
+    },
+    {
+      "alignedWord": "noise",
+      "case": "success",
+      "end": 279.92999999999995,
+      "endOffset": 883,
+      "phones": [
+        {
+          "duration": 0.04,
+          "phone": "n_B"
+        },
+        {
+          "duration": 0.19,
+          "phone": "oy_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "z_E"
+        }
+      ],
+      "start": 279.65,
+      "startOffset": 878,
+      "word": "noise"
+    },
+    {
+      "alignedWord": "is",
+      "case": "success",
+      "end": 280.09999999999997,
+      "endOffset": 886,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "ih_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "z_E"
+        }
+      ],
+      "start": 279.95,
+      "startOffset": 884,
+      "word": "is"
+    },
+    {
+      "alignedWord": "getting",
+      "case": "success",
+      "end": 280.38999900000005,
+      "endOffset": 894,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "g_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.12,
+          "phone": "ng_E"
+        }
+      ],
+      "start": 280.099999,
+      "startOffset": 887,
+      "word": "getting"
+    },
+    {
+      "alignedWord": "really",
+      "case": "success",
+      "end": 280.82,
+      "endOffset": 901,
+      "phones": [
+        {
+          "duration": 0.12,
+          "phone": "r_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "iy_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 280.42,
+      "startOffset": 895,
+      "word": "really"
+    },
+    {
+      "alignedWord": "annoying",
+      "case": "success",
+      "end": 281.39,
+      "endOffset": 910,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "ah_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.13,
+          "phone": "oy_I"
+        },
+        {
+          "duration": 0.12,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.17,
+          "phone": "ng_E"
+        }
+      ],
+      "start": 280.86,
+      "startOffset": 902,
+      "word": "annoying"
+    },
+    {
+      "alignedWord": "i",
+      "case": "success",
+      "end": 337.03,
+      "endOffset": 914,
+      "phones": [
+        {
+          "duration": 0.15,
+          "phone": "ay_S"
+        }
+      ],
+      "start": 336.88,
+      "startOffset": 913,
+      "word": "I"
+    },
+    {
+      "alignedWord": "have",
+      "case": "success",
+      "end": 337.15,
+      "endOffset": 919,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "v_E"
+        }
+      ],
+      "start": 337.03,
+      "startOffset": 915,
+      "word": "have"
+    },
+    {
+      "alignedWord": "been",
+      "case": "success",
+      "end": 337.29999999999995,
+      "endOffset": 924,
+      "phones": [
+        {
+          "duration": 0.03,
+          "phone": "b_B"
+        },
+        {
+          "duration": 0.03,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "n_E"
+        }
+      ],
+      "start": 337.15,
+      "startOffset": 920,
+      "word": "been"
+    },
+    {
+      "alignedWord": "waiting",
+      "case": "success",
+      "end": 337.559999,
+      "endOffset": 932,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "ey_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "ng_E"
+        }
+      ],
+      "start": 337.299999,
+      "startOffset": 925,
+      "word": "waiting"
+    },
+    {
+      "alignedWord": "in",
+      "case": "success",
+      "end": 337.659999,
+      "endOffset": 935,
+      "phones": [
+        {
+          "duration": 0.04,
+          "phone": "ih_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "n_E"
+        }
+      ],
+      "start": 337.559999,
+      "startOffset": 933,
+      "word": "in"
+    },
+    {
+      "alignedWord": "line",
+      "case": "success",
+      "end": 337.99,
+      "endOffset": 940,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "l_B"
+        },
+        {
+          "duration": 0.13,
+          "phone": "ay_I"
+        },
+        {
+          "duration": 0.13,
+          "phone": "n_E"
+        }
+      ],
+      "start": 337.66,
+      "startOffset": 936,
+      "word": "line"
+    },
+    {
+      "alignedWord": "for",
+      "case": "success",
+      "end": 338.21,
+      "endOffset": 944,
+      "phones": [
+        {
+          "duration": 0.11,
+          "phone": "f_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "er_E"
+        }
+      ],
+      "start": 338.02,
+      "startOffset": 941,
+      "word": "for"
+    },
+    {
+      "alignedWord": "too",
+      "case": "success",
+      "end": 338.58,
+      "endOffset": 948,
+      "phones": [
+        {
+          "duration": 0.21,
+          "phone": "t_B"
+        },
+        {
+          "duration": 0.16,
+          "phone": "uw_E"
+        }
+      ],
+      "start": 338.21,
+      "startOffset": 945,
+      "word": "too"
+    },
+    {
+      "alignedWord": "long",
+      "case": "success",
+      "end": 338.99,
+      "endOffset": 953,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "l_B"
+        },
+        {
+          "duration": 0.15,
+          "phone": "ao_I"
+        },
+        {
+          "duration": 0.17,
+          "phone": "ng_E"
+        }
+      ],
+      "start": 338.58,
+      "startOffset": 949,
+      "word": "long"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 957,
+      "startOffset": 956,
+      "word": "I"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 962,
+      "startOffset": 958,
+      "word": "love"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 972,
+      "startOffset": 964,
+      "word": "spending"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 977,
+      "startOffset": 973,
+      "word": "time"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 982,
+      "startOffset": 978,
+      "word": "with"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 986,
+      "startOffset": 983,
+      "word": "you"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 993,
+      "startOffset": 989,
+      "word": "It's"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 1001,
+      "startOffset": 994,
+      "word": "getting"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 1006,
+      "startOffset": 1002,
+      "word": "dark"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 1011,
+      "startOffset": 1008,
+      "word": "and"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 1013,
+      "startOffset": 1012,
+      "word": "I"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 1019,
+      "startOffset": 1014,
+      "word": "can't"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 1024,
+      "startOffset": 1020,
+      "word": "find"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 1027,
+      "startOffset": 1025,
+      "word": "my"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 1031,
+      "startOffset": 1028,
+      "word": "way"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 1036,
+      "startOffset": 1032,
+      "word": "back"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 1040,
+      "startOffset": 1039,
+      "word": "I"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 1045,
+      "startOffset": 1041,
+      "word": "wish"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 1048,
+      "startOffset": 1046,
+      "word": "we"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 1055,
+      "startOffset": 1049,
+      "word": "didn't"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 1060,
+      "startOffset": 1056,
+      "word": "have"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 1064,
+      "startOffset": 1062,
+      "word": "to"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 1069,
+      "startOffset": 1065,
+      "word": "walk"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 1077,
+      "startOffset": 1070,
+      "word": "through"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 1081,
+      "startOffset": 1078,
+      "word": "the"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 1091,
+      "startOffset": 1082,
+      "word": "graveyard"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 1095,
+      "startOffset": 1094,
+      "word": "I"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 1100,
+      "startOffset": 1096,
+      "word": "felt"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 1103,
+      "startOffset": 1101,
+      "word": "so"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 1112,
+      "startOffset": 1104,
+      "word": "hopeless"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 1121,
+      "startOffset": 1115,
+      "word": "Please"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 1129,
+      "startOffset": 1122,
+      "word": "forgive"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 1132,
+      "startOffset": 1130,
+      "word": "me"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 1138,
+      "startOffset": 1135,
+      "word": "I'm"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 1141,
+      "startOffset": 1139,
+      "word": "so"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 1147,
+      "startOffset": 1142,
+      "word": "sorry"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 1151,
+      "startOffset": 1148,
+      "word": "for"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 1160,
+      "startOffset": 1153,
+      "word": "hurting"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 1164,
+      "startOffset": 1161,
+      "word": "you"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 1172,
+      "startOffset": 1167,
+      "word": "These"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 1178,
+      "startOffset": 1173,
+      "word": "words"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 1182,
+      "startOffset": 1179,
+      "word": "are"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 1189,
+      "startOffset": 1183,
+      "word": "creepy"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 1193,
+      "startOffset": 1192,
+      "word": "I"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 1197,
+      "startOffset": 1194,
+      "word": "was"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 1207,
+      "startOffset": 1198,
+      "word": "terrified"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 1213,
+      "startOffset": 1209,
+      "word": "that"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 1219,
+      "startOffset": 1214,
+      "word": "night"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 1226,
+      "startOffset": 1222,
+      "word": "That"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 1230,
+      "startOffset": 1227,
+      "word": "man"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 1236,
+      "startOffset": 1231,
+      "word": "looks"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 1247,
+      "startOffset": 1237,
+      "word": "suspicious"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 1253,
+      "startOffset": 1250,
+      "word": "You"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 1258,
+      "startOffset": 1254,
+      "word": "look"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 1268,
+      "startOffset": 1259,
+      "word": "wonderful"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 1275,
+      "startOffset": 1271,
+      "word": "They"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 1279,
+      "startOffset": 1276,
+      "word": "say"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 1283,
+      "startOffset": 1281,
+      "word": "he"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 1287,
+      "startOffset": 1284,
+      "word": "was"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 1289,
+      "startOffset": 1288,
+      "word": "a"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 1298,
+      "startOffset": 1290,
+      "word": "murderer"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 1304,
+      "startOffset": 1301,
+      "word": "The"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 1309,
+      "startOffset": 1305,
+      "word": "soup"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 1312,
+      "startOffset": 1310,
+      "word": "is"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 1322,
+      "startOffset": 1313,
+      "word": "delicious"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 1326,
+      "startOffset": 1325,
+      "word": "I"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 1332,
+      "startOffset": 1327,
+      "word": "think"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 1335,
+      "startOffset": 1334,
+      "word": "I"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 1340,
+      "startOffset": 1336,
+      "word": "have"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 1342,
+      "startOffset": 1341,
+      "word": "a"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 1351,
+      "startOffset": 1343,
+      "word": "doctor's"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 1363,
+      "startOffset": 1352,
+      "word": "appointment"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 1367,
+      "startOffset": 1366,
+      "word": "I"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 1374,
+      "startOffset": 1368,
+      "word": "wonder"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 1380,
+      "startOffset": 1376,
+      "word": "what"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 1385,
+      "startOffset": 1381,
+      "word": "that"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 1388,
+      "startOffset": 1386,
+      "word": "is"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 1394,
+      "startOffset": 1389,
+      "word": "about"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 1402,
+      "startOffset": 1397,
+      "word": "Maybe"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 1411,
+      "startOffset": 1403,
+      "word": "tomorrow"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 1414,
+      "startOffset": 1412,
+      "word": "it"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 1419,
+      "startOffset": 1415,
+      "word": "will"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 1422,
+      "startOffset": 1420,
+      "word": "be"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 1427,
+      "startOffset": 1423,
+      "word": "cold"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 1431,
+      "startOffset": 1430,
+      "word": "I"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 1438,
+      "startOffset": 1432,
+      "word": "really"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 1444,
+      "startOffset": 1439,
+      "word": "enjoy"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 1448,
+      "startOffset": 1445,
+      "word": "our"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 1455,
+      "startOffset": 1449,
+      "word": "family"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 1465,
+      "startOffset": 1456,
+      "word": "vacations"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 1469,
+      "startOffset": 1468,
+      "word": "I"
+    },
+    {
+      "alignedWord": "look",
+      "case": "success",
+      "end": 349.01000000000005,
+      "endOffset": 1474,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "l_B"
+        },
+        {
+          "duration": 0.04,
+          "phone": "uh_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "k_E"
+        }
+      ],
+      "start": 348.85,
+      "startOffset": 1470,
+      "word": "look"
+    },
+    {
+      "alignedWord": "forward",
+      "case": "success",
+      "end": 349.31,
+      "endOffset": 1482,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "f_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ao_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "w_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "er_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "d_E"
+        }
+      ],
+      "start": 349.01,
+      "startOffset": 1475,
+      "word": "forward"
+    },
+    {
+      "alignedWord": "to",
+      "case": "success",
+      "end": 349.39,
+      "endOffset": 1485,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "t_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ih_E"
+        }
+      ],
+      "start": 349.31,
+      "startOffset": 1483,
+      "word": "to"
+    },
+    {
+      "alignedWord": "meeting",
+      "case": "success",
+      "end": 349.66999999999996,
+      "endOffset": 1493,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "m_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "iy_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ng_E"
+        }
+      ],
+      "start": 349.39,
+      "startOffset": 1486,
+      "word": "meeting"
+    },
+    {
+      "alignedWord": "you",
+      "case": "success",
+      "end": 349.94,
+      "endOffset": 1497,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "y_B"
+        },
+        {
+          "duration": 0.22,
+          "phone": "uw_E"
+        }
+      ],
+      "start": 349.67,
+      "startOffset": 1494,
+      "word": "you"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 1504,
+      "startOffset": 1500,
+      "word": "That"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 1508,
+      "startOffset": 1505,
+      "word": "was"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 1510,
+      "startOffset": 1509,
+      "word": "a"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 1516,
+      "startOffset": 1511,
+      "word": "blast"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 1521,
+      "startOffset": 1519,
+      "word": "We"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 1525,
+      "startOffset": 1522,
+      "word": "had"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 1528,
+      "startOffset": 1526,
+      "word": "so"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 1533,
+      "startOffset": 1529,
+      "word": "much"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 1537,
+      "startOffset": 1534,
+      "word": "fun"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 1543,
+      "startOffset": 1539,
+      "word": "last"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 1549,
+      "startOffset": 1544,
+      "word": "night"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 1555,
+      "startOffset": 1552,
+      "word": "I'm"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 1559,
+      "startOffset": 1556,
+      "word": "not"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 1565,
+      "startOffset": 1560,
+      "word": "ready"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 1569,
+      "startOffset": 1566,
+      "word": "for"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 1573,
+      "startOffset": 1570,
+      "word": "the"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 1580,
+      "startOffset": 1574,
+      "word": "biopsy"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 1588,
+      "startOffset": 1581,
+      "word": "results"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 1594,
+      "startOffset": 1591,
+      "word": "She"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 1600,
+      "startOffset": 1595,
+      "word": "never"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 1609,
+      "startOffset": 1601,
+      "word": "returned"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 1614,
+      "startOffset": 1610,
+      "word": "from"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 1618,
+      "startOffset": 1615,
+      "word": "the"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 1626,
+      "startOffset": 1619,
+      "word": "campout"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 1630,
+      "startOffset": 1629,
+      "word": "I"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 1636,
+      "startOffset": 1631,
+      "word": "think"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 1647,
+      "startOffset": 1638,
+      "word": "someone's"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 1650,
+      "startOffset": 1648,
+      "word": "in"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 1655,
+      "startOffset": 1651,
+      "word": "here"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 1663,
+      "startOffset": 1656,
+      "word": "besides"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 1666,
+      "startOffset": 1664,
+      "word": "us"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 1671,
+      "startOffset": 1669,
+      "word": "My"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 1675,
+      "startOffset": 1672,
+      "word": "dog"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 1680,
+      "startOffset": 1676,
+      "word": "died"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 1690,
+      "startOffset": 1681,
+      "word": "yesterday"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 1694,
+      "startOffset": 1693,
+      "word": "I"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 1699,
+      "startOffset": 1695,
+      "word": "miss"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 1703,
+      "startOffset": 1700,
+      "word": "the"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 1709,
+      "startOffset": 1704,
+      "word": "trips"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 1713,
+      "startOffset": 1711,
+      "word": "we"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 1718,
+      "startOffset": 1714,
+      "word": "used"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 1721,
+      "startOffset": 1719,
+      "word": "to"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 1726,
+      "startOffset": 1722,
+      "word": "take"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 1733,
+      "startOffset": 1729,
+      "word": "It's"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 1742,
+      "startOffset": 1734,
+      "word": "terrible"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 1748,
+      "startOffset": 1744,
+      "word": "that"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 1753,
+      "startOffset": 1749,
+      "word": "such"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 1755,
+      "startOffset": 1754,
+      "word": "a"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 1761,
+      "startOffset": 1756,
+      "word": "thing"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 1767,
+      "startOffset": 1762,
+      "word": "could"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 1774,
+      "startOffset": 1768,
+      "word": "happen"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 1779,
+      "startOffset": 1777,
+      "word": "He"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 1785,
+      "startOffset": 1780,
+      "word": "never"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 1793,
+      "startOffset": 1786,
+      "word": "listens"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 1796,
+      "startOffset": 1794,
+      "word": "to"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 1799,
+      "startOffset": 1797,
+      "word": "me"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 1807,
+      "startOffset": 1800,
+      "word": "anymore"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 1811,
+      "startOffset": 1810,
+      "word": "I"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 1816,
+      "startOffset": 1812,
+      "word": "miss"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 1820,
+      "startOffset": 1817,
+      "word": "the"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 1825,
+      "startOffset": 1821,
+      "word": "time"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 1829,
+      "startOffset": 1827,
+      "word": "we"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 1835,
+      "startOffset": 1830,
+      "word": "spent"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 1844,
+      "startOffset": 1836,
+      "word": "together"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 1848,
+      "startOffset": 1847,
+      "word": "I"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 1854,
+      "startOffset": 1849,
+      "word": "can't"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 1859,
+      "startOffset": 1855,
+      "word": "seem"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 1863,
+      "startOffset": 1861,
+      "word": "to"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 1866,
+      "startOffset": 1864,
+      "word": "do"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 1871,
+      "startOffset": 1867,
+      "word": "well"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 1874,
+      "startOffset": 1872,
+      "word": "on"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 1877,
+      "startOffset": 1875,
+      "word": "my"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 1883,
+      "startOffset": 1878,
+      "word": "exams"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 1891,
+      "startOffset": 1886,
+      "word": "Don't"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 1897,
+      "startOffset": 1892,
+      "word": "raise"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 1902,
+      "startOffset": 1898,
+      "word": "your"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 1908,
+      "startOffset": 1903,
+      "word": "voice"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 1911,
+      "startOffset": 1909,
+      "word": "at"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 1914,
+      "startOffset": 1912,
+      "word": "me"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 1920,
+      "startOffset": 1917,
+      "word": "I'm"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 1926,
+      "startOffset": 1921,
+      "word": "going"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 1930,
+      "startOffset": 1928,
+      "word": "to"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 1936,
+      "startOffset": 1931,
+      "word": "write"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 1938,
+      "startOffset": 1937,
+      "word": "a"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 1948,
+      "startOffset": 1939,
+      "word": "complaint"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 1952,
+      "startOffset": 1951,
+      "word": "I"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 1958,
+      "startOffset": 1953,
+      "word": "never"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 1963,
+      "startOffset": 1959,
+      "word": "want"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 1967,
+      "startOffset": 1965,
+      "word": "to"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 1971,
+      "startOffset": 1968,
+      "word": "see"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 1975,
+      "startOffset": 1972,
+      "word": "you"
+    },
+    {
+      "alignedWord": "again",
+      "case": "success",
+      "end": 352.08000000000004,
+      "endOffset": 1981,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "ah_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "g_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "n_E"
+        }
+      ],
+      "start": 352.04,
+      "startOffset": 1976,
+      "word": "again"
+    }
+  ]
+}

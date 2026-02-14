@@ -1,0 +1,126 @@
+segment,reason,narrative,segID,sentID,Nwords,onset,offset,voice_narrative
+Mr. Reinhart is the building inspector for the entire county.,||,IronyParas,1,1,10,0.0,3.85,WavenetF_IronyParas
+"Before a person can build an addition on their home or property,",conjunction,IronyParas,2,2,12,4.19,7.87,WavenetF_IronyParas
+the plans need to be approved by Mr. Reinhart.,||,IronyParas,3,2,9,7.87,10.9,WavenetF_IronyParas
+Mr. Reinhart is the man.,||,IronyParas,4,3,5,11.66,13.53,WavenetF_IronyParas
+He checks,-,IronyParas,5,4,2,13.899465,14.63,WavenetF_IronyParas
+that each plan follows building codes,complementizer,IronyParas,6,4,6,14.652353,16.86,WavenetF_IronyParas
+before he approves the construction.,conjunction||,IronyParas,7,4,5,16.853101,18.880001,WavenetF_IronyParas
+He makes sure,-,IronyParas,8,5,3,19.64,20.501711,WavenetF_IronyParas
+that construction goes according to the plan once building begins.,complementizer||,IronyParas,9,5,10,20.559625,24.53,WavenetF_IronyParas
+He ensures,-,IronyParas,10,6,2,25.163823,26.15,WavenetF_IronyParas
+that every structure in the county is built properly.,complementizer||,IronyParas,11,6,9,26.148368,29.18,WavenetF_IronyParas
+One day,-,IronyParas,12,7,2,29.478449,30.202379,WavenetF_IronyParas
+Mr. Reinhart was having a party at his house.,||,IronyParas,13,7,9,30.2,33.21,WavenetF_IronyParas
+"He and his guests were barbecuing on the porch attached to his house,",-,IronyParas,14,8,13,33.59,37.67,WavenetF_IronyParas
+when it suddenly collapsed.,relative clause||,IronyParas,15,8,4,37.69,39.555561,WavenetF_IronyParas
+"Apparently, termites got into the wood and had been chewing away the support beams for years.",||,IronyParas,16,9,16,40.29,45.79,WavenetF_IronyParas
+Mr. Reinhart hadn't noticed.,||,IronyParas,17,10,4,46.55,48.77,WavenetF_IronyParas
+Tim Kylie is one of the world's top chefs.,||,IronyParas,18,11,9,59.12,62.13,WavenetF_IronyParas
+"He is best known for his signature dish,",-,IronyParas,19,12,8,62.52,64.99,WavenetF_IronyParas
+triple-dipped chip steak.,nonrestrictive clause||,IronyParas,20,12,3,65.029999,66.69,WavenetF_IronyParas
+This masterpiece contains over a pound of beef braised in duck fat.,||,IronyParas,21,13,12,67.439999,71.709999,WavenetF_IronyParas
+Another of Chef Kylie's more celebrated dishes is the Hamslaughter Supreme.,||,IronyParas,22,14,11,72.47,77.31,WavenetF_IronyParas
+This dish features ham stuffed sausage links presented in a basket made of braided bacon.,||,IronyParas,23,15,15,77.67,83.41,WavenetF_IronyParas
+"While carnivores around the world roar for Chef Kylie's creations,",relative clause,IronyParas,24,16,10,84.13,88.309999,WavenetF_IronyParas
+it is unlikely,-,IronyParas,25,16,3,88.329999,89.419891,WavenetF_IronyParas
+that Chef Kylie will dine with them.,relative clause||,IronyParas,26,16,7,89.419891,91.37,WavenetF_IronyParas
+"As a longtime vegan,",conjunction,IronyParas,27,17,4,92.083955,93.65,WavenetF_IronyParas
+Chef Kylie would never dream of devouring one of his own dishes.,||,IronyParas,28,17,12,93.73,97.53,WavenetF_IronyParas
+As soon as Bobby heard,-,IronyParas,29,18,5,107.489196,109.081843,WavenetF_IronyParas
+"that the math test was going to be worth 30% of his grade,",complementizer,IronyParas,30,18,13,109.04,112.87,WavenetF_IronyParas
+he began studying.,||,IronyParas,31,18,3,112.89,114.27,WavenetF_IronyParas
+He studied in class.,||,IronyParas,32,19,4,115.03,116.7,WavenetF_IronyParas
+He studied on the bus ride home.,||,IronyParas,33,20,7,116.899999,119.09,WavenetF_IronyParas
+He even tried,-,IronyParas,34,21,3,119.46,120.43,WavenetF_IronyParas
+to study,infinitive phrase,IronyParas,35,21,2,120.433073,120.925345,WavenetF_IronyParas
+while walking home from the bus,conjunction (minimal segment) / nonfinite clause,IronyParas,36,21,6,120.939999,122.71,WavenetF_IronyParas
+but stopped after bumping into a lamppost.,conjunction||,IronyParas,37,21,7,122.720693,125.399999,WavenetF_IronyParas
+"When he got home,",positioning element,IronyParas,38,22,4,126.160001,127.37,WavenetF_IronyParas
+he didn't watch any TV,-,IronyParas,39,22,5,127.39,129.17,WavenetF_IronyParas
+because he was studying so intensely.,conjunction||,IronyParas,40,22,6,129.149195,131.45,WavenetF_IronyParas
+He completed the study guide,-,IronyParas,41,23,5,132.2,133.94,WavenetF_IronyParas
+that Mr. Morris gave him,relative clause,IronyParas,42,23,5,133.89,135.461869,WavenetF_IronyParas
+and then he completed one,conjunction,IronyParas,43,23,5,135.519783,136.938687,WavenetF_IronyParas
+that he had made himself.,relative clause||,IronyParas,44,23,5,136.967644,138.44,WavenetF_IronyParas
+Bobby refused,-,IronyParas,45,24,2,139.229999,140.297725,WavenetF_IronyParas
+to quit.,infinitive phrase||,IronyParas,46,24,2,140.297725,140.97,WavenetF_IronyParas
+He stayed awake all night,-,IronyParas,47,25,5,141.16,142.701174,WavenetF_IronyParas
+finding and completing extra problems on the Internet.,nonfinite clause||,IronyParas,48,25,8,142.701174,146.05,WavenetF_IronyParas
+"By the time the sun rose,",positioning element,IronyParas,49,26,6,146.77,148.55,WavenetF_IronyParas
+Bobby had mastered the content.,||,IronyParas,50,26,5,148.56,150.67,WavenetF_IronyParas
+"As he entered the classroom,",conjunction,IronyParas,51,27,5,151.39,153.0,WavenetF_IronyParas
+he felt prepared.,||,IronyParas,52,27,3,153.009944,154.339943,WavenetF_IronyParas
+"He sharpened his pencil, sat at his desk, put his head down, fell asleep, and failed his test.",||,IronyParas,53,28,18,154.73,161.320665,WavenetF_IronyParas
+"When the first English settlers arrived at Jamestown,",positioning element,IronyParas,54,29,8,171.390001,174.599999,WavenetF_IronyParas
+hygiene was not a priority.,||,IronyParas,55,29,5,174.67,176.66,WavenetF_IronyParas
+The settlers faced many challenges.,||,IronyParas,56,30,5,177.45,179.929999,WavenetF_IronyParas
+Food was scarce,-,IronyParas,57,31,3,180.37,181.46,WavenetF_IronyParas
+and the land was unsuitable for farming.,conjunction||,IronyParas,58,31,7,181.47489,183.79,WavenetF_IronyParas
+"Worse still,",nonrestrictive phrase,IronyParas,59,32,2,184.11,185.09,WavenetF_IronyParas
+relations with Native Americans were uneasy,-,IronyParas,60,32,6,185.09,188.019221,WavenetF_IronyParas
+and violence loomed.,conjunction||,IronyParas,61,32,3,188.048178,189.21,WavenetF_IronyParas
+"Yet even in these conditions,",conjunction,IronyParas,62,33,5,189.98,192.0,WavenetF_IronyParas
+some settlers found time,-,IronyParas,63,33,4,192.029999,193.636921,WavenetF_IronyParas
+to care for their teeth.,infinitive phrase||,IronyParas,64,33,5,193.665879,194.88,WavenetF_IronyParas
+They did this,-,IronyParas,65,34,3,195.577055,196.500001,WavenetF_IronyParas
+by brushing their teeth with rags and abrasive tooth powders.,nonfinite clause||,IronyParas,66,34,10,196.503686,200.18,WavenetF_IronyParas
+Archaeologists have examined the remains of these colonists.,||,IronyParas,67,35,8,200.94,204.83,WavenetF_IronyParas
+They discovered,-,IronyParas,68,36,2,205.21,206.059568,WavenetF_IronyParas
+that many of the settlers were missing the enamel on their teeth.,complementizer||,IronyParas,69,36,12,206.069999,209.46,WavenetF_IronyParas
+"By using these tooth powders, the settlers had stripped this protective layer from their teeth.",||,IronyParas,70,37,15,210.21,215.809999,WavenetF_IronyParas
+This caused their teeth,-,IronyParas,71,38,4,216.579999,217.903071,WavenetF_IronyParas
+to decay and fall out prematurely.,infinitive phrase||,IronyParas,72,38,6,217.903071,220.12,WavenetF_IronyParas
+The two men crawled,-,IronyParas,73,39,4,230.35,231.599835,WavenetF_IronyParas
+across the sun scorched sand.,positioning element||,IronyParas,74,39,5,231.599835,233.609999,WavenetF_IronyParas
+The wind blew the sand grains into their faces at blinding speeds,-,IronyParas,75,40,12,234.009999,237.854594,WavenetF_IronyParas
+as they reached their way over the dune.,conjunction||,IronyParas,76,40,8,237.912509,239.87,WavenetF_IronyParas
+The man in back asked the other man,-,IronyParas,77,41,8,240.63,242.835236,WavenetF_IronyParas
+"to stop,",infinitive phrase,IronyParas,78,41,2,242.835236,243.588124,WavenetF_IronyParas
+but his throat was so dry,conjunction,IronyParas,79,41,6,243.56,245.119999,WavenetF_IronyParas
+"that the word sounded more like ""top.""",relative clause||,IronyParas,80,41,7,245.122856,247.29,WavenetF_IronyParas
+So the other man continued.,||,IronyParas,81,42,5,248.08,249.88,WavenetF_IronyParas
+"As they reached the top of the dune,",conjunction,IronyParas,82,43,8,250.24,252.15,WavenetF_IronyParas
+they looked over and saw a glistening pool some thirty yards down the hill.,||,IronyParas,83,43,14,252.179999,256.41,WavenetF_IronyParas
+"It wasn't a large pool,",-,IronyParas,84,44,5,257.16,258.88,WavenetF_IronyParas
+"but it shimmered in the sun,",conjunction,IronyParas,85,44,6,258.88,260.37,WavenetF_IronyParas
+beckoning the dehydrated men.,nonfinite clause||,IronyParas,86,44,4,260.399999,262.28,WavenetF_IronyParas
+It urged them,-,IronyParas,87,45,3,262.931546,263.82922,WavenetF_IronyParas
+to continue their struggle.,infinitive phrase||,IronyParas,88,45,4,263.84,265.439999,WavenetF_IronyParas
+The men summoned the will,-,IronyParas,89,46,5,265.769999,267.144821,WavenetF_IronyParas
+to live.,infinitive phrase||,IronyParas,90,46,2,267.14,267.709999,WavenetF_IronyParas
+They used it as strength,-,IronyParas,91,47,5,268.07,269.53,WavenetF_IronyParas
+"when they had none,",relative clause,IronyParas,92,47,4,269.533792,270.6,WavenetF_IronyParas
+and the men pushed forward,conjunction,IronyParas,93,47,5,270.6,272.082027,WavenetF_IronyParas
+until the tiny pool was in reach.,conjunction||,IronyParas,94,47,7,272.110984,274.23,WavenetF_IronyParas
+The man in front desperately scooped a handful of the shimmering liquid into his mouth.,||,IronyParas,95,48,15,274.96,280.03,WavenetF_IronyParas
+Instantly he began coughing and spitting out the water.,||,IronyParas,96,49,9,280.77,284.04,WavenetF_IronyParas
+"The man behind him seemed confused,",-,IronyParas,97,50,6,284.38,286.72,WavenetF_IronyParas
+"until the man in front said, ""This is salt water...""",conjunction||,IronyParas,98,50,10,286.72,290.151331,WavenetF_IronyParas
+Brandon was an adult,-,IronyParas,99,51,4,300.09,301.4,WavenetF_IronyParas
+when he found out,relative clause,IronyParas,100,51,4,301.415689,302.284406,WavenetF_IronyParas
+that he had been adopted.,relative clause||,IronyParas,101,51,5,302.319999,303.709999,WavenetF_IronyParas
+It came as quite a shock.,||,IronyParas,102,52,6,304.509999,306.338417,WavenetF_IronyParas
+He spent his whole life,-,IronyParas,103,53,5,306.679999,308.11,WavenetF_IronyParas
+thinking that the world was one way,nonfinite clause (minimal segment) / complementizer,IronyParas,104,53,7,308.06,309.92,WavenetF_IronyParas
+when in fact it there was another layer to it.,||,IronyParas,105,53,10,309.900154,312.64,WavenetF_IronyParas
+"As much as he loved and cherished his adoptive parents,",conjunction,IronyParas,106,54,10,313.38,316.639999,WavenetF_IronyParas
+he wanted,-,IronyParas,107,54,2,316.649999,317.32,WavenetF_IronyParas
+to find his biological mother.,infinitive phrase||,IronyParas,108,54,5,317.313202,319.33,WavenetF_IronyParas
+"So he contacted the adoption agency,",-,IronyParas,109,55,6,320.09,322.77,WavenetF_IronyParas
+but her information wasn't listed.,conjunction||,IronyParas,110,55,5,322.759999,324.85,WavenetF_IronyParas
+He had a few clues,-,IronyParas,111,56,5,325.63,326.955956,WavenetF_IronyParas
+"and he followed them up,",conjunction,IronyParas,112,56,5,326.984914,328.172159,WavenetF_IronyParas
+but they led to one dead-end after another.,conjunction||,IronyParas,113,56,8,328.24,330.91,WavenetF_IronyParas
+Brandon became obsessed.,||,IronyParas,114,57,3,331.67,333.51,WavenetF_IronyParas
+"Sparing no expense,",nonfinite clause,IronyParas,115,58,3,333.689999,335.32,WavenetF_IronyParas
+he employed a world-class detective.,||,IronyParas,116,58,5,335.34,337.73,WavenetF_IronyParas
+"After many months of searching,",positioning element,IronyParas,117,59,5,338.06,339.95,WavenetF_IronyParas
+the renowned detective came up empty-handed.,||,IronyParas,118,59,6,339.95,342.760001,WavenetF_IronyParas
+Brandon never quit though.,||,IronyParas,119,60,4,343.530001,345.16,WavenetF_IronyParas
+He spent years and piles of money,-,IronyParas,120,61,7,345.36,347.544539,WavenetF_IronyParas
+scouring the world for clues to his birthmother's identity.,nonfinite clause||,IronyParas,121,61,9,347.58,351.1,WavenetF_IronyParas
+Finally his efforts paid a return.,||,IronyParas,122,62,6,351.87,354.209999,WavenetF_IronyParas
+He discovered,-,IronyParas,123,63,2,354.54,355.391945,WavenetF_IronyParas
+"that she was living right down the street from his house,",complementizer,IronyParas,124,63,11,355.39,358.24,WavenetF_IronyParas
+just around the corner.,nonrestrictive clause||,IronyParas,125,63,4,358.259999,359.72,WavenetF_IronyParas

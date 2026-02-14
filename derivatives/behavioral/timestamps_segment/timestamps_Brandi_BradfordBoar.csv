@@ -1,0 +1,158 @@
+segment,reason,narrative,segID,sentID,Nwords,onset,offset,voice_narrative
+"If you were to journey to the North of England,",-,BradfordBoar,1,1,10,5.57,7.52,Brandi_BradfordBoar
+you would come to a valley,"conjunction (if, then...)",BradfordBoar,2,1,6,7.61,8.71,Brandi_BradfordBoar
+that is surrounded by moors as high as mountains.,relative clause||,BradfordBoar,3,1,9,8.71,11.3,Brandi_BradfordBoar
+It is in this valley,-,BradfordBoar,4,2,5,12.059999,13.213351,Brandi_BradfordBoar
+"where you would find the city of Bradford,",relative clause,BradfordBoar,5,2,8,13.210016,14.997646,Brandi_BradfordBoar
+where once a thousand spinning jennies,relative clause,BradfordBoar,6,2,6,15.469999,17.422716,Brandi_BradfordBoar
+that hummed and clattered,relative clause,BradfordBoar,7,2,4,17.42,18.586676,Brandi_BradfordBoar
+spun wool into money for the long-bearded mill owners.,||,BradfordBoar,8,2,9,19.13,21.9,Brandi_BradfordBoar
+That all mill owners were generally busy as beavers and quite pleased with themselves,relative clause,BradfordBoar,9,3,14,22.89,27.06,Brandi_BradfordBoar
+for being so successful and well off,nonfinite clause,BradfordBoar,10,3,7,27.059999,29.09,Brandi_BradfordBoar
+"was known to the residents of Bradford,",-,BradfordBoar,11,3,7,29.592604,31.43693,Brandi_BradfordBoar
+and if you were,conjunction,BradfordBoar,12,3,4,32.059999,32.56,Brandi_BradfordBoar
+to go into the city,infinitive phrase,BradfordBoar,13,3,5,32.559999,33.63,Brandi_BradfordBoar
+"to visit the stately City Hall,","conjunction (if, then...)",BradfordBoar,14,3,6,34.109999,35.75,Brandi_BradfordBoar
+"you would see there the Crest of the City of Bradford,",-,BradfordBoar,15,3,11,36.172814,38.844253,Brandi_BradfordBoar
+which those same mill owners created,relative clause,BradfordBoar,16,3,6,39.36,41.29,Brandi_BradfordBoar
+to celebrate their achievements.,infinitive clause||,BradfordBoar,17,3,4,41.29,42.87,Brandi_BradfordBoar
+It shows a sinister looking boar's head,-,BradfordBoar,18,4,7,43.77,45.89,Brandi_BradfordBoar
+sitting on top of a well,nonfinite clause,BradfordBoar,19,4,6,45.9,47.26,Brandi_BradfordBoar
+"which seems puzzling at first,",relative clause,BradfordBoar,20,4,5,47.389999,49.019999,Brandi_BradfordBoar
+but the reason for this symbol is a matter of legend.,conjunction||,BradfordBoar,21,4,11,49.53,52.02,Brandi_BradfordBoar
+"There was once, legend has it,",positioning element - generic convention,BradfordBoar,22,5,6,52.959999,54.77,Brandi_BradfordBoar
+"a fearsome boar,",-,BradfordBoar,23,5,3,55.27,56.36,Brandi_BradfordBoar
+which lived in a wood located just outside the manor of Bradford.,relative clause||,BradfordBoar,24,5,12,56.783914,60.468071,Brandi_BradfordBoar
+"A source of great trouble to the local folk the boar was,",-,BradfordBoar,25,6,12,61.23,64.27,Brandi_BradfordBoar
+bringing terror to the peaceful flocks,nonfinite clause,BradfordBoar,26,6,6,64.82,66.89,Brandi_BradfordBoar
+and ravaging the countryside around.,nonfinite clause||,BradfordBoar,27,6,5,66.92,68.72,Brandi_BradfordBoar
+"Even worse, however,",nonrestrictive clause,BradfordBoar,28,7,3,69.75,70.980001,Brandi_BradfordBoar
+the boar most liked to go to the well,-,BradfordBoar,29,7,9,70.980001,73.41,Brandi_BradfordBoar
+that was in the wood,relative clause,BradfordBoar,30,7,5,73.41,74.27,Brandi_BradfordBoar
+"and drink its fresh water,",-,BradfordBoar,31,7,5,74.31,75.66,Brandi_BradfordBoar
+so that the people of Bradford had second thoughts,conjunction,BradfordBoar,32,7,9,76.25,78.26,Brandi_BradfordBoar
+about visiting the well.,nonfinite clause||,BradfordBoar,33,7,4,78.26,79.34,Brandi_BradfordBoar
+That the people of Bradford bore the brunt of the beast's ferocity,relative clause,BradfordBoar,34,8,12,80.23,83.18,Brandi_BradfordBoar
+was unfair in the eyes of the people of the region.,||,BradfordBoar,35,8,11,83.179999,85.68,Brandi_BradfordBoar
+"Eventually, the issue reached the ears of the kindly Lord of the Manor",-,BradfordBoar,36,9,13,86.83,90.11,Brandi_BradfordBoar
+who the people had often asked for help.,relative clause||,BradfordBoar,37,9,8,90.74,92.67,Brandi_BradfordBoar
+The Lord saw the severity of the problem,-,BradfordBoar,38,10,8,92.67,95.65,Brandi_BradfordBoar
+the people faced,relative clause (that...),BradfordBoar,39,10,3,95.65,96.5,Brandi_BradfordBoar
+and suggested a contest could solve the problem.,||,BradfordBoar,40,10,8,96.53,98.88,Brandi_BradfordBoar
+He said,-,BradfordBoar,41,11,2,99.99,100.38,Brandi_BradfordBoar
+that whoever could kill the boar and bring as proof its head to the Manor House,complementizer / relative clause,BradfordBoar,42,11,16,100.38,104.069999,Brandi_BradfordBoar
+would be rewarded with land and fame.,complementizer cont.||,BradfordBoar,43,11,7,104.65,106.7,Brandi_BradfordBoar
+It was the people of Bradford and the people who knew them,-,BradfordBoar,44,12,12,107.799999,110.45,Brandi_BradfordBoar
+who rejoiced at this proclamation,relative clause,BradfordBoar,45,12,5,110.46,112.2,Brandi_BradfordBoar
+but one question remained:,||,BradfordBoar,46,12,4,112.78,114.14,Brandi_BradfordBoar
+who would kill the boar?,||,BradfordBoar,47,13,5,114.63,115.85,Brandi_BradfordBoar
+"By the handsome reward many felt tempted,",-,BradfordBoar,48,14,7,117.01,119.33,Brandi_BradfordBoar
+but the thought of the boar,conjunction,BradfordBoar,49,14,6,119.849999,120.879999,Brandi_BradfordBoar
+with its deadly tusks and face like thunder,nonrestrictive clause,BradfordBoar,50,14,8,120.88,123.329999,Brandi_BradfordBoar
+soon put an end to their ambitions.,conjunction cont.||,BradfordBoar,51,14,7,123.929999,125.889999,Brandi_BradfordBoar
+"However, there was one huntsman,",-,BradfordBoar,52,15,5,126.76,128.09,Brandi_BradfordBoar
+"who was still wet behind the ears,",relative clause,BradfordBoar,53,15,7,128.44,130.09,Brandi_BradfordBoar
+who decided,relative clause,BradfordBoar,54,15,2,130.4,130.97,Brandi_BradfordBoar
+"the prize was worth a shot,",complementizer (that...),BradfordBoar,55,15,6,130.97,132.37,Brandi_BradfordBoar
+in spite of the boar's reputation.,nonrestrictive clause||,BradfordBoar,56,15,6,132.4,134.33,Brandi_BradfordBoar
+The huntsman discovered,-,BradfordBoar,57,16,3,134.33,136.71,Brandi_BradfordBoar
+the boar preferred,complementizer (that...),BradfordBoar,58,16,3,136.71,137.44,Brandi_BradfordBoar
+to come out in the middle of the day.,infinitive phrase||,BradfordBoar,59,16,9,137.44,138.89,Brandi_BradfordBoar
+"So he went to the wood by the well with his good bow,",-,BradfordBoar,60,17,13,139.73,142.21,Brandi_BradfordBoar
+to bide his time.,infinitive clause||,BradfordBoar,61,17,4,142.25,143.329999,Brandi_BradfordBoar
+"Around noontime,",positioning element,BradfordBoar,62,18,2,144.518927,145.581857,Brandi_BradfordBoar
+"the boar,",-,BradfordBoar,63,18,2,145.581857,146.168849,Brandi_BradfordBoar
+"feared by the locals,",nonrestrictive clause,BradfordBoar,64,18,4,146.2,147.29,Brandi_BradfordBoar
+"came out,",-,BradfordBoar,65,18,2,147.29,147.9,Brandi_BradfordBoar
+"as slow as a snail,",nonrestrictive clause,BradfordBoar,66,18,5,147.96,149.198995,Brandi_BradfordBoar
+"from among the trees,",-,BradfordBoar,67,18,4,149.198995,150.34,Brandi_BradfordBoar
+just as the huntsman had predicted.,nonrestrictive clause||,BradfordBoar,68,18,6,150.41,152.18,Brandi_BradfordBoar
+The huntsman leaped from his hiding place,-,BradfordBoar,69,19,7,152.18,155.14,Brandi_BradfordBoar
+and through the heart with his fine arrows shot the boar.,conjunction||,BradfordBoar,70,19,11,155.16,158.06,Brandi_BradfordBoar
+Now the problem was no longer,-,BradfordBoar,71,20,6,159.639999,160.989999,Brandi_BradfordBoar
+to kill the boar.,infinitive phrase||,BradfordBoar,72,20,4,160.99,161.839999,Brandi_BradfordBoar
+It was,-,BradfordBoar,73,21,2,162.309999,162.6,Brandi_BradfordBoar
+to find a way,infinitive phrase,BradfordBoar,74,21,4,162.6,163.23,Brandi_BradfordBoar
+to carry the boar back.,infinitive phrase||,BradfordBoar,75,21,5,163.23,164.48,Brandi_BradfordBoar
+The head was too heavy for the little huntsman,-,BradfordBoar,76,22,9,164.48,167.49,Brandi_BradfordBoar
+"to carry back to the Manor House,",infinitive phrase,BradfordBoar,77,22,7,167.5,169.02,Brandi_BradfordBoar
+"but the huntsman,",conjunction,BradfordBoar,78,22,3,169.67,170.37,Brandi_BradfordBoar
+"who was as quick-witted and cunning as ever,",relative clause,BradfordBoar,79,22,8,170.57,172.54,Brandi_BradfordBoar
+"asked himself, 'What else can I do to prove I killed the boar?'",quotation||,BradfordBoar,80,22,13,172.535879,177.009707,Brandi_BradfordBoar
+The next instance,positioning element,BradfordBoar,81,23,3,178.231284,179.181179,Brandi_BradfordBoar
+"he opened the boar's mouth and cut out its tongue,",-,BradfordBoar,82,23,10,179.181179,181.34,Brandi_BradfordBoar
+taking that as proof for the Lord.,nonfinite clause||,BradfordBoar,83,23,7,181.84,183.49,Brandi_BradfordBoar
+He set out for the Manor House as quickly as he could,-,BradfordBoar,84,24,12,184.46,186.82,Brandi_BradfordBoar
+and he had only been gone a few minutes,conjunction,BradfordBoar,85,24,9,187.37,188.92,Brandi_BradfordBoar
+"when a second huntsman,",conjunction,BradfordBoar,86,24,4,188.92,189.929999,Brandi_BradfordBoar
+"not so bold as the first but a little more cunning,",nonrestrictive clause,BradfordBoar,87,24,11,190.52,193.13,Brandi_BradfordBoar
+came on the scene.,||,BradfordBoar,88,24,4,193.759999,194.74,Brandi_BradfordBoar
+"Seeing the slain carcass of the boar,",nonfinite clause,BradfordBoar,89,25,7,195.52,197.2,Brandi_BradfordBoar
+the huntsman rejoiced in his good fortune.,||,BradfordBoar,90,25,7,197.2,199.62,Brandi_BradfordBoar
+The second huntsman knew,-,BradfordBoar,91,26,4,199.62,201.45,Brandi_BradfordBoar
+"a shortcut to the Manor House was just around the nearby pond,",complementizer (that...),BradfordBoar,92,26,12,201.45,204.41,Brandi_BradfordBoar
+"and, being a bigger man than the first,",conjunction / nonrestrictive clause,BradfordBoar,93,26,8,204.96,207.16,Brandi_BradfordBoar
+was able,conjunction cont.,BradfordBoar,94,26,2,207.639999,208.05,Brandi_BradfordBoar
+to pick up the boar's head and carry it through the wood,infinitive phrase,BradfordBoar,95,26,12,208.05,210.21,Brandi_BradfordBoar
+towards the prize that awaited him.,positioning element||,BradfordBoar,96,26,6,210.719999,212.38,Brandi_BradfordBoar
+The Lord of the Manor was seated in his hall,-,BradfordBoar,97,27,10,212.38,215.24,Brandi_BradfordBoar
+when the second huntsman burst through the door and began to spin a line.,conjunction||,BradfordBoar,98,27,14,215.24,218.49,Brandi_BradfordBoar
+'The woes of Bradford are ended!' he announced.,quotation||,BradfordBoar,99,28,8,218.5,222.62,Brandi_BradfordBoar
+'With my own hand I have slain the boar!',quotation||,BradfordBoar,100,29,9,223.74,226.88,Brandi_BradfordBoar
+"And, with that, at the feet of his lord",positioning element,BradfordBoar,101,30,9,226.88,229.35,Brandi_BradfordBoar
+he dropped the boar's enormous head.,||,BradfordBoar,102,30,6,229.349999,231.09,Brandi_BradfordBoar
+"'Then you will be rewarded, as I promised.'",quotation||,BradfordBoar,103,31,8,232.289999,235.81,Brandi_BradfordBoar
+"'But first,",positioning element,BradfordBoar,104,32,2,235.81,236.4,Brandi_BradfordBoar
+"let me examine the head of this monster,' said the Lord of the Manor.",quotation||,BradfordBoar,105,32,14,236.42,239.93,Brandi_BradfordBoar
+To not examine the head in advance,infinitive phrase,BradfordBoar,106,33,7,240.65,242.58,Brandi_BradfordBoar
+had not been very clever on the part of the huntsman.,||,BradfordBoar,107,33,11,242.58,244.99,Brandi_BradfordBoar
+"Right away,",positioning element,BradfordBoar,108,34,2,245.87,246.499999,Brandi_BradfordBoar
+the Lord noticed,-,BradfordBoar,109,34,3,246.499999,247.29,Brandi_BradfordBoar
+the tongue of the boar was missing,complementizer (that...),BradfordBoar,110,34,7,247.29,248.84,Brandi_BradfordBoar
+"and exclaimed, 'What is this?",||,BradfordBoar,111,34,5,248.849999,251.619999,Brandi_BradfordBoar
+A boar with no tongue?',||,BradfordBoar,112,35,5,251.73,254.15,Brandi_BradfordBoar
+"He looked at the huntsman, dubiously.",||,BradfordBoar,113,36,6,254.15,254.79,Brandi_BradfordBoar
+'How come this creature has no tongue?' he demanded.,||,BradfordBoar,114,37,9,254.79,259.48,Brandi_BradfordBoar
+All eyes were on the huntsman.,||,BradfordBoar,115,38,6,260.26,261.86,Brandi_BradfordBoar
+The huntsman,-,BradfordBoar,116,39,2,261.86,263.15,Brandi_BradfordBoar
+questioned by the Lord,nonrestrictive clause,BradfordBoar,117,39,4,263.15,264.199999,Brandi_BradfordBoar
+"replied, 'I cannot say, my Lord.'",||,BradfordBoar,118,39,6,264.2,267.2,Brandi_BradfordBoar
+He was suddenly realizing,-,BradfordBoar,119,40,4,267.2,268.49,Brandi_BradfordBoar
+his tricky situation could end badly for him.,complementizer (that...)||,BradfordBoar,120,40,8,268.49,270.659999,Brandi_BradfordBoar
+"Through the door at this moment, the first huntsman burst.",||,BradfordBoar,121,41,10,271.62,274.22,Brandi_BradfordBoar
+'The woes of Bradford are ended!' he cried.,||,BradfordBoar,122,42,8,274.23,277.53,Brandi_BradfordBoar
+'I have slain the boar,-,BradfordBoar,123,43,5,277.54,279.68,Brandi_BradfordBoar
+the people of Bradford dreaded!',relative clause (that...)||,BradfordBoar,124,43,5,279.68,281.98,Brandi_BradfordBoar
+All eyes turned to the man,-,BradfordBoar,125,44,6,281.98,283.4,Brandi_BradfordBoar
+who now stood in the doorway.,relative clause||,BradfordBoar,126,44,6,283.4,284.76,Brandi_BradfordBoar
+"'The reward is already given,' said the Lord of the Manor.",||,BradfordBoar,127,45,11,285.67414,288.38,Brandi_BradfordBoar
+'The man here has brought to me the boar's head.',||,BradfordBoar,128,46,10,288.389999,292.02,Brandi_BradfordBoar
+'Then where is its tongue?' the first huntsman replied.,||,BradfordBoar,129,47,9,292.02,295.02,Brandi_BradfordBoar
+"And, so saying,",nonfinite clause,BradfordBoar,130,48,3,295.53,296.42,Brandi_BradfordBoar
+he drew out the boar's tongue,-,BradfordBoar,131,48,6,296.429999,297.74,Brandi_BradfordBoar
+he had put in his hunting pouch,relative clause (that...),BradfordBoar,132,48,7,297.75,299.23,Brandi_BradfordBoar
+and related how he had ambushed the creature in the wood and cut out its tongue,conjunction,BradfordBoar,133,48,16,300.28,303.61,Brandi_BradfordBoar
+as proof of his victory.,conjunction||,BradfordBoar,134,48,5,303.62,304.82,Brandi_BradfordBoar
+"Listening to the tale,",nonfinite clause,BradfordBoar,135,49,4,305.719999,306.73,Brandi_BradfordBoar
+the Lord of the Manor tried to discern,-,BradfordBoar,136,49,8,306.73,308.84,Brandi_BradfordBoar
+which huntsman was telling him the truth,relative clause,BradfordBoar,137,49,7,308.84,310.45,Brandi_BradfordBoar
+and what the two huntsmen were thinking,conjunction,BradfordBoar,138,49,7,311.01,312.54,Brandi_BradfordBoar
+as they waited for him to make a decision.,conjunction||,BradfordBoar,139,49,9,312.55,314.4,Brandi_BradfordBoar
+"Almost instantly,",positioning element,BradfordBoar,140,50,2,315.19,316.13,Brandi_BradfordBoar
+the Lord saw,-,BradfordBoar,141,50,3,316.13,316.74,Brandi_BradfordBoar
+that the second huntsman had fed him a pack of lies,complementizer,BradfordBoar,142,50,11,316.74,319.22,Brandi_BradfordBoar
+and it was the first huntsman,conjunction,BradfordBoar,143,50,6,320.259999,321.31,Brandi_BradfordBoar
+who was the true savior of Bradford.,relative clause||,BradfordBoar,144,50,7,321.469999,323.576828,Brandi_BradfordBoar
+The Lord believed,-,BradfordBoar,145,51,3,324.119881,324.95,Brandi_BradfordBoar
+the second huntsman had tried,complementizer (that...),BradfordBoar,146,51,5,324.9783,326.24,Brandi_BradfordBoar
+to steal the first huntsman's prize,infinitive phrase,BradfordBoar,147,51,6,326.214045,327.96,Brandi_BradfordBoar
+and so proclaimed,conjunction,BradfordBoar,148,51,3,328.0,328.98,Brandi_BradfordBoar
+the first huntsman the true victor.,complementizer||,BradfordBoar,149,51,6,328.98,330.65,Brandi_BradfordBoar
+The Lord wondered for a moment,-,BradfordBoar,150,52,6,330.65,332.88,Brandi_BradfordBoar
+why he always encountered so much chicanery in his everyday interactions.,relative clause||,BradfordBoar,151,52,11,332.9,336.89,Brandi_BradfordBoar
+The huntsman,-,BradfordBoar,152,53,2,336.89,338.209983,Brandi_BradfordBoar
+who had earned his prize fair and square,relative clause,BradfordBoar,153,53,8,338.219999,340.04,Brandi_BradfordBoar
+"received as his reward a piece of land just outside the town,",-,BradfordBoar,154,53,12,340.58,343.93,Brandi_BradfordBoar
+known thereafter as Hunt Yard.,nonrestrictive clause||,BradfordBoar,155,53,5,344.48,346.58,Brandi_BradfordBoar
+"His fame was indeed assured,",-,BradfordBoar,156,54,5,347.44,348.97,Brandi_BradfordBoar
+but it was not nearly as lasting as that of the fearsome Bradford Boar.,conjunction||,BradfordBoar,157,54,14,350.668872,354.550298,Brandi_BradfordBoar

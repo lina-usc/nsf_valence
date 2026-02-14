@@ -1,0 +1,119 @@
+segment,reason,narrative,segID,sentID,Nwords,onset,offset,voice_narrative
+It was about 10:30,positioning element,HappyDay,1,1,4,5.04,6.267773,Brandi_HappyDay
+on a breezy Saturday morning in April.,positioning element||,HappyDay,2,1,7,6.303794,8.36,Brandi_HappyDay
+"I yawned, opened my eyes, and smiled.",||,HappyDay,3,2,7,9.649999,12.72,Brandi_HappyDay
+I haven't slept this late in months!,||,HappyDay,4,3,7,14.189999,16.169999,Brandi_HappyDay
+I usually have,-,HappyDay,5,4,3,17.65,18.353047,Brandi_HappyDay
+"to be at the office by 7:30,",infinitive phrase,HappyDay,6,4,7,18.32,20.172142,Brandi_HappyDay
+so this is quite a treat to sleep in.,conjunction||,HappyDay,7,4,9,21.35,23.51,Brandi_HappyDay
+"But when I smelled the crackling, smoky bacon from the kitchen downstairs,",relative clause,HappyDay,8,5,12,25.33,29.05,Brandi_HappyDay
+I could no longer stay in bed;,||,HappyDay,9,5,7,29.05,30.649999,Brandi_HappyDay
+I just had,-,HappyDay,10,6,3,32.38,33.03,Brandi_HappyDay
+to get up and follow that delicious scent.,infinitive phrase||,HappyDay,11,6,8,32.979999,34.910001,Brandi_HappyDay
+"I put my hair into a sloppy ponytail, slid on my plush, fuzzy slippers, then lumbered down the stairs,",-,HappyDay,12,7,19,36.96,43.02,Brandi_HappyDay
+letting my nose-and my stomach-guide me.,nonfinite clause||,HappyDay,13,7,6,42.98,46.74,Brandi_HappyDay
+To my very pleasant surprise I saw all my breakfast favorites:,-,HappyDay,14,8,11,49.019999,52.44,Brandi_HappyDay
+"crisp fruit, a fresh pot of coffee, cheesy scrambled eggs, and of course, sizzling hot bacon.",nonrestrictive clause||,HappyDay,15,8,16,53.89,63.42,Brandi_HappyDay
+"And the even bigger surprise,",nonrestrictive clause,HappyDay,16,9,5,64.68,66.23,Brandi_HappyDay
+my husband was the one cooking!,||,HappyDay,17,9,6,67.91,69.69,Brandi_HappyDay
+"He had been gone for the last two weeks for a business trip,",-,HappyDay,18,10,13,71.39,74.23,Brandi_HappyDay
+so he said,conjunction,HappyDay,19,10,3,75.23,75.78962,Brandi_HappyDay
+that he wanted,complementizer,HappyDay,20,10,3,75.77,76.33,Brandi_HappyDay
+to do something nice for me,infinitive phrase,HappyDay,21,10,6,76.27,77.518661,Brandi_HappyDay
+now that he is back.,positioning element||,HappyDay,22,10,5,77.47,78.599311,Brandi_HappyDay
+We plated the food and devoured it instantly.,||,HappyDay,23,11,8,80.56,83.05,Brandi_HappyDay
+We spent the next hour,-,HappyDay,24,12,5,84.689999,85.85,Brandi_HappyDay
+just talking and catching up on the last couple of weeks,nonfinite clause,HappyDay,25,12,11,85.821659,88.83,Brandi_HappyDay
+"enjoying each other's company,",nonfinite clause,HappyDay,26,12,4,89.82,91.49,Brandi_HappyDay
+giggling and gasping.,nonfinite clause||,HappyDay,27,12,3,92.52,93.87,Brandi_HappyDay
+I told him about my promotion at work,-,HappyDay,28,13,8,95.05,96.94,Brandi_HappyDay
+and we celebrated.,conjunction||,HappyDay,29,13,3,96.88,97.98,Brandi_HappyDay
+"Along with more responsibility,",nonrestrictive clause,HappyDay,30,14,4,99.14,100.7,Brandi_HappyDay
+I would also be getting my own parking spot and a raise!,||,HappyDay,31,14,12,100.68,103.78,Brandi_HappyDay
+"After he did the dishes and left for work,",positioning element,HappyDay,32,15,9,105.54,107.67,Brandi_HappyDay
+"I went back upstairs and had a nice, long shower",-,HappyDay,33,15,10,108.8,111.51,Brandi_HappyDay
+while singing along to my playlist,nonfinite clause,HappyDay,34,15,6,112.47,114.16,Brandi_HappyDay
+as if I was on one of those tv show competitions.,conjunction||,HappyDay,35,15,11,114.134701,117.0,Brandi_HappyDay
+"Except in my case, the judges were a shampoo bottle, a loofah, and a razor;",||,HappyDay,36,16,15,117.79,122.97,Brandi_HappyDay
+"their reactions were pretty flat though,",-,HappyDay,37,17,6,124.339999,126.237986,Brandi_HappyDay
+so I'm not too sure,conjunction,HappyDay,38,17,5,126.22,127.462724,Brandi_HappyDay
+I'm going,complementizer (that...),HappyDay,39,17,2,127.48974,127.885978,Brandi_HappyDay
+to make it to the next round.,infinitive phrase||,HappyDay,40,17,7,127.87,129.31,Brandi_HappyDay
+Better luck next time!,||,HappyDay,41,18,4,130.96,132.29,Brandi_HappyDay
+"After my uneventful audition,",positioning element,HappyDay,42,19,4,134.54,136.219999,Brandi_HappyDay
+I got dressed and headed out the door,-,HappyDay,43,19,8,137.229999,139.0,Brandi_HappyDay
+to meet one of my friends at a park nearby;,infinitive phrase||,HappyDay,44,19,10,138.939999,141.089999,Brandi_HappyDay
+"whenever our schedules magically align,",-,HappyDay,45,20,5,142.45,144.649999,Brandi_HappyDay
+"and we have the same days off,",conjunction,HappyDay,46,20,7,144.589999,146.14,Brandi_HappyDay
+we try,-,HappyDay,47,20,2,147.74,148.139169,Brandi_HappyDay
+to see each other and do something fun.,infinitive phrase||,HappyDay,48,20,8,148.121159,150.0,Brandi_HappyDay
+This time we decided,-,HappyDay,49,21,4,151.69,152.713923,Brandi_HappyDay
+to ride bikes by the river and feed the ducks.,infinitive phrase||,HappyDay,50,21,10,152.7,154.96,Brandi_HappyDay
+"I unloaded my bike out of the car, saw my friend parking, and cycled over",-,HappyDay,51,22,15,156.802384,160.792383,Brandi_HappyDay
+to meet her.,infinitive phrase||,HappyDay,52,22,3,160.74,161.459999,Brandi_HappyDay
+Since we don't get to see each other very often,nonrestrictive clause,HappyDay,53,23,10,163.799999,166.07,Brandi_HappyDay
+we always appreciate the time we do spend together and try,-,HappyDay,54,23,11,167.52,171.359999,Brandi_HappyDay
+to make the best of whatever time we do have.,infinitive phrase||,HappyDay,55,23,10,171.319122,173.46,Brandi_HappyDay
+"So, we went off on our bikes and rode",-,HappyDay,56,24,9,176.09,178.955719,Brandi_HappyDay
+towards the bike path quickly,positioning element,HappyDay,57,24,5,178.939999,180.288521,Brandi_HappyDay
+"after greeting each other,",positioning element,HappyDay,58,24,4,180.25,181.45,Brandi_HappyDay
+no time to waste!,nonrestrictive clause||,HappyDay,59,24,4,182.35,183.54,Brandi_HappyDay
+We biked and biked all afternoon long,-,HappyDay,60,25,7,186.71,188.81,Brandi_HappyDay
+until we noticed,positioning element,HappyDay,61,25,3,189.779999,190.68,Brandi_HappyDay
+the sun was starting to go down.,complementizer (that...)||,HappyDay,62,25,7,190.62,192.2,Brandi_HappyDay
+We must have ridden something like ten miles or more.,||,HappyDay,63,26,10,194.399999,196.969999,Brandi_HappyDay
+"And trust me when I say,",nonrestrictive clause,HappyDay,64,27,6,198.89,200.36,Brandi_HappyDay
+"we were feeling it in every muscle, every bone, every inch of our legs was so sore,",-,HappyDay,65,27,17,200.334587,207.229999,Brandi_HappyDay
+but it was worth it,conjunction,HappyDay,66,27,5,210.279999,211.08706,Brandi_HappyDay
+because we had such a great time.,conjunction||,HappyDay,67,27,7,211.069999,212.7,Brandi_HappyDay
+No longer able to stand,-,HappyDay,68,28,5,214.829999,216.148106,Brandi_HappyDay
+"without shaking like we were experiencing our own personal earthquakes,",nonfinite clause,HappyDay,69,28,10,216.12,219.85,Brandi_HappyDay
+we decided,-,HappyDay,70,28,2,222.17,222.740074,Brandi_HappyDay
+to sit on the grass,infinitive phrase,HappyDay,71,28,5,222.74,223.8,Brandi_HappyDay
+while we threw pieces of stale bread in the water towards the feathery ducks and little ducklings.,relative clause||,HappyDay,72,28,17,224.72,229.11,Brandi_HappyDay
+We sat there throwing and chatting and laughing for quite a while,-,HappyDay,73,29,12,231.5,234.319999,Brandi_HappyDay
+"until suddenly,",positioning element,HappyDay,74,29,2,234.3,235.21,Brandi_HappyDay
+we realized,-,HappyDay,75,29,2,236.89,237.490953,Brandi_HappyDay
+it was already dark,complementizer (that...),HappyDay,76,29,4,237.526975,238.535582,Brandi_HappyDay
+and we probably needed,conjunction,HappyDay,77,29,4,240.624839,241.66,Brandi_HappyDay
+to head home soon.,infinitive phrase||,HappyDay,78,29,4,241.6,242.63,Brandi_HappyDay
+We said our goodbyes,-,HappyDay,79,30,4,245.55,246.75,Brandi_HappyDay
+"and per our usual ritual,",conjunction / nonrestrictive clause,HappyDay,80,30,5,246.730515,249.629999,Brandi_HappyDay
+hugged and promised,conjunction cont.,HappyDay,81,30,3,250.609999,251.719518,Brandi_HappyDay
+to call and make plans again soon.,infinitive phrase||,HappyDay,82,30,7,251.701507,253.51,Brandi_HappyDay
+Our time seemed so limited these days,-,HappyDay,83,31,7,255.6,257.91,Brandi_HappyDay
+and we didn't want,conjunction,HappyDay,84,31,4,258.8338,259.572244,Brandi_HappyDay
+to let the important things slip through the cracks.,infinitive phrase||,HappyDay,85,31,9,259.57,262.039999,Brandi_HappyDay
+Driving back to my house,nonfinite clause,HappyDay,86,32,5,264.47,265.81,Brandi_HappyDay
+I could just catch the last little edge of the sunset in my rearview mirror;,-,HappyDay,87,32,15,266.722548,270.88,Brandi_HappyDay
+the swirl of oranges and pinks darkening and turning blue and black,nonfinite clause,HappyDay,88,32,12,272.84,276.95,Brandi_HappyDay
+to let the moon shine through.,infinitive phrase||,HappyDay,89,32,6,278.0,279.49,Brandi_HappyDay
+I stopped at a popular neighborhood take-out place,-,HappyDay,90,33,8,282.25,284.625325,Brandi_HappyDay
+to grab dinner,infinitive phrase,HappyDay,91,33,3,284.607314,285.449999,Brandi_HappyDay
+"because it's my husband's favorite,",conjunction,HappyDay,92,33,5,286.46,288.21,Brandi_HappyDay
+and the owner surprised me with complimentary appetizers.,conjunction||,HappyDay,93,33,8,289.866479,292.84,Brandi_HappyDay
+The delicious aroma filled the car the rest of the way home.,||,HappyDay,94,34,12,294.2,297.15,Brandi_HappyDay
+"When I arrived,",positioning element,HappyDay,95,35,3,298.39,299.268139,Brandi_HappyDay
+my husband was already there,-,HappyDay,96,35,5,299.26,300.528897,Brandi_HappyDay
+to greet me.,infinitive phrase||,HappyDay,97,35,3,300.510887,301.16,Brandi_HappyDay
+"Over dinner, we chatted about our days.",||,HappyDay,98,36,7,302.62,304.719999,Brandi_HappyDay
+He told me,-,HappyDay,99,37,3,305.859999,306.418443,Brandi_HappyDay
+"that since he came on a Saturday,",complementizer / nonrestrictive clause,HappyDay,100,37,7,306.39,307.96,Brandi_HappyDay
+he gets to take a Friday off.,complementizer cont.||,HappyDay,101,37,7,308.85,310.52,Brandi_HappyDay
+I told him all about my day at the park,-,HappyDay,102,38,10,311.69,313.43,Brandi_HappyDay
+and how we completely lost track of time but didn't mind,conjunction,HappyDay,103,38,11,314.397245,317.260969,Brandi_HappyDay
+because it was so fun.,conjunction||,HappyDay,104,38,5,317.24,318.389999,Brandi_HappyDay
+I also showed him adorable pictures of the ducklings and some funny ones of a particularly clumsy duckling,-,HappyDay,105,39,18,319.1,324.42,Brandi_HappyDay
+that didn't seem,relative clause,HappyDay,106,39,3,324.38,325.059663,Brandi_HappyDay
+to notice,infinitive phrase,HappyDay,107,39,2,325.039999,325.52,Brandi_HappyDay
+where the dock ended and tumbled right off the edge.,relative clause||,HappyDay,108,39,10,325.491923,328.27,Brandi_HappyDay
+"Comfortable on the couch,",nonrestrictive clause,HappyDay,109,40,4,329.16,330.43,Brandi_HappyDay
+we snacked on some popcorn and picked out a movie to watch.,||,HappyDay,110,40,12,330.42,333.49,Brandi_HappyDay
+As usual none of the new movie suggestions were piquing our interest,-,HappyDay,111,41,12,334.25,337.81,Brandi_HappyDay
+so we decided to watch an old favorite.,conjunction||,HappyDay,112,41,8,337.79,339.769999,Brandi_HappyDay
+I'm not sure if we were both tired from active days or just not paying attention,-,HappyDay,113,42,16,340.494954,344.799545,Brandi_HappyDay
+"since we'd seen the movie before,",conjunction,HappyDay,114,42,6,344.79,346.38,Brandi_HappyDay
+but we both fell asleep about an hour into the movie.,conjunction||,HappyDay,115,42,11,346.82,349.54,Brandi_HappyDay
+"Either way, not a bad way",-,HappyDay,116,43,6,350.06,351.904822,Brandi_HappyDay
+to end a fantastic day.,infinitive phrase||,HappyDay,117,43,5,351.85,353.38,Brandi_HappyDay
+I can't wait for another day like that.,||,HappyDay,118,44,8,354.192199,356.379999,Brandi_HappyDay

@@ -1,0 +1,95 @@
+segment,reason,narrative,segID,sentID,Nwords,onset,offset,voice_narrative
+Did you know,-,Koko,1,1,3,4.653444,5.28,Jacob_Koko
+that humans aren't the only species,complementizer,Koko,2,1,6,5.260415,7.052425,Jacob_Koko
+that use language?,relative clause||,Koko,3,1,3,7.081329,8.31,Jacob_Koko
+Bees communicate,-,Koko,4,2,2,9.58,10.549734,Jacob_Koko
+by dancing.,nonfinite clause||,Koko,5,2,2,10.529999,11.399999,Jacob_Koko
+Whales talk to each other,-,Koko,6,3,5,12.63,13.873623,Jacob_Koko
+by singing.,nonfinite clause||,Koko,7,3,2,13.888075,14.64,Jacob_Koko
+And some apes talk to humans,-,Koko,8,4,6,15.96,17.949999,Jacob_Koko
+by using American Sign Language.,nonfinite clause||,Koko,9,4,5,18.439999,20.73,Jacob_Koko
+Meet Koko:,||,Koko,10,5,2,23.51,24.538971,Jacob_Koko
+"a female gorilla born at the San Francisco Zoo on July 4th, 1971.",||,Koko,11,6,13,26.17,33.730247,Jacob_Koko
+"Koko learned sign language from her trainer,",-,Koko,12,7,7,35.753483,38.19,Jacob_Koko
+Dr. Penny Patterson.,nonrestrictive clause||,Koko,13,7,3,39.24,40.84,Jacob_Koko
+"Patterson began teaching sign language to Koko in 1972,",positioning element,Koko,14,8,9,43.14,48.509999,Jacob_Koko
+when Koko was one year old.,relative clause||,Koko,15,8,6,49.72,51.549999,Jacob_Koko
+"Koko must have been a good student,",-,Koko,16,9,7,53.384546,55.43,Jacob_Koko
+because two years later she moved onto the Stanford University campus with Dr. Patterson.,conjunction||,Koko,17,9,14,56.64,63.85,Jacob_Koko
+Koko continued,-,Koko,18,10,2,66.593392,67.60501,Jacob_Koko
+to learn on the campus until 1976.,infinitive phrase||,Koko,19,10,7,67.59,70.8,Jacob_Koko
+That's when she began,-,Koko,20,11,4,72.579999,73.703624,Jacob_Koko
+"living full-time with Patterson's group,",nonfinite clause,Koko,21,11,5,73.71,76.26,Jacob_Koko
+the Gorilla Foundation.,nonrestrictive clause||,Koko,22,11,3,76.63,78.16,Jacob_Koko
+Patterson and Koko's relationship has blossomed ever since.,||,Koko,23,12,8,79.99,83.5,Jacob_Koko
+Dr. Patterson says,-,Koko,24,13,3,85.88,87.085889,Jacob_Koko
+that Koko has mastered sign language.,complementizer||,Koko,25,13,6,87.114793,89.209999,Jacob_Koko
+She says,-,Koko,26,14,2,91.45,91.941658,Jacob_Koko
+"that Koko knows over 1,000 words,",complementizer,Koko,27,14,6,91.970561,94.369542,Jacob_Koko
+and that Koko makes up new words.,conjunction / complementizer||,Koko,28,14,7,95.6,97.52,Jacob_Koko
+"For example, Koko didn't know the sign for ring,",-,Koko,29,15,9,98.7,102.66,Jacob_Koko
+so she signed the words finger and bracelet.,conjunction||,Koko,30,15,8,104.88,109.48,Jacob_Koko
+Dr. Patterson thinks,-,Koko,31,16,3,111.58,112.752093,Jacob_Koko
+that this shows meaningful and constructive use of language.,complementizer||,Koko,32,16,9,112.780996,116.26,Jacob_Koko
+Not everyone agrees with Dr. Patterson.,||,Koko,33,17,6,118.47,120.77,Jacob_Koko
+Some argue,-,Koko,34,18,2,122.030078,122.752663,Jacob_Koko
+that apes like Koko do not understand the meaning of what they are doing.,complementizer||,Koko,35,18,14,122.72,127.24,Jacob_Koko
+Skeptics say,-,Koko,36,19,2,129.06,130.07,Jacob_Koko
+that these apes are just performing complex tricks.,complementizer||,Koko,37,19,8,130.036315,133.24,Jacob_Koko
+"For example, if Koko points to an apple and signs red or apple,",-,Koko,38,20,13,135.49,143.63,Jacob_Koko
+Dr. Patterson will give her an apple.,"conjunction (if, then...)||",Koko,39,20,7,144.829999,147.03,Jacob_Koko
+They argue,-,Koko,40,21,2,148.245445,148.866868,Jacob_Koko
+that Koko does not really know what the sign apple means.,complementizer||,Koko,41,21,11,148.910223,152.809999,Jacob_Koko
+She only knows,-,Koko,42,22,3,155.14,156.03,Jacob_Koko
+"that that if she makes the right motion,",complementizer,Koko,43,22,8,156.020455,158.07,Jacob_Koko
+"one which Dr. Patterson has shown her,",nonrestrictive clause,Koko,44,22,7,159.38,161.820001,Jacob_Koko
+then she gets an apple.,conjunction||,Koko,45,22,5,162.99,164.34,Jacob_Koko
+"The debate is unresolved, but one thing is for certain:",||,Koko,46,23,10,166.86,171.689999,Jacob_Koko
+Koko is an extraordinary ape.,||,Koko,47,24,5,172.98674,175.1,Jacob_Koko
+Sign language isn't the only unusual thing about Koko.,||,Koko,48,25,9,177.93,181.397624,Jacob_Koko
+She's also been a pet-owner.,||,Koko,49,26,5,182.66,184.41,Jacob_Koko
+"In 1983,",positioning element,Koko,50,27,2,186.57133,188.305533,Jacob_Koko
+"at the age of 12,",nonrestrictive clause,Koko,51,27,5,188.28,189.635088,Jacob_Koko
+researchers said,-,Koko,52,27,2,190.939999,191.831745,Jacob_Koko
+that Koko asked for a cat for Christmas.,complementizer||,Koko,53,27,8,191.84,194.43,Jacob_Koko
+They gave Koko a stuffed cat.,||,Koko,54,28,6,195.729999,197.569999,Jacob_Koko
+Koko was not happy.,||,Koko,55,29,4,199.288818,200.78,Jacob_Koko
+"She did not play with it,",-,Koko,56,30,6,202.05,203.38,Jacob_Koko
+and she continued to sign sad.,conjunction||,Koko,57,30,6,204.58,207.009999,Jacob_Koko
+"So for her birthday in 1984,",positioning element,Koko,58,31,6,208.37,211.052494,Jacob_Koko
+they let her pick a cat out of an abandoned litter.,||,Koko,59,31,11,212.208629,215.041161,Jacob_Koko
+"Koko picked a gray cat and named him ""All Ball.""",||,Koko,60,32,10,217.208914,221.93,Jacob_Koko
+Dr. Patterson said,-,Koko,61,33,3,223.24,224.376953,Jacob_Koko
+that Koko loved and nurtured All Ball,complementizer,Koko,62,33,7,224.38,226.72,Jacob_Koko
+as though he were a baby gorilla.,conjunction||,Koko,63,33,7,227.2,229.229999,Jacob_Koko
+"Sadly, All Ball got out of Koko's cage and was hit by a car.",||,Koko,64,34,14,231.729999,238.45,Jacob_Koko
+Patterson reported,-,Koko,65,35,2,240.0,241.054204,Jacob_Koko
+"that Koko signed ""Bad, sad, bad"" and ""Frown, cry, frown, sad""",complementizer,Koko,66,35,11,241.06,253.31,Jacob_Koko
+when she broke the news to her.,relative clause||,Koko,67,35,7,254.24,255.95,Jacob_Koko
+"It seems like Patterson and Koko have a good relationship,",-,Koko,68,36,10,258.07,261.27,Jacob_Koko
+but not everyone agrees with it.,conjunction||,Koko,69,36,6,262.45,264.25,Jacob_Koko
+Some critics believe,-,Koko,70,37,3,266.019999,267.125055,Jacob_Koko
+that Patterson is humanizing the ape.,complementizer||,Koko,71,37,6,267.153958,269.86,Jacob_Koko
+They believe,-,Koko,72,38,2,272.269857,272.819021,Jacob_Koko
+that apes should be left in the most natural state possible.,complementizer||,Koko,73,38,11,272.82,276.25,Jacob_Koko
+Even Dr. Patterson struggles with these feelings.,||,Koko,74,39,7,278.62,281.26,Jacob_Koko
+"When asked if her findings could be duplicated by another group of scientists,",relative clause,Koko,75,40,13,283.49,288.34,Jacob_Koko
+"she said, ""We don't think that it would be ethical to do again.""",||,Koko,76,40,13,289.53,294.29,Jacob_Koko
+She went on to argue,-,Koko,77,41,5,296.149999,297.415799,Jacob_Koko
+that animals should not be kept in such unnatural circumstances.,complementizer||,Koko,78,41,10,297.38,301.399999,Jacob_Koko
+"Nonetheless, Koko lives in her foundation today.",||,Koko,79,42,7,302.76,307.05,Jacob_Koko
+"As for the future,",positioning element,Koko,80,43,4,308.9,310.05,Jacob_Koko
+Dr. Patterson and the Gorilla Foundation would love,-,Koko,81,43,8,311.29,315.451509,Jacob_Koko
+"to get Koko to an ape preserve in Maui,",infinitive phrase,Koko,82,43,9,315.439999,318.32,Jacob_Koko
+but they are having trouble securing the land.,conjunction||,Koko,83,43,8,319.609999,322.01,Jacob_Koko
+"So, unless you have a few million dollars to spare,",nonrestrictive clause,Koko,84,44,10,323.829999,326.79,Jacob_Koko
+Koko's going,-,Koko,85,44,2,328.747065,329.64307,Jacob_Koko
+"to be spending her time in Woodland, California with Dr. Patterson.",infinitive phrase||,Koko,86,44,11,329.6,333.99,Jacob_Koko
+Koko probably doesn't mind that.,||,Koko,87,45,5,335.8862,337.75,Jacob_Koko
+"If she moved to Hawaii,",-,Koko,88,46,5,339.59,341.029999,Jacob_Koko
+"she'd have to give up her Facebook page and Twitter feed,","conjunction (if, then...)",Koko,89,46,11,341.57,344.69,Jacob_Koko
+"and she's got like 50 thousand ""likes.""",||,Koko,90,46,7,345.95,348.76,Jacob_Koko
+Some may deny,-,Koko,91,47,3,350.800345,351.754157,Jacob_Koko
+"that she knows sign language,",complementizer,Koko,92,47,5,351.754157,353.229999,Jacob_Koko
+but nobody says,conjunction,Koko,93,47,3,354.92,356.02,Jacob_Koko
+that she doesn't know social networking.,complementizer||,Koko,94,47,6,356.031857,358.29,Jacob_Koko

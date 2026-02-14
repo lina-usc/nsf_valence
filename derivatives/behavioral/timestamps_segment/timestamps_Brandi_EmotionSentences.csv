@@ -1,0 +1,86 @@
+segment,reason,narrative,segID,sentID,Nwords,onset,offset,voice_narrative
+The airplane is almost full.,||,EmotionSentences,1,1,5,,,
+I think,-,EmotionSentences,2,2,2,0.0,1.072096,Brandi_EmotionSentences
+I've seen this before.,complementizer (that...)||,EmotionSentences,3,2,4,1.072096,2.1864,Brandi_EmotionSentences
+The surface is slick.,||,EmotionSentences,4,3,4,4.254615,6.094905,Brandi_EmotionSentences
+We'll stop in a couple of minutes.,-,EmotionSentences,5,4,7,8.019612,9.488468,Brandi_EmotionSentences
+Don't forget a jacket.,||,EmotionSentences,6,4,4,18.115882,20.226306,Brandi_EmotionSentences
+Can you hear me?,||,EmotionSentences,7,5,4,22.151013,24.151695,Brandi_EmotionSentences
+I always enjoy,-,EmotionSentences,8,6,3,26.31277,26.637775,Brandi_EmotionSentences
+when she visits.,relative clause||,EmotionSentences,9,6,3,26.637775,28.157281,Brandi_EmotionSentences
+The mountains are supposed,-,EmotionSentences,10,7,4,37.211001,39.085057,Brandi_EmotionSentences
+to be nice this time of year.,infinitive phrase||,EmotionSentences,11,7,7,41.064635,42.398424,Brandi_EmotionSentences
+Have you ever tasted anything better?,||,EmotionSentences,12,8,6,42.398424,43.42409,Brandi_EmotionSentences
+What makes you think,-,EmotionSentences,13,9,4,45.504968,47.062461,Brandi_EmotionSentences
+you can yell at me?,complementizer (that...)||,EmotionSentences,14,9,5,56.382095,56.745088,Brandi_EmotionSentences
+Why are you always,-,EmotionSentences,15,10,4,56.745088,58.175955,Brandi_EmotionSentences
+testing my patience.,nonfinite clause||,EmotionSentences,16,10,3,60.154386,60.519209,Brandi_EmotionSentences
+Do you think,-,EmotionSentences,17,11,3,60.519209,61.585568,Brandi_EmotionSentences
+you can push me around?,complementizer (that...)||,EmotionSentences,18,11,5,63.606637,64.771152,Brandi_EmotionSentences
+Don't ever speak to me that way.,||,EmotionSentences,19,12,7,73.354434,74.448221,Brandi_EmotionSentences
+Quit bothering me.,||,EmotionSentences,20,13,3,74.448221,75.094011,Brandi_EmotionSentences
+This microwave is useless.,||,EmotionSentences,21,14,4,77.047369,78.837009,Brandi_EmotionSentences
+Have you seen him?,||,EmotionSentences,22,15,4,80.826502,82.322302,Brandi_EmotionSentences
+I'm on my way to the meeting.,||,EmotionSentences,23,16,7,82.322302,83.732771,Brandi_EmotionSentences
+I would like a new alarm clock.,||,EmotionSentences,24,17,7,93.316839,94.822678,Brandi_EmotionSentences
+I regret,-,EmotionSentences,25,18,2,96.780268,98.26101,Brandi_EmotionSentences
+that we broke up.,complementizer||,EmotionSentences,26,18,4,100.459535,101.34296,Brandi_EmotionSentences
+If only I could go back.,||,EmotionSentences,27,19,6,110.468048,111.499999,Brandi_EmotionSentences
+My brother is very sick.,||,EmotionSentences,28,20,5,111.499999,113.211636,Brandi_EmotionSentences
+What could be better?,||,EmotionSentences,29,21,4,115.140254,115.658451,Brandi_EmotionSentences
+He's always pleasant,-,EmotionSentences,30,22,3,115.658451,116.680648,Brandi_EmotionSentences
+to be around.,infinitive phrase||,EmotionSentences,31,22,3,118.65416,119.41944,Brandi_EmotionSentences
+That abandoned warehouse doesn't seem safe.,||,EmotionSentences,32,23,6,119.41944,120.281987,Brandi_EmotionSentences
+The forest is eerie,-,EmotionSentences,33,24,4,129.6307,130.479036,Brandi_EmotionSentences
+when no one's around.,relative clause||,EmotionSentences,34,24,4,130.479036,131.272555,Brandi_EmotionSentences
+She shouldn't walk there at night.,||,EmotionSentences,35,25,6,133.171992,134.771694,Brandi_EmotionSentences
+That was insulting.,||,EmotionSentences,36,26,3,136.818805,138.161035,Brandi_EmotionSentences
+That noise is getting really annoying.,||,EmotionSentences,37,27,6,147.666386,148.827119,Brandi_EmotionSentences
+I have been waiting in line for too long.,||,EmotionSentences,38,28,9,150.788308,152.144946,Brandi_EmotionSentences
+I love,-,EmotionSentences,39,29,2,152.144946,152.76736,Brandi_EmotionSentences
+spending time with you.,nonfinite clause||,EmotionSentences,40,29,4,154.727866,156.14185,Brandi_EmotionSentences
+It's getting dark,-,EmotionSentences,41,30,3,165.786489,166.514919,Brandi_EmotionSentences
+and I can't find my way back.,conjunction||,EmotionSentences,42,30,7,166.514919,167.463598,Brandi_EmotionSentences
+I wish we didn't have,-,EmotionSentences,43,31,5,169.412198,170.800857,Brandi_EmotionSentences
+to walk through the graveyard.,infinitive phrase||,EmotionSentences,44,31,5,172.771993,174.131106,Brandi_EmotionSentences
+I felt so hopeless.,||,EmotionSentences,45,32,4,183.957242,184.708553,Brandi_EmotionSentences
+Please forgive me.,||,EmotionSentences,46,33,3,184.708553,186.122537,Brandi_EmotionSentences
+I'm so sorry for,-,EmotionSentences,47,34,4,188.216078,190.225202,Brandi_EmotionSentences
+hurting you.,nonfinite clause||,EmotionSentences,48,34,2,192.073934,193.614543,Brandi_EmotionSentences
+These words are creepy.,||,EmotionSentences,49,35,4,201.985155,204.408643,Brandi_EmotionSentences
+I was terrified,-,EmotionSentences,50,36,3,206.318781,206.745577,Brandi_EmotionSentences
+that night.,positioning element||,EmotionSentences,51,36,2,206.745577,207.960305,Brandi_EmotionSentences
+That man looks suspicious.,||,EmotionSentences,52,37,4,209.96595,210.848264,Brandi_EmotionSentences
+You look wonderful.,||,EmotionSentences,53,38,3,210.848264,212.168602,Brandi_EmotionSentences
+They say,-,EmotionSentences,54,39,2,221.116381,222.925043,Brandi_EmotionSentences
+he was a murderer.,complementizer (that...)||,EmotionSentences,55,39,4,224.817273,226.231969,Brandi_EmotionSentences
+The soup is delicious.,||,EmotionSentences,56,40,4,228.231645,228.570926,Brandi_EmotionSentences
+I think,-,EmotionSentences,57,41,2,228.570926,229.325032,Brandi_EmotionSentences
+I have a doctor's appointment.,complementizer (that...)||,EmotionSentences,58,41,5,238.053058,239.930337,Brandi_EmotionSentences
+I wonder,-,EmotionSentences,59,42,2,241.702207,243.162871,Brandi_EmotionSentences
+what that is about.,complementizer||,EmotionSentences,60,42,4,245.030111,245.948673,Brandi_EmotionSentences
+Maybe tomorrow it will be cold.,||,EmotionSentences,61,43,6,254.451644,255.711529,Brandi_EmotionSentences
+I really enjoy our family vacations.,||,EmotionSentences,62,44,6,257.65908,258.642895,Brandi_EmotionSentences
+I look forward to meeting you.,||,EmotionSentences,63,45,6,258.642895,259.556438,Brandi_EmotionSentences
+That was a blast.,||,EmotionSentences,64,46,4,261.584301,262.447648,Brandi_EmotionSentences
+We had so much fun,-,EmotionSentences,65,47,5,262.447648,263.285899,Brandi_EmotionSentences
+last night.,positioning element||,EmotionSentences,66,47,2,272.53175,272.925778,Brandi_EmotionSentences
+I'm not ready for the biopsy results.,||,EmotionSentences,67,48,7,272.925778,273.952258,Brandi_EmotionSentences
+She never returned from the campout.,||,EmotionSentences,68,49,6,275.961218,277.483359,Brandi_EmotionSentences
+I think,-,EmotionSentences,69,50,2,279.333806,281.536433,Brandi_EmotionSentences
+someone's in here besides us.,complementizer||,EmotionSentences,70,50,5,290.615558,291.093093,Brandi_EmotionSentences
+My dog died yesterday.,||,EmotionSentences,71,51,4,291.093093,292.167545,Brandi_EmotionSentences
+I miss the trips,-,EmotionSentences,72,52,4,294.286605,295.181982,Brandi_EmotionSentences
+we used to take.,relative clause||,EmotionSentences,73,52,4,295.181982,296.698154,Brandi_EmotionSentences
+It's terrible,-,EmotionSentences,74,53,2,298.703799,300.321447,Brandi_EmotionSentences
+that such a thing could happen.,relative clause||,EmotionSentences,75,53,6,309.719923,310.134781,Brandi_EmotionSentences
+He never listens to me anymore.,||,EmotionSentences,76,54,6,310.131796,311.054035,Brandi_EmotionSentences
+I miss the time,-,EmotionSentences,77,55,4,312.73263,314.720337,Brandi_EmotionSentences
+we spent together.,relative clause||,EmotionSentences,78,55,3,316.771305,317.438573,Brandi_EmotionSentences
+I can't seem,-,EmotionSentences,79,56,3,317.438573,318.936376,Brandi_EmotionSentences
+to do well on my exams.,infinitive phrase||,EmotionSentences,80,56,6,328.629354,330.439495,Brandi_EmotionSentences
+Don't raise your voice at me.,||,EmotionSentences,81,57,6,332.398707,333.814876,Brandi_EmotionSentences
+I'm going,-,EmotionSentences,82,58,2,333.814876,334.840623,Brandi_EmotionSentences
+to write a complaint.,infinitive phrase||,EmotionSentences,83,58,4,336.781505,339.010113,Brandi_EmotionSentences
+I never want,-,EmotionSentences,84,59,3,348.625206,349.958994,Brandi_EmotionSentences
+to see you again.,infinitive phrase||,EmotionSentences,85,59,4,351.866817,353.884383,Brandi_EmotionSentences

@@ -1,0 +1,162 @@
+segment,reason,narrative,segID,sentID,Nwords,onset,offset,voice_narrative
+The Chief of Police was on TV.,||,MetaphorsRepeatedNames,1,1,7,3.05,4.79,Jack_MetaphorsRepeatedNames
+The Chief reported,-,MetaphorsRepeatedNames,2,2,3,5.77,6.67,Jack_MetaphorsRepeatedNames
+that a convict had just escaped from jail.,complementizer||,MetaphorsRepeatedNames,3,2,8,6.62,8.85,Jack_MetaphorsRepeatedNames
+The Chief said,-,MetaphorsRepeatedNames,4,3,3,9.66,10.39,Jack_MetaphorsRepeatedNames
+that the convict just flew the coop and disappeared.,complementizer||,MetaphorsRepeatedNames,5,3,9,10.33,13.299999,Jack_MetaphorsRepeatedNames
+The Chief warned the viewers,-,MetaphorsRepeatedNames,6,4,5,14.399999,15.76,Jack_MetaphorsRepeatedNames
+that the convict might be hiding in the suburbs.,complementizer||,MetaphorsRepeatedNames,7,4,9,15.84,18.18,Jack_MetaphorsRepeatedNames
+The Chief explained,-,MetaphorsRepeatedNames,8,5,3,19.089999,20.25,Jack_MetaphorsRepeatedNames
+that the convict had,complementizer,MetaphorsRepeatedNames,9,5,4,20.78,22.03,Jack_MetaphorsRepeatedNames
+to be put back into his cell.,infinitive phrase||,MetaphorsRepeatedNames,10,5,7,21.97,23.53,Jack_MetaphorsRepeatedNames
+"At the end of the interview,",positioning element,MetaphorsRepeatedNames,11,6,6,24.54,25.68,Jack_MetaphorsRepeatedNames
+the Chief said,-,MetaphorsRepeatedNames,12,6,3,26.17,26.98,Jack_MetaphorsRepeatedNames
+that this bird still had,complementizer,MetaphorsRepeatedNames,13,6,5,26.96,28.42,Jack_MetaphorsRepeatedNames
+to serve ten years.,infinitive phrase||,MetaphorsRepeatedNames,14,6,4,28.37,29.58,Jack_MetaphorsRepeatedNames
+The Chief asked,-,MetaphorsRepeatedNames,15,7,3,30.45,31.28,Jack_MetaphorsRepeatedNames
+that any sightings of him would be reported immediately.,complementizer||,MetaphorsRepeatedNames,16,7,9,31.229999,34.18,Jack_MetaphorsRepeatedNames
+Alice dreamt,-,MetaphorsRepeatedNames,17,8,2,37.93,38.55,Jack_MetaphorsRepeatedNames
+she got married.,complementizer (that...)||,MetaphorsRepeatedNames,18,8,3,38.53,39.41,Jack_MetaphorsRepeatedNames
+"In the dream,",positioning element,MetaphorsRepeatedNames,19,9,3,40.12,40.9,Jack_MetaphorsRepeatedNames
+Alice's husband never spent much time with Alice and the kids.,||,MetaphorsRepeatedNames,20,9,11,41.85,44.44,Jack_MetaphorsRepeatedNames
+Alice dreamt,-,MetaphorsRepeatedNames,21,10,2,45.35,46.03,Jack_MetaphorsRepeatedNames
+that the husband was very cold to them.,complementizer||,MetaphorsRepeatedNames,22,10,8,46.01,47.89,Jack_MetaphorsRepeatedNames
+Alice was shocked,-,MetaphorsRepeatedNames,23,11,3,49.05,49.979999,Jack_MetaphorsRepeatedNames
+that the husband remained uncaring,complementizer,MetaphorsRepeatedNames,24,11,5,49.93,51.629999,Jack_MetaphorsRepeatedNames
+even after they became grandparents.,positioning element||,MetaphorsRepeatedNames,25,11,5,51.62,53.57,Jack_MetaphorsRepeatedNames
+Alice dreamt,-,MetaphorsRepeatedNames,26,12,2,54.78,55.45,Jack_MetaphorsRepeatedNames
+that the husband didn't even change,complementizer,MetaphorsRepeatedNames,27,12,6,55.48,57.21,Jack_MetaphorsRepeatedNames
+when their grandson was born.,relative clause||,MetaphorsRepeatedNames,28,12,5,57.17,58.55,Jack_MetaphorsRepeatedNames
+"In fact, Alice remembered",-,MetaphorsRepeatedNames,29,13,4,59.23,61.25,Jack_MetaphorsRepeatedNames
+saying in the dream,nonfinite clause,MetaphorsRepeatedNames,30,13,4,61.19,62.13,Jack_MetaphorsRepeatedNames
+that the icebox did not even know his grandchild's name.,complementizer||,MetaphorsRepeatedNames,31,13,10,62.18,65.06,Jack_MetaphorsRepeatedNames
+"At the end of the dream,",positioning element,MetaphorsRepeatedNames,32,14,6,66.029999,67.04,Jack_MetaphorsRepeatedNames
+Alice finally divorced the husband.,||,MetaphorsRepeatedNames,33,14,5,67.51,69.28,Jack_MetaphorsRepeatedNames
+Sandra needed an operation.,||,MetaphorsRepeatedNames,34,15,4,73.14,74.84,Jack_MetaphorsRepeatedNames
+Sandra was not sure about the surgeon at the local hospital.,||,MetaphorsRepeatedNames,35,16,11,75.76,78.59,Jack_MetaphorsRepeatedNames
+Sandra heard,-,MetaphorsRepeatedNames,36,17,2,79.53,80.22,Jack_MetaphorsRepeatedNames
+the surgeon had the reputation of,complementizer (that...),MetaphorsRepeatedNames,37,17,6,80.16,81.77,Jack_MetaphorsRepeatedNames
+treating his patients like meat.,nonfinite clause||,MetaphorsRepeatedNames,38,17,5,81.72,83.259999,Jack_MetaphorsRepeatedNames
+Sandra then read reviews,-,MetaphorsRepeatedNames,39,18,4,84.29,85.58,Jack_MetaphorsRepeatedNames
+saying that the surgeon dealt with patients unkindly with no regard for their feelings.,nonfinite clause (minimal segment) / complementizer||,MetaphorsRepeatedNames,40,18,14,85.519999,89.639999,Jack_MetaphorsRepeatedNames
+Sandra was dismayed,-,MetaphorsRepeatedNames,41,19,3,90.64,91.84,Jack_MetaphorsRepeatedNames
+to read,infinitive phrase,MetaphorsRepeatedNames,42,19,2,91.82,92.3,Jack_MetaphorsRepeatedNames
+that the surgeon made some patients afraid,complementizer,MetaphorsRepeatedNames,43,19,7,92.24,94.49,Jack_MetaphorsRepeatedNames
+he would cut them in the wrong places.,complementizer (that...)||,MetaphorsRepeatedNames,44,19,8,94.44,96.34,Jack_MetaphorsRepeatedNames
+"At the end,",positioning element,MetaphorsRepeatedNames,45,20,3,97.3,97.9,Jack_MetaphorsRepeatedNames
+Sandra said,-,MetaphorsRepeatedNames,46,20,2,98.41,99.05,Jack_MetaphorsRepeatedNames
+that this butcher will not lay a hand on her.,complementizer||,MetaphorsRepeatedNames,47,20,10,98.99,101.23,Jack_MetaphorsRepeatedNames
+Sandra decided,-,MetaphorsRepeatedNames,48,21,2,102.2,103.03,Jack_MetaphorsRepeatedNames
+to find another surgeon.,infinitive phrase||,MetaphorsRepeatedNames,49,21,4,102.97,104.169999,Jack_MetaphorsRepeatedNames
+Mary took a trip to a local car dealership.,||,MetaphorsRepeatedNames,50,22,9,108.12,110.54,Jack_MetaphorsRepeatedNames
+Mary was immediately approached by a big and pushy salesperson.,||,MetaphorsRepeatedNames,51,23,10,111.14,114.86,Jack_MetaphorsRepeatedNames
+Mary thought,-,MetaphorsRepeatedNames,52,24,2,115.63,116.28,Jack_MetaphorsRepeatedNames
+that the salesperson was aggressive and unpleasant.,complementizer||,MetaphorsRepeatedNames,53,24,7,116.24,118.97,Jack_MetaphorsRepeatedNames
+Mary felt,-,MetaphorsRepeatedNames,54,25,2,120.04,120.67,Jack_MetaphorsRepeatedNames
+that the salesperson harassed her with his repetitive sales pitch.,complementizer||,MetaphorsRepeatedNames,55,25,10,120.609999,123.75,Jack_MetaphorsRepeatedNames
+Mary was dismayed,-,MetaphorsRepeatedNames,56,26,3,124.829999,125.889999,Jack_MetaphorsRepeatedNames
+that the salesperson completely disregarded her questions.,complementizer||,MetaphorsRepeatedNames,57,26,7,125.87,128.75,Jack_MetaphorsRepeatedNames
+"With anger, Mary told the manager",-,MetaphorsRepeatedNames,58,27,6,129.4,131.58,Jack_MetaphorsRepeatedNames
+that this bulldozer was certainly not getting her business.,complementizer||,MetaphorsRepeatedNames,59,27,9,131.54,134.55,Jack_MetaphorsRepeatedNames
+Mary eventually bought a car from the dealership,-,MetaphorsRepeatedNames,60,28,8,135.5,137.63,Jack_MetaphorsRepeatedNames
+on the other side of town.,positioning element||,MetaphorsRepeatedNames,61,28,6,137.58,139.03,Jack_MetaphorsRepeatedNames
+Peter had,-,MetaphorsRepeatedNames,62,29,2,142.8,143.34,Jack_MetaphorsRepeatedNames
+to take over his former colleague's office.,infinitive phrase||,MetaphorsRepeatedNames,63,29,7,143.279999,145.34,Jack_MetaphorsRepeatedNames
+Peter examined the office and found the office,-,MetaphorsRepeatedNames,64,30,8,145.99,148.05,Jack_MetaphorsRepeatedNames
+to be extremely cluttered.,infinitive phrase||,MetaphorsRepeatedNames,65,30,4,148.0,149.36,Jack_MetaphorsRepeatedNames
+Peter realized,-,MetaphorsRepeatedNames,66,31,2,150.21,151.03,Jack_MetaphorsRepeatedNames
+that the office looked bad,complementizer,MetaphorsRepeatedNames,67,31,5,151.02,152.48,Jack_MetaphorsRepeatedNames
+because the office was filled with trash.,conjunction||,MetaphorsRepeatedNames,68,31,7,152.49,154.29,Jack_MetaphorsRepeatedNames
+Peter wondered,-,MetaphorsRepeatedNames,69,32,2,155.22,155.99,Jack_MetaphorsRepeatedNames
+if the office was the most littered office in the building.,complementizer||,MetaphorsRepeatedNames,70,32,11,155.95,158.63,Jack_MetaphorsRepeatedNames
+Peter thought,-,MetaphorsRepeatedNames,71,33,2,159.609999,160.26,Jack_MetaphorsRepeatedNames
+that the office resembled a junkyard and made the entire floor look bad.,complementizer||,MetaphorsRepeatedNames,72,33,13,160.2,163.89,Jack_MetaphorsRepeatedNames
+"With frustration, he told his boss",-,MetaphorsRepeatedNames,73,34,6,164.82,166.92,Jack_MetaphorsRepeatedNames
+that the dump was impossible,complementizer,MetaphorsRepeatedNames,74,34,5,166.9,168.37,Jack_MetaphorsRepeatedNames
+to work in.,infinitive phrase||,MetaphorsRepeatedNames,75,34,3,168.31,168.91,Jack_MetaphorsRepeatedNames
+Peter could not bring himself near the office.,||,MetaphorsRepeatedNames,76,35,8,169.83,172.04,Jack_MetaphorsRepeatedNames
+The new teacher was shocked at the behavior of some of the kids.,||,MetaphorsRepeatedNames,77,36,13,175.99,179.309999,Jack_MetaphorsRepeatedNames
+The teacher noticed,-,MetaphorsRepeatedNames,78,37,3,180.13,181.08,Jack_MetaphorsRepeatedNames
+that the big yard at school was always busy with fights.,complementizer||,MetaphorsRepeatedNames,79,37,11,181.15,184.29,Jack_MetaphorsRepeatedNames
+The teacher was surprised,-,MetaphorsRepeatedNames,80,38,4,185.36,186.71,Jack_MetaphorsRepeatedNames
+to see,infinitive phrase,MetaphorsRepeatedNames,81,38,2,186.72,187.19,Jack_MetaphorsRepeatedNames
+that the young children were so ferocious and mean.,complementizer||,MetaphorsRepeatedNames,82,38,9,187.17,189.87,Jack_MetaphorsRepeatedNames
+The teacher saw,-,MetaphorsRepeatedNames,83,39,3,190.76,191.61,Jack_MetaphorsRepeatedNames
+"that the children ran wild and untamed on the playground,",complementizer,MetaphorsRepeatedNames,84,39,10,191.59,194.36,Jack_MetaphorsRepeatedNames
+ignoring all adults' directions.,nonfinite clause||,MetaphorsRepeatedNames,85,39,4,194.54,196.199999,Jack_MetaphorsRepeatedNames
+The teacher thought,-,MetaphorsRepeatedNames,86,40,3,197.15,197.909999,Jack_MetaphorsRepeatedNames
+that the children seemed,complementizer,MetaphorsRepeatedNames,87,40,4,197.89,198.94,Jack_MetaphorsRepeatedNames
+to have just been let out of a cage at the zoo.,infinitive phrase||,MetaphorsRepeatedNames,88,40,12,198.92,201.39,Jack_MetaphorsRepeatedNames
+"At dinner,",positioning element,MetaphorsRepeatedNames,89,41,2,202.33,202.95,Jack_MetaphorsRepeatedNames
+the teacher told his family,-,MetaphorsRepeatedNames,90,41,5,203.48,204.8,Jack_MetaphorsRepeatedNames
+that the beasts clearly needed,complementizer,MetaphorsRepeatedNames,91,41,5,204.75,206.37,Jack_MetaphorsRepeatedNames
+to be disciplined.,infinitive phrase||,MetaphorsRepeatedNames,92,41,3,206.31,207.19,Jack_MetaphorsRepeatedNames
+The teacher however noted with dismay,-,MetaphorsRepeatedNames,93,42,6,207.98,210.85,Jack_MetaphorsRepeatedNames
+that nobody at the school seemed,complementizer,MetaphorsRepeatedNames,94,42,6,210.87,212.27,Jack_MetaphorsRepeatedNames
+to care.,infinitive phrase||,MetaphorsRepeatedNames,95,42,2,212.25,212.779999,Jack_MetaphorsRepeatedNames
+The parents of the students in the third grade met,-,MetaphorsRepeatedNames,96,43,10,216.259999,219.25,Jack_MetaphorsRepeatedNames
+after school,positioning element,MetaphorsRepeatedNames,97,43,2,219.25,219.87,Jack_MetaphorsRepeatedNames
+to discuss a problem.,infinitive phrase||,MetaphorsRepeatedNames,98,43,4,219.81,220.9,Jack_MetaphorsRepeatedNames
+The parents were frustrated with the new teacher.,||,MetaphorsRepeatedNames,99,44,8,221.73,223.92,Jack_MetaphorsRepeatedNames
+The parents thought,-,MetaphorsRepeatedNames,100,45,3,224.819999,225.63,Jack_MetaphorsRepeatedNames
+that the teacher was far too pliable and yielding.,complementizer||,MetaphorsRepeatedNames,101,45,9,225.569999,228.35,Jack_MetaphorsRepeatedNames
+The parents did not appreciate,-,MetaphorsRepeatedNames,102,46,5,229.069999,230.39,Jack_MetaphorsRepeatedNames
+how the teacher stretched and bent her rules,relative clause,MetaphorsRepeatedNames,103,46,8,230.33,232.24,Jack_MetaphorsRepeatedNames
+when the children challenged her authority.,relative clause||,MetaphorsRepeatedNames,104,46,6,232.189999,233.899999,Jack_MetaphorsRepeatedNames
+The parents were dismayed,-,MetaphorsRepeatedNames,105,47,4,234.609999,235.79,Jack_MetaphorsRepeatedNames
+that the teacher was being molded by the kids' constant demands.,complementizer||,MetaphorsRepeatedNames,106,47,11,235.73,239.02,Jack_MetaphorsRepeatedNames
+"At the end of the meeting,",positioning element,MetaphorsRepeatedNames,107,48,6,239.7,240.77,Jack_MetaphorsRepeatedNames
+the parents said,-,MetaphorsRepeatedNames,108,48,3,241.21,241.86,Jack_MetaphorsRepeatedNames
+that the putty couldn't have stood up to a two-year-old.,complementizer||,MetaphorsRepeatedNames,109,48,10,241.8,244.15,Jack_MetaphorsRepeatedNames
+The parents decided,-,MetaphorsRepeatedNames,110,49,3,244.73,245.659999,Jack_MetaphorsRepeatedNames
+to complain to the Principal.,infinitive phrase||,MetaphorsRepeatedNames,111,49,5,245.6,246.95,Jack_MetaphorsRepeatedNames
+Jenna went with a friend,-,MetaphorsRepeatedNames,112,50,5,250.46,251.63,Jack_MetaphorsRepeatedNames
+to see the Saturday night fights.,infinitive phrase||,MetaphorsRepeatedNames,113,50,6,251.609999,253.33,Jack_MetaphorsRepeatedNames
+Jenna read,-,MetaphorsRepeatedNames,114,51,2,254.24,254.78,Jack_MetaphorsRepeatedNames
+that one of the boxers scheduled for the first match had never won a fight.,complementizer||,MetaphorsRepeatedNames,115,51,15,254.75,258.3,Jack_MetaphorsRepeatedNames
+Jenna was surprised,-,MetaphorsRepeatedNames,116,52,3,259.41,260.29,Jack_MetaphorsRepeatedNames
+to read,infinitive phrase,MetaphorsRepeatedNames,117,52,2,260.33,260.83,Jack_MetaphorsRepeatedNames
+that the boxer was described,complementizer,MetaphorsRepeatedNames,118,52,5,260.79,262.18,Jack_MetaphorsRepeatedNames
+being weak and soft.,nonfinite clause||,MetaphorsRepeatedNames,119,52,4,262.13,263.79,Jack_MetaphorsRepeatedNames
+Jenna was even more baffled,-,MetaphorsRepeatedNames,120,53,5,264.68,266.189999,Jack_MetaphorsRepeatedNames
+seeing that the boxer was fat and spongy through the middle.,nonfinite clause (minimal segment) / complementizer||,MetaphorsRepeatedNames,121,53,11,266.54,269.53,Jack_MetaphorsRepeatedNames
+Jenna thought,-,MetaphorsRepeatedNames,122,54,2,270.55,271.11,Jack_MetaphorsRepeatedNames
+the boxer looked like a wimpy ball of dough.,complementizer (that...)||,MetaphorsRepeatedNames,123,54,9,271.11,273.47,Jack_MetaphorsRepeatedNames
+"At the end of the fight,",positioning element,MetaphorsRepeatedNames,124,55,6,274.41,275.52,Jack_MetaphorsRepeatedNames
+she told her friend,-,MetaphorsRepeatedNames,125,55,4,275.82,276.77,Jack_MetaphorsRepeatedNames
+that the creampuff never had a chance.,complementizer||,MetaphorsRepeatedNames,126,55,7,276.75,278.82,Jack_MetaphorsRepeatedNames
+Jenna decided,-,MetaphorsRepeatedNames,127,56,2,279.85,280.579999,Jack_MetaphorsRepeatedNames
+to go for a drink,infinitive phrase,MetaphorsRepeatedNames,128,56,5,280.52,281.49,Jack_MetaphorsRepeatedNames
+until the second match started.,positioning element||,MetaphorsRepeatedNames,129,56,5,281.45,283.0,Jack_MetaphorsRepeatedNames
+Kate went to her very first practice on the varsity basketball team.,||,MetaphorsRepeatedNames,130,57,12,286.589999,290.11,Jack_MetaphorsRepeatedNames
+Kate found the coach,-,MetaphorsRepeatedNames,131,58,4,291.01,291.84,Jack_MetaphorsRepeatedNames
+to be very intimidating and cruel.,infinitive phrase||,MetaphorsRepeatedNames,132,58,6,291.78,293.58,Jack_MetaphorsRepeatedNames
+Kate thought,-,MetaphorsRepeatedNames,133,59,2,294.39,294.9,Jack_MetaphorsRepeatedNames
+that the coach was harsh and demanding.,complementizer||,MetaphorsRepeatedNames,134,59,7,294.86,296.64,Jack_MetaphorsRepeatedNames
+Kate soon discovered,-,MetaphorsRepeatedNames,135,60,3,297.439999,298.46,Jack_MetaphorsRepeatedNames
+that the coach was a merciless ruler,complementizer,MetaphorsRepeatedNames,136,60,7,298.439999,300.15,Jack_MetaphorsRepeatedNames
+who suppressed all opposition to his methods.,relative clause||,MetaphorsRepeatedNames,137,60,7,300.109999,302.47,Jack_MetaphorsRepeatedNames
+Kate complained,-,MetaphorsRepeatedNames,138,61,2,303.83,304.609999,Jack_MetaphorsRepeatedNames
+that the coach tortured the team with inhumanely long practice sessions.,complementizer||,MetaphorsRepeatedNames,139,61,11,304.57,308.21,Jack_MetaphorsRepeatedNames
+At the end of the season,positioning element,MetaphorsRepeatedNames,140,62,6,309.52,310.76,Jack_MetaphorsRepeatedNames
+Kate told her mom,-,MetaphorsRepeatedNames,141,62,4,310.82,311.88,Jack_MetaphorsRepeatedNames
+that the tyrant made the season really miserable.,complementizer||,MetaphorsRepeatedNames,142,62,8,311.95,314.37,Jack_MetaphorsRepeatedNames
+The whole team prayed,-,MetaphorsRepeatedNames,143,63,4,315.27,316.39,Jack_MetaphorsRepeatedNames
+the coach would leave soon.,complementizer (that...)||,MetaphorsRepeatedNames,144,63,5,316.37,317.589999,Jack_MetaphorsRepeatedNames
+Betsy found a house,-,MetaphorsRepeatedNames,145,64,4,321.49,322.49,Jack_MetaphorsRepeatedNames
+she wanted,relative clause (that...),MetaphorsRepeatedNames,146,64,2,322.439999,322.99,Jack_MetaphorsRepeatedNames
+to buy,infinitive phrase,MetaphorsRepeatedNames,147,64,2,322.929999,323.419999,Jack_MetaphorsRepeatedNames
+but the house was too expensive.,conjunction||,MetaphorsRepeatedNames,148,64,6,323.74,325.14,Jack_MetaphorsRepeatedNames
+Betsy was put off by the owner,-,MetaphorsRepeatedNames,149,65,7,325.88,327.59,Jack_MetaphorsRepeatedNames
+who refused,relative clause,MetaphorsRepeatedNames,150,65,2,327.54,328.26,Jack_MetaphorsRepeatedNames
+to negotiate on any detail.,infinitive phrase||,MetaphorsRepeatedNames,151,65,5,328.2,329.77,Jack_MetaphorsRepeatedNames
+Betsy thought,-,MetaphorsRepeatedNames,152,66,2,330.6,331.28,Jack_MetaphorsRepeatedNames
+that the owner was overly stubborn and stood his ground uncompromisingly.,complementizer||,MetaphorsRepeatedNames,153,66,11,331.22,334.83,Jack_MetaphorsRepeatedNames
+Betsy was somewhat annoyed,-,MetaphorsRepeatedNames,154,67,4,335.89,337.23,Jack_MetaphorsRepeatedNames
+that the owner would not budge about the amount needed for the down payment.,complementizer||,MetaphorsRepeatedNames,155,67,14,337.21,340.55,Jack_MetaphorsRepeatedNames
+Betsy was most frustrated however,-,MetaphorsRepeatedNames,156,68,5,341.37,343.21,Jack_MetaphorsRepeatedNames
+that the owner would not move even an inch on the price.,relative clause||,MetaphorsRepeatedNames,157,68,12,343.15,346.12,Jack_MetaphorsRepeatedNames
+"In despair, she said",-,MetaphorsRepeatedNames,158,69,4,346.81,348.35,Jack_MetaphorsRepeatedNames
+that the mule would only sell on his own terms.,complementizer||,MetaphorsRepeatedNames,159,69,10,348.29,350.69,Jack_MetaphorsRepeatedNames
+Betsy finally gave up and decided,-,MetaphorsRepeatedNames,160,70,6,351.39,353.35,Jack_MetaphorsRepeatedNames
+to look for another house.,infinitive phrase||,MetaphorsRepeatedNames,161,70,5,353.29,354.51,Jack_MetaphorsRepeatedNames

@@ -1,0 +1,112 @@
+segment,reason,narrative,segID,sentID,Nwords
+"Some call it the ""Hermit Kingdom.""",||,TaleofTwoCountries,1,1,6
+It is a place,-,TaleofTwoCountries,2,2,4
+where the outside world has been walled off.,relative clause||,TaleofTwoCountries,3,2,8
+American pop music is illegal here,-,TaleofTwoCountries,4,3,6
+and you can get executed,conjunction,TaleofTwoCountries,5,3,5
+for watching soap operas.,nonfinite clause||,TaleofTwoCountries,6,3,4
+This is not a make-believe world in a science fiction novel.,||,TaleofTwoCountries,7,4,11
+"It's a 46,000 square mile nation",-,TaleofTwoCountries,8,5,6
+hanging off the east coast of China.,nonfinite clause / positioning element||,TaleofTwoCountries,9,5,7
+It is one of the poorest nations in the world,-,TaleofTwoCountries,10,6,10
+and it is armed with nuclear weapons.,conjunction||,TaleofTwoCountries,11,6,7
+It is North Korea.,||,TaleofTwoCountries,12,7,4
+Immediately to the south,positioning element,TaleofTwoCountries,13,8,4
+lies a nation with one of the world's richest economies.,||,TaleofTwoCountries,14,8,10
+About one-third of all phones and TVs are made here.,||,TaleofTwoCountries,15,9,10
+The people of this nation are among the world's most educated.,||,TaleofTwoCountries,16,10,11
+"Unemployment is low,",-,TaleofTwoCountries,17,11,3
+"job security is high,",conjunction,TaleofTwoCountries,18,11,4
+and workers in this nation enjoy the highest salaries in Asia.,conjunction||,TaleofTwoCountries,19,11,11
+It is South Korea.,||,TaleofTwoCountries,20,12,4
+"The people of this nation share origins with their northern neighbor,",-,TaleofTwoCountries,21,13,11
+but they have since grown far apart.,conjunction||,TaleofTwoCountries,22,13,7
+The two Koreas went to war in 1950.,positioning element||,TaleofTwoCountries,23,14,8
+The North attacked and took over much of South Korea.,||,TaleofTwoCountries,24,15,10
+But the United States jumped in and pushed the North Koreans back to the Chinese border.,||,TaleofTwoCountries,25,16,16
+Then China got involved and pushed the Americans and South Koreans back.,||,TaleofTwoCountries,26,17,12
+The nations agreed to a ceasefire.,||,TaleofTwoCountries,27,18,6
+Millions of people were dead,-,TaleofTwoCountries,28,19,5
+and the living returned to their original boundaries.,conjunction||,TaleofTwoCountries,29,19,8
+"The war never officially ended,",-,TaleofTwoCountries,30,20,5
+though combat has ceased for the most part.,nonrestrictive clause||,TaleofTwoCountries,31,20,8
+The Democratic People's Republic of Korea,-,TaleofTwoCountries,32,21,6
+(known to Westerners as North Korea),nonrestrictive clause,TaleofTwoCountries,33,21,6
+was founded in 1945 after World War II.,||,TaleofTwoCountries,34,21,8
+"Their neighbor at the end of the Korean Peninsula,",-,TaleofTwoCountries,35,22,9
+"South Korea or the Republic of Korea,",nonrestrictive clause,TaleofTwoCountries,36,22,7
+was established at the same time.,||,TaleofTwoCountries,37,22,6
+These two nations have an unusual history.,||,TaleofTwoCountries,38,23,7
+"For one thing,",nonrestrictive clause,TaleofTwoCountries,39,24,3
+they have technically been at war since 1950.,||,TaleofTwoCountries,40,24,8
+"After the war,",positioning element,TaleofTwoCountries,41,25,3
+South Korea was one of the poorest nations in the world.,||,TaleofTwoCountries,42,25,11
+In 1960 the average citizen made $79 a year.,||,TaleofTwoCountries,43,26,9
+"The country did not have a lot of natural resources to sell,",-,TaleofTwoCountries,44,27,12
+but they did have many hardworking people.,conjunction||,TaleofTwoCountries,45,27,7
+"During the 1960s, the country began",-,TaleofTwoCountries,46,28,6
+manufacturing labor-intensive products.,nonfinite clause||,TaleofTwoCountries,47,28,3
+Selling these products to people in other nations,nonfinite clause,TaleofTwoCountries,48,29,8
+made South Korea rich.,||,TaleofTwoCountries,49,29,4
+They now have one of the largest and most thriving economies in the world.,||,TaleofTwoCountries,50,30,14
+"As of 2012,",positioning element,TaleofTwoCountries,51,31,3
+"the average South Korean citizen makes around $32,020 a year.",||,TaleofTwoCountries,52,31,10
+"Though they were born at the same time,",nonrestrictive clause,TaleofTwoCountries,53,32,8
+these two countries had different parents.,||,TaleofTwoCountries,54,32,6
+The United States supported South Korea in its infancy.,||,TaleofTwoCountries,55,33,9
+China and the Soviet Union supported North Korea.,||,TaleofTwoCountries,56,34,8
+"The U.S. and the Soviet Union may have ended World War II as allies,",-,TaleofTwoCountries,57,35,14
+but they had different ways of organizing their societies.,conjunction||,TaleofTwoCountries,58,35,9
+The U.S. is a capitalist country.,||,TaleofTwoCountries,59,36,6
+That means,-,TaleofTwoCountries,60,37,2
+that some people are rich and some people are poor.,complementizer||,TaleofTwoCountries,61,37,10
+Resources are distributed unevenly.,||,TaleofTwoCountries,62,38,4
+Business are owned by private entities.,||,TaleofTwoCountries,63,39,6
+The Soviet Union claimed,-,TaleofTwoCountries,64,40,4
+to have a communist system.,infinitive phrase||,TaleofTwoCountries,65,40,5
+That means,-,TaleofTwoCountries,66,41,2
+that everybody supposedly gets the same.,complementizer||,TaleofTwoCountries,67,41,6
+Resources are distributed more evenly.,||,TaleofTwoCountries,68,42,5
+"Business are owned in ""common"" by the government.",||,TaleofTwoCountries,69,43,8
+These two superpower nations raised North and South Korea in their own images.,||,TaleofTwoCountries,70,44,13
+The economy of North Korea is dramatically different.,||,TaleofTwoCountries,71,45,8
+"Since it's birth in the 1940s,",positioning element,TaleofTwoCountries,72,46,6
+North Korea has been one of the most secluded countries in the world.,||,TaleofTwoCountries,73,46,13
+They promote an idea of self-reliance,-,TaleofTwoCountries,74,47,6
+that they call Juche.,relative clause||,TaleofTwoCountries,75,47,4
+"Under this idea, they do little to no trading with other nations.",||,TaleofTwoCountries,76,48,12
+"Up until the 1980s,",positioning element,TaleofTwoCountries,77,49,4
+they received large cash infusions from China and the Soviet Union.,||,TaleofTwoCountries,78,49,11
+"But the Soviet Union fell apart in the 80s and became separate capitalist countries,",-,TaleofTwoCountries,79,50,14
+of which Russia is largest.,nonrestrictive clause||,TaleofTwoCountries,80,50,5
+"Without the Soviet contributions, North Korea entered a long period of famine",-,TaleofTwoCountries,81,51,12
+that lasted through the 90s.,relative clause||,TaleofTwoCountries,82,51,5
+Food was hard to come by,-,TaleofTwoCountries,83,52,6
+and some estimate,conjunction,TaleofTwoCountries,84,52,3
+that millions of people starved to death.,complementizer||,TaleofTwoCountries,85,52,7
+"Still, the country persisted",-,TaleofTwoCountries,86,53,4
+when much of the world thought,relative clause,TaleofTwoCountries,87,53,6
+that it would fall apart.,complementizer||,TaleofTwoCountries,88,53,5
+"Not only did they survive,",nonrestrictive clause,TaleofTwoCountries,89,54,5
+they managed,-,TaleofTwoCountries,90,54,2
+to build a nuclear arsenal during this time.,infinitive phrase||,TaleofTwoCountries,91,54,8
+North Korea and South Korea share a border.,||,TaleofTwoCountries,92,55,8
+"Since they are locked in state of perpetual war,",nonrestrictive clause,TaleofTwoCountries,93,56,9
+it's not a regular boarder with a simple checkpoint.,||,TaleofTwoCountries,94,56,9
+"The border they share is known as a ""demilitarized zone.""",||,TaleofTwoCountries,95,57,10
+A demilitarized zone is supposed,-,TaleofTwoCountries,96,58,5
+to be free from military installations.,infinitive phrase||,TaleofTwoCountries,97,58,6
+"Yet, the Korean Demilitarized Zone is the most heavily militarized border in the world.",||,TaleofTwoCountries,98,59,14
+Both nations have their biggest guns lined-up on the divide and pointed at the other side.,||,TaleofTwoCountries,99,60,16
+"It is literally the opposite of what the phrase ""demilitarized zone"" implies.",||,TaleofTwoCountries,100,61,12
+Someday Korea may be unified again.,||,TaleofTwoCountries,101,62,6
+"It seems unlikely now,",-,TaleofTwoCountries,102,63,4
+but stranger things have happened.,conjunction||,TaleofTwoCountries,103,63,5
+"Yet, even if they did unify,",nonrestrictive clause,TaleofTwoCountries,104,64,6
+how could these very different societies acclimate to one another?,"conjunction (if, then...)||",TaleofTwoCountries,105,64,10
+They have grown in different directions.,||,TaleofTwoCountries,106,65,6
+"One country is among the wealthiest,",-,TaleofTwoCountries,107,66,6
+the other amongst the poorest.,conjunction||,TaleofTwoCountries,108,66,5
+The average North Korean male is estimated to be five-inches shorter than a South Korean,-,TaleofTwoCountries,109,67,15
+(some suspect because of malnutrition).,nonrestrictive clause||,TaleofTwoCountries,110,67,5
+"With such big differences, will they ever be able to see eye to eye?",||,TaleofTwoCountries,111,68,14

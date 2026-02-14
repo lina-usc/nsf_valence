@@ -1,0 +1,128 @@
+segment,reason,narrative,segID,sentID,Nwords
+"""It's not true",-,ProfessionalDecline,1,1,3
+"that no one needs you anymore.""",relative clause||,ProfessionalDecline,2,1,6
+These words came from an elderly woman,-,ProfessionalDecline,3,2,7
+sitting behind me on a late-night flight,nonfinite clause,ProfessionalDecline,4,2,7
+"from Los Angeles to Washington, D.C.",positioning element||,ProfessionalDecline,5,2,6
+The plane was dark and quiet.,||,ProfessionalDecline,6,3,6
+"A man I assumed to be her husband murmured almost inaudibly in response,",-,ProfessionalDecline,7,4,13
+"something to the effect of ""I wish I was dead.""",nonrestrictive clause||,ProfessionalDecline,8,4,10
+"Again, the woman: ""Oh, stop saying that.""",||,ProfessionalDecline,9,5,7
+I didn't mean,-,ProfessionalDecline,10,6,3
+to eavesdrop but couldn't help it.,infinitive phrase||,ProfessionalDecline,11,6,6
+"I listened with morbid fascination,",-,ProfessionalDecline,12,7,5
+forming an image of the man in my head,nonfinite clause,ProfessionalDecline,13,7,9
+as they talked.,conjunction||,ProfessionalDecline,14,7,3
+I imagined someone,-,ProfessionalDecline,15,8,3
+"who had worked hard all his life in relative obscurity,",relative clause,ProfessionalDecline,16,8,10
+someone with unfulfilled dreams-,nonrestrictive clause,ProfessionalDecline,17,8,4
+"perhaps of the degree he never attained, the career he never pursued, the company he never started.",nonrestrictive clause||,ProfessionalDecline,18,8,17
+"At the end of the flight,",positioning element,ProfessionalDecline,19,9,6
+"as the lights switched on,",nonrestrictive clause,ProfessionalDecline,20,9,5
+I finally got a look at the desolate man.,||,ProfessionalDecline,21,9,9
+I was shocked.,||,ProfessionalDecline,22,10,3
+I recognized him-,||,ProfessionalDecline,23,11,3
+"he was, and still is, world-famous.",||,ProfessionalDecline,24,12,6
+"Then in his mid-80s,",nonrestrictive clause,ProfessionalDecline,25,13,4
+"he was beloved as a hero for his courage, patriotism, and accomplishments many decades ago.",||,ProfessionalDecline,26,13,15
+"As he walked up the aisle of the plane behind me,",conjunction,ProfessionalDecline,27,14,11
+other passengers greeted him with veneration.,||,ProfessionalDecline,28,14,6
+"Standing at the door of the cockpit,",nonfinite clause,ProfessionalDecline,29,15,7
+the pilot stopped him,-,ProfessionalDecline,30,15,4
+"and said, ""Sir, I have admired you since I was a little boy.""",quotation||,ProfessionalDecline,31,15,13
+The older man-,-,ProfessionalDecline,32,16,3
+apparently wishing for death just a few minutes earlier-,nonrestrictive clause,ProfessionalDecline,33,16,9
+beamed with pride at the recognition of his past glories.,||,ProfessionalDecline,34,16,10
+"For selfish reasons,",nonrestrictive clause,ProfessionalDecline,35,17,3
+I couldn't get the cognitive dissonance of that scene out of my mind.,||,ProfessionalDecline,36,17,13
+"It was the summer of 2015,",positioning element,ProfessionalDecline,37,18,6
+shortly after my 51st birthday.,||,ProfessionalDecline,38,18,5
+"I was not world-famous like the man on the plane,",-,ProfessionalDecline,39,19,10
+but my professional life was going very well.,conjunction||,ProfessionalDecline,40,19,8
+"I was the president of a flourishing Washington think tank,",-,ProfessionalDecline,41,20,10
+the American Enterprise Institute.,nonrestrictive clause||,ProfessionalDecline,42,20,4
+I had written some best-selling books.,||,ProfessionalDecline,43,21,6
+People came to my speeches.,||,ProfessionalDecline,44,22,5
+My columns were published in The New York Times.,||,ProfessionalDecline,45,23,9
+But I had started to wonder:,||,ProfessionalDecline,46,24,6
+Can I really keep this going?,||,ProfessionalDecline,47,25,6
+I work like a maniac.,||,ProfessionalDecline,48,26,5
+"But even if I stayed at it 12 hours a day, seven days a week,",conjunction,ProfessionalDecline,49,27,15
+at some point my career would slow and stop.,||,ProfessionalDecline,50,27,9
+"And when it did,",conjunction,ProfessionalDecline,51,28,4
+what then?,||,ProfessionalDecline,52,28,2
+Would I one day be looking back wistfully and wishing I were dead?,||,ProfessionalDecline,53,29,13
+"Was there anything I could do, starting now,",-,ProfessionalDecline,54,30,8
+to give myself a shot at avoiding misery-,infinitive phrase,ProfessionalDecline,55,30,8
+and maybe even achieve happiness-,nonrestrictive clause,ProfessionalDecline,56,30,5
+when the music inevitably stops?,relative clause||,ProfessionalDecline,57,30,5
+"Though these questions were personal,",nonrestrictive clause,ProfessionalDecline,58,31,5
+I decided,-,ProfessionalDecline,59,31,2
+"to approach them as the social scientist I am,",infinitive phrase,ProfessionalDecline,60,31,9
+treating them as a research project.,nonfinite clause||,ProfessionalDecline,61,31,6
+It felt unnatural-,||,ProfessionalDecline,62,32,3
+like a surgeon taking out his own appendix.,||,ProfessionalDecline,63,33,8
+"But I plunged ahead,",-,ProfessionalDecline,64,34,4
+"and for the past four years,",conjunction / positioning element,ProfessionalDecline,65,34,6
+I have been on a quest,-,ProfessionalDecline,66,34,6
+to figure out how,infinitive phrase,ProfessionalDecline,67,34,4
+to turn my eventual professional decline from a matter of dread into an opportunity for progress.,infinitive phrase||,ProfessionalDecline,68,34,16
+Here's what I've found.,||,ProfessionalDecline,69,35,4
+"The field of ""happiness studies"" has boomed over the past two decades,",-,ProfessionalDecline,70,36,12
+and a consensus has developed about well-being,conjunction,ProfessionalDecline,71,36,7
+as we advance through life.,conjunction||,ProfessionalDecline,72,36,5
+"In The Happiness Curve: Why Life Gets Better After 50,",positioning element,ProfessionalDecline,73,37,10
+"Jonathan Rauch,",-,ProfessionalDecline,74,37,2
+"a Brookings Institution scholar and an Atlantic contributing editor,",nonrestrictive clause,ProfessionalDecline,75,37,9
+reviews the strong evidence suggesting,-,ProfessionalDecline,76,37,5
+"that the happiness of most adults declines through their 30s and 40s,",complementizer,ProfessionalDecline,77,37,12
+then bottoms out in their early 50s.,conjunction||,ProfessionalDecline,78,37,7
+"Nothing about this pattern is set in stone, of course.",||,ProfessionalDecline,79,38,10
+But the data seem eerily consistent with my experience:,||,ProfessionalDecline,80,39,9
+"My 40s and early 50s were not an especially happy period of my life,",-,ProfessionalDecline,81,40,14
+notwithstanding my professional fortunes.,nonrestrictive clause||,ProfessionalDecline,82,40,4
+"So what can people expect after that,",-,ProfessionalDecline,83,41,7
+based on the data?,nonrestrictive clause||,ProfessionalDecline,84,41,4
+The news is mixed.,||,ProfessionalDecline,85,42,4
+Almost all studies of happiness over the life span show,-,ProfessionalDecline,86,43,10
+"that, in wealthier countries,",complementizer / nonrestrictive clause,ProfessionalDecline,87,43,4
+most people's contentment starts,-,ProfessionalDecline,88,43,4
+"to increase again in their 50s, until age 70 or so.",infinitive phrase||,ProfessionalDecline,89,43,11
+"That is where things get less predictable, however.",||,ProfessionalDecline,90,44,8
+"After 70, some people stay steady in happiness;",||,ProfessionalDecline,91,45,8
+others get happier until death.,||,ProfessionalDecline,92,46,5
+Others-men in particular-,nonrestrictive clause,ProfessionalDecline,93,47,3
+see their happiness plummet.,||,ProfessionalDecline,94,47,4
+"Indeed, depression and suicide rates for men increase after age 75.",||,ProfessionalDecline,95,48,11
+This last group would seem,-,ProfessionalDecline,96,49,5
+to include the hero on the plane.,infinitive phrase||,ProfessionalDecline,97,49,7
+A few researchers have looked at this cohort,-,ProfessionalDecline,98,50,8
+to understand,infinitive phrase,ProfessionalDecline,99,50,2
+what drives their unhappiness.,complementizer||,ProfessionalDecline,100,50,4
+"It is, in a word, irrelevance.",||,ProfessionalDecline,101,51,6
+"In 2007, a team of academic researchers at UCLA and Princeton analyzed data on more than 1,000 older adults.",||,ProfessionalDecline,102,52,19
+"Their findings,",-,ProfessionalDecline,103,53,2
+"published in the Journal of Gerontology,",nonrestrictive clause,ProfessionalDecline,104,53,6
+showed that senior citizens,complementizer,ProfessionalDecline,105,53,4
+"who rarely or never ""felt useful""",relative clause,ProfessionalDecline,106,53,6
+were nearly three times as likely as those,-,ProfessionalDecline,107,53,8
+who frequently felt useful,relative clause,ProfessionalDecline,108,53,4
+to develop a mild disability and were more than three times as likely,infinitive phrase,ProfessionalDecline,109,53,13
+to have died during the course of the study.,infinitive phrase||,ProfessionalDecline,110,53,9
+One might think,-,ProfessionalDecline,111,54,3
+"that gifted and accomplished people,",complementizer,ProfessionalDecline,112,54,5
+"such as the man on the plane,",nonrestrictive clause,ProfessionalDecline,113,54,7
+would be less susceptible than others to this sense of irrelevance;,||,ProfessionalDecline,114,54,11
+"after all, accomplishment is a well-documented source of happiness.",||,ProfessionalDecline,115,55,9
+"If current accomplishment brings happiness,",-,ProfessionalDecline,116,56,5
+then shouldn't the memory of that accomplishment provide some happiness as well?,conjunction||,ProfessionalDecline,117,56,12
+Maybe not.,||,ProfessionalDecline,118,57,2
+"Though the literature on this question is sparse,",nonrestrictive clause,ProfessionalDecline,119,58,8
+ giftedness and achievements early in life do not appear,-,ProfessionalDecline,120,58,10
+to provide an insurance policy against suffering later on.,infinitive phrase||,ProfessionalDecline,121,58,9
+"In 1999, Carole Holahan and Charles Holahan,",-,ProfessionalDecline,122,59,7
+"0psychologists at the University of Texas,",nonrestrictive clause,ProfessionalDecline,123,59,6
+published an influential paper in The International Journal of Aging and Human] Developmen,-,ProfessionalDecline,124,59,13
+that looked at hundreds of older adults,complementizer,ProfessionalDecline,125,59,7
+who early in life had been identified as highly gifted.,relative clause||,ProfessionalDecline,126,59,10
+"The Holahans' conclusion: ""Learning at a younger age of membership in a study of intellectual giftedness was related to... less favorable psychological well-being at age eighty.""",||,ProfessionalDecline,127,60,26

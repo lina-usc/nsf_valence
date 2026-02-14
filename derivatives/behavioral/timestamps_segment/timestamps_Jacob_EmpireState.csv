@@ -1,0 +1,114 @@
+segment,reason,narrative,segID,sentID,Nwords,onset,offset,voice_narrative
+"Today, New York's Empire State Building is one of the most famous structures in the world.",||,EmpireState,1,1,16,3.3,8.21,Jacob_EmpireState
+It stands hundreds of feet taller than the skyscrapers,-,EmpireState,2,2,9,8.25,11.35,Jacob_EmpireState
+that surround it,relative clause,EmpireState,3,2,3,11.362445,12.329999,Jacob_EmpireState
+and is visible from far away in New Jersey and Long Island.,||,EmpireState,4,2,12,12.33,15.83,Jacob_EmpireState
+But it isn't the tallest building in the world.,||,EmpireState,5,3,9,15.859999,17.809999,Jacob_EmpireState
+"In fact, since the recent completion of One World Trade Center,",nonrestrictive clause,EmpireState,6,4,11,17.87,21.82,Jacob_EmpireState
+it isn't even the tallest building in New York City!,||,EmpireState,7,4,10,21.84,24.13,Jacob_EmpireState
+"But when the Empire State Building was constructed,",relative clause,EmpireState,8,5,8,24.18,26.54,Jacob_EmpireState
+it was more than just another skyscraper.,||,EmpireState,9,5,7,26.64,28.88,Jacob_EmpireState
+"It was the tallest, most remarkable building on the earth -",||,EmpireState,10,6,11,29.0,32.26,Jacob_EmpireState
+and it stayed that way for close to forty years.,conjunction||,EmpireState,11,7,10,32.2,34.809999,Jacob_EmpireState
+To understand,infinitive clause,EmpireState,12,8,2,34.919999,35.6775,Jacob_EmpireState
+what people thought about the Empire State Building,relative clause,EmpireState,13,8,8,35.64,37.990466,Jacob_EmpireState
+"when it was first constructed,",relative clause,EmpireState,14,8,5,37.99,39.5,Jacob_EmpireState
+we can look at original newspaper reports from The New York Times.,||,EmpireState,15,8,12,39.61,43.68,Jacob_EmpireState
+"These are called primary sources,",-,EmpireState,16,9,5,43.69,45.69,Jacob_EmpireState
+because they were written by people,conjunction,EmpireState,17,9,6,45.75,47.44,Jacob_EmpireState
+who witnessed history first-hand.,relative clause||,EmpireState,18,9,4,47.39,49.649999,Jacob_EmpireState
+"With these New York Times reports, we can see the building through the eyes of the past,",-,EmpireState,19,10,17,49.79,54.58,Jacob_EmpireState
+and perhaps have a chance,conjunction,EmpireState,20,10,5,54.65,55.97,Jacob_EmpireState
+to appreciate this most famous skyscraper as though it were new.,infinitive clause||,EmpireState,21,10,11,55.944865,59.91,Jacob_EmpireState
+"The Empire State Building was built at the site of the famous Waldorf-Astoria Hotel,",-,EmpireState,22,11,14,59.94,65.33,Jacob_EmpireState
+a lavish structure,nonrestrictive clause,EmpireState,23,11,3,65.42,66.68,Jacob_EmpireState
+"that, by 1929, was no longer up to the demands of the modern world.",relative clause||,EmpireState,24,11,14,66.62,71.875418,Jacob_EmpireState
+A corporation headed by former New York governor Alfred E. Smith proposed,-,EmpireState,25,12,12,71.933242,76.66,Jacob_EmpireState
+to build an office building there-,infinitive phrase,EmpireState,26,12,6,76.64591,78.74,Jacob_EmpireState
+"not just any office building, but the greatest in the world.",nonrestrictive clause||,EmpireState,27,12,11,78.68,82.349999,Jacob_EmpireState
+"At this time,",positioning element,EmpireState,28,13,3,82.5,83.49,Jacob_EmpireState
+there was fierce competition,-,EmpireState,29,13,4,83.498072,85.406269,Jacob_EmpireState
+to see who could build the tallest building on the earth.,infinitive clause||,EmpireState,30,13,11,85.39,88.268564,Jacob_EmpireState
+The nearby Chrysler Building was set,-,EmpireState,31,14,6,88.3,90.71,Jacob_EmpireState
+"to claim the title,",infinitive phrase,EmpireState,32,14,4,90.65,91.76,Jacob_EmpireState
+but Smith and his company wanted,conjunction,EmpireState,33,14,6,91.84,93.732946,Jacob_EmpireState
+"to steal it from them, by building something so big",infinitive phrase,EmpireState,34,14,10,93.73,96.76,Jacob_EmpireState
+that it would be years before anyone could top it.,relative clause||,EmpireState,35,14,10,96.86,99.719999,Jacob_EmpireState
+There was just one little problem:,-,EmpireState,36,15,6,99.83,101.44,Jacob_EmpireState
+the Great Depression.,nonrestrictive clause||,EmpireState,37,15,3,101.539206,102.92,Jacob_EmpireState
+"The stock market crashed at the end of 1929,",-,EmpireState,38,16,9,103.08,106.26,Jacob_EmpireState
+"destroying banks,",nonfinite clause,EmpireState,39,16,2,106.37,107.54,Jacob_EmpireState
+emptying savings accounts,nonfinite clause,EmpireState,40,16,3,107.7,109.44,Jacob_EmpireState
+and leaving millions out of work.,nonfinite clause||,EmpireState,41,16,6,109.57,111.46,Jacob_EmpireState
+But the men behind the Empire State Building would not be stopped.,||,EmpireState,42,17,12,111.59,115.08,Jacob_EmpireState
+They finished tearing down the old Waldorf-Astoria,-,EmpireState,43,18,7,115.16,118.25,Jacob_EmpireState
+"by the beginning of 1930,",positioning element,EmpireState,44,18,5,118.37,120.549999,Jacob_EmpireState
+and on March 17-,conjunction / positioning element,EmpireState,45,18,4,120.569999,122.298076,Jacob_EmpireState
+St. Patrick's Day-,nonrestrictive clause,EmpireState,46,18,3,122.319999,123.570207,Jacob_EmpireState
+the work on the skyscraper began.,||,EmpireState,47,18,6,123.541295,125.59,Jacob_EmpireState
+"""Time was an essential element,"" wrote Smith,",quotation,EmpireState,48,19,7,125.679999,128.2,Jacob_EmpireState
+"to complete ""the greatest structural accomplishment"" the city had ever seen.",infinitive clause||,EmpireState,49,19,11,128.44,132.95,Jacob_EmpireState
+"Because height was of the utmost importance,",conjunction,EmpireState,50,20,7,132.98,135.58,Jacob_EmpireState
+the building was designed from the top down.,||,EmpireState,51,20,8,135.568718,138.05,Jacob_EmpireState
+"At the very top would be a ""dirigible mooring mast.""",||,EmpireState,52,21,10,138.109999,141.36,Jacob_EmpireState
+"A dirigible is a kind of giant blimp,",-,EmpireState,53,22,8,141.479999,144.27,Jacob_EmpireState
+built to fly across the Atlantic Ocean in the days before jets.,nonrestrictive clause (minimal segment) / infinitive phrase||,EmpireState,54,22,12,144.32,148.31,Jacob_EmpireState
+"Although now that may seem silly,",nonrestrictive clause,EmpireState,55,23,6,148.37,150.83,Jacob_EmpireState
+"at the time, dirigibles were cutting edge technology,",-,EmpireState,56,23,8,150.88,154.52,Jacob_EmpireState
+"and the mooring mast, according to Smith, was ""a logical development of this day of air transportation.""",conjunction||,EmpireState,57,23,17,154.63,161.259999,Jacob_EmpireState
+"Moreover, the 200-foot mast would allow the building",-,EmpireState,58,24,8,161.29,165.030122,Jacob_EmpireState
+to solidly surpass the Chrysler Building in height.,infinitive clause||,EmpireState,59,24,8,164.99,168.1,Jacob_EmpireState
+"The mooring mast was planned to reach nearly 1,300 feet above Fifth Avenue.",||,EmpireState,60,25,13,168.16,174.569999,Jacob_EmpireState
+Below that was the building-,-,EmpireState,61,26,5,174.819999,176.42148,Jacob_EmpireState
+"as wide as a city block on the first floor, but narrower as it went up.",nonrestrictive clause||,EmpireState,62,26,16,176.76,181.02,Jacob_EmpireState
+"The places where it got narrower are called ""setbacks,""",-,EmpireState,63,27,9,181.28,184.52,Jacob_EmpireState
+"and they started at the sixth floor,",conjunction,EmpireState,64,27,7,184.51,186.37,Jacob_EmpireState
+"a design the architects said, ""will save space and assure light and air to neighbors.""",nonrestrictive clause||,EmpireState,65,27,15,186.43,192.03,Jacob_EmpireState
+"""We believe",-,EmpireState,66,28,2,192.323121,193.074835,Jacob_EmpireState
+"we have solved the problem of light and air in congested districts,"" said Mr. Smith.",complementizer (that...)||,EmpireState,67,28,15,193.05,198.69,Jacob_EmpireState
+Construction began on the bottom floors,-,EmpireState,68,29,6,198.8,201.13,Jacob_EmpireState
+even before the designs for the top floors had been finalized.,conjunction||,EmpireState,69,29,11,201.11,204.67,Jacob_EmpireState
+"Once it started,",positioning element,EmpireState,70,30,3,204.71,205.77,Jacob_EmpireState
+it went fast.,||,EmpireState,71,30,3,205.8,206.96,Jacob_EmpireState
+"Times reporter C. G. Poore described the process as ""a chase up into the sky,",-,EmpireState,72,31,15,206.97,213.239999,Jacob_EmpireState
+with the steel workers going first,nonrestrictive clause,EmpireState,73,31,6,213.49,215.6,Jacob_EmpireState
+"and all the other trades following madly after them.""",nonfinite caluse||,EmpireState,74,31,9,215.669999,218.97,Jacob_EmpireState
+"To illustrate this,",infinitive clause,EmpireState,75,32,3,219.53,220.73,Jacob_EmpireState
+"Poore produced ""some staggering figures"":",||,EmpireState,76,32,5,220.73,223.5,Jacob_EmpireState
+"The building of the skyscraper represents an investment of $50,000,000",-,EmpireState,77,33,10,223.81,229.72,Jacob_EmpireState
+and all other figures are in proportion.,conjunction||,EmpireState,78,33,7,229.66,232.06,Jacob_EmpireState
+"More than 50,000 tons of steel, 10,000,000 bricks, and 200,000 cubic feet of stone will be used before the frame is completed.",||,EmpireState,79,34,22,232.07,241.57,Jacob_EmpireState
+"There will be seventy-five miles of water mains and 2,000,000 feet of electric light and power wiring...",||,EmpireState,80,35,17,241.82,248.509999,Jacob_EmpireState
+"More than 3,000 men are daily at work...",||,EmpireState,81,36,8,248.55,251.27,Jacob_EmpireState
+"Among them are 225 carpenters, 290 bricklayers, 384 brick laborers, 328 arch laborers, 107 derrick men.",||,EmpireState,82,37,16,251.279999,263.79,Jacob_EmpireState
+"Each day,",positioning element,EmpireState,83,38,2,264.025066,264.85,Jacob_EmpireState
+"those men walked to work past long unemployment lines,",-,EmpireState,84,38,9,265.22,268.62,Jacob_EmpireState
+which reminded them how lucky they were,relative clause,EmpireState,85,38,7,268.65,270.530283,Jacob_EmpireState
+to have such well-paying jobs.,infinitive clause||,EmpireState,86,38,5,270.5,272.33,Jacob_EmpireState
+"Building the Empire State Building was a dangerous job,",-,EmpireState,87,39,9,272.611952,275.34,Jacob_EmpireState
+"performed without hardhats, harnesses, or any of the safety equipment required today.",nonrestrictive clause||,EmpireState,88,39,12,275.45,280.839999,Jacob_EmpireState
+"Imagine walking out on a narrow steel beam,",-,EmpireState,89,40,8,281.109999,283.799999,Jacob_EmpireState
+"1,000 feet above the street,",nonrestrictive clause,EmpireState,90,40,5,283.87,285.869999,Jacob_EmpireState
+and then having to work up there all day!,nonfinite clause||,EmpireState,91,40,9,285.88,288.599999,Jacob_EmpireState
+"On each floor, Poore tells us, there was ""a miniature railway system,""",-,EmpireState,92,41,12,288.95,293.41,Jacob_EmpireState
+"to haul the steel, wood and marble brought up from street level.",infinitive phrase||,EmpireState,93,41,12,293.76,297.72,Jacob_EmpireState
+And to keep the men from having,-,EmpireState,94,42,7,297.95,299.500182,Jacob_EmpireState
+"to go all the way down to eat lunch,",infinitive clause,EmpireState,95,42,9,299.479999,301.59,Jacob_EmpireState
+"there were ""restaurants at various levels of the building"" designed for the workers.",relative clause||,EmpireState,96,42,13,301.53,305.769999,Jacob_EmpireState
+"At night,",positioning element,EmpireState,97,43,2,305.976486,306.74,Jacob_EmpireState
+"when the bosses went home,",relative clause,EmpireState,98,43,5,306.74,308.07,Jacob_EmpireState
+the workers could relax.,||,EmpireState,99,43,4,308.058156,309.56,Jacob_EmpireState
+They would pick a specific floor of the building and throw a party-,-,EmpireState,100,44,13,309.83,313.146681,Jacob_EmpireState
+"laughing and having fun,",nonfinite clause,EmpireState,101,44,4,313.39,314.93,Jacob_EmpireState
+knowing that they were higher above the city than any of the richest men in town.,nonfinite clause / complementizer||,EmpireState,102,44,16,314.93,319.109999,Jacob_EmpireState
+The building was finished in just over a year.,||,EmpireState,103,45,9,319.37,321.739999,Jacob_EmpireState
+"Of all the words written afterwards, perhaps the most interesting come from Mrs. Alice Liddell Hargreaves,",-,EmpireState,104,46,16,321.76,328.89,Jacob_EmpireState
+an elderly English woman,nonrestrictive clause,EmpireState,105,46,4,329.2,330.9,Jacob_EmpireState
+who visited the tower soon after its completion.,relative clause||,EmpireState,106,46,8,330.88,333.71,Jacob_EmpireState
+"Seventy years earlier,",positioning element,EmpireState,107,47,3,334.04,335.64,Jacob_EmpireState
+"Mrs. Hargreaves had known a quiet country pastor named Lewis Carroll,",-,EmpireState,108,47,11,335.6,340.05,Jacob_EmpireState
+who used her as the inspiration for his most famous book:,relative clause,EmpireState,109,47,11,340.04,343.48,Jacob_EmpireState
+Alice's Adventures in Wonderland.,nonrestrictive clause||,EmpireState,110,47,4,343.49,345.58,Jacob_EmpireState
+"Now much older than the character she inspired,",nonrestrictive clause,EmpireState,111,48,8,345.6,348.32,Jacob_EmpireState
+"Mrs. Hargreaves ""seemed almost as excited with her newest adventures in the wonderland of New York.""",||,EmpireState,112,48,16,348.4,354.635508,Jacob_EmpireState
+"The Empire State Building, she said, was ""just like the tumble down [the] rabbit hole.""",||,EmpireState,113,49,15,354.96,359.869999,Jacob_EmpireState

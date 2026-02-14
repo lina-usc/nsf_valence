@@ -1,0 +1,120 @@
+segment,reason,narrative,segID,sentID,Nwords,onset,offset,voice_narrative
+"The Roswell UFO Incident was the alleged recovery of extra-terrestrial debris,",-,Roswell,1,1,11,3.28,7.63,Jack_Roswell
+"including alien corpses,",nonrestrictive clause,Roswell,2,1,3,7.837479,9.277478,Jack_Roswell
+from an object that crashed,-,Roswell,3,1,5,9.49,10.799999,Jack_Roswell
+"near Roswell, New Mexico, on or about July eighth, nineteen forty-seven.",positioning element||,Roswell,4,1,11,10.787378,15.45,Jack_Roswell
+"Since the late nineteen seventies,",positioning element,Roswell,5,2,5,15.87,17.41,Jack_Roswell
+the incident has been the subject of intense controversy and the subject of conspiracy theories,-,Roswell,6,2,15,17.65,21.92,Jack_Roswell
+as to the true nature of the object,conjunction,Roswell,7,2,8,21.93,23.75,Jack_Roswell
+that crashed.,relative clause||,Roswell,8,2,2,23.72,24.408974,Jack_Roswell
+The United States military maintains,-,Roswell,9,3,5,24.8,26.58,Jack_Roswell
+the debris recovered was from an experimental high-altitude surveillance balloon,complementizer (that...),Roswell,10,3,10,26.578018,30.5,Jack_Roswell
+that belonged to a classified program named 'Mogul'.,relative clause||,Roswell,11,3,8,30.769999,33.663561,Jack_Roswell
+"However, many UFO proponents maintain",-,Roswell,12,4,5,33.96,36.642382,Jack_Roswell
+"that, in fact, a crashed alien craft and bodies were recovered,",complementizer,Roswell,13,4,11,36.65,40.45,Jack_Roswell
+and that the military then engaged in a cover-up.,conjunction||,Roswell,14,4,9,40.67,43.0,Jack_Roswell
+"The incident has turned into a widely known pop culture phenomenon,",-,Roswell,15,5,11,43.43,46.88,Jack_Roswell
+making the name Roswell synonymous with UFOs.,nonfinite clause||,Roswell,16,5,7,47.22,49.7,Jack_Roswell
+It ranks as one of the most publicized and controversial alleged UFO incidents.,||,Roswell,17,6,13,50.029999,55.42,Jack_Roswell
+"On July ninth, nineteen forty-seven, a press release",positioning element,Roswell,18,7,8,55.7,59.52,Jack_Roswell
+that Roswell Army Air Field issued,relative clause,Roswell,19,7,6,59.54,61.81,Jack_Roswell
+"stated that personnel from the field's Bomb Group had recovered a crashed 'flying disc' from a ranch near Roswell,",complementizer,Roswell,20,7,19,61.76,68.050137,Jack_Roswell
+sparking intense media interest.,nonfinite clause||,Roswell,21,7,4,68.229999,70.029999,Jack_Roswell
+"Later the same day,",positioning element,Roswell,22,8,4,70.39,71.42,Jack_Roswell
+the Commanding General of the Eighth Air Force stated,-,Roswell,23,8,9,71.759999,74.268063,Jack_Roswell
+"that, in fact, a weather balloon had been recovered by the Roswell Army Airfield personnel,",complementizer,Roswell,24,8,15,74.31,79.67,Jack_Roswell
+rather than a 'flying saucer'.,nonrestrictive clause||,Roswell,25,8,5,79.95,81.49821,Jack_Roswell
+"A subsequent press conference was called,",-,Roswell,26,9,6,82.04,83.97,Jack_Roswell
+featuring debris from the crashed object,nonfinite clause,Roswell,27,9,6,84.3,86.08,Jack_Roswell
+that confirmed the weather balloon description.,relative clause||,Roswell,28,9,6,86.08,87.969999,Jack_Roswell
+"The case was quickly forgotten and almost completely ignored,",-,Roswell,29,10,9,88.429999,91.63,Jack_Roswell
+"even by UFO researchers,",nonrestrictive clause,Roswell,30,10,4,91.88,93.45,Jack_Roswell
+for more than thirty years.,positioning element||,Roswell,31,10,5,93.68,94.93,Jack_Roswell
+"Then, in nineteen seventy-eight,",positioning element,Roswell,32,11,4,95.380091,97.510091,Jack_Roswell
+"nuclear physicist and author Stanton Friedman interviewed Jesse Marcel,",-,Roswell,33,11,9,97.84,102.059999,Jack_Roswell
+the only person known,nonrestrictive clause,Roswell,34,11,4,102.42,103.362172,Jack_Roswell
+to have accompanied the Roswell debris from where it was recovered to Fort Worth.,infinitive phrase||,Roswell,35,11,14,103.391093,107.229999,Jack_Roswell
+"Over the next few years,",positioning element,Roswell,36,12,5,107.609999,109.08,Jack_Roswell
+the accounts,-,Roswell,37,12,2,109.406574,109.99,Jack_Roswell
+he and others gave,relative clause (that...),Roswell,38,12,4,110.013907,111.42,Jack_Roswell
+elevated Roswell from a forgotten incident to perhaps the most famous UFO case of all time.,||,Roswell,39,12,16,111.7,117.64,Jack_Roswell
+"By the early nineteen nineties,",positioning element,Roswell,40,13,5,117.95,119.44,Jack_Roswell
+UFO researchers had interviewed several hundred people,-,Roswell,41,13,7,119.760144,122.652203,Jack_Roswell
+"who had, or who claimed to have had, a connection with the events",-,Roswell,42,13,13,122.63,126.527561,Jack_Roswell
+at Roswell in nineteen forty-seven.,positioning element||,Roswell,43,13,5,126.585402,128.39,Jack_Roswell
+"Additionally, hundreds of documents were obtained by Freedom of Information Act requests,",-,Roswell,44,14,12,128.72,133.77,Jack_Roswell
+as were some that insiders apparently leaked.,nonrestrictive clause||,Roswell,45,14,7,134.12,136.31,Jack_Roswell
+Their conclusions were,-,Roswell,46,15,3,136.62,137.719828,Jack_Roswell
+"that at least one alien craft had crashed in the Roswell vicinity,",complementizer,Roswell,47,15,12,137.719828,141.469999,Jack_Roswell
+"that aliens,",complementizer,Roswell,48,15,2,141.89,142.65,Jack_Roswell
+"some possibly still alive,",nonrestrictive clause,Roswell,49,15,4,142.87,144.309999,Jack_Roswell
+"were recovered,",-,Roswell,50,15,2,144.29,145.152418,Jack_Roswell
+and that a massive cover-up of any knowledge of the incident was put in place.,complementizer||,Roswell,51,15,15,145.46,149.15,Jack_Roswell
+"Numerous books, articles, television specials and even a made-for-TV movie brought the nineteen forty-seven incident fame and notoriety,",-,Roswell,52,16,18,149.49,157.88,Jack_Roswell
+"so that by the mid nineteen nineties,",conjunction,Roswell,53,16,7,158.29,159.93,Jack_Roswell
+"strong majorities in polls,",-,Roswell,54,16,4,160.089999,161.719999,Jack_Roswell
+"such as a nineteen ninety-seven CNN Time poll,",nonrestrictive clause,Roswell,55,16,8,161.829999,164.54,Jack_Roswell
+believed that aliens had visited earth and specifically,complementizer,Roswell,56,16,8,164.98,168.21,Jack_Roswell
+that aliens had landed at Roswell,complementizer,Roswell,57,16,6,168.19,169.995201,Jack_Roswell
+and the government was covering up the fact.,conjunction / complementizer (and that...)||,Roswell,58,16,8,170.09,171.93,Jack_Roswell
+"During the nineteen eighties and nineteen nineties,",positioning element,Roswell,59,17,7,172.31,174.31,Jack_Roswell
+a new narrative emerged,-,Roswell,60,17,4,174.49,175.72,Jack_Roswell
+which was at strong odds with what was reported in nineteen forty-seven.,relative clause||,Roswell,61,17,12,175.72,179.37,Jack_Roswell
+This narrative evolved over the years,-,Roswell,62,18,6,179.7,181.55,Jack_Roswell
+"from the time the first book on Roswell was published in nineteen eighty,",positioning element,Roswell,63,18,13,181.56,184.87,Jack_Roswell
+"as many new witnesses and accounts emerged,",conjunction,Roswell,64,18,7,185.26,187.31,Jack_Roswell
+drawn out in part by the publicity on the incident.,nonrestrictive clause||,Roswell,65,18,10,187.28,189.834722,Jack_Roswell
+Of the hundreds of witnesses,-,Roswell,66,19,5,190.029999,191.280752,Jack_Roswell
+"that the various researchers interviewed,",relative clause,Roswell,67,19,5,191.309672,192.94,Jack_Roswell
+"a seemingly impressive figure,",nonrestrictive clause,Roswell,68,19,4,193.269999,194.839999,Jack_Roswell
+a comparable few were true 'witnesses',-,Roswell,69,19,6,195.22,197.95,Jack_Roswell
+who claimed to have actually seen debris or aliens.,relative clause||,Roswell,70,19,9,197.89,200.52,Jack_Roswell
+"Most of these so-called witnesses were repeating the claims of others, ",-,Roswell,71,20,12,200.93,203.75,Jack_Roswell
+and their testimony would be inadmissible hearsay in an American court.,conjunction||,Roswell,72,20,11,204.06,207.4,Jack_Roswell
+As for the several accounts from those,nonrestrictive clause,Roswell,73,21,7,207.72,209.37,Jack_Roswell
+"who claimed to have seen aliens,",relative clause,Roswell,74,21,6,209.356118,210.89,Jack_Roswell
+critics identified a variety of problems with them.,||,Roswell,75,21,8,211.17,213.619999,Jack_Roswell
+"These problems ranged from the reliability of second-hand accounts, to serious credibility problems with witnesses",-,Roswell,76,22,15,213.999999,219.55,Jack_Roswell
+"making demonstrably false or internally-inconsistent claims,",nonfinite clause,Roswell,77,22,6,219.51,222.91,Jack_Roswell
+to dubious death-bed 'confessions' or accounts from elderly or easily confused witnesses.,||,Roswell,78,22,12,223.19,228.15,Jack_Roswell
+"A basic problem with all the witness accounts,",-,Roswell,79,23,8,228.54,230.52,Jack_Roswell
+"according to the critics,",nonrestrictive clause,Roswell,80,23,4,230.59,231.64,Jack_Roswell
+"is that they all came a minimum of thirty-one years after the events in question,",complementizer,Roswell,81,23,15,231.88,235.93,Jack_Roswell
+and in many cases were recounted more than forty years after the fact.,conjunction||,Roswell,82,23,13,236.22,239.76,Jack_Roswell
+"Not only are memories this old of dubious reliability,",nonrestrictive clause,Roswell,83,24,9,240.13,243.33,Jack_Roswell
+they were also subject to contamination from other accounts,-,Roswell,84,24,9,243.58,246.409999,Jack_Roswell
+the witnesses may have been exposed to.,relative clause (that...)||,Roswell,85,24,7,246.403387,248.079999,Jack_Roswell
+Though there had always been skeptics,-,Roswell,86,25,6,248.479999,249.959999,Jack_Roswell
+"who had many objections to the plausibility of these accounts,",relative clause,Roswell,87,25,10,249.91,252.56,Jack_Roswell
+it was not until the mid nineteen nineties,positioning element,Roswell,88,25,8,252.85,254.819278,Jack_Roswell
+that a strong counter-argument to the presence of aliens was widely publicized.,complementizer||,Roswell,89,25,12,254.8,258.81,Jack_Roswell
+The General Accounting Office launched an inquiry and directed the Office of the Secretary of the Air Force,-,Roswell,90,26,18,259.27,264.229999,Jack_Roswell
+to conduct an internal investigation.,infinitive phrase||,Roswell,91,26,5,264.24,266.119999,Jack_Roswell
+The result was summarized in two reports.,||,Roswell,92,27,7,266.439999,268.31,Jack_Roswell
+"The first,",-,Roswell,93,28,2,268.759,269.39,Jack_Roswell
+"released in nineteen ninety-five,",positioning element,Roswell,94,28,4,269.419999,271.14,Jack_Roswell
+"concluded that the reported recovered material in nineteen forty-seven was likely debris from a secret government program called Project Mogul,",complementizer,Roswell,95,28,20,271.43,278.52,Jack_Roswell
+which involved high altitude balloons meant,relative clause,Roswell,96,28,6,278.91,281.194852,Jack_Roswell
+to detect sound waves generated by Soviet atomic bomb tests and ballistic missiles.,infinitive phrase||,Roswell,97,28,13,281.13,285.93,Jack_Roswell
+"The second report,",-,Roswell,98,29,3,286.24,287.100001,Jack_Roswell
+"released two years later, in nineteen ninety-seven,",positioning element,Roswell,99,29,7,287.4,289.88,Jack_Roswell
+concluded that reports of recovered alien bodies were likely a combination of innocently transformed memories of military accidents,complementizer,Roswell,100,29,18,290.26,297.650665,Jack_Roswell
+"involving injured or killed personnel,",nonfinite clause,Roswell,101,29,5,297.650665,299.429999,Jack_Roswell
+innocently transformed memories of the recovery of anthropomorphic dummies in military programs US,-,Roswell,102,29,13,299.689999,305.159999,Jack_Roswell
+"conducted in the nineteen fifties,",positioning element,Roswell,103,29,5,305.13,306.89,Jack_Roswell
+and hoaxes that various witnesses and UFO proponents perpetrated.,conjunction||,Roswell,104,29,9,307.4,311.43,Jack_Roswell
+The psychological effects of time compression and confusion about when events occurred explained the discrepancy with the years in question.,||,Roswell,105,30,20,312.21,319.19,Jack_Roswell
+"In January nineteen ninety-seven,",positioning element,Roswell,106,31,4,319.529999,321.28,Jack_Roswell
+"Karl Pflock,",-,Roswell,107,31,2,321.55,322.42,Jack_Roswell
+"one of the more prominent pro-UFO researchers,",nonrestrictive clause,Roswell,108,31,7,322.56,324.889999,Jack_Roswell
+"said, 'Based on my research and that of others,",nonrestrictive clause / quotation,Roswell,109,31,9,325.03,327.64,Jack_Roswell
+I'm as certain as it's possible,-,Roswell,110,31,6,327.86,329.203023,Jack_Roswell
+"to be without absolute proof,",infinitive phrase,Roswell,111,31,5,329.18,330.6,Jack_Roswell
+that no flying saucer or saucers crashed in the general vicinity of Roswell or on the Plains of San Agustin in nineteen forty-seven.',complementizer||,Roswell,112,31,23,330.81,338.341928,Jack_Roswell
+"He then added, 'The debris found was the remains of something very earthly,",-,Roswell,113,32,13,338.64,342.429999,Jack_Roswell
+all but certainly something from the Top Secret Project Mogul.',nonrestrictive clause||,Roswell,114,32,10,342.919999,345.774519,Jack_Roswell
+"Although most now agree with this conclusion,",-,Roswell,115,33,7,346.05,348.1,Jack_Roswell
+"each year, during July Fourth weekend,",positioning element,Roswell,116,33,6,348.39,350.47,Jack_Roswell
+the City of Roswell hosts the Roswell UFO Festival,-,Roswell,117,33,9,350.649999,353.6,Jack_Roswell
+"celebrating all things UFO,",nonfinite clause,Roswell,118,33,4,353.83,355.7232,Jack_Roswell
+featuring prominent UFOlogists and discussions.,nonfinite clause||,Roswell,119,33,5,355.8,358.68,Jack_Roswell

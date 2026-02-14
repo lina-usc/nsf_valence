@@ -1,0 +1,136 @@
+segment,reason,narrative,segID,sentID,Nwords
+"In the splendid palace of the Emerald City,",positioning element,TigerandLion,1,1,8
+"which is in the center of the fairy Land of Oz,",relative clause / positioning element,TigerandLion,2,1,11
+is a great Throne Room.,||,TigerandLion,3,1,5
+"This is where Princess Ozma,",-,TigerandLion,4,2,5
+"the Ruler,",nonrestrictive clause,TigerandLion,5,2,2
+"sits in a throne of glistening emeralds for an hour each day and listens to all the troubles of her people,",-,TigerandLion,6,2,21
+which they are sure to tell her about.,relative clause||,TigerandLion,7,2,8
+"Around Ozma's throne,",-,TigerandLion,8,3,3
+"on such occasions,",nonrestrictive clause,TigerandLion,9,3,3
+"are grouped all the important personages of Oz,",-,TigerandLion,10,3,8
+"such as the Scarecrow, Tiktok the Clockwork Man, the Tin Woodman, the Wizard of Oz, and other famous fairy people.",nonrestrictive clause||,TigerandLion,11,3,20
+"Little Dorothy usually has a seat at Ozma's feet,",-,TigerandLion,12,4,9
+and crouched on either side the throne are two enormous beasts,conjunction,TigerandLion,13,4,11
+known as the Hungry Tiger and the Cowardly Lion.,nonrestrictive clause||,TigerandLion,14,4,9
+"These two beasts are Ozma's chief guardians,",-,TigerandLion,15,5,7
+"but, as everyone loves the beautiful girl Princess,",nonrestrictive clause,TigerandLion,16,5,8
+"there has never been any disturbance in the great Throne Room, or anything for the guardians",-,TigerandLion,17,5,16
+to do but look fierce and solemn and keep quiet,infinitive phrase,TigerandLion,18,5,10
+until the Royal Audience is over,conjunction,TigerandLion,19,5,6
+and the people go away to their homes.,conjunction||,TigerandLion,20,5,8
+"Of course, no one would dare be naughty",-,TigerandLion,21,6,8
+while the huge Lion and Tiger crouched beside the throne;,conjunction||,TigerandLion,22,6,10
+"but the fact is,",nonrestrictive clause,TigerandLion,23,7,4
+the people of Oz are very seldom naughty.,-,TigerandLion,24,7,8
+So Ozma's big guards are more ornamental than useful.,||,TigerandLion,25,7,9
+No one realizes that better than the beasts themselves.,||,TigerandLion,26,8,9
+"One day,",positioning element,TigerandLion,27,9,2
+"after everyone had left the Throne Room except the Cowardly Lion and the Hungry Tiger,",positioning element,TigerandLion,28,9,15
+"the Lion yawned and said to his friend: ""I'm getting tired of this job.",quotation||,TigerandLion,29,9,14
+No one is afraid of us,-,TigerandLion,30,10,6
+"and no one pays any attention to us.""",conjunction||,TigerandLion,31,10,8
+"""That is true,"" replied the big Tiger,",-,TigerandLion,32,11,7
+purring softly.,nonfinite clause||,TigerandLion,33,11,2
+"""We might as well be in the thick jungles",-,TigerandLion,34,12,9
+"where we were born,",relative clause / quotation,TigerandLion,35,12,4
+as trying,conjunction,TigerandLion,36,12,2
+to protect Ozma when she needs no protection.,infinitive phrase||,TigerandLion,37,12,8
+"And I'm dreadfully hungry all the time.""",quotation||,TigerandLion,38,13,7
+"""You have enough to eat, I'm sure,"" said the Lion,",quotation,TigerandLion,39,14,10
+swaying his tail slowly back and forth.,nonfinite clause||,TigerandLion,40,14,7
+"""Enough, perhaps;",-,TigerandLion,41,15,2
+"but not the kind of food I long for,"" answered the Tiger.",conjunction||,TigerandLion,42,15,12
+"""What I'm hungry for is fat babies.",||,TigerandLion,43,16,7
+I have a great desire to eat a few fat babies.,||,TigerandLion,44,17,11
+"Then, perhaps, the people of Oz would fear me,",-,TigerandLion,45,18,9
+"and I'd become more important.""",conjunction||,TigerandLion,46,18,5
+"""True,"" agreed the Lion.",||,TigerandLion,47,19,4
+"""It would stir up quite a scene",-,TigerandLion,48,20,7
+if you ate but one fat baby.,conjunction||,TigerandLion,49,20,7
+"As for myself,",nonrestrictive clause,TigerandLion,50,21,3
+my claws are sharp as needles and strong as crowbars.,||,TigerandLion,51,21,10
+My teeth are powerful enough,-,TigerandLion,52,22,5
+to tear a person to pieces in a few seconds.,infinitive phrase||,TigerandLion,53,22,10
+I could spring upon a man and make chop suey of him.,||,TigerandLion,54,23,12
+There would be wild excitement in the Emerald City.,||,TigerandLion,55,24,9
+People would fall upon their knees and beg me for mercy.,||,TigerandLion,56,25,11
+"That, in my opinion,",nonrestrictive clause,TigerandLion,57,26,4
+"would render me very important.""",||,TigerandLion,58,26,5
+"""After you had torn the person to pieces,",-,TigerandLion,59,27,8
+"what would you do next?"" asked the Tiger sleepily.","conjunction (if, then...)||",TigerandLion,60,27,9
+"""Then I would roar so loudly",-,TigerandLion,61,28,6
+it would shake the earth and stalk away to the jungle,relative clause (that...),TigerandLion,62,28,11
+"to hide myself,",infinitive phrase,TigerandLion,63,28,3
+"before anyone could attack me or kill me for what I had done.""",conjunction||,TigerandLion,64,28,13
+"""I see,"" nodded the Tiger.",||,TigerandLion,65,29,5
+"""You are really cowardly.""",||,TigerandLion,66,30,4
+"""To be sure.",||,TigerandLion,67,31,3
+That is why I am named the Cowardly Lion.,||,TigerandLion,68,32,9
+That is why I have always been so tame and peaceable.,||,TigerandLion,69,33,11
+"But I'm awfully tired of being tame,"" added the Lion,",-,TigerandLion,70,34,10
+"with a sigh,",nonrestrictive clause,TigerandLion,71,34,3
+"""and it would be fun to raise a row and show people",conjunction,TigerandLion,72,34,12
+"what a terrible beast I really am.""",complementizer||,TigerandLion,73,34,7
+"The Tiger remained silent for several minutes,",-,TigerandLion,74,35,7
+thinking deeply,nonfinite clause,TigerandLion,75,35,2
+as he slowly washed his face with his left paw.,conjunction||,TigerandLion,76,35,10
+"Then he said: ""I'm getting old,",-,TigerandLion,77,36,6
+and it would please me,conjunction,TigerandLion,78,36,5
+to eat at least one fat baby,infinitive phrase,TigerandLion,79,36,7
+before I die.,conjunction||,TigerandLion,80,36,3
+Suppose we surprise these people of Oz and prove our power.,||,TigerandLion,81,37,11
+What do you say?,||,TigerandLion,82,38,4
+We will walk out of here just as usual,-,TigerandLion,83,39,9
+and the first baby we meet I'll eat in a jiffy.,conjunction||,TigerandLion,84,39,11
+"And the first man or woman you meet, you will tear to pieces.",||,TigerandLion,85,40,13
+Then we will both run out of the city gates and gallop across the country and hide in the jungle,-,TigerandLion,86,41,20
+"before anyone can stop us.""",conjunction||,TigerandLion,87,41,5
+"""All right. I'm game,"" said the Lion,",-,TigerandLion,88,42,7
+yawning again,nonfinite clause,TigerandLion,89,42,2
+so that he showed two rows of large sharp teeth.,conjunction||,TigerandLion,90,42,10
+"The Tiger got up and stretched his great, sleek body.",||,TigerandLion,91,43,10
+"""Seen any of them old Hydrophobies the last day or two?""",||,TigerandLion,92,44,11
+"""Come on,"" he said.",quotation||,TigerandLion,93,45,4
+"The Lion stood up and proved he was the larger of the two,",-,TigerandLion,94,46,13
+for he was almost as big as a small horse.,conjunction||,TigerandLion,95,46,10
+"Out of the palace they walked,",positioning element,TigerandLion,96,47,6
+and met no one.,||,TigerandLion,97,47,4
+"They passed through the beautiful grounds, past fountains and beds of lovely flowers,",positioning element,TigerandLion,98,48,13
+and met no one.,||,TigerandLion,99,48,4
+"Then they unlatched a gate and entered a street of the city,",positioning element,TigerandLion,100,49,12
+and met no one.,||,TigerandLion,101,49,4
+"""I wonder how a fat baby will taste,"" said the Tiger,",-,TigerandLion,102,50,11
+"as they stalked majestically along, side by side.",conjunction||,TigerandLion,103,50,8
+"""I imagine it will taste like nutmegs,"" said the Lion.",quotation||,TigerandLion,104,51,10
+"""No,"" said the Tiger, ""I've an idea it will taste like gumdrops.""",||,TigerandLion,105,52,12
+"They turned a corner,",positioning element,TigerandLion,106,53,4
+"but met no one,",-,TigerandLion,107,53,4
+for the people of the Emerald City usually take their naps at this hour of the afternoon.,conjunction||,TigerandLion,108,53,17
+" ""I wonder how many pieces I ought",-,TigerandLion,109,54,8
+"to tear a person into,"" said the Lion,",infinitive phrase / quotation,TigerandLion,110,54,8
+in a thoughtful voice.,nonrestrictive clause||,TigerandLion,111,54,4
+"""Sixty would be about right,"" suggested the Tiger.",||,TigerandLion,112,55,8
+"""Would that hurt any more",-,TigerandLion,113,56,5
+"than to tear one into about a dozen pieces?"" asked the Lion,",relative clause (minimal segment) / infinitive phrase / quotation,TigerandLion,114,56,12
+with a little shudder.,nonrestrictive clause||,TigerandLion,115,56,4
+"""Who cares whether it hurts or not?"" growled the Tiger.",||,TigerandLion,116,57,10
+The Lion did not reply.,||,TigerandLion,117,58,5
+"They entered a side street,",positioning element,TigerandLion,118,59,5
+but met no one.,||,TigerandLion,119,59,4
+Suddenly they heard a child crying.,||,TigerandLion,120,60,6
+"""Aha!"" exclaimed the Tiger.",||,TigerandLion,121,61,4
+"""There is my meat.""",||,TigerandLion,122,62,4
+"He rushed around a corner,",-,TigerandLion,123,63,5
+"the Lion following,",nonfinite clause,TigerandLion,124,63,3
+and came upon a nice fat baby,-,TigerandLion,125,63,7
+sitting in the middle of the street,nonfinite clause,TigerandLion,126,63,7
+and crying as if in great distress.,nonfinite clause||,TigerandLion,127,63,7
+"""What's the matter?"" asked the Tiger,",-,TigerandLion,128,64,6
+crouching before the baby.,nonfinite clause||,TigerandLion,129,64,4
+"""I--I--I-lost my m-m-mamma!"" wailed the baby.",||,TigerandLion,130,65,6
+"""Why, you poor little thing,"" said the great beast,",-,TigerandLion,131,66,9
+softly stroking the child's head with its paw.,nonfinite clause||,TigerandLion,132,66,8
+"""Don't cry, my dear,",-,TigerandLion,133,67,4
+for mamma can't be far away.,conjunction||,TigerandLion,134,67,6
+"I'll help you find her.""",||,TigerandLion,135,68,5

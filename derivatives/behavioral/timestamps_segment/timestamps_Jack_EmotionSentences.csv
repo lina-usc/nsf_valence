@@ -1,0 +1,86 @@
+segment,reason,narrative,segID,sentID,Nwords,onset,offset,voice_narrative
+The airplane is almost full.,||,EmotionSentences,1,1,5,0.0,1.47,Jack_EmotionSentences
+I think,-,EmotionSentences,2,2,2,3.49,3.92,Jack_EmotionSentences
+I've seen this before.,complementizer (that...)||,EmotionSentences,3,2,4,3.86,5.06,Jack_EmotionSentences
+The surface is slick.,||,EmotionSentences,4,3,4,7.1,8.24,Jack_EmotionSentences
+We'll stop in a couple of minutes.,-,EmotionSentences,5,4,7,17.189999,18.64,Jack_EmotionSentences
+Don't forget a jacket.,||,EmotionSentences,6,4,4,20.79,21.89,Jack_EmotionSentences
+Can you hear me?,||,EmotionSentences,7,5,4,23.97,24.72,Jack_EmotionSentences
+I always enjoy,-,EmotionSentences,8,6,3,33.319999,34.11,Jack_EmotionSentences
+when she visits.,relative clause||,EmotionSentences,9,6,3,34.05,34.96,Jack_EmotionSentences
+The mountains are supposed,-,EmotionSentences,10,7,4,37.099999,38.03,Jack_EmotionSentences
+to be nice this time of year.,infinitive phrase||,EmotionSentences,11,7,7,37.98,39.32,Jack_EmotionSentences
+Have you ever tasted anything better?,||,EmotionSentences,12,8,6,41.31,43.17,Jack_EmotionSentences
+What makes you think,-,EmotionSentences,13,9,4,52.38,53.14,Jack_EmotionSentences
+you can yell at me?,complementizer (that...)||,EmotionSentences,14,9,5,53.079999,54.01,Jack_EmotionSentences
+Why are you always,-,EmotionSentences,15,10,4,56.15,57.15,Jack_EmotionSentences
+testing my patience.,nonfinite clause||,EmotionSentences,16,10,3,57.09,58.49,Jack_EmotionSentences
+Do you think,-,EmotionSentences,17,11,3,60.51,61.04,Jack_EmotionSentences
+you can push me around?,complementizer (that...)||,EmotionSentences,18,11,5,60.98,62.28,Jack_EmotionSentences
+Don't ever speak to me that way.,||,EmotionSentences,19,12,7,71.439999,73.76,Jack_EmotionSentences
+Quit bothering me.,||,EmotionSentences,20,13,3,75.82,76.9,Jack_EmotionSentences
+This microwave is useless.,||,EmotionSentences,21,14,4,78.985334,81.06,Jack_EmotionSentences
+Have you seen him?,||,EmotionSentences,22,15,4,90.5,91.32,Jack_EmotionSentences
+I'm on my way to the meeting.,||,EmotionSentences,23,16,7,93.52,94.73,Jack_EmotionSentences
+I would like a new alarm clock.,||,EmotionSentences,24,17,7,96.86,98.33,Jack_EmotionSentences
+I regret,-,EmotionSentences,25,18,2,107.63,108.74,Jack_EmotionSentences
+that we broke up.,complementizer||,EmotionSentences,26,18,4,108.68,109.62,Jack_EmotionSentences
+If only I could go back.,||,EmotionSentences,27,19,6,111.63,113.61,Jack_EmotionSentences
+My brother is very sick.,||,EmotionSentences,28,20,5,115.68,117.36,Jack_EmotionSentences
+What could be better?,||,EmotionSentences,29,21,4,130.287305,131.59,Jack_EmotionSentences
+He's always pleasant,-,EmotionSentences,30,22,3,133.65,134.6,Jack_EmotionSentences
+to be around.,infinitive phrase||,EmotionSentences,31,22,3,134.590462,135.25,Jack_EmotionSentences
+That abandoned warehouse doesn't seem safe.,||,EmotionSentences,32,23,6,144.81,147.12,Jack_EmotionSentences
+The forest is eerie,-,EmotionSentences,33,24,4,149.17,150.19,Jack_EmotionSentences
+when no one's around.,relative clause||,EmotionSentences,34,24,4,150.168639,151.24,Jack_EmotionSentences
+She shouldn't walk there at night.,||,EmotionSentences,35,25,6,153.266047,154.98,Jack_EmotionSentences
+That was insulting.,||,EmotionSentences,36,26,3,163.87,164.97,Jack_EmotionSentences
+That noise is getting really annoying.,||,EmotionSentences,37,27,6,166.99,169.37,Jack_EmotionSentences
+I have been waiting in line for too long.,||,EmotionSentences,38,28,9,171.35,173.53,Jack_EmotionSentences
+I love,-,EmotionSentences,39,29,2,126.768407,127.143333,Jack_EmotionSentences
+spending time with you.,nonfinite clause||,EmotionSentences,40,29,4,127.143333,128.346582,Jack_EmotionSentences
+It's getting dark,-,EmotionSentences,41,30,3,191.254937,191.965209,Jack_EmotionSentences
+and I can't find my way back.,conjunction||,EmotionSentences,42,30,7,191.965209,193.885967,Jack_EmotionSentences
+I wish we didn't have,-,EmotionSentences,43,31,5,182.972352,183.942249,Jack_EmotionSentences
+to walk through the graveyard.,infinitive phrase||,EmotionSentences,44,31,5,183.942249,185.43019,Jack_EmotionSentences
+I felt so hopeless.,||,EmotionSentences,45,32,4,202.847403,204.454587,Jack_EmotionSentences
+Please forgive me.,||,EmotionSentences,46,33,3,206.435053,207.465053,Jack_EmotionSentences
+I'm so sorry for,-,EmotionSentences,47,34,4,209.64,211.07,Jack_EmotionSentences
+hurting you.,nonfinite clause||,EmotionSentences,48,34,2,211.01,211.64,Jack_EmotionSentences
+These words are creepy.,||,EmotionSentences,49,35,4,220.13,221.71,Jack_EmotionSentences
+I was terrified,-,EmotionSentences,50,36,3,223.8,224.95,Jack_EmotionSentences
+that night.,positioning element||,EmotionSentences,51,36,2,224.89,225.5,Jack_EmotionSentences
+That man looks suspicious.,||,EmotionSentences,52,37,4,227.56,229.39,Jack_EmotionSentences
+You look wonderful.,||,EmotionSentences,53,38,3,238.24,239.38,Jack_EmotionSentences
+They say,-,EmotionSentences,54,39,2,187.413248,188.139074,Jack_EmotionSentences
+he was a murderer.,complementizer (that...)||,EmotionSentences,55,39,4,188.139074,189.129307,Jack_EmotionSentences
+The soup is delicious.,||,EmotionSentences,56,40,4,241.261768,242.501014,Jack_EmotionSentences
+I think,-,EmotionSentences,57,41,2,254.495926,254.830555,Jack_EmotionSentences
+I have a doctor's appointment.,complementizer (that...)||,EmotionSentences,58,41,5,254.830555,256.02,Jack_EmotionSentences
+I wonder,-,EmotionSentences,59,42,2,257.97,258.52,Jack_EmotionSentences
+what that is about.,complementizer||,EmotionSentences,60,42,4,258.492272,259.45,Jack_EmotionSentences
+Maybe tomorrow it will be cold.,||,EmotionSentences,61,43,6,261.49,263.484913,Jack_EmotionSentences
+I really enjoy our family vacations.,||,EmotionSentences,62,44,6,272.57,274.88,Jack_EmotionSentences
+I look forward to meeting you.,||,EmotionSentences,63,45,6,276.9,278.22,Jack_EmotionSentences
+That was a blast.,||,EmotionSentences,64,46,4,244.506821,245.67199,Jack_EmotionSentences
+We had so much fun,-,EmotionSentences,65,47,5,280.3,281.54,Jack_EmotionSentences
+last night.,positioning element||,EmotionSentences,66,47,2,281.479999,282.179999,Jack_EmotionSentences
+I'm not ready for the biopsy results.,||,EmotionSentences,67,48,7,291.589999,293.91,Jack_EmotionSentences
+She never returned from the campout.,||,EmotionSentences,68,49,6,296.06,298.209999,Jack_EmotionSentences
+I think,-,EmotionSentences,69,50,2,300.319999,300.78,Jack_EmotionSentences
+someone's in here besides us.,complementizer||,EmotionSentences,70,50,5,300.729999,302.43,Jack_EmotionSentences
+My dog died yesterday.,||,EmotionSentences,71,51,4,311.61,313.08,Jack_EmotionSentences
+I miss the trips,-,EmotionSentences,72,52,4,315.22,316.11,Jack_EmotionSentences
+we used to take.,relative clause||,EmotionSentences,73,52,4,316.05,317.0,Jack_EmotionSentences
+It's terrible,-,EmotionSentences,74,53,2,319.1,319.86,Jack_EmotionSentences
+that such a thing could happen.,relative clause||,EmotionSentences,75,53,6,319.8,321.15,Jack_EmotionSentences
+He never listens to me anymore.,||,EmotionSentences,76,54,6,330.68,332.59,Jack_EmotionSentences
+I miss the time,-,EmotionSentences,77,55,4,334.8,335.849999,Jack_EmotionSentences
+we spent together.,relative clause||,EmotionSentences,78,55,3,335.79,336.8,Jack_EmotionSentences
+I can't seem,-,EmotionSentences,79,56,3,339.019999,339.89,Jack_EmotionSentences
+to do well on my exams.,infinitive phrase||,EmotionSentences,80,56,6,339.83,341.32,Jack_EmotionSentences
+Don't raise your voice at me.,||,EmotionSentences,81,57,6,350.66,352.17,Jack_EmotionSentences
+I'm going,-,EmotionSentences,82,58,2,354.37,354.65,Jack_EmotionSentences
+to write a complaint.,infinitive phrase||,EmotionSentences,83,58,4,354.769999,355.69,Jack_EmotionSentences
+I never want,-,EmotionSentences,84,59,3,357.8,358.789999,Jack_EmotionSentences
+to see you again.,infinitive phrase||,EmotionSentences,85,59,4,358.73,359.869999,Jack_EmotionSentences

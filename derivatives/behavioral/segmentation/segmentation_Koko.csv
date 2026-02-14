@@ -1,0 +1,95 @@
+segment,reason,narrative,segID,sentID,Nwords
+Did you know,-,Koko,1,1,3
+that humans aren't the only species,complementizer,Koko,2,1,6
+that use language?,relative clause||,Koko,3,1,3
+Bees communicate,-,Koko,4,2,2
+by dancing.,nonfinite clause||,Koko,5,2,2
+Whales talk to each other,-,Koko,6,3,5
+by singing.,nonfinite clause||,Koko,7,3,2
+And some apes talk to humans,-,Koko,8,4,6
+by using American Sign Language.,nonfinite clause||,Koko,9,4,5
+Meet Koko:,||,Koko,10,5,2
+"a female gorilla born at the San Francisco Zoo on July 4th, 1971.",||,Koko,11,6,13
+"Koko learned sign language from her trainer,",-,Koko,12,7,7
+Dr. Penny Patterson.,nonrestrictive clause||,Koko,13,7,3
+"Patterson began teaching sign language to Koko in 1972,",positioning element,Koko,14,8,9
+when Koko was one year old.,relative clause||,Koko,15,8,6
+"Koko must have been a good student,",-,Koko,16,9,7
+because two years later she moved onto the Stanford University campus with Dr. Patterson.,conjunction||,Koko,17,9,14
+Koko continued,-,Koko,18,10,2
+to learn on the campus until 1976.,infinitive phrase||,Koko,19,10,7
+That's when she began,-,Koko,20,11,4
+"living full-time with Patterson's group,",nonfinite clause,Koko,21,11,5
+the Gorilla Foundation.,nonrestrictive clause||,Koko,22,11,3
+Patterson and Koko's relationship has blossomed ever since.,||,Koko,23,12,8
+Dr. Patterson says,-,Koko,24,13,3
+that Koko has mastered sign language.,complementizer||,Koko,25,13,6
+She says,-,Koko,26,14,2
+"that Koko knows over 1,000 words,",complementizer,Koko,27,14,6
+and that Koko makes up new words.,conjunction / complementizer||,Koko,28,14,7
+"For example, Koko didn't know the sign for ring,",-,Koko,29,15,9
+so she signed the words finger and bracelet.,conjunction||,Koko,30,15,8
+Dr. Patterson thinks,-,Koko,31,16,3
+that this shows meaningful and constructive use of language.,complementizer||,Koko,32,16,9
+Not everyone agrees with Dr. Patterson.,||,Koko,33,17,6
+Some argue,-,Koko,34,18,2
+that apes like Koko do not understand the meaning of what they are doing.,complementizer||,Koko,35,18,14
+Skeptics say,-,Koko,36,19,2
+that these apes are just performing complex tricks.,complementizer||,Koko,37,19,8
+"For example, if Koko points to an apple and signs red or apple,",-,Koko,38,20,13
+Dr. Patterson will give her an apple.,"conjunction (if, then...)||",Koko,39,20,7
+They argue,-,Koko,40,21,2
+that Koko does not really know what the sign apple means.,complementizer||,Koko,41,21,11
+She only knows,-,Koko,42,22,3
+"that that if she makes the right motion,",complementizer,Koko,43,22,8
+"one which Dr. Patterson has shown her,",nonrestrictive clause,Koko,44,22,7
+then she gets an apple.,conjunction||,Koko,45,22,5
+"The debate is unresolved, but one thing is for certain:",||,Koko,46,23,10
+Koko is an extraordinary ape.,||,Koko,47,24,5
+Sign language isn't the only unusual thing about Koko.,||,Koko,48,25,9
+She's also been a pet-owner.,||,Koko,49,26,5
+"In 1983,",positioning element,Koko,50,27,2
+"at the age of 12,",nonrestrictive clause,Koko,51,27,5
+researchers said,-,Koko,52,27,2
+that Koko asked for a cat for Christmas.,complementizer||,Koko,53,27,8
+They gave Koko a stuffed cat.,||,Koko,54,28,6
+Koko was not happy.,||,Koko,55,29,4
+"She did not play with it,",-,Koko,56,30,6
+and she continued to sign sad.,conjunction||,Koko,57,30,6
+"So for her birthday in 1984,",positioning element,Koko,58,31,6
+they let her pick a cat out of an abandoned litter.,||,Koko,59,31,11
+"Koko picked a gray cat and named him ""All Ball.""",||,Koko,60,32,10
+Dr. Patterson said,-,Koko,61,33,3
+that Koko loved and nurtured All Ball,complementizer,Koko,62,33,7
+as though he were a baby gorilla.,conjunction||,Koko,63,33,7
+"Sadly, All Ball got out of Koko's cage and was hit by a car.",||,Koko,64,34,14
+Patterson reported,-,Koko,65,35,2
+"that Koko signed ""Bad, sad, bad"" and ""Frown, cry, frown, sad""",complementizer,Koko,66,35,11
+when she broke the news to her.,relative clause||,Koko,67,35,7
+"It seems like Patterson and Koko have a good relationship,",-,Koko,68,36,10
+but not everyone agrees with it.,conjunction||,Koko,69,36,6
+Some critics believe,-,Koko,70,37,3
+that Patterson is humanizing the ape.,complementizer||,Koko,71,37,6
+They believe,-,Koko,72,38,2
+that apes should be left in the most natural state possible.,complementizer||,Koko,73,38,11
+Even Dr. Patterson struggles with these feelings.,||,Koko,74,39,7
+"When asked if her findings could be duplicated by another group of scientists,",relative clause,Koko,75,40,13
+"she said, ""We don't think that it would be ethical to do again.""",||,Koko,76,40,13
+She went on to argue,-,Koko,77,41,5
+that animals should not be kept in such unnatural circumstances.,complementizer||,Koko,78,41,10
+"Nonetheless, Koko lives in her foundation today.",||,Koko,79,42,7
+"As for the future,",positioning element,Koko,80,43,4
+Dr. Patterson and the Gorilla Foundation would love,-,Koko,81,43,8
+"to get Koko to an ape preserve in Maui,",infinitive phrase,Koko,82,43,9
+but they are having trouble securing the land.,conjunction||,Koko,83,43,8
+"So, unless you have a few million dollars to spare,",nonrestrictive clause,Koko,84,44,10
+Koko's going,-,Koko,85,44,2
+"to be spending her time in Woodland, California with Dr. Patterson.",infinitive phrase||,Koko,86,44,11
+Koko probably doesn't mind that.,||,Koko,87,45,5
+"If she moved to Hawaii,",-,Koko,88,46,5
+"she'd have to give up her Facebook page and Twitter feed,","conjunction (if, then...)",Koko,89,46,11
+"and she's got like 50 thousand ""likes.""",||,Koko,90,46,7
+Some may deny,-,Koko,91,47,3
+"that she knows sign language,",complementizer,Koko,92,47,5
+but nobody says,conjunction,Koko,93,47,3
+that she doesn't know social networking.,complementizer||,Koko,94,47,6
