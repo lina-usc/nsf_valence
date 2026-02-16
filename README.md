@@ -1,6 +1,4 @@
-# The final ratings, segmentations, and timestamps can be found in "ratings\_audio\_att2\_comp2\_final.csv" under /derivatives/behavioral/ratings/audio.
 #### scripts
-
 * `./scripts/Behavioral/master_stimuli.ipynb`: generate a master file for narrative stimuli.
 * `./scripts/Behavioral/ABC_audio_ratings.ipynb`: report demogrpahic information and calculate the mean ratings by age group and across groups.
 

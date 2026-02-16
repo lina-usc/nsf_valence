@@ -20,32 +20,35 @@ library(mgcv)
 ```
 
 ```{r}
-Dir_github = 'X:\\PROJECTS\\ABC@UofSC\\3-Experiments\\NSF_valence\\github\\nsf_valence'
-Dir_ratings = file.path(Dir_github, 'derivatives','behavioral','ratings','audio')
+Dir_github = 'X:\\PROJECTS\\ABC@UofSC\\3-Experiments\\NSF_valence\\github'
+repo <- 'nsf_valence'
+repo_tmp <- 'ABC_valence'
 
-filename = 'df_scores_audio_att2_comp2_R.csv'
-df <- read.csv(file.path(Dir_working,filename))
-df$group <- relevel(factor(df$group), ref = "young")
+Dir_ratings = file.path(Dir_github,repo, 'derivatives','behavioral','ratings','audio')
 
-df$A <- df$A-4.5
-df$voice <- factor(df$voice)
-df$sex <- factor(df$sex,levels = c('male','female'))
-df$age2 <- df$age^2
-#df$age <- df$age- mean(df$age)
+filename = 'ratings_audio_att2_comp2.csv'
+df_raw <- read.csv(file.path(Dir_ratings,filename))
 
-filename = 'List_models_audio_byvoice_splines.csv'
+df <- df_raw %>% 
+  separate(audio, into = c("voice", "story"), sep = "_") %>%
+  mutate(
+    group = factor(group,levels=c("young","middle","old")),
+    subID = factor(subID),
+    voice = factor(voice),
+    story = factor(story),
+    sex = factor(sex,levels=c('male','female')),
+    A_c = A - 4.5,
+    V = as.numeric(V),
+    age = as.numeric(age),
+    
+    V_abs = abs(V),
+    story_seg = interaction(df$story, df$segID, drop = TRUE)
+  )
 
-df_models <- read.csv(file.path(Dir_github,repo,'scripts','Behavioral','qualtrics','audio',filename),sep=',')
-
-
-library(dplyr)
-
-# 1. compute sentence-level mean valence (across participants)
+# compute sentence-level mean valence, averaged across voices and participants
 sent_mean <- df %>%
   group_by(story, segID) %>%
   summarize(sent_meanV = mean(V, na.rm = TRUE), n_obs = sum(!is.na(V)), .groups = "drop")
-
-# 2. derive sign from the sentence mean using your thresholds
 sent_mean <- sent_mean %>%
   mutate(V_sign = case_when(
     sent_meanV >  1.5  ~ "positive",
@@ -54,49 +57,152 @@ sent_mean <- sent_mean %>%
   )) %>%
   mutate(V_sign = factor(V_sign, levels = c("negative", "neutral", "positive")))
 
-# 3. join back to original df
 df <- df %>%
-  left_join(select(sent_mean, story, segID, sent_meanV, V_sign), by = c("story", "segID"))
+  left_join(select(sent_mean, story, segID, sent_meanV, V_sign), by = c("story", "segID")) %>%
+  mutate(
+    V_sign = factor(V_sign,levels= c( "neutral", "negative", "positive")),
+  )
 
-# quick check
+# calculate the number of segments by condition
 table(df$V_sign, useNA = "ifany")
-head(df[, c("story","segID","sent_meanV","V_sign")])
+```
+#### M1 (k=10): GAM, controlling for sex, voice, and arousal
+```{r}
 
+m1 <- try(bam(V ~ s(age, k=10) + sex + A_c + voice + s(subID, bs="re") +
+                s(story, bs="re") + s(story_seg, bs="re"),
+              data = df, 
+              method = "fREML", 
+              nthreads = 24))
 
-df$V_sign <- relevel(factor(df$V_sign, levels = c("negative", "neutral", "positive")),ref = 'neutral')
+m1_summary <- summary(m1)
+Dir_output <-  file.path(Dir_github,'derivatives','behavioral','qualtrics','analysis_glm')
 
+filename <- 'results_GAM_m1.rds'
+saveRDS(m1, file =file.path(Dir_output,filename))
+filename <- 'results_GAM_m1_summary.rds'
 
-df_avgAcrossSeg <- df %>%
-  group_by(group, idx, audio, voice,V_sign) %>%
-  summarise(across(where(is.numeric), mean, na.rm = TRUE))
+filename <- 'results_GAM_m1.rds'
+m1 <- readRDS(file.path(Dir_output, filename))
 
-df$story_seg <- interaction(df$story, df$segID, drop = TRUE)
-df$subID     <- factor(df$subID)   # ensure subject ID is a factor if not already
-df$story      <- factor(df$story)
-df$segID      <- factor(df$segID)
-df$story_seg  <- interaction(df$story, df$segID, drop = TRUE)
-df$voice      <- factor(df$voice)
-df$sex        <- factor(df$sex, levels = c("male","female"))
+saveRDS(m1_summary, file =file.path(Dir_output,filename))
+
+plot(m1, 
+     #shade=TRUE,shade.col="rosybrown2",rug=FALSE,ylab="Valence",se=T,xlab="Age"
+     )
+gam.check(m1)
 
 ```
 
-#### M1: GAM, controlling for sex, voice, and arousal
 
+
+
+#### M1 (k=5): GAM, controlling for sex, voice, and arousal
 ```{r}
-library(mgcv)
-m1 <- try(bam(V ~ s(age, k=5) + sex + A + voice + s(subID, bs="re") +
+data <- df %>%
+  filter(
+    segID < 5
+  )
+m1 <- try(bam(V ~ s(age, k=5) + sex + A_c + voice + s(subID, bs="re") +
                 s(story, bs="re") + s(story_seg, bs="re"),
-              data = df, method = "fREML", nthreads = 8))
-par(mfrow = c(2, 2))
-plot(m1)
-summary(m1)
-filename <- 'results_GAM_m1.rds'
-Dir_output <-  file.path(Dir_github,'derivatives','behavioral','qualtrics','analysis_glm')
-saveRDS(m1, file =file.path(Dir_output,filename))
+              data = df, 
+              method = "fREML", 
+              nthreads = 24))
 
-###
-filename <- 'results_GAM_m1.rds'
+m1_summary <- summary(m1)
 Dir_output <-  file.path(Dir_github,'derivatives','behavioral','qualtrics','analysis_glm')
+
+filename <- 'results_GAM_m1_k5.rds'
+saveRDS(m1, file =file.path(Dir_output,filename))
+filename <- 'results_GAM_m1_summary_k5.rds'
+saveRDS(m1_summary, file =file.path(Dir_output,filename))
+
+plot(m1, 
+     #shade=TRUE,shade.col="rosybrown2",rug=FALSE,ylab="Valence",se=T,xlab="Age"
+     )
+gam.check(m1)
+```
+
+#### M2 (k=10): GAM, age-by-sex, controlling for voice, and arousal
+```{r}
+m2 <- try(bam(V ~ s(age, by = sex, k=5) + sex + A_c + voice + s(subID, bs="re") +
+                s(story, bs="re") + s(story_seg, bs="re"),
+              data = df, method = "fREML", nthreads = 24))
+
+m2_summary <- summary(m2)
+
+filename <- 'results_GAM_m2_k5.rds'
+saveRDS(m2, file =file.path(Dir_output,filename))
+
+filename <- 'results_GAM_m2_summary_k5.rds'
+saveRDS(m2_summary, file =file.path(Dir_output,filename))
+
+filename <- 'results_GAM_m2.rds'
+m2 <- readRDS(file.path(Dir_output, filename))
+filename <- 'results_GAM_m2_summary.rds'
+m2_summary <- readRDS(file.path(Dir_output, filename))
+
+plot(m2)
+gam.check(m2)
+
+plot(m2, scheme = 1, select=2  , rug=FALSE,shade=TRUE,shade.col="rosybrown2",
+     # col = "red",
+     #shade=TRUE,shade.col="rosybrown2",rug=FALSE,ylab="Valence",se=T,xlab="Age"
+     )
+```
+
+#### M2: GAM, age-by-sex, controlling for voice, and arousal
+```{r}
+m2 <- try(bam(V ~ s(age, by = sex, k=10) + sex + A_c + voice + s(subID, bs="re") +
+                s(story, bs="re") + s(story_seg, bs="re"),
+              data = df, method = "fREML", nthreads = 24))
+
+m2_summary <- summary(m2)
+
+filename <- 'results_GAM_m2.rds'
+saveRDS(m2, file =file.path(Dir_output,filename))
+filename <- 'results_GAM_m2_summary.rds'
+saveRDS(m2_summary, file =file.path(Dir_output,filename))
+plot(m2)
+gam.check(m2)
+```
+#### M3: GAM, age-by-sex-by-V_sign, controlling for voice, and arousal
+```{r}
+m3 <- try(bam(V ~ s(age,  by = interaction(V_sign,sex), k=20) + sex + A_c + V_sign + voice + s(subID, bs="re") +
+                s(story, bs="re") + s(story_seg, bs="re"),
+              data = df, method = "fREML", nthreads = 24))
+
+m3_summary <- summary(m3)
+
+filename <- 'results_GAM_m3.rds'
+saveRDS(m3, file =file.path(Dir_output,filename))
+filename <- 'results_GAM_m3_summary.rds'
+saveRDS(m3_summary, file =file.path(Dir_output,filename))
+plot(m3)
+
+gam.check(m3)
+
+```
+#### M3 (k=5): GAM, age-by-sex-by-V_sign, controlling for voice, and arousal
+```{r}
+m3 <- try(bam(V ~ s(age,  by = interaction(V_sign,sex), k=5) + sex + A_c + V_sign + voice + s(subID, bs="re") +
+                s(story, bs="re") + s(story_seg, bs="re"),
+              data = df, method = "fREML", nthreads = 24))
+
+m3_summary <- summary(m3)
+
+filename <- 'results_GAM_m3_k5.rds'
+saveRDS(m3, file =file.path(Dir_output,filename))
+filename <- 'results_GAM_m3_summary_k5.rds'
+saveRDS(m3_summary, file =file.path(Dir_output,filename))
+plot(m3)
+
+gam.check(m3)
+```
+
+#### M1: plot
+```{r}
+filename <- 'results_GAM_m1.rds'
 m1 <- readRDS(file.path(Dir_output, filename))
 
 age_grid <- data.frame(
