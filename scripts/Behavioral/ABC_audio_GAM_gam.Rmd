@@ -17,6 +17,7 @@ library(glmmTMB)
 library(ggeffects)
 library(ggplot2)
 library(mgcv)
+library(tidyr)
 ```
 
 ```{r}
@@ -70,31 +71,96 @@ table(df$V_sign, useNA = "ifany")
 #### M1 (k=10): GAM, controlling for sex, voice, and arousal
 ```{r}
 
-m1 <- try(bam(V ~ s(age, k=10) + sex + A_c + voice + s(subID, bs="re") +
+m1 <- try(gam(V ~ s(age, k=10) + sex + A_c + voice + s(subID, bs="re") +
                 s(story, bs="re") + s(story_seg, bs="re"),
               data = df, 
-              method = "fREML", 
+              #method = "fREML", 
               nthreads = 24))
-
-m1_summary <- summary(m1)
 Dir_output <-  file.path(Dir_github,'derivatives','behavioral','qualtrics','analysis_glm')
 
-filename <- 'results_GAM_m1.rds'
+filename <- 'results_GAM_gam_m1.rds'
 saveRDS(m1, file =file.path(Dir_output,filename))
-filename <- 'results_GAM_m1_summary.rds'
 
-filename <- 'results_GAM_m1.rds'
-m1 <- readRDS(file.path(Dir_output, filename))
-
+m1_summary <- summary(m1)
+filename <- 'results_GAM_gam_m1_summary.rds'
 saveRDS(m1_summary, file =file.path(Dir_output,filename))
 
-plot(m1, 
+#filename <- 'results_GAM_m1.rds'
+#m1 <- readRDS(file.path(Dir_output, filename))
+
+### read
+filename <- 'results_GAM_m1.rds'
+m1 <- readRDS(file.path(Dir_output,filename))
+
+
+p_obj <- plot(m1, scheme = 1, select=1,
+               #residuals = TRUE,
+              #shade.col="rosybrown2",se=T,shade=TRUE,
      #shade=TRUE,shade.col="rosybrown2",rug=FALSE,ylab="Valence",se=T,xlab="Age"
      )
+p_obj <- p_obj[[1]] # just one smooth so select the first component
+
+
+df_sm <- as.data.frame(p_obj[c("x", "se", "fit")])
+#df_plot <- as.data.frame(p_obj[c("raw", "p.resid")])
+
+ggplot(df_sm, aes(x = x, y = fit)) +
+  #geom_rug(data = data_df, mapping = aes(x = raw, y = NULL),
+  #         sides = "b") +
+  #geom_point(data = data_df, mapping = aes(x = raw, y = p.resid)) +
+  geom_ribbon(aes(ymin = fit - se, ymax = fit + se, y = NULL),
+              alpha = 0.3) +
+  geom_line() +
+  labs(x = p_obj$xlab, y = p_obj$ylab)
+
 gam.check(m1)
 
 ```
 
+#### M1 (k=10, plot): GAM, controlling for sex, voice, and arousal
+```{r}
+Dir_output <-  file.path(Dir_github,'derivatives','behavioral','qualtrics','analysis_glm')
+filename <- 'results_GAM_m1.rds'
+m1 <- readRDS(file.path(Dir_output,filename))
+
+filename <- 'results_GAM_m1_summary.rds'
+m1_summary <- readRDS(file.path(Dir_output,filename))
+
+p_obj <- plot(m1, scheme = 1, select=1,
+               #residuals = TRUE,
+              #shade.col="rosybrown2",se=T,shade=TRUE,
+     #shade=TRUE,shade.col="rosybrown2",rug=FALSE,ylab="Valence",se=T,xlab="Age"
+     )
+p_obj <- p_obj[[1]] # just one smooth so select the first component
+
+
+df_sm <- as.data.frame(p_obj[c("x", "se", "fit")])
+#df_plot <- as.data.frame(p_obj[c("raw", "p.resid")])
+
+p_m1 <- ggplot(df_sm, aes(x = x, y = fit)) +
+  geom_ribbon(aes(ymin = fit - se, ymax = fit + se, y = NULL),
+              #fill = "grey80", 
+              alpha = 0.2) +
+  geom_line() +
+  labs(
+    x = "Age",
+    y = "Estimated effect on valence",
+  )  +
+  theme_classic(base_size = 16) 
+
+print(p_m1)
+
+filename <- 'fig_GAM_m1_bam_k10.jpg'
+ggsave(
+  filename = filename,
+  plot = p_m1,
+  path = Dir_output,
+  width = 7,
+  height = 5,
+  units = "in",
+  dpi = 300
+)
+```
 
 
 
@@ -118,6 +184,10 @@ saveRDS(m1, file =file.path(Dir_output,filename))
 filename <- 'results_GAM_m1_summary_k5.rds'
 saveRDS(m1_summary, file =file.path(Dir_output,filename))
 
+### read
+filename <- 'results_GAM_m1_k5.rds'
+m1<-readRDS(file.path(Dir_output,filename))
+
 plot(m1, 
      #shade=TRUE,shade.col="rosybrown2",rug=FALSE,ylab="Valence",se=T,xlab="Age"
      )
@@ -126,16 +196,16 @@ gam.check(m1)
 
 #### M2 (k=10): GAM, age-by-sex, controlling for voice, and arousal
 ```{r}
-m2 <- try(bam(V ~ s(age, by = sex, k=5) + sex + A_c + voice + s(subID, bs="re") +
+m2 <- try(bam(V ~ s(age, by = sex, k=10) + sex + A_c + voice + s(subID, bs="re") +
                 s(story, bs="re") + s(story_seg, bs="re"),
               data = df, method = "fREML", nthreads = 24))
 
 m2_summary <- summary(m2)
 
-filename <- 'results_GAM_m2_k5.rds'
+filename <- 'results_GAM_m2.rds'
 saveRDS(m2, file =file.path(Dir_output,filename))
 
-filename <- 'results_GAM_m2_summary_k5.rds'
+filename <- 'results_GAM_m2_summary.rds'
 saveRDS(m2_summary, file =file.path(Dir_output,filename))
 
 filename <- 'results_GAM_m2.rds'
@@ -151,6 +221,64 @@ plot(m2, scheme = 1, select=2  , rug=FALSE,shade=TRUE,shade.col="rosybrown2",
      #shade=TRUE,shade.col="rosybrown2",rug=FALSE,ylab="Valence",se=T,xlab="Age"
      )
 ```
+
+#### M2 (k=10, plot): GAM, age-by-sex, controlling for voice, and arousal
+```{r}
+Dir_output <-  file.path(Dir_github,'derivatives','behavioral','qualtrics','analysis_glm')
+filename <- 'results_GAM_m2.rds'
+m2 <- readRDS(file.path(Dir_output,filename))
+
+p_obj <- plot(m2, scheme = 1, select=1,
+               #residuals = TRUE,
+              #shade.col="rosybrown2",se=T,shade=TRUE,
+     #shade=TRUE,shade.col="rosybrown2",rug=FALSE,ylab="Valence",se=T,xlab="Age"
+     )
+p_obj_male <- p_obj[[1]] 
+p_obj_female <- p_obj[[2]]
+
+df_sm_male <- as.data.frame(p_obj_male[c("x", "se", "fit")])
+df_sm_male['sex'] <- 'male'
+df_sm_female <- as.data.frame(p_obj_female[c("x", "se", "fit")])
+df_sm_female['sex'] <- 'female'
+df_sm <- rbind(df_sm_female,df_sm_male)
+
+df_sm$sex <- factor(df_sm$sex,
+                    levels = c("male", "female"))
+
+p_m2 <- ggplot(df_sm, aes(x = x, y = fit,color = sex, fill = sex)) +
+  geom_ribbon(aes(ymin = fit - se, ymax = fit + se, y = NULL),
+              alpha = 0.2,
+              color = NA) +
+  geom_line() +
+  labs(
+    x = "Age",
+    y = "Estimated effect on valence",
+    color = "Sex",
+    fill = "Sex"
+  ) +
+  scale_color_discrete(labels = tools::toTitleCase) +
+  scale_fill_discrete(labels = tools::toTitleCase) +
+  theme_classic(base_size = 16) +
+  theme(
+    legend.position = c(0.05, 0.95),   # <-- THIS works everywhere
+    legend.justification = c("left", "top"),
+    legend.background = element_rect(fill = "white", color = NA)
+  )
+
+print(p_m2)
+
+filename <- 'fig_GAM_m2_bam_k10_bysex.jpg'
+ggsave(
+  filename = filename,
+  plot = p_m2,
+  path = Dir_output,
+  width = 7,
+  height = 5,
+  units = "in",
+  dpi = 300
+)
+```
+
 
 #### M2: GAM, age-by-sex, controlling for voice, and arousal
 ```{r}
@@ -184,6 +312,27 @@ plot(m3)
 gam.check(m3)
 
 ```
+
+#### M3 (k=10): GAM, age-by-sex-by-V_sign, controlling for voice, and arousal
+```{r}
+m3 <- try(bam(V ~ s(age,  by = interaction(V_sign,sex), k=10) + sex + A_c + V_sign + voice + s(subID, bs="re") +
+                s(story, bs="re") + s(story_seg, bs="re"),
+              data = df, method = "fREML", nthreads = 24))
+
+m3_summary <- summary(m3)
+
+filename <- 'results_GAM_m3_k10.rds'
+saveRDS(m3, file =file.path(Dir_output,filename))
+filename <- 'results_GAM_m3_k10_summary.rds'
+saveRDS(m3_summary, file =file.path(Dir_output,filename))
+plot(m3)
+
+gam.check(m3)
+
+
+
+```
+
 #### M3 (k=5): GAM, age-by-sex-by-V_sign, controlling for voice, and arousal
 ```{r}
 m3 <- try(bam(V ~ s(age,  by = interaction(V_sign,sex), k=5) + sex + A_c + V_sign + voice + s(subID, bs="re") +
@@ -199,6 +348,197 @@ saveRDS(m3_summary, file =file.path(Dir_output,filename))
 plot(m3)
 
 gam.check(m3)
+```
+
+#### M3 (k=10, plot):GAM, age-by-sex-by-V_sign, controlling for voice, and arousal
+```{r}
+Dir_output <-  file.path(Dir_github,'derivatives','behavioral','qualtrics','analysis_glm')
+filename <- 'results_GAM_m3_k10.rds'
+m3_k10 <- readRDS(file.path(Dir_output,filename))
+
+filename <- 'results_GAM_m3_k10_summary.rds'
+m3_k10_summary <- readRDS(file.path(Dir_output,filename))
+
+
+p_obj <- plot(m3_k10, scheme = 1, 
+     )
+
+List_idx <- c(1,2,3,4,5,6)
+List_condition <- c('neutral','negative','positive','neutral','negative','positive')
+List_sex <- c('male','male','male','female','female','female')
+polarity_colors <- c(
+  "neutral"  = "forestgreen",
+  "negative" = "firebrick",
+  "positive" = "steelblue"
+)
+
+
+df_sm <- data.frame()
+for (i in 1:length(List_idx)) {
+  idx <- List_idx[i]
+  condition <- List_condition[i]
+  sex <- List_sex[i]
+  p_obj_tmp <- p_obj[[idx]]
+  df_sm_tmp <- as.data.frame(p_obj_tmp[c("x", "se", "fit")])
+  df_sm_tmp['valence'] <- condition
+  df_sm_tmp['sex'] <- sex
+  df_sm <- rbind(df_sm,df_sm_tmp)
+}
+
+df_sm$valence <- factor(df_sm$valence,
+                        levels = c("positive", "neutral", "negative"))
+
+df_sm$sex <- factor(df_sm$sex,
+                    levels = c("male", "female"))
+p_m3 <- ggplot(df_sm,
+       aes(x = x, y = fit,
+           color = valence,
+           fill  = valence)) +
+
+  geom_line(linewidth = 1) +
+
+  geom_ribbon(aes(ymin = fit - se,
+                  ymax = fit + se),
+              alpha = 0.2,
+              color = NA) +
+
+  facet_grid(valence ~ sex,
+             labeller = labeller(
+               sex = tools::toTitleCase,
+               valence = tools::toTitleCase
+             )) +
+
+  scale_color_manual(
+    values = polarity_colors,
+    labels = tools::toTitleCase
+  ) +
+
+  scale_fill_manual(
+    values = polarity_colors,
+    labels = tools::toTitleCase
+  ) +
+
+  labs(
+    x = "Age",
+    y = "Estimated effect on valence",
+    color = "Valence",
+    fill  = "Valence"
+  ) +
+
+  theme_classic(base_size = 14) +
+  theme(
+    strip.background = element_blank(),
+    strip.text = element_text(size = 14)
+  )
+
+print(p_m3)
+
+filename <- 'fig_GAM_m3_bam_k10_bysex.jpg'
+ggsave(
+  filename = filename,
+  plot = p_m3,
+  path = Dir_output,
+  width = 14,
+  height = 5,
+  units = "in",
+  dpi = 300
+)
+```
+
+
+#### M3 (k=5, plot):GAM, age-by-sex-by-V_sign, controlling for voice, and arousal
+```{r}
+Dir_output <-  file.path(Dir_github,'derivatives','behavioral','qualtrics','analysis_glm')
+filename <- 'results_GAM_m3_k5.rds'
+m3_k5 <- readRDS(file.path(Dir_output,filename))
+
+filename <- 'results_GAM_m3_summary_k5.rds'
+m3_k5_summary <- readRDS(file.path(Dir_output,filename))
+
+
+p_obj <- plot(m3, scheme = 1, 
+     )
+
+List_idx <- c(1,2,3,4,5,6)
+List_condition <- c('neutral','negative','positive','neutral','negative','positive')
+List_sex <- c('male','male','male','female','female','female')
+polarity_colors <- c(
+  "neutral"  = "forestgreen",
+  "negative" = "firebrick",
+  "positive" = "steelblue"
+)
+
+
+df_sm <- data.frame()
+for (i in 1:length(List_idx)) {
+  idx <- List_idx[i]
+  condition <- List_condition[i]
+  sex <- List_sex[i]
+  p_obj_tmp <- p_obj[[idx]]
+  df_sm_tmp <- as.data.frame(p_obj_tmp[c("x", "se", "fit")])
+  df_sm_tmp['valence'] <- condition
+  df_sm_tmp['sex'] <- sex
+  df_sm <- rbind(df_sm,df_sm_tmp)
+}
+
+df_sm$valence <- factor(df_sm$valence,
+                        levels = c("positive", "neutral", "negative"))
+
+df_sm$sex <- factor(df_sm$sex,
+                    levels = c("male", "female"))
+p_m3 <- ggplot(df_sm,
+       aes(x = x, y = fit,
+           color = valence,
+           fill  = valence)) +
+
+  geom_line(linewidth = 1) +
+
+  geom_ribbon(aes(ymin = fit - se,
+                  ymax = fit + se),
+              alpha = 0.2,
+              color = NA) +
+
+  facet_grid(valence ~ sex,
+             labeller = labeller(
+               sex = tools::toTitleCase,
+               valence = tools::toTitleCase
+             )) +
+
+  scale_color_manual(
+    values = polarity_colors,
+    labels = tools::toTitleCase
+  ) +
+
+  scale_fill_manual(
+    values = polarity_colors,
+    labels = tools::toTitleCase
+  ) +
+
+  labs(
+    x = "Age",
+    y = "Estimated effect on valence",
+    color = "Valence",
+    fill  = "Valence"
+  ) +
+
+  theme_classic(base_size = 14) +
+  theme(
+    strip.background = element_blank(),
+    strip.text = element_text(size = 14)
+  )
+
+print(p_m3)
+
+filename <- 'fig_GAM_m3_bam_k5_bysex.jpg'
+ggsave(
+  filename = filename,
+  plot = p_m3,
+  path = Dir_output,
+  width = 14,
+  height = 5,
+  units = "in",
+  dpi = 300
+)
 ```
 
 #### M1: plot
