@@ -40,7 +40,7 @@ df <- df_raw %>%
     sex = factor(sex,levels=c('male','female')),
     A_c = A - 4.5,
     V = as.numeric(V),
-    age = as.numeric(age),
+    age = as.numeric(age)-18,
   ) %>% 
   mutate(
     V_abs = abs(V),
@@ -84,9 +84,6 @@ saveRDS(m1, file =file.path(Dir_output,filename))
 m1_summary <- summary(m1)
 filename <- 'results_GAM_gam_m1_summary.rds'
 saveRDS(m1_summary, file =file.path(Dir_output,filename))
-
-#filename <- 'results_GAM_m1.rds'
-#m1 <- readRDS(file.path(Dir_output, filename))
 
 ### read
 filename <- 'results_GAM_m1.rds'
@@ -456,7 +453,7 @@ filename <- 'results_GAM_m3_summary_k5.rds'
 m3_k5_summary <- readRDS(file.path(Dir_output,filename))
 
 
-p_obj <- plot(m3, scheme = 1, 
+p_obj <- plot(m3_k5, scheme = 1, 
      )
 
 List_idx <- c(1,2,3,4,5,6)
