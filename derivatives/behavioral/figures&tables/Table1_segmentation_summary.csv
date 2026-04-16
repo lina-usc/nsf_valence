@@ -1,0 +1,25 @@
+﻿,index,Voice,Total_sentences,Total_segments,Total_words,Words/segment,Seconds/segment
+0,AgedMother,Jacob (M) / Allison (F),51,128,895,6.99 ± 3.19,2.29 ± 1.14
+1,Aqua,Jacob (M) / Brandi (F),36,147,990,6.73 ± 2.99,2.02 ± 0.95
+2,BiggestWastes,Jack (M) / Allison (F),58,152,920,6.05 ± 2.74,1.84 ± 0.93
+3,BradfordBoar,Jacob (M) / Brandi (F),54,157,1073,6.83 ± 3.25,1.93 ± 0.94
+4,BulliesPronouns,WavenetB (M) / Allison (F),48,158,999,6.32 ± 2.97,1.97 ± 0.98
+5,BulliesRepeatedNames,WavenetB (M) / Allison (F),48,158,1001,6.34 ± 2.96,1.98 ± 0.95
+6,Elvis,Jack (M) / Brandi (F),44,157,1013,6.45 ± 3.06,1.70 ± 0.96
+7,EmotionSentences,Jack (M) / Brandi (F),59,85,362,4.26 ± 1.57,1.23 ± 0.50
+8,EmpireState,Jacob (M) / Brandi (F),49,113,962,8.51 ± 4.30,2.88 ± 1.73
+9,FairyTree,Jacob (M) / Brandi (F),64,110,805,7.32 ± 3.44,2.23 ± 1.11
+10,FireSelected,Jacob (M) / WavenetF (F),48,116,823,7.09 ± 3.35,2.50 ± 1.23
+11,FirstConcert,Jack (M) / Brandi (F),58,118,804,6.81 ± 2.87,2.14 ± 0.99
+12,HappyDay,Jacob (M) / Brandi (F),44,118,853,7.23 ± 3.92,2.18 ± 1.47
+13,HowCouldYou,Jacob (M) / Brandi (F),52,124,902,7.27 ± 3.95,2.22 ± 1.46
+14,IronyParas,WavenetB (M) / WavenetF (F),63,125,788,6.30 ± 3.43,2.23 ± 1.21
+15,Koko,Jacob (M) / WavenetF (F),47,94,601,6.39 ± 3.34,2.70 ± 1.66
+16,MetaphorsPronouns,Jack (M) / Allison (F),70,161,861,5.35 ± 3.05,1.60 ± 0.96
+17,MetaphorsRepeatedNames,Jack (M) / Allison (F),70,161,914,5.68 ± 3.14,1.70 ± 0.92
+18,ProfessionalDecline,Jack (M) / Jewell (F),60,127,919,7.24 ± 3.89,2.24 ± 1.49
+19,Roswell,Jack (M) / Brandi (F),33,119,980,8.24 ± 4.45,2.83 ± 1.61
+20,TaleofTwoCountries,Jacob (M) / Brandi (F),68,111,823,7.41 ± 3.32,2.53 ± 1.20
+21,TigerandLion,Jacob (M) / Brandi (F),68,135,1027,7.61 ± 3.80,2.30 ± 1.16
+22,UserFriendly,Jacob (M) / Brandi (F),62,138,968,7.01 ± 3.19,2.43 ± 1.14
+23,Average,,54.52 ± 10.44,130.96 ± 22.20,881.87 ± 153.81,6.76 ± 0.91,2.16 ± 0.40
