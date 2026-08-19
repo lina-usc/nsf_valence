@@ -1,0 +1,965 @@
+---
+title: "ACII"
+output: html_document
+date: "2026-06-12"
+---
+
+```{r}
+library(readr)
+library(dplyr)
+
+Dir_github <- "X:/PROJECTS/ABC@UofSC/3-Experiments/NSF_valence/github/nsf_valence"
+
+# -----------------------
+# Text ratings
+# -----------------------
+file_text <- file.path(
+  Dir_github,
+  "derivatives",
+  "behavioral",
+  "ratings",
+  "text",
+  "ratings_text_att2_comp2.csv"
+)
+
+df_ratings_text <- read_csv(
+  file_text,
+  show_col_types = FALSE
+)
+
+# -----------------------
+# Audio ratings
+# -----------------------
+file_audio <- file.path(
+  Dir_github,
+  "derivatives",
+  "behavioral",
+  "ratings",
+  "audio",
+  "ratings_audio_att2_comp2.csv"
+)
+
+df_ratings_audio <- read_csv(
+  file_audio,
+  show_col_types = FALSE
+)
+
+# -----------------------
+# Recreate Python steps
+# -----------------------
+df_ratings_audio <- df_ratings_audio %>%
+  mutate(
+    modality = "audio",
+    narrative = audio
+  )
+
+df_ratings_text <- df_ratings_text %>%
+  mutate(
+    modality = "text",
+    narrative = text
+  )
+
+df_ratings <- bind_rows(
+  df_ratings_audio,
+  df_ratings_text
+)
+
+dim(df_ratings)
+head(df_ratings)
+```
+
+### Model 1
+
+```{r}
+# ============================================================
+# Mixed-effects analysis of group differences in valence/arousal
+# Long-format data: one row = one segment-level rating from one participant
+#
+# Fixed effects:
+#   group * modality
+#
+# Random effects:
+#   participant, story, story:segment
+# ============================================================
+
+
+# ----------------------------
+# 1. Load packages
+# ----------------------------
+library(lme4)
+library(lmerTest)   # p-values for fixed effects
+library(emmeans)    # estimated marginal means / pairwise comparisons
+library(dplyr)
+library(car)        # optional Type-III tests
+library(readr)
+
+
+# ----------------------------
+# 2. Helper function
+# ----------------------------
+run_mixed_analysis <- function(data, outcome,equation) {
+  cat("\n====================================================\n")
+  cat("Outcome:", outcome, "\n")
+  cat("====================================================\n")
+
+  # Descriptives by group x modality
+  desc <- data %>%
+    group_by(group, modality) %>%
+    summarise(
+      mean = mean(.data[[outcome]], na.rm = TRUE),
+      sd   = sd(.data[[outcome]], na.rm = TRUE),
+      n    = n(),
+      .groups = "drop"
+    )
+  print(desc)
+
+  # Full model:
+  # rating ~ group * modality + random intercepts
+  form_full <- as.formula(
+    paste0(outcome, equation)
+  )
+
+  model_full <- lmer(form_full, data = data, REML = FALSE)
+
+  cat("\n--- Full model summary ---\n")
+  print(summary(model_full))
+
+  cat("\n--- Type-III tests (optional) ---\n")
+  print(car::Anova(model_full, type = 3))
+
+  # ----------------------------
+  # Estimated marginal means
+  # ----------------------------
+
+  # 3A. Age-group comparisons within each modality
+  emm_group_by_mod <- emmeans(model_full, ~ group | modality)
+  cat("\n--- Estimated marginal means: group within modality ---\n")
+  print(emm_group_by_mod)
+
+  pair_group_by_mod <- pairs(emm_group_by_mod, adjust = "fdr")
+  cat("\n--- Pairwise group comparisons within modality (FDR) ---\n")
+  print(pair_group_by_mod)
+
+  # 3B. Modality comparisons within each age group
+  emm_mod_by_group <- emmeans(model_full, ~ modality | group)
+  cat("\n--- Estimated marginal means: modality within group ---\n")
+  print(emm_mod_by_group)
+
+  pair_mod_by_group <- pairs(emm_mod_by_group, adjust = "fdr")
+  cat("\n--- Pairwise modality comparisons within group (FDR) ---\n")
+  print(pair_mod_by_group)
+
+  # Convert to data frames for saving
+  group_by_mod_df <- as.data.frame(pair_group_by_mod)
+  mod_by_group_df  <- as.data.frame(pair_mod_by_group)
+
+  # Optional: add effect sizes from contrasts if you want
+  # (the estimate column is already the mean difference)
+  group_by_mod_df$p_fdr <- p.adjust(group_by_mod_df$p.value, method = "fdr")
+  mod_by_group_df$p_fdr  <- p.adjust(mod_by_group_df$p.value, method = "fdr")
+
+  return(list(
+    desc = desc,
+    model_full = model_full,
+    emm_group_by_mod = emm_group_by_mod,
+    pair_group_by_mod = group_by_mod_df,
+    emm_mod_by_group = emm_mod_by_group,
+    pair_mod_by_group = mod_by_group_df
+  ))
+}
+
+# ----------------------------
+# 3. Prepare data
+# ----------------------------
+df <- df_ratings %>%
+  filter(!is.na(V), !is.na(A)) %>%
+  mutate(
+    group = factor(group, levels = c("young", "middle", "old")),
+    # change levels if your raw data uses different labels
+    modality = factor(modality, levels = c("audio", "text"),
+                      labels = c("listening", "reading")),
+    subID = factor(subID),
+    story = factor(narrative),
+    segID = factor(segID),
+    story_seg = interaction(story, segID, drop = TRUE, sep = "_")
+  )
+
+# If you already have modality coded as "listening" and "reading",
+# replace the modality line above with:
+# modality = factor(modality, levels = c("listening", "reading"))
+
+# ----------------------------
+# 4. Run analyses
+# ----------------------------
+equation <- " ~ group * modality + (1|subID) + (1|story) + (1|story_seg)"
+m1_valence_results  <- run_mixed_analysis(df, "V", equation)
+m1_arousal_results  <- run_mixed_analysis(df, "A", equation)
+
+library(glue)
+# ----------------------------
+# 5. Save outputs
+# ----------------------------
+Dir_output <- "X:/PROJECTS/ABC@UofSC/3-Experiments/NSF_valence/github/derivatives/behavioral/ACII"
+
+write_csv(m1_valence_results$pair_group_by_mod, glue("{Dir_output}/model1_valence_group_within_modality.csv"))
+write_csv(m1_valence_results$pair_mod_by_group,  glue("{Dir_output}/model1_valence_modality_within_group.csv"))
+write_csv(m1_arousal_results$pair_group_by_mod,  glue("{Dir_output}/model1_arousal_group_within_modality.csv"))
+write_csv(m1_arousal_results$pair_mod_by_group,   glue("{Dir_output}/model1_arousal_modality_within_group.csv"))
+
+```
+
+### Model 2
+```{r}
+
+# ----------------------------
+# 4. Run analyses
+# ----------------------------
+equation <- " ~ group * modality + (1|subID) + (1|story)"
+m2_valence_results  <- run_mixed_analysis(df, "V", equation)
+m2_arousal_results  <- run_mixed_analysis(df, "A", equation)
+
+library(glue)
+# ----------------------------
+# 5. Save outputs
+# ----------------------------
+Dir_output <- "X:/PROJECTS/ABC@UofSC/3-Experiments/NSF_valence/github/derivatives/behavioral/ACII"
+
+write_csv(m2_valence_results$pair_group_by_mod, glue("{Dir_output}/model2_valence_group_within_modality.csv"))
+write_csv(m2_valence_results$pair_mod_by_group,  glue("{Dir_output}/model2_valence_modality_within_group.csv"))
+write_csv(m2_arousal_results$pair_group_by_mod,  glue("{Dir_output}/model2_arousal_group_within_modality.csv"))
+write_csv(m2_arousal_results$pair_mod_by_group,   glue("{Dir_output}/model2_arousal_modality_within_group.csv"))
+
+
+```
+
+### Model 3
+```{r}
+# ============================================================
+# Mixed-effects analysis of age-group differences
+# Separate models for audio and text
+# Audio model includes voice as a fixed effect
+#
+# Outcome variables: V (valence), A (arousal)
+# Random effects: participant, story, story:segment
+# ============================================================
+
+# ----------------------------
+# 1. Load packages
+# ----------------------------
+library(lme4)
+library(lmerTest)   # p-values for fixed effects
+library(emmeans)    # estimated marginal means / pairwise comparisons
+library(dplyr)
+library(car)        # optional Type-III tests
+library(readr)
+
+# ----------------------------
+# 2. Prepare data
+# ----------------------------
+df <- df_ratings %>%
+  filter(!is.na(V), !is.na(A)) %>%
+  mutate(
+    group = factor(group, levels = c("young", "middle", "old")),
+    subID = factor(subID),
+    story = factor(narrative),
+    segID = factor(segID),
+    story_seg = interaction(story, segID, drop = TRUE, sep = "_")
+  )
+
+# ----------------------------
+# 3. Extract voice from audio column
+#    voice is the prefix before the first "_"
+# ----------------------------
+df <- df %>%
+  mutate(
+    voice = ifelse(
+      !is.na(audio) & audio != "",
+      sub("^([^_]+)_.*$", "\\1", as.character(audio)),
+      NA
+    ),
+    voice = factor(voice)
+  )
+
+# ----------------------------
+# 4. Split data by modality
+# ----------------------------
+df_audio <- df %>% filter(modality == "audio")
+df_text  <- df %>% filter(modality == "text")
+
+# ----------------------------
+# 5. Helper function for text model
+# ----------------------------
+run_text_mixed_analysis <- function(data, outcome) {
+  cat("\n====================================================\n")
+  cat("TEXT MODEL | Outcome:", outcome, "\n")
+  cat("====================================================\n")
+
+  desc <- data %>%
+    group_by(group) %>%
+    summarise(
+      mean = mean(.data[[outcome]], na.rm = TRUE),
+      sd   = sd(.data[[outcome]], na.rm = TRUE),
+      n    = n(),
+      .groups = "drop"
+    )
+  print(desc)
+
+  # Full model: group effect only
+  form_full <- as.formula(
+    paste0(outcome, " ~ group + (1|subID) + (1|story) + (1|story_seg)")
+  )
+  model_full <- lmer(form_full, data = data, REML = FALSE)
+
+  cat("\n--- Full model summary ---\n")
+  print(summary(model_full))
+
+  cat("\n--- Type-III tests ---\n")
+  print(car::Anova(model_full, type = 3))
+
+  # Omnibus test for group
+  form_null <- as.formula(
+    paste0(outcome, " ~ 1 + (1|subID) + (1|story) + (1|story_seg)")
+  )
+  model_null <- lmer(form_null, data = data, REML = FALSE)
+
+  cat("\n--- Likelihood-ratio test for group effect ---\n")
+  print(anova(model_null, model_full))
+
+  # Estimated marginal means for group
+  emm_group <- emmeans(model_full, ~ group)
+  cat("\n--- Estimated marginal means for group ---\n")
+  print(emm_group)
+
+  cat("\n--- Pairwise group comparisons (FDR) ---\n")
+  pw_group <- pairs(emm_group, adjust = "fdr")
+  print(pw_group)
+
+  pw_group_df <- as.data.frame(pw_group)
+  pw_group_df$p_fdr <- p.adjust(pw_group_df$p.value, method = "fdr")
+
+  return(list(
+    desc = desc,
+    model_full = model_full,
+    model_null = model_null,
+    emm_group = emm_group,
+    pairwise_group = pw_group_df
+  ))
+}
+
+# ----------------------------
+# 6. Helper function for audio model
+#    includes voice as a fixed effect
+# ----------------------------
+run_audio_mixed_analysis <- function(data, outcome) {
+  cat("\n====================================================\n")
+  cat("AUDIO MODEL | Outcome:", outcome, "\n")
+  cat("====================================================\n")
+
+  desc <- data %>%
+    group_by(group, voice) %>%
+    summarise(
+      mean = mean(.data[[outcome]], na.rm = TRUE),
+      sd   = sd(.data[[outcome]], na.rm = TRUE),
+      n    = n(),
+      .groups = "drop"
+    )
+  print(desc)
+
+  # Full model: group + voice
+  form_full <- as.formula(
+    paste0(outcome, " ~ group + voice + (1|subID) + (1|story) + (1|story_seg)")
+  )
+  model_full <- lmer(form_full, data = data, REML = FALSE)
+
+  cat("\n--- Full model summary ---\n")
+  print(summary(model_full))
+
+  cat("\n--- Type-III tests ---\n")
+  print(car::Anova(model_full, type = 3))
+
+  # Omnibus test for group (keep voice in model)
+  form_null_group <- as.formula(
+    paste0(outcome, " ~ voice + (1|subID) + (1|story) + (1|story_seg)")
+  )
+  model_null_group <- lmer(form_null_group, data = data, REML = FALSE)
+
+  cat("\n--- Likelihood-ratio test for group effect ---\n")
+  print(anova(model_null_group, model_full))
+
+  # Omnibus test for voice (optional)
+  form_null_voice <- as.formula(
+    paste0(outcome, " ~ group + (1|subID) + (1|story) + (1|story_seg)")
+  )
+  model_null_voice <- lmer(form_null_voice, data = data, REML = FALSE)
+
+  cat("\n--- Likelihood-ratio test for voice effect ---\n")
+  print(anova(model_null_voice, model_full))
+
+  # Estimated marginal means for group
+  emm_group <- emmeans(model_full, ~ group, )
+  cat("\n--- Estimated marginal means for group ---\n")
+  print(emm_group)
+
+  cat("\n--- Pairwise group comparisons (FDR) ---\n")
+  pw_group <- pairs(emm_group, adjust = "fdr")
+  print(pw_group)
+
+  pw_group_df <- as.data.frame(pw_group)
+  pw_group_df$p_fdr <- p.adjust(pw_group_df$p.value, method = "fdr")
+
+  # Optional: voice means and pairwise comparisons
+  emm_voice <- emmeans(model_full, ~ voice)
+  cat("\n--- Estimated marginal means for voice ---\n")
+  print(emm_voice)
+
+  cat("\n--- Pairwise voice comparisons (FDR) ---\n")
+  pw_voice <- pairs(emm_voice, adjust = "fdr")
+  print(pw_voice)
+
+  pw_voice_df <- as.data.frame(pw_voice)
+  pw_voice_df$p_fdr <- p.adjust(pw_voice_df$p.value, method = "fdr")
+
+  return(list(
+    desc = desc,
+    model_full = model_full,
+    model_null_group = model_null_group,
+    model_null_voice = model_null_voice,
+    emm_group = emm_group,
+    pairwise_group = pw_group_df,
+    emm_voice = emm_voice,
+    pairwise_voice = pw_voice_df
+  ))
+}
+
+# ----------------------------
+# 7. Run analyses for TEXT
+# ----------------------------
+text_V_results <- run_text_mixed_analysis(df_text, "V")
+text_A_results <- run_text_mixed_analysis(df_text, "A")
+
+# ----------------------------
+# 8. Run analyses for AUDIO
+# ----------------------------
+audio_V_results <- run_audio_mixed_analysis(df_audio, "V")
+audio_A_results <- run_audio_mixed_analysis(df_audio, "A")
+
+
+
+# ----------------------------
+# 9. Save outputs
+# ----------------------------
+write_csv(text_V_results$pairwise_group,   glue("{Dir_output}/model3_text_valence_group_pairs.csv"))
+write_csv(text_A_results$pairwise_group,  glue("{Dir_output}/model3_text_arousal_group_pairs.csv"))
+
+write_csv(audio_V_results$pairwise_group, glue("{Dir_output}/model3_audio_valence_group_pairs.csv"))
+write_csv(audio_A_results$pairwise_group, glue("{Dir_output}/model3_audio_arousal_group_pairs.csv"))
+
+write_csv(audio_V_results$pairwise_voice,  glue("{Dir_output}/model3_audio_valence_voice_pairs.csv"))
+write_csv(audio_A_results$pairwise_voice,  glue("{Dir_output}/model3_audio_arousal_voice_pairs.csv"))
+
+```
+
+
+
+### Model 4
+```{r}
+# ============================================================
+# Modality comparison using mixed-effects models
+#
+# Main design:
+#   presentation_sex = text, audio_male, audio_female
+#
+# Model:
+#   rating ~ group * presentation_sex
+#          + (1|subID)
+#          + (1|story)
+#          + (1|story_seg)
+#
+# Main contrast:
+#   ((audio_male + audio_female) / 2) - text
+#
+# This keeps the full participant-level long-format data.
+# ============================================================
+
+library(lme4)
+library(lmerTest)
+library(emmeans)
+library(dplyr)
+library(stringr)
+library(readr)
+
+# ----------------------------
+# 1. Prepare data
+# ----------------------------
+
+df <- df_ratings %>%
+  filter(!is.na(V), !is.na(A)) %>%
+  mutate(
+    group = factor(group, levels = c("young", "middle", "old")),
+    modality = factor(modality, levels = c("audio", "text")),
+    subID = factor(subID),
+    segID = factor(segID)
+  )
+
+# ----------------------------
+# 2. Extract exact speaker from audio prefix
+# ----------------------------
+# Assumption:
+#   audio column has the form:
+#     speaker_storyname
+#
+# Example:
+#   F01_story12
+#   M03_story12
+#
+# speaker = prefix before first "_"
+# story   = everything after first "_"
+# ----------------------------
+library(stringr)
+df <- df %>%
+  mutate(
+    speaker = case_when(
+      modality == "audio" ~ str_extract(as.character(audio), "^[^_]+"),
+      modality == "text"  ~ NA_character_
+    ),
+
+    story = case_when(
+      modality == "audio" ~ str_replace(as.character(audio), "^[^_]+_", ""),
+      modality == "text"  ~ as.character(text)
+    )
+  )
+
+# ----------------------------
+# 3. Map exact speaker to voice sex
+# ----------------------------
+# EDIT THIS MAPPING to match your actual 7 speaker labels.
+#
+# The names on the left must exactly match the extracted speaker labels.
+# The values on the right should be "male" or "female".
+# ----------------------------
+
+speaker_to_sex <- c(
+  "Allison" = "female",
+  "Jacob" = "male",
+  "Brandi" = "female",
+  "Jack" = "male",
+  "WavenetF" = "female",
+  "WavenetB" = "male",
+  "Jewell" = "female"
+)
+
+df <- df %>%
+  mutate(
+    voice_sex = case_when(
+      modality == "audio" ~ unname(speaker_to_sex[speaker]),
+      modality == "text"  ~ NA_character_
+    ),
+
+    story = factor(story),
+    speaker = factor(speaker),
+    voice_sex = factor(voice_sex, levels = c("male", "female")),
+
+    story_seg = interaction(story, segID, drop = TRUE, sep = "_"),
+
+    presentation_sex = case_when(
+      modality == "text" ~ "text",
+      modality == "audio" & voice_sex == "male" ~ "audio_male",
+      modality == "audio" & voice_sex == "female" ~ "audio_female"
+    ),
+
+    presentation_sex = factor(
+      presentation_sex,
+      levels = c("text", "audio_male", "audio_female")
+    )
+  )
+
+# Check that all audio rows received a valid sex label
+cat("\n--- Speaker by voice sex ---\n")
+print(table(df$speaker, df$voice_sex, useNA = "ifany"))
+
+cat("\n--- Presentation condition counts ---\n")
+print(table(df$group, df$presentation_sex, useNA = "ifany"))
+
+# Optional safety check
+if (any(is.na(df$presentation_sex))) {
+  stop("Some rows have missing presentation_sex. Check speaker_to_sex mapping.")
+}
+
+# ----------------------------
+# 4. Helper function
+# ----------------------------
+
+run_modality_model <- function(data, outcome) {
+
+  cat("\n====================================================\n")
+  cat("Outcome:", outcome, "\n")
+  cat("====================================================\n")
+
+  # Descriptives
+  desc <- data %>%
+    group_by(group, presentation_sex) %>%
+    summarise(
+      mean = mean(.data[[outcome]], na.rm = TRUE),
+      sd = sd(.data[[outcome]], na.rm = TRUE),
+      n_ratings = n(),
+      n_participants = n_distinct(subID),
+      n_stories = n_distinct(story),
+      n_story_segments = n_distinct(story_seg),
+      .groups = "drop"
+    )
+
+  cat("\n--- Descriptives ---\n")
+  print(desc)
+
+  # Mixed model
+  form <- as.formula(
+    paste0(
+      outcome,
+      " ~ group * presentation_sex + ",
+      "(1|subID) + (1|story) + (1|story_seg)"
+    )
+  )
+
+  model <- lmer(
+    form,
+    data = data,
+    REML = FALSE,
+    control = lmerControl(
+      optimizer = "bobyqa",
+      optCtrl = list(maxfun = 2e5)
+    )
+  )
+
+  cat("\n--- Model summary ---\n")
+  print(summary(model))
+
+  # Estimated marginal means for presentation within age group
+  emm_pres <- emmeans(model, ~ presentation_sex | group)
+
+  cat("\n--- Estimated marginal means: presentation sex within group ---\n")
+  print(emm_pres)
+
+  # ----------------------------
+  # Main modality contrast:
+  #   average(audio_male, audio_female) - text
+  # ----------------------------
+
+  modality_contrast <- contrast(
+    emm_pres,
+    method = list(
+      "audio_avg_minus_text" = c(
+        text = -1,
+        audio_male = 0.5,
+        audio_female = 0.5
+      )
+    ),
+    by = "group",
+    adjust = "fdr"
+  )
+
+  cat("\n--- Main modality contrast within each group ---\n")
+  print(summary(modality_contrast, infer = TRUE))
+
+  # ----------------------------
+  # Optional: male-audio vs text and female-audio vs text
+  # ----------------------------
+
+  voice_sex_specific <- contrast(
+    emm_pres,
+    method = list(
+      "audio_male_minus_text" = c(
+        text = -1,
+        audio_male = 1,
+        audio_female = 0
+      ),
+      "audio_female_minus_text" = c(
+        text = -1,
+        audio_male = 0,
+        audio_female = 1
+      ),
+      "audio_female_minus_audio_male" = c(
+        text = 0,
+        audio_male = -1,
+        audio_female = 1
+      )
+    ),
+    by = "group",
+    adjust = "fdr"
+  )
+
+  cat("\n--- Voice-sex-specific contrasts within each group ---\n")
+  print(summary(voice_sex_specific, infer = TRUE))
+
+  # ----------------------------
+  # Group differences in the modality effect
+  # ----------------------------
+
+  modality_effect_group_comparison <- pairs(
+    modality_contrast,
+    by = NULL,
+    adjust = "fdr"
+  )
+
+  cat("\n--- Pairwise group differences in modality effect ---\n")
+  print(summary(modality_effect_group_comparison, infer = TRUE))
+
+  return(list(
+    desc = desc,
+    model = model,
+    emm_pres = emm_pres,
+    modality_contrast = as.data.frame(summary(modality_contrast, infer = TRUE)),
+    voice_sex_specific = as.data.frame(summary(voice_sex_specific, infer = TRUE)),
+    modality_effect_group_comparison =
+      as.data.frame(summary(modality_effect_group_comparison, infer = TRUE))
+  ))
+}
+
+# ----------------------------
+# 5. Run models for valence and arousal
+# ----------------------------
+
+valence_modality <- run_modality_model(df, "V")
+arousal_modality <- run_modality_model(df, "A")
+
+# ----------------------------
+# 6. Save outputs
+# ----------------------------
+
+write_csv(
+  valence_modality$modality_contrast,
+   glue("{Dir_output}/model4_valence_audio_avg_minus_text_by_group.csv")
+)
+
+write_csv(
+  arousal_modality$modality_contrast,
+   glue("{Dir_output}/model4_arousal_audio_avg_minus_text_by_group.csv")
+)
+
+write_csv(
+  valence_modality$voice_sex_specific,
+   glue("{Dir_output}/model4_valence_voice_sex_specific_contrasts.csv")
+)
+
+write_csv(
+  arousal_modality$voice_sex_specific,
+  glue("{Dir_output}/model4_arousal_voice_sex_specific_contrasts.csv")
+)
+
+write_csv(
+  valence_modality$modality_effect_group_comparison,
+  glue("{Dir_output}/model4_valence_group_differences_in_modality_effect.csv")
+)
+
+write_csv(
+  arousal_modality$modality_effect_group_comparison,
+  glue("{Dir_output}/model4_arousal_group_differences_in_modality_effect.csv")
+)
+
+```
+# ----------------------------
+# 9. Save outputs
+# ----------------------------
+write_csv(text_V_results$pairwise_group,  "text_valence_group_pairs.csv")
+write_csv(text_A_results$pairwise_group,  "text_arousal_group_pairs.csv")
+
+write_csv(audio_V_results$pairwise_group, "audio_valence_group_pairs.csv")
+write_csv(audio_A_results$pairwise_group, "audio_arousal_group_pairs.csv")
+
+write_csv(audio_V_results$pairwise_voice,  "audio_valence_voice_pairs.csv")
+write_csv(audio_A_results$pairwise_voice,  "audio_arousal_voice_pairs.csv")
+
+# ----------------------------
+# 10. Optional: save model summaries to text
+# ----------------------------
+sink("mixed_model_results.txt")
+
+cat("TEXT | VALENCE\n")
+print(summary(text_V_results$model_full))
+cat("\nLRT group:\n")
+print(anova(text_V_results$model_null, text_V_results$model_full))
+
+cat("\nTEXT | AROUSAL\n")
+print(summary(text_A_results$model_full))
+cat("\nLRT group:\n")
+print(anova(text_A_results$model_null, text_A_results$model_full))
+
+cat("\nAUDIO | VALENCE\n")
+print(summary(audio_V_results$model_full))
+cat("\nLRT group:\n")
+print(anova(audio_V_results$model_null_group, audio_V_results$model_full))
+cat("\nLRT voice:\n")
+print(anova(audio_V_results$model_null_voice, audio_V_results$model_full))
+
+cat("\nAUDIO | AROUSAL\n")
+print(summary(audio_A_results$model_full))
+cat("\nLRT group:\n")
+print(anova(audio_A_results$model_null_group, audio_A_results$model_full))
+cat("\nLRT voice:\n")
+print(anova(audio_A_results$model_null_voice, audio_A_results$model_full))
+
+sink()
+
+```{r}
+
+
+# ----------------------------
+# 6. Optional: model comparison for the interaction
+# ----------------------------
+# This tests whether group x modality is needed
+valence_no_interaction <- lmer(
+  V ~ group + modality + (1|subID) + (1|story) + (1|story_seg),
+  data = df, REML = FALSE
+)
+
+arousal_no_interaction <- lmer(
+  A ~ group + modality + (1|subID) + (1|story) + (1|story_seg),
+  data = df, REML = FALSE
+)
+
+cat("\n--- Likelihood-ratio test: interaction for valence ---\n")
+print(anova(valence_no_interaction, valence_results))
+
+cat("\n--- Likelihood-ratio test: interaction for arousal ---\n")
+print(anova(arousal_no_interaction, arousal_results))
+
+# ----------------------------
+# 7. Optional: if you want a clean summary table
+# ----------------------------
+valence_group_tbl <- as.data.frame(valence_results$emm_group_by_mod)
+arousal_group_tbl  <- as.data.frame(arousal_results$emm_group_by_mod)
+
+write_csv(valence_group_tbl, "valence_emmeans_group_by_modality.csv")
+write_csv(arousal_group_tbl, "arousal_emmeans_group_by_modality.csv")
+
+```
+
+```{r}
+# ============================================================
+# Mixed-effects analysis of group differences in ratings
+# Data: df_ratings imported from Python CSVs
+# Outcomes: V (valence), A (arousal)
+# Fixed effects: group, modality
+# Random effects: participant, narrative, narrative:segment
+# ============================================================
+
+
+# Optional: if idx is the true participant identifier and subID is not
+# then replace subID above with idx.
+# df$subID <- factor(df$idx)
+
+# ----------------------------
+# 2. Helper function
+# ----------------------------
+run_lmer_group_analysis <- function(data, outcome) {
+  cat("\n========================================\n")
+  cat("Outcome:", outcome, "\n")
+  cat("========================================\n")
+
+  # Descriptives by group
+  desc <- data %>%
+    group_by(group) %>%
+    summarise(
+      mean = mean(.data[[outcome]], na.rm = TRUE),
+      sd   = sd(.data[[outcome]], na.rm = TRUE),
+      n    = n(),
+      .groups = "drop"
+    )
+  print(desc)
+
+  # Full model:
+  # outcome ~ group + modality + (1|subID) + (1|narrative) + (1|story_seg)
+  formula_full <- as.formula(
+    paste0(outcome, " ~ group + modality + (1|subID) + (1|narrative) + (1|story_seg)")
+  )
+
+  model_full <- lmer(formula_full, data = data, REML = FALSE)
+  cat("\n--- Full model summary ---\n")
+  print(summary(model_full))
+
+  # Null model without group
+  formula_null <- as.formula(
+    paste0(outcome, " ~ modality + (1|subID) + (1|narrative) + (1|story_seg)")
+  )
+
+  model_null <- lmer(formula_null, data = data, REML = FALSE)
+  cat("\n--- Likelihood ratio test for group effect ---\n")
+  print(anova(model_null, model_full))
+
+  # Estimated marginal means for group
+  emm_group <- emmeans(model_full, ~ group)
+  cat("\n--- Estimated marginal means for group ---\n")
+  print(emm_group)
+
+  cat("\n--- Pairwise group comparisons (Tukey-adjusted) ---\n")
+  pw_group <- pairs(emm_group, adjust = "tukey")
+  print(pw_group)
+
+  # FDR correction on pairwise p-values
+  pw_df <- as.data.frame(pw_group)
+  pw_df$p_fdr <- p.adjust(pw_df$p.value, method = "fdr")
+  cat("\n--- Pairwise group comparisons with FDR correction ---\n")
+  print(pw_df)
+
+  return(list(
+    desc = desc,
+    model_full = model_full,
+    model_null = model_null,
+    emm_group = emm_group,
+    pairwise = pw_group,
+    pairwise_fdr = pw_df
+  ))
+}
+
+# ----------------------------
+# 3. Valence analysis
+# ----------------------------
+valence_results <- run_lmer_group_analysis(df, "V")
+
+# ----------------------------
+# 4. Arousal analysis
+# ----------------------------
+arousal_results <- run_lmer_group_analysis(df, "A")
+
+# ----------------------------
+# 5. Optional: group-by-modality interaction
+# ----------------------------
+# If you also want to know whether group effects differ by modality:
+model_interaction_V <- lmer(
+  V ~ group * modality + (1|subID) + (1|narrative) + (1|story_seg),
+  data = df, REML = FALSE
+)
+summary(model_interaction_V)
+
+model_interaction_A <- lmer(
+  A ~ group * modality + (1|subID) + (1|narrative) + (1|story_seg),
+  data = df, REML = FALSE
+)
+summary(model_interaction_A)
+
+# ----------------------------
+# 6. Save results
+# ----------------------------
+sink("mixed_model_results.txt")
+
+cat("VALENCE MODEL\n")
+print(summary(valence_results$model_full))
+cat("\nVALENCE OMNIBUS TEST\n")
+print(anova(valence_results$model_null, valence_results$model_full))
+cat("\nVALENCE PAIRWISE\n")
+print(valence_results$pairwise_fdr)
+
+cat("\n\nAROUSAL MODEL\n")
+print(summary(arousal_results$model_full))
+cat("\nAROUSAL OMNIBUS TEST\n")
+print(anova(arousal_results$model_null, arousal_results$model_full))
+cat("\nAROUSAL PAIRWISE\n")
+print(arousal_results$pairwise_fdr)
+
+cat("\n\nVALENCE GROUP x MODALITY MODEL\n")
+print(summary(model_interaction_V))
+
+cat("\n\nAROUSAL GROUP x MODALITY MODEL\n")
+print(summary(model_interaction_A))
+
+sink()
+```
