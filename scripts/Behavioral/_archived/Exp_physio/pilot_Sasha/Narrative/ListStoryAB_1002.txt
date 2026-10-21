@@ -1,5 +1,0 @@
-Weight	Nested	Procedure	Instruction
-1		ProcStoryA	"For the next story, you will first listen to the entire story without an interuption. Then, you will listen to the same story one segment at a time, and rate how it makes you feel. 
-Press the space bar if you are ready to start."
-1		ProcStoryB	"For the next story, you will listen to a story one segment at a time, and rate how it makes you feel. Then, you will listen to the same story again without an interuption. 
-Press the space bar if you are ready to start."

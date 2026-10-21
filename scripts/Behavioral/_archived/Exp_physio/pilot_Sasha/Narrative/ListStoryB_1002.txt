@@ -1,3 +1,0 @@
-Weight	Nested	Procedure	story	Instruction
-1		ProcListenOnly	Koko	"In the next, you will listen to a story continuously"
-1		ProcListenRateB	Koko	"In the next, you will listen to the same story one segment at a time. Then, you will rate how it makes you feel using a valence-by-arousal grid."

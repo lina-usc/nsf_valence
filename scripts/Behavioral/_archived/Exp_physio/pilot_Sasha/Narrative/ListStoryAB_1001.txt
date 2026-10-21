@@ -1,3 +1,0 @@
-Weight	Nested	Procedure
-1		ProcListenFirst
-1		ProcRateFirst
