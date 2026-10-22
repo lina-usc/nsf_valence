@@ -1,4 +1,0 @@
-Weight	Nested	Procedure	story	segID	segment
-1		ProcTrial	Koko	1	aaa
-1		ProcTrial	Koko	2	bbb
-1		ProcTrial	Koko	3	ccc
